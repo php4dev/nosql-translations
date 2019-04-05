@@ -698,14 +698,10 @@
         <ua>Приховувати електронну адресу</ua>
     </element>
     <element id="RegistrationRulesAgreement">
-        <ua>
-            <__EM__cdata__EA__-__EA__section>Реєструючись на форумі, я виражаю свою згоду з &lt;a href='rules.php' target='_ blank'&gt;правилами форуму&lt;/a&gt; і приймаю &lt;a href='user _ agreement.php' target='_ blank'&gt;призначена для користувача угода&lt;/a&gt;</__EM__cdata__EA__-__EA__section>
-        </ua>
+        <ua><![CDATA[Реєструючись на форумі, я виражаю свою згоду з <a href='rules.php' target='_ blank'>правилами форуму</a> і приймаю <a href='user _ agreement.php' target='_ blank'>призначена для користувача угода</a>]]></ua>
     </element>
     <element id="PostRulesAgreement">
-        <ua>
-            <__EM__cdata__EA__-__EA__section>Відправляючи повідомлення, я виражаю свою згоду з &lt;a href='rules.php' target='_ blank'&gt;правилами форуму&lt;/a&gt; і приймаю &lt;a href='user _ agreement.php' target='_ blank'&gt;призначена для користувача угода&lt;/a&gt;</__EM__cdata__EA__-__EA__section>
-        </ua>
+        <ua><![CDATA[Відправляючи повідомлення, я виражаю свою згоду з <a href='rules.php' target='_ blank'>правилами форуму</a> і приймаю <a href='user _ agreement.php' target='_ blank'>призначена для користувача угода</a>]]></ua>
     </element>
     <element id="ErrAgreementRequired">
         <ua>Ви повинні прочитати і виразити згоду з правилами форуму і з призначеною для користувача угодою</ua>
@@ -905,5 +901,302 @@
     </element>
     <element id="SendPersonalMessage">
         <ua>Послати особисте повідомлення</ua>
+    </element>
+    <element id="PrivateMessages">
+        <ua>Особисті повідомлення</ua>
+    </element>
+    <element id="Moderate">
+        <ua>Модерировать</ua>
+    </element>
+    <element id="Block">
+        <ua>Заблокувати</ua>
+    </element>
+    <element id="Unblock">
+        <ua>Розблоковувати</ua>
+    </element>
+    <element id="DeleteMessages">
+        <ua>Видалити повідомлення</ua>
+    </element>
+    <element id="BlockUsers">
+        <ua>Заблокувати користувачів</ua>
+    </element>
+    <element id="BlockUserInTopic">
+        <ua>Заблокувати користувача в темі</ua>
+    </element>
+    <element id="UnblockUserInTopic">
+        <ua>Розблоковувати користувача в темі</ua>
+    </element>
+    <element id="MsgConfirmBlockUserInTopic">
+        <ua>Ви упевнені, що заблокувати користувача ' в цій темі</ua>
+    </element>
+    <element id="PhysicalDeletion">
+        <ua>Видалити фізично</ua>
+    </element>
+    <element id="RegistrationDate">
+        <ua>Дата реєстрації</ua>
+    </element>
+    <element id="LastActivity">
+        <ua>Остання активність</ua>
+    </element>
+    <element id="FirstActivity">
+        <ua>Перша активність</ua>
+    </element>
+    <element id="LastAuthor">
+        <ua>Останній автор</ua>
+    </element>
+    <element id="NotActivated">
+        <ua>Неактивований</ua>
+    </element>
+    <element id="notActivated">
+        <ua>неактивований</ua>
+    </element>
+    <element id="NotApproved">
+        <ua>Несхвалений</ua>
+    </element>
+    <element id="notApproved">
+        <ua>несхвалений</ua>
+    </element>
+    <element id="Blocked">
+        <ua>Заблокований</ua>
+    </element>
+    <element id="BlockedUntil">
+        <ua>Заблокований до</ua>
+    </element>
+    <element id="blocked">
+        <ua>заблокований</ua>
+    </element>
+    <element id="blocked_until">
+        <ua>заблокований:</ua>
+    </element>
+    <element id="ip_blocked">
+        <ua>заблокований по IP</ua>
+    </element>
+    <element id="ip_blocked_until">
+        <ua>заблокований по IP:</ua>
+    </element>
+    <element id="forum_blocked">
+        <ua>заблокований на форумі</ua>
+    </element>
+    <element id="topic_blocked">
+        <ua>заблокований в темі</ua>
+    </element>
+    <element id="forum_blocked_until">
+        <ua>заблокований на форумі:</ua>
+    </element>
+    <element id="UsersNotFound">
+        <ua>Користувачі не знайдені</ua>
+    </element>
+    <element id="MessagesPerDay">
+        <ua>Повідомлень в день</ua>
+    </element>
+    <element id="HitsPerDay">
+        <ua>Переглядів в день</ua>
+    </element>
+    <element id="TimeOnlinePerDay">
+        <ua>Час онлайн в день</ua>
+    </element>
+    <element id="TimeOnlineToday">
+        <ua>Час онлайн сьогодні</ua>
+    </element>
+    <element id="TimeOnlineTotal">
+        <ua>Витрачено на форум</ua>
+    </element>
+    <element id="HitsPerMinute">
+        <ua>Переглядів в хвилину</ua>
+    </element>
+    <element id="QueryExecTime">
+        <ua>Час виконання запиту (ms)</ua>
+    </element>
+    <element id="QueryExecCount">
+        <ua>Кількість виконань в хвилину</ua>
+    </element>
+    <element id="HitsPostsPerDay">
+        <ua>Переглядів/cообщений в день</ua>
+    </element>
+    <element id="NewMembers">
+        <ua>Нові учасники</ua>
+    </element>
+    <element id="MaxMessagesCount">
+        <ua>Максимальна кількість повідомлень</ua>
+    </element>
+    <element id="BestRating">
+        <ua>Кращий рейтинг</ua>
+    </element>
+    <element id="WorstRating">
+        <ua>Гірший рейтинг</ua>
+    </element>
+    <element id="ActiveWriters">
+        <ua>Активні письменники</ua>
+    </element>
+    <element id="ActiveReaders">
+        <ua>Активні читачі</ua>
+    </element>
+    <element id="Regulars">
+        <ua>Завсідники</ua>
+    </element>
+    <element id="MostActiveLastWeek">
+        <ua>Найбільш активні за підсумками тижня</ua>
+    </element>
+    <element id="Sort">
+        <ua>Сортування</ua>
+    </element>
+    <element id="OverLastWeek">
+        <ua>за підсумками тижня</ua>
+    </element>
+    <element id="ErrForumDoesNotExist">
+        <ua>Форум з таким ідентифікатором ( не існує</ua>
+    </element>
+    <element id="ErrTopicDoesNotExist">
+        <ua>Тема з таким ідентифікатором ( не існує</ua>
+    </element>
+    <element id="DeleteTopics">
+        <ua>Видалити теми</ua>
+    </element>
+    <element id="RestoreTopics">
+        <ua>Відновити теми</ua>
+    </element>
+    <element id="Move">
+        <ua>Перенести</ua>
+    </element>
+    <element id="MoveTopics">
+        <ua>Перенести теми</ua>
+    </element>
+    <element id="MergeTopics">
+        <ua>Обьединить теми</ua>
+    </element>
+    <element id="CloseTopics">
+        <ua>Закрити теми</ua>
+    </element>
+    <element id="OpenTopics">
+        <ua>Відкрити теми</ua>
+    </element>
+    <element id="NoTopics">
+        <ua>Теми відсутні</ua>
+    </element>
+    <element id="NoTopicsFound">
+        <ua>Тим не знайдено</ua>
+    </element>
+    <element id="Topic">
+        <ua>Тема</ua>
+    </element>
+    <element id="Author">
+        <ua>Автор</ua>
+    </element>
+    <element id="Authors">
+        <ua>Автори</ua>
+    </element>
+    <element id="Important">
+        <ua>Важливо</ua>
+    </element>
+    <element id="Pages">
+        <ua>Сторінки</ua>
+    </element>
+    <element id="GotoForum">
+        <ua>Перейти у форум .</ua>
+    </element>
+    <element id="GotoTopic">
+        <ua>Перейти в тему</ua>
+    </element>
+    <element id="all">
+        <ua>все</ua>
+    </element>
+    <element id="NewTopic">
+        <ua>Нова тема</ua>
+    </element>
+    <element id="Moderation">
+        <ua>Модерація</ua>
+    </element>
+    <element id="ReadmarkerModeration">
+        <ua>Модерація рид-маркеров</ua>
+    </element>
+    <element id="ReadmarkersNotFound">
+        <ua>Рид-маркери не знайдені</ua>
+    </element>
+    <element id="DeleteTopic">
+        <ua>Видалити тему</ua>
+    </element>
+    <element id="RestoreTopic">
+        <ua>Відновити тему</ua>
+    </element>
+    <element id="MoveTopic">
+        <ua>Перенести тему</ua>
+    </element>
+    <element id="MergeTopic">
+        <ua>Обьединить тему</ua>
+    </element>
+    <element id="CloseTopic">
+        <ua>Закрити тему</ua>
+    </element>
+    <element id="OpenTopic">
+        <ua>Відкрити тему</ua>
+    </element>
+    <element id="MovePosts">
+        <ua>Перенести повідомлення</ua>
+    </element>
+    <element id="PinTopic">
+        <ua>Прикріпити тему</ua>
+    </element>
+    <element id="UnpinTopic">
+        <ua>Відкріпити тему</ua>
+    </element>
+    <element id="ErrSystemForumEdit">
+        <ua>Системний форум недоступний для редагування</ua>
+    </element>
+    <element id="MsgTopicTooLarge">
+        <ua>Тема занадто велика, щоб показати усі повідомлення</ua>
+    </element>
+    <element id="deleted">
+        <ua>видалено</ua>
+    </element>
+    <element id="TopicModerator">
+        <ua>Модератор теми</ua>
+    </element>
+    <element id="ForumModerator">
+        <ua>Модератор форуму</ua>
+    </element>
+    <element id="MsgTopicOpened">
+        <ua>Тема успішно відкрита</ua>
+    </element>
+    <element id="MsgTopicClosed">
+        <ua>Тема успішно закрита</ua>
+    </element>
+    <element id="MsgTopicDeleted">
+        <ua>Тема успішно видалена</ua>
+    </element>
+    <element id="MsgTopicRestored">
+        <ua>Тема успішно відновлена</ua>
+    </element>
+    <element id="MsgErrMaxPinnedTopics">
+        <ua>Ви можете прикріпити максимум тим</ua>
+    </element>
+    <element id="MsgErrMaxPinnedTopicsPerForum">
+        <ua>Можна прикріпити максимум тим на один форум</ua>
+    </element>
+    <element id="MsgErrMaxMembersPerPrivateTopic">
+        <ua>Кількість учасників перевищує максимально допустиме </ua>
+    </element>
+    <element id="MsgTopicPinned">
+        <ua>Тема успішно прикріплена</ua>
+    </element>
+    <element id="MsgTopicUnpinned">
+        <ua>Тема успішно відкріплена</ua>
+    </element>
+    <element id="MsgConfirmTopicDelete">
+        <ua>Ви упевнені, що хочете видалити тему</ua>
+    </element>
+    <element id="MsgConfirmTopicClose">
+        <ua>Ви упевнені, що хочете закрити тему</ua>
+    </element>
+    <element id="MsgTopicsOpened">
+        <ua>Теми успішно відкриті</ua>
+    </element>
+    <element id="MsgTopicsClosed">
+        <ua>Теми успішно закриті</ua>
+    </element>
+    <element id="MsgTopicsDeleted">
+        <ua>Теми успішно видалені</ua>
+    </element>
+    <element id="MsgTopicsRestored">
+        <ua>Теми успішно відновлені</ua>
     </element>
 </root>
