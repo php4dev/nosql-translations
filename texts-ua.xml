@@ -138,7 +138,7 @@
       <en>A space or the symbol &amp; as separator means means all words, the symbol | any of the words. You can also use the conjunction 'and' instead of &amp; and the conjunction 'or' instead of |. To look for the exact phrase, take it in double quotes.</en>
       <de>Das Leerzeichen oder das Symbol &amp; als Trennzeichen bedeutet alle Wörter, das Symbol | bedeutet zumindest ein Wort. Sie können auch die Konjunktion 'und' anstelle &amp; und die Konjunktion 'oder' anstelle | benutzen. Um die exakte Phrase zu suchen, nehmen Sie diese in doppelten Anführungszeichen.</de>
       <ru>Пробел или символ &amp; в качестве разделителя означает все слова, символ | означает любое из слов. Можно использовать вместо &amp; союз 'и', а вместо | союз 'или'. Для поиска точной фразы возьмите ее в двойные кавычки.</ru>
-      <ua>Пропуск або символ &amp; в якості роздільника означає усі слова, символ | означає будь-яке із слів. Можна використати замість &amp; союз 'и', а замість | союз 'або'. Для пошуку точної фрази візьміть її в подвійні лапки.</ua>
+      <ua>Пробіл або символ &amp; в якості роздільника означає усі слова, символ | означає будь-яке із слів. Можна використати замість &amp; союз 'и', а замість | союз 'або'. Для пошуку точної фрази візьміть її в подвійні лапки.</ua>
     </text>
     <text id="WarnSearchCriteriaNotSpecified">
       <en>Search criteria are not specified!</en>
@@ -198,25 +198,25 @@
       <en>Search the messages with attachments</en>
       <de>Die Nachrichten mit Anhängen suchen</de>
       <ru>Искать сообщения с вложениями</ru>
-      <ua>Шукати сполучення з вкладеннями</ua>
+      <ua>Шукати повідомлення з вкладеннями</ua>
     </text>
     <text id="SearchPicturesOnly">
       <en>Search the messages with pictures</en>
       <de>Die Nachrichten mit Bildern suchen</de>
       <ru>Искать сообщения с картинками</ru>
-      <ua>Шукати сполучення з картинками</ua>
+      <ua>Шукати повідомлення з картинками</ua>
     </text>
     <text id="SearchVideosOnly">
       <en>Search the messages with videos</en>
       <de>Die Nachrichten mit Videos suchen</de>
       <ru>Искать сообщения с видеоклипами</ru>
-      <ua>Шукати сполучення з відеокліпами</ua>
+      <ua>Шукати повідомлення з відеокліпами</ua>
     </text>
     <text id="SearchAudioOnly">
       <en>Search the messages with audio files</en>
       <de>Die Nachrichten mit Audiodateien suchen</de>
       <ru>Искать сообщения с аудиоклипами</ru>
-      <ua>Шукати сполучення з аудіокліпами</ua>
+      <ua>Шукати повідомлення з аудіокліпами</ua>
     </text>
     <text id="SearchDeletedOnly">
       <en>Search only in deleted messages</en>
