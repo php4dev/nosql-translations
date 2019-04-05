@@ -2259,7 +2259,7 @@
       <en>No read marker are found.</en>
       <de>Keine Read-Marker wurden gefunden.</de>
       <ru>Рид-маркеры не найдены.</ru>
-      <ua>Рид-маркери не знайдені.</ua>
+      <ua>Рід-маркери не знайдені.</ua>
     </text>
     <text id="DeleteTopic">
       <en>Delete topic</en>
@@ -5597,7 +5597,7 @@
       <en>Read marker</en>
       <de>Read-Marker</de>
       <ru>Рид-Маркер</ru>
-      <ua>Рид-маркер</ua>
+      <ua>Рід-маркер</ua>
     </text>
     <text id="UserMarker">
       <en>User marker</en>
