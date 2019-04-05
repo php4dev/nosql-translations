@@ -42,7 +42,7 @@
       <en>No database connection information available ot it is incomplete! Please login as Master Administrator and check the database connection settings!</en>
       <de>Keine Informationen zu der Datenbankverbindung vorhanden! Loggen Sie sich bitte als Master-Administrator ein und überprüfen Sie die Einstellungen für die Datenbankverbindung!</de>
       <ru>Отсутствует информация для соединения с базой данных. Пожалуйста, войдите в систему под мастер-администратором и проверьте установки соединения с базой данных!</ru>
-      <ua>Відсутня інформація для з'єднання з базою даних. Будь ласка, увійдіть до системи під мастер-администратором і перевірте установки з'єднання з базою даних</ua>
+      <ua>Відсутня інформація для з'єднання з базою даних. Будь ласка, увійдіть до системи під мастер-администратором і перевірте установки з'єднання з базою даних!</ua>
     </text>
     <text id="ErrDbInaccessible">
       <en>The database cannot be conected! Please check the database connection settings!</en>
@@ -132,19 +132,19 @@
       <en>A space or the symbol &amp; as separator means means all words, the symbol | any of the words. You can also use the conjunction 'and' instead of &amp; and the conjunction 'or' instead of |. To look for the exact phrase, take it in double quotes.</en>
       <de>Das Leerzeichen oder das Symbol &amp; als Trennzeichen bedeutet alle Wörter, das Symbol | bedeutet zumindest ein Wort. Sie können auch die Konjunktion 'und' anstelle &amp; und die Konjunktion 'oder' anstelle | benutzen. Um die exakte Phrase zu suchen, nehmen Sie diese in doppelten Anführungszeichen.</de>
       <ru>Пробел или символ &amp; в качестве разделителя означает все слова, символ | означает любое из слов. Можно использовать вместо &amp; союз 'и', а вместо | союз 'или'. Для поиска точной фразы возьмите ее в двойные кавычки.</ru>
-      <ua>Пропуск або символ &amp; в якості роздільника означає усі слова, символ | означає будь-яке із слів. Можна використати замість &amp; союз 'и', а замість | союз 'або'. Для пошуку точної фрази візьміть її в подвійні лапки</ua>
+      <ua>Пропуск або символ &amp; в якості роздільника означає усі слова, символ | означає будь-яке із слів. Можна використати замість &amp; союз 'и', а замість | союз 'або'. Для пошуку точної фрази візьміть її в подвійні лапки.</ua>
     </text>
     <text id="WarnSearchCriteriaNotSpecified">
       <en>Search criteria are not specified!</en>
       <de>Suchkriterien sind nicht angegeben!</de>
       <ru>Не заданы критерии поиска!</ru>
-      <ua>Не задані критерії пошуку</ua>
+      <ua>Не задані критерії пошуку!</ua>
     </text>
     <text id="WarnSearchWait">
       <en>You can do next search in %s seconds!</en>
       <de>Sie können neue Suche in %s Sekunden durchführen!</de>
       <ru>Вы сможете снова воспользоваться поиском через %s секунд(ы)!</ru>
-      <ua>Ви зможете знову скористатися пошуком через секунд (ы) </ua>
+      <ua>Ви зможете знову скористатися пошуком через %s секунд(и)!</ua>
     </text>
     <text id="SearchCriteria">
       <en>Search criteria</en>
@@ -168,7 +168,7 @@
       <en>Search only in topic names</en>
       <de>Nur in Themennamen suchen</de>
       <ru>Искать только в названиях тем</ru>
-      <ua>Шукати тільки в назвах тим</ua>
+      <ua>Шукати тільки в назвах тем</ua>
     </text>
     <text id="SearchTopicFavourites">
       <en>Search favourite topics</en>
@@ -252,7 +252,7 @@
       <en>Show results as post list instead of topic list</en>
       <de>Die Suchergebnisse als Nachrichtenliste anstatt der Themenliste anzeigen</de>
       <ru>Показывать результаты поиска в виде списка сообщений вместо списка тем</ru>
-      <ua>Показувати результати пошуку у вигляді списку повідомлень замість списку тим</ua>
+      <ua>Показувати результати пошуку у вигляді списку повідомлень замість списку тем</ua>
     </text>
     <text id="NewSearch">
       <en>New search</en>
@@ -342,7 +342,7 @@
       <en>The forum '%s' is protected by password!</en>
       <de>Das Forum '%s' is durch Kennwort geschützt!</de>
       <ru>Форум '%s' защищен паролем!</ru>
-      <ua>Форум ' захищений паролем</ua>
+      <ua>Форум '%s' захищений паролем!</ua>
     </text>
     <text id="Enter">
       <en>Enter</en>
@@ -390,19 +390,19 @@
       <en>The password is wrong!</en>
       <de>Das Kennowrt ist falsch!</de>
       <ru>Пароль неправильный!</ru>
-      <ua>Пароль неправильний</ua>
+      <ua>Пароль неправильний!</ua>
     </text>
     <text id="ErrActionNotAllowed">
       <en>You are not allowed to perform this action!</en>
       <de>Sie sind nicht berechtigt, diese Aktion durchzuführen!</de>
       <ru>У вас нет прав на выполнение данной операции!</ru>
-      <ua>У вас немає правий на виконання цієї операції</ua>
+      <ua>У вас немає правий на виконання цієї операції!</ua>
     </text>
     <text id="ErrWrongHashCode">
       <en>The protection hash code is invalid or the session has expired. Action is not permitted!</en>
       <de>Der Shutz-Code ist ungültig oder die Sitzung ist abgelaufen! Die Aktion ist nicht erlaubt!</de>
       <ru>Защитный хэш-код недействителен или истек сеанс сессии! Операция не разрешена!</ru>
-      <ua>Захисний хэш-код недійсний або витік сеанс сесії! Операція не дозволена</ua>
+      <ua>Захисний хэш-код недійсний або витік сеанс сесії! Операція не дозволена!</ua>
     </text>
     <text id="Forums">
       <en>Forums</en>
@@ -431,13 +431,13 @@
       <ru>Ваш внутренний логин для входа на форум. Логин не виден другим участникам форума, что усложняет взлом
           вашей учетной записи путем подбора пароля. Не рекомендуется, чтобы он совпадал с именем пользователя.</ru>
       <ua>Ваш внутрішній логін для входу на форум. Логін не видно іншим учасникам форуму, що ускладнює злом
- вашого облікового запису шляхом підбору пароля. Не рекомендується, щоб він співпадав з ім'ям користувача</ua>
+ вашого облікового запису шляхом підбору пароля. Не рекомендується, щоб він співпадав з ім'ям користувача.</ua>
     </text>
     <text id="UserLoginComment2">
       <en>The internal login name for logging in into the forum. The login is not visible to other members.</en>
       <de>Der interne Loginname zum Einloggen im Forum. Der Loginname für die anderen Teilnehmer des Forums nicht sichtbar.</de>
       <ru>Внутренний логин для входа на форум. Логин не виден другим участникам форума.</ru>
-      <ua>Внутрішній логін для входу на форум. Логін не видно іншим учасникам форуму</ua>
+      <ua>Внутрішній логін для входу на форум. Логін не видно іншим учасникам форуму.</ua>
     </text>
     <text id="UserName">
       <en>User name</en>
@@ -567,7 +567,7 @@
       <en>Topics count</en>
       <de>Themenananzahl</de>
       <ru>Количество тем</ru>
-      <ua>Кількість тим</ua>
+      <ua>Кількість тем</ua>
     </text>
     <text id="Rating">
       <en>Rating</en>
@@ -1089,7 +1089,7 @@
       <en>Maximal number of topics per day</en>
       <de>Maximale Anzahl der Themen pro Tag</de>
       <ru>Максимальное количество тем в сутки</ru>
-      <ua>Максимальна кількість тим в добу</ua>
+      <ua>Максимальна кількість тем за добу</ua>
     </text>
     <text id="MaxPinnedTopics">
       <en>Maximal number of pinned topics per forum</en>
@@ -2367,13 +2367,13 @@
       <en>You can pin maximally %s topics!</en>
       <de>Sie können maximal %s Themen anheften!</de>
       <ru>Вы можете прикрепить максимум %s тем!</ru>
-      <ua>Ви можете прикріпити максимум тим</ua>
+      <ua>Ви можете прикріпити максимум тем</ua>
     </text>
     <text id="MsgErrMaxPinnedTopicsPerForum">
       <en>A forum can have maximally %s topics!</en>
       <de>Der Forum kann maximal %s  angehefteten Themen haben!</de>
       <ru>Можно прикрепить максимум %s тем на один форум!</ru>
-      <ua>Можна прикріпити максимум тим на один форум</ua>
+      <ua>Можна прикріпити максимум тем на один форум</ua>
     </text>
     <text id="MsgErrMaxMembersPerPrivateTopic">
       <en>The number of participants %s exceeds the maximal allowed number %!</en>
@@ -2895,7 +2895,7 @@
       <en>Put to ignore list</en>
       <de>In die Ignorier-Liste eintragen</de>
       <ru>Поместить в игнор-лист</ru>
-      <ua>Помістити в ігнорування-лист</ua>
+      <ua>Помістити в ігнор-лист</ua>
     </text>
     <text id="RemoveFromIgnoreList">
       <en>Remove from ignore list</en>
@@ -2943,7 +2943,7 @@
       <en>Member has been added to the ignore list.</en>
       <de>Teilnehmer wurde zu der Ignorier-Liste hinzugefügt.</de>
       <ru>Участник добавлен в игнор-лист.</ru>
-      <ua>Учасник доданий в ігнорування-лист</ua>
+      <ua>Учасник доданий в ігнор-лист</ua>
     </text>
     <text id="MsgUserRemovedFromIngoreList">
       <en>Member has been removed from the ignore list.</en>
@@ -3939,7 +3939,7 @@
       <en>You have exceeded the limit (%s topics per day)! Creation of the new topic will be possible in: %s.</en>
       <de>Sie haben das Limit (%s Themen pro Tag) überschritten! Ein neues Thema anzulegen wird es möglich sein in: %s.</de>
       <ru>Вы превысили лимит (%s тем в сутки)! Создание новой темы будет возможно через: %s.</ru>
-      <ua>Ви перевищили ліміт (тим в добу)! Створення нової теми буде можливе через: </ua>
+      <ua>Ви перевищили ліміт (%s тем за добу)! Створення нової теми буде можливе через: %s.</ua>
     </text>
     <text id="ErrComplainLimitExceeded">
       <en>You have exceeded the limit (%s complains per day)! Try to complain a little later.</en>
@@ -3951,7 +3951,7 @@
       <en>You have exceeded the limit (%s rating actions for an user per hour)! Try it again a little later.</en>
       <de>Sie haben das Limit (%s Bewertungsaktionen für einen Benutzer pro Stunde) überschritten! Bitte versuchen Sie es noch mal etwas später.</de>
       <ru>Вы превысили лимит (%s оценочных действий в час на одного пользователя)! Попытайтесь повторить действие немного позже.</ru>
-      <ua>Ви перевищили ліміт (оцінних дій в годину на одного користувача)! Спробуйте повторити дію трохи пізніше</ua>
+      <ua>Ви перевищили ліміт (%s оцінних дій в годину на одного користувача)! Спробуйте повторити дію трохи пізніше.</ua>
     </text>
     <text id="Receiver">
       <en>Receiver</en>
@@ -3993,7 +3993,7 @@
       <en>The member %s has put you to the ignore list!</en>
       <de>Der Teilnehmer %s hat Sie in die Ignorier-Liste eingetragen!</de>
       <ru>Участник %s поместил вас в игнор-лист!</ru>
-      <ua>Учасник помістив вас в ігнорування-лист</ua>
+      <ua>Учасник помістив вас в ігнор-лист</ua>
     </text>
     <text id="CreateNewTopic">
       <en>Create new topic</en>
@@ -5003,121 +5003,121 @@
       <en>The moderator {author} has moved your topic {topic} from the forum {source_forum} to the forum {target_forum}.</en>
       <de>Der Moderator {author} hat Ihr Thema {topic} aus dem Forum {source_forum} in den Forum {target_forum} verschoben.</de>
       <ru>Модератор {author} перенес вашу тему {topic} из форума {source_forum} на форум {target_forum}.</ru>
-      <ua>Модератор {author} переніс вашу тему {topic} з форуму {source _ forum} на форум {target _ forum}</ua>
+      <ua>Модератор {author} переніс вашу тему {topic} з форуму {source_forum} на форум {target_forum}</ua>
     </text>
     <text id="MsgEventTopicMovedAnonym">
       <en>Your topic {topic} has been moved from the forum {source_forum} to the forum {target_forum}.</en>
       <de>Ihr Thema {topic} wurde aus dem Forum {source_forum} in den Forum {target_forum} verschoben.</de>
       <ru>Ваша тема {topic} перенесена из форума {source_forum} на форум {target_forum}.</ru>
-      <ua>Ваша тема {topic} перенесена з форуму {source _ forum} на форум {target _ forum}</ua>
+      <ua>Ваша тема {topic} перенесена з форуму {source_forum} на форум {target_forum}</ua>
     </text>
     <text id="MsgEventTopicMovedModerators">
       <en>The moderator {author} has moved the topic {topic}, where you are the moderator, from the forum {source_forum} to the forum {target_forum}.</en>
       <de>Der Moderator {author} hat das Thema {topic}, wo Sie der Moderator sind, aus dem Forum {source_forum} in den Forum {target_forum} verschoben.</de>
       <ru>Модератор {author} перенес тему {topic}, где вы являетесь модератором, из форума {source_forum} на форум {target_forum}.</ru>
-      <ua>Модератор {author} переніс тему {topic}, де ви є модератором, з форуму {source _ forum} на форум {target _ forum}</ua>
+      <ua>Модератор {author} переніс тему {topic}, де ви є модератором, з форуму {source_forum} на форум {target_forum}</ua>
     </text>
     <text id="MsgEventTopicMovedModeratorsAnonym">
       <en>The topic {topic}, where you are the moderator, has been moved from the forum {source_forum} to the forum {target_forum}.</en>
       <de>Das Thema {topic}, wo Sie der Moderator sind, wurde aus dem Forum {source_forum} in den Forum {target_forum} verschoben.</de>
       <ru>Тема {topic}, где вы являетесь модератором, перенесена из форума {source_forum} на форум {target_forum}.</ru>
-      <ua>Тема {topic}, де ви є модератором, перенесена з форуму {source _ forum} на форум {target _ forum}</ua>
+      <ua>Тема {topic}, де ви є модератором, перенесена з форуму {source_forum} на форум {target_forum}</ua>
     </text>
     <text id="MsgEventTopicMovedRevokeModerators">
       <en>The moderator {author} has moved the topic {topic}, where you are the moderator, from the forum {source_forum} to the forum {target_forum}. Ask the moderators of that forum to get the topic modearator status again.</en>
       <de>Der Moderator {author} hat das Thema {topic}, wo Sie der Moderator sind, aus dem Forum {source_forum} in den Forum {target_forum} verschoben. Fragen Sie die Moderatoren dieses Forums den Status des Themamoderatoren Ihnen wieder zu geben.</de>
       <ru>Модератор {author} перенес тему {topic}, где вы являетесь модератором, из форума {source_forum} на форум {target_forum}. Обратитесь к модераторам данного форума для получения модераторских прав на тему.</ru>
-      <ua>Модератор {author} переніс тему {topic}, де ви є модератором, з форуму {source _ forum} на форум {target _ forum}. Зверніться до модераторів цього форуму для отримання модераторских прав на тему</ua>
+      <ua>Модератор {author} переніс тему {topic}, де ви є модератором, з форуму {source_forum} на форум {target_forum}. Зверніться до модераторів цього форуму для отримання модераторских прав на тему</ua>
     </text>
     <text id="MsgEventTopicMovedRevokeModeratorsAnonym">
       <en>The topic {topic}, where you are the moderator, has been moved from the forum {source_forum} to the forum {target_forum}. Ask the moderators of that forum to get the topic modearator status again.</en>
       <de>Das Thema {topic}, wo Sie der Moderator sind, wurde aus dem Forum {source_forum} in den Forum {target_forum} verschoben. Fragen Sie die Moderatoren dieses Forums den Status des Themamoderatoren Ihnen wieder zu geben.</de>
       <ru>Тема {topic}, где вы являетесь модератором, перенесена из форума {source_forum} на форум {target_forum}. Обратитесь к модераторам данного форума для получения модераторских прав на тему.</ru>
-      <ua>Тема {topic}, де ви є модератором, перенесена з форуму {source _ forum} на форум {target _ forum}. Зверніться до модераторів цього форуму для отримання модераторских прав на тему</ua>
+      <ua>Тема {topic}, де ви є модератором, перенесена з форуму {source_forum} на форум {target_forum}. Зверніться до модераторів цього форуму для отримання модераторских прав на тему</ua>
     </text>
     <text id="MsgEventTopicMovedSubscribers">
       <en>The moderator {author} has moved the topic {topic} from the forum {source_forum} to the forum {target_forum}.</en>
       <de>Der Moderator {author} hat das Thema {topic} aus dem Forum {source_forum} in den Forum {target_forum} verschoben.</de>
       <ru>Модератор {author} перенес тему {topic} из форума {source_forum} на форум {target_forum}.</ru>
-      <ua>Модератор {author} переніс тему {topic} з форуму {source _ forum} на форум {target _ forum}</ua>
+      <ua>Модератор {author} переніс тему {topic} з форуму {source_forum} на форум {target_forum}</ua>
     </text>
     <text id="MsgEventTopicMovedSubscribersAnonym">
       <en>The topic {topic} has been moved from the forum {source_forum} to the forum {target_forum}.</en>
       <de>Das Thema {topic} wurde aus dem Forum {source_forum} in den Forum {target_forum} verschoben.</de>
       <ru>Тема {topic} перенесена из форума {source_forum} на форум {target_forum}.</ru>
-      <ua>Тема {topic} перенесена з форуму {source _ forum} на форум {target _ forum}</ua>
+      <ua>Тема {topic} перенесена з форуму {source_forum} на форум {target_forum}</ua>
     </text>
     <text id="MsgEventMessagesMoved">
       <en>The moderator {author} has moved your message {message} from the topic {source_topic} on the forum {source_forum} to the topic {target_topic} on the forum {target_forum}.</en>
       <de>Der Moderator {author} hat Ihre Nachricht {message} aus dem Thema {source_topic} auf dem Forum {source_forum} in das Thema {target_topic} auf dem Forum {target_forum} verschoben.</de>
       <ru>Модератор {author} перенес ваше сообщение {message} из темы {source_topic} на форуме {source_forum} в тему {target_topic} на форуме {target_forum}.</ru>
-      <ua>Модератор {author} переніс ваше повідомлення {message} з теми {source _ topic} на форумі {source _ forum} у тему {target _ topic} на форумі {target _ forum}</ua>
+      <ua>Модератор {author} переніс ваше повідомлення {message} з теми {source_topic} на форумі {source_forum} у тему {target_topic} на форумі {target_forum}</ua>
     </text>
     <text id="MsgEventMessagesMovedAnonym">
       <en>Your message {message} has been moved from the topic {source_topic} on the forum {source_forum} to the topic {target_topic} on the forum {target_forum}.</en>
       <de>Ihre Nachricht {message} wurde aus dem Thema {source_topic} auf dem Forum {source_forum} in das Thema {target_topic} auf dem Forum {target_forum} verschoben.</de>
       <ru>Ваше сообщение {message} перенесено из темы {source_topic} на форуме {source_forum} в тему {target_topic} на форуме {target_forum}.</ru>
-      <ua>Ваше повідомлення {message} перенесено з теми {source _ topic} на форумі {source _ forum} у тему {target _ topic} на форумі {target _ forum}</ua>
+      <ua>Ваше повідомлення {message} перенесено з теми {source_topic} на форумі {source_forum} у тему {target_topic} на форумі {target_forum}</ua>
     </text>
     <text id="MsgEventMessagesMovedSubscribers">
       <en>The moderator {author} has moved the message {message} from the topic {source_topic} on the forum {source_forum} to the topic {target_topic} on the forum {target_forum}.</en>
       <de>Der Moderator {author} hat die Nachricht {message} aus dem Thema {source_topic} auf dem Forum {source_forum} in das Thema {target_topic} auf dem Forum {target_forum} verschoben.</de>
       <ru>Модератор {author} перенес сообщение {message} из темы {source_topic} на форуме {source_forum} в тему {target_topic} на форуме {target_forum}.</ru>
-      <ua>Модератор {author} переніс повідомлення {message} з теми {source _ topic} на форумі {source _ forum} у тему {target _ topic} на форумі {target _ forum}</ua>
+      <ua>Модератор {author} переніс повідомлення {message} з теми {source_topic} на форумі {source_forum} у тему {target_topic} на форумі {target_forum}</ua>
     </text>
     <text id="MsgEventMessagesMovedSubscribersAnonym">
       <en>The message {message} has been moved from the topic {source_topic} on the forum {source_forum} to the topic {target_topic} on the forum {target_forum}.</en>
       <de>Die Nachricht {message} wurde aus dem Thema {source_topic} auf dem Forum {source_forum} in das Thema {target_topic} auf dem Forum {target_forum} verschoben.</de>
       <ru>Cообщение {message} перенесено из темы {source_topic} на форуме {source_forum} в тему {target_topic} на форуме {target_forum}.</ru>
-      <ua>Cообщение {message} перенесено з теми {source _ topic} на форумі {source _ forum} у тему {target _ topic} на форумі {target _ forum}</ua>
+      <ua>Cообщение {message} перенесено з теми {source_topic} на форумі {source_forum} у тему {target_topic} на форумі {target_forum}</ua>
     </text>
     <text id="MsgEventTopicMerged">
       <en>The moderator {author} has merged your topic {source_topic} on the forum {source_forum} into the topic {target_topic} on the forum {target_forum}. The first message of the moved topic is {message}.</en>
       <de>Der Moderator {author} hat Ihr Thema {source_topic} auf dem Forum {source_forum} in das Thema {target_topic} auf dem Forum {target_forum} gemerged. Die erste Nachricht des verschobenen Thema ist {message}.</de>
       <ru>Модератор {author} объединил вашу тему {source_topic} на форуме {source_forum} с темой {target_topic} на форуме {target_forum}. Первое сообщение перенесенной темы {message}.</ru>
-      <ua>Модератор {author} об'єднав вашу тему {source _ topic} на форумі {source _ forum} з темою {target _ topic} на форумі {target _ forum}. Перше повідомлення перенесеної теми {message}</ua>
+      <ua>Модератор {author} об'єднав вашу тему {source_topic} на форумі {source_forum} з темою {target_topic} на форумі {target_forum}. Перше повідомлення перенесеної теми {message}</ua>
     </text>
     <text id="MsgEventTopicMergedAnonym">
       <en>Your topic {source_topic} on the forum {source_forum} has been merged into the topic {target_topic} on the forum {target_forum}. The first message of the moved topic is {message}.</en>
       <de>Ihr Thema {source_topic} auf dem Forum {source_forum} wurde in das Thema {target_topic} auf dem Forum {target_forum} verschoben. Die erste Nachricht des verschobenen Thema ist {message}.</de>
       <ru>Ваша тема {source_topic} на форуме {source_forum} объединена с темой {target_topic} на форуме {target_forum}. Первое сообщение перенесенной темы {message}.</ru>
-      <ua>Ваша тема {source _ topic} на форумі {source _ forum} об'єднана з темою {target _ topic} на форумі {target _ forum}. Перше повідомлення перенесеної теми {message}</ua>
+      <ua>Ваша тема {source_topic} на форумі {source_forum} об'єднана з темою {target_topic} на форумі {target_forum}. Перше повідомлення перенесеної теми {message}</ua>
     </text>
     <text id="MsgEventTopicMergedModerators">
       <en>The moderator {author} has merged the topic {source_topic}, where you are the moderator, on the forum {source_forum} into the topic {target_topic} on the forum {target_forum}. The first message of the moved topic is {message}.</en>
       <de>Der Moderator {author} hat das Thema {source_topic}, wo Sie der Moderator sind, auf dem Forum {source_forum} in das Thema {target_topic} auf dem Forum {target_forum} gemerged. Die erste Nachricht des verschobenen Thema ist {message}.</de>
       <ru>Модератор {author} объединил тему {source_topic}, где вы являетесь модератором, на форуме {source_forum} с темой {target_topic} на форуме {target_forum}. Первое сообщение перенесенной темы {message}.</ru>
-      <ua>Модератор {author} об'єднав тему {source _ topic}, де ви є модератором, на форумі {source _ forum} з темою {target _ topic} на форумі {target _ forum}. Перше повідомлення перенесеної теми {message}</ua>
+      <ua>Модератор {author} об'єднав тему {source_topic}, де ви є модератором, на форумі {source_forum} з темою {target_topic} на форумі {target_forum}. Перше повідомлення перенесеної теми {message}</ua>
     </text>
     <text id="MsgEventTopicMergedModeratorsAnonym">
       <en>The topic {source_topic}, where you are the moderator, on the forum {source_forum} has been merged into the topic {target_topic} on the forum {target_forum}. The first message of the moved topic is {message}.</en>
       <de>Das Thema {source_topic}, wo Sie der Moderator sind, auf dem Forum {source_forum} wurde in das Thema {target_topic} auf dem Forum {target_forum} verschoben. Die erste Nachricht des verschobenen Thema ist {message}.</de>
       <ru>Тема {source_topic}, где вы являетесь модератором, на форуме {source_forum} объединена с темой {target_topic} на форуме {target_forum}. Первое сообщение перенесенной темы {message}.</ru>
-      <ua>Тема {source _ topic}, де ви є модератором, на форумі {source _ forum} об'єднана з темою {target _ topic} на форумі {target _ forum}. Перше повідомлення перенесеної теми {message}</ua>
+      <ua>Тема {source_topic}, де ви є модератором, на форумі {source_forum} об'єднана з темою {target_topic} на форумі {target_forum}. Перше повідомлення перенесеної теми {message}</ua>
     </text>
     <text id="MsgEventTopicMergedSubscribers">
       <en>The moderator {author} has merged the topic {source_topic} on the forum {source_forum} into the topic {target_topic} on the forum {target_forum}. The first message of the moved topic is {message}. To receive the notifications, subscribe to the topic {target_topic}.</en>
       <de>Der Moderator {author} hat das Thema {source_topic} auf dem Forum {source_forum} in das Thema {target_topic} auf dem Forum {target_forum} gemerged. Die erste Nachricht des verschobenen Thema ist {message}. Um die Benachrichtigung zu erhalten, bitte melden Sie sich für die Benachrichtigung im Thema {target_topic} an.</de>
       <ru>Модератор {author} объединил тему {source_topic} на форуме {source_forum} с темой {target_topic} на форуме {target_forum}. Первое сообщение перенесенной темы {message}. Для получения уведомлений подпишитесь на тему {target_topic}.</ru>
-      <ua>Модератор {author} об'єднав тему {source _ topic} на форумі {source _ forum} з темою {target _ topic} на форумі {target _ forum}. Перше повідомлення перенесеної теми {message}. Для отримання повідомлень підпишіться на тему {target _ topic}</ua>
+      <ua>Модератор {author} об'єднав тему {source_topic} на форумі {source_forum} з темою {target_topic} на форумі {target_forum}. Перше повідомлення перенесеної теми {message}. Для отримання повідомлень підпишіться на тему {target_topic}</ua>
     </text>
     <text id="MsgEventTopicMergedSubscribersAnonym">
       <en>The topic {source_topic} on the forum {source_forum} has been merged into the topic {target_topic} on the forum {target_forum}. The first message of the moved topic is {message}. To receive the notifications, subscribe to the topic {target_topic}.</en>
       <de>Das Thema {source_topic} auf dem Forum {source_forum} wurde in das Thema {target_topic} auf dem Forum {target_forum} verschoben. Die erste Nachricht des verschobenen Thema ist {message}. Um die Benachrichtigung zu erhalten, bitte melden Sie sich für die Benachrichtigung im Thema {target_topic} an.</de>
       <ru>Тема {source_topic} на форуме {source_forum} объединена с темой {target_topic} на форуме {target_forum}. Первое сообщение перенесенной темы {message}. Для получения уведомлений подпишитесь на тему {target_topic}.</ru>
-      <ua>Тема {source _ topic} на форумі {source _ forum} об'єднана з темою {target _ topic} на форумі {target _ forum}. Перше повідомлення перенесеної теми {message}. Для отримання повідомлень підпишіться на тему {target _ topic}</ua>
+      <ua>Тема {source_topic} на форумі {source_forum} об'єднана з темою {target_topic} на форумі {target_forum}. Перше повідомлення перенесеної теми {message}. Для отримання повідомлень підпишіться на тему {target_topic}</ua>
     </text>
     <text id="MsgEventTopicMergedTargetSubscribers">
       <en>The moderator {author} has merged the topic {source_topic} on the forum {source_forum} into the topic {target_topic} on the forum {target_forum}. The first message of the moved topic is {message}.</en>
       <de>Der Moderator {author} hat das Thema {source_topic} auf dem Forum {source_forum} in das Thema {target_topic} auf dem Forum {target_forum} gemerged. Die erste Nachricht des verschobenen Thema ist {message}.</de>
       <ru>Модератор {author} объединил тему {source_topic} на форуме {source_forum} с темой {target_topic} на форуме {target_forum}. Первое сообщение перенесенной темы {message}.</ru>
-      <ua>Модератор {author} об'єднав тему {source _ topic} на форумі {source _ forum} з темою {target _ topic} на форумі {target _ forum}. Перше повідомлення перенесеної теми {message}</ua>
+      <ua>Модератор {author} об'єднав тему {source_topic} на форумі {source_forum} з темою {target_topic} на форумі {target_forum}. Перше повідомлення перенесеної теми {message}</ua>
     </text>
     <text id="MsgEventTopicMergedTargetSubscribersAnonym">
       <en>The topic {source_topic} on the forum {source_forum} has been merged into the topic {target_topic} on the forum {target_forum}. The first message of the moved topic is {message}.</en>
       <de>Das Thema {source_topic} auf dem Forum {source_forum} wurde in das Thema {target_topic} auf dem Forum {target_forum} verschoben. Die erste Nachricht des verschobenen Thema ist {message}.</de>
       <ru>Тема {source_topic} на форуме {source_forum} объединена с темой {target_topic} на форуме {target_forum}. Первое сообщение перенесенной темы {message}.</ru>
-      <ua>Тема {source _ topic} на форумі {source _ forum} об'єднана з темою {target _ topic} на форумі {target _ forum}. Перше повідомлення перенесеної теми {message}</ua>
+      <ua>Тема {source_topic} на форумі {source_forum} об'єднана з темою {target_topic} на форумі {target_forum}. Перше повідомлення перенесеної теми {message}</ua>
     </text>
     <text id="MsgEventUserBlocked">
       <en>The moderator {author} has blocked you account.</en>
@@ -5135,169 +5135,169 @@
       <en>The moderator {author} has blocked you account until {block_expires}.</en>
       <de>Der Moderator {author} hat Ihr Benutzerkonto bis zum {block_expires} blockiert.</de>
       <ru>Модератор {author} заблокировал вашу учетную запись до {block_expires}.</ru>
-      <ua>Модератор {author} заблокував ваш обліковий запис до {block _ expires}</ua>
+      <ua>Модератор {author} заблокував ваш обліковий запис до {block_expires}</ua>
     </text>
     <text id="MsgEventUserBlockedTimeAnonym">
       <en>You account has been blocked until {block_expires}.</en>
       <de>Ihr Benutzerkonto wurde bis zum {block_expires} blockiert.</de>
       <ru>Ваша учетная запись заблокирована до {block_expires}.</ru>
-      <ua>Ваш обліковий запис заблокований до {block _ expires}</ua>
+      <ua>Ваш обліковий запис заблокований до {block_expires}</ua>
     </text>
     <text id="MsgEventUserForumBlocked">
       <en>The moderator {author} has blocked you account on the forum {forum}.</en>
       <de>Der Moderator {author} hat Ihr Benutzerkonto auf dem Forum {forum} blockiert.</de>
       <ru>Модератор {author} заблокировал вашу учетную запись на форуме {forum}.</ru>
-      <ua>Модератор {author} заблокував ваш обліковий запис на форумі {forum}</ua>
+      <ua>Модератор {author} заблокував ваш обліковий запис на форумі {forum}.</ua>
     </text>
     <text id="MsgEventUserForumBlockedAnonym">
       <en>You account has been blocked on the forum {forum}.</en>
       <de>Ihr Benutzerkonto wurde dem Forum {forum} blockiert.</de>
       <ru>Ваша учетная запись заблокирована на форуме {forum}.</ru>
-      <ua>Ваш обліковий запис заблокований на форумі {forum}</ua>
+      <ua>Ваш обліковий запис заблокований на форумі {forum}.</ua>
     </text>
     <text id="MsgEventUserForumBlockedTime">
       <en>The moderator {author} has blocked you account on the forum {forum} until {block_expires}.</en>
       <de>Der Moderator {author} hat Ihr Benutzerkonto auf dem Forum {forum} bis zum {block_expires} blockiert.</de>
       <ru>Модератор {author} заблокировал вашу учетную запись на форуме {forum} до {block_expires}.</ru>
-      <ua>Модератор {author} заблокував ваш обліковий запис на форумі {forum} до {block _ expires}</ua>
+      <ua>Модератор {author} заблокував ваш обліковий запис на форумі {forum} до {block_expires}.</ua>
     </text>
     <text id="MsgEventUserForumBlockedTimeAnonym">
       <en>You account has been blocked on the forum {forum} until {block_expires}.</en>
       <de>Ihr Benutzerkonto wurde dem Forum {forum} bis zum {block_expires} blockiert.</de>
       <ru>Ваша учетная запись заблокирована на форуме {forum} до {block_expires}.</ru>
-      <ua>Ваш обліковий запис заблокований на форумі {forum} до {block _ expires}</ua>
+      <ua>Ваш обліковий запис заблокований на форумі {forum} до {block_expires}.</ua>
     </text>
     <text id="MsgEventUserUnblocked">
       <en>The moderator {author} has unblocked you account.</en>
       <de>Der Moderator {author} hat Ihr Benutzerkonto deblockiert.</de>
       <ru>Модератор {author} разблокировал вашу учетную запись.</ru>
-      <ua>Модератор {author} розблоковував ваш обліковий запис</ua>
+      <ua>Модератор {author} розблоковував ваш обліковий запис.</ua>
     </text>
     <text id="MsgEventUserUnblockedAnonym">
       <en>You account has been unblocked.</en>
       <de>Ihr Benutzerkonto wurde deblockiert.</de>
       <ru>Ваша учетная запись разблокирована.</ru>
-      <ua>Ваш обліковий запис розблокований</ua>
+      <ua>Ваш обліковий запис розблокований.</ua>
     </text>
     <text id="MsgEventUserForumUnblocked">
       <en>The moderator {author} has unblocked you account on the forum {forum}.</en>
       <de>Der Moderator {author} hat Ihr Benutzerkonto auf dem Forum {forum} deblockiert.</de>
       <ru>Модератор {author} разблокировал вашу учетную запись на форуме {forum}.</ru>
-      <ua>Модератор {author} розблоковував ваш обліковий запис на форумі {forum}</ua>
+      <ua>Модератор {author} розблоковував ваш обліковий запис на форумі {forum}.</ua>
     </text>
     <text id="MsgEventUserForumUnblockedAnonym">
       <en>You account has been unblocked on the forum {forum}.</en>
       <de>Ihr Benutzerkonto wurde auf dem Forum {forum} deblockiert.</de>
       <ru>Ваша учетная запись разблокирована на форуме {forum}.</ru>
-      <ua>Ваш обліковий запис розблокований на форумі {forum}</ua>
+      <ua>Ваш обліковий запис розблокований на форумі {forum}.</ua>
     </text>
     <text id="MsgEventUserTopicBlocked">
       <en>The moderator {author} has blocked you account in the topic {topic} on the forum {forum}.</en>
       <de>Der Moderator {author} hat Ihr Benutzerkonto im Thema auf dem Forum {forum} blockiert.</de>
       <ru>Модератор {author} заблокировал вашу учетную запись в теме {topic} на форуме {forum}.</ru>
-      <ua>Модератор {author} заблокував ваш обліковий запис в темі {topic} на форумі {forum}</ua>
+      <ua>Модератор {author} заблокував ваш обліковий запис в темі {topic} на форумі {forum}.</ua>
     </text>
     <text id="MsgEventUserTopicBlockedAnonym">
       <en>You account has been blocked in the topic {topic} on the forum {forum}.</en>
       <de>Ihr Benutzerkonto wurde im Thema {topic} auf dem Forum {forum} blockiert.</de>
       <ru>Ваша учетная запись заблокирована в теме {topic} на форуме {forum}.</ru>
-      <ua>Ваш обліковий запис заблокований в темі {topic} на форумі {forum}</ua>
+      <ua>Ваш обліковий запис заблокований в темі {topic} на форумі {forum}.</ua>
     </text>
     <text id="MsgEventUserTopicUnblocked">
       <en>The moderator {author} has unblocked you account in the topic {topic} on the forum {forum}.</en>
       <de>Der Moderator {author} hat Ihr Benutzerkonto im Thema {topic} auf dem Forum {forum} deblockiert.</de>
       <ru>Модератор {author} разблокировал вашу учетную запись в теме {topic} на форуме {forum}.</ru>
-      <ua>Модератор {author} розблоковував ваш обліковий запис в темі {topic} на форумі {forum}</ua>
+      <ua>Модератор {author} розблоковував ваш обліковий запис в темі {topic} на форумі {forum}.</ua>
     </text>
     <text id="MsgEventUserTopicUnblockedAnonym">
       <en>You account has been unblocked in the topic {topic} on the forum {forum}.</en>
       <de>Ihr Benutzerkonto wurde im Thema {topic} auf dem Forum {forum} deblockiert.</de>
       <ru>Ваша учетная запись разблокирована в теме {topic} на форуме {forum}.</ru>
-      <ua>Ваш обліковий запис розблокований в темі {topic} на форумі {forum}</ua>
+      <ua>Ваш обліковий запис розблокований в темі {topic} на форумі {forum}.</ua>
     </text>
     <text id="MsgEventUserAccessGranted">
       <en>The moderator {author} has given you the access to the restricted forum {forum}.</en>
       <de>Der Moderator {author} hat Ihnen den Zugang auf den geschützten Forum {forum} gegeben.</de>
       <ru>Модератор {author} дал вам доступ в защищенный форум {forum}.</ru>
-      <ua>Модератор {author} дав вам доступ в захищений форум {forum}</ua>
+      <ua>Модератор {author} дав вам доступ в захищений форум {forum}.</ua>
     </text>
     <text id="MsgEventUserAccessGrantedAnonym">
       <en>You have been granted the access to the restricted forum {forum}.</en>
       <de>Ihnen wurde der Zugang auf den geschützten Forum {forum} gegeben.</de>
       <ru>Вам дан доступ в защищенный форум {forum}.</ru>
-      <ua>Вам даний доступ в захищений форум {forum}</ua>
+      <ua>Вам даний доступ в захищений форум {forum}.</ua>
     </text>
     <text id="MsgEventUserAccessRevoked">
       <en>The moderator {author} has revoked your access to the restricted forum {forum}.</en>
       <de>Der Moderator {author} hat Ihnen den Zugang auf den geschützten Forum {forum} entnommen.</de>
       <ru>Модератор {author} забрал у вас доступ в защищенный форум {forum}.</ru>
-      <ua>Модератор {author} забрав у вас доступ в захищений форум {forum}</ua>
+      <ua>Модератор {author} забрав у вас доступ в захищений форум {forum}.</ua>
     </text>
     <text id="MsgEventUserAccessRevokedAnonym">
       <en>You access to the restricted forum {forum} has been revoked.</en>
       <de>Ihr Zugang auf den geschützten Forum {forum} wurde entnommen.</de>
       <ru>У вас отнят доступ в защищенный форум {forum}.</ru>
-      <ua>У вас відібраний доступ в захищений форум {forum}</ua>
+      <ua>У вас відібраний доступ в захищений форум {forum}.</ua>
     </text>
     <text id="MsgEventProfileHidden">
       <en>The moderator {author} has hidden your profile for viewing.</en>
       <de>Der Moderator {author} hat Ihr Profil vom Anschauen versteckt.</de>
       <ru>Модератор {author} скрыл ваш профиль для просмотра.</ru>
-      <ua>Модератор {author} приховав ваш профіль для перегляду</ua>
+      <ua>Модератор {author} приховав ваш профіль для перегляду.</ua>
     </text>
     <text id="MsgEventProfileHiddenAnonym">
       <en>Your profile has been hidden for viewing.</en>
       <de>Ihr Profil wurde vom Anschauen versteckt.</de>
       <ru>Ваш профиль скрыт для просмотра.</ru>
-      <ua>Ваш профіль прихований для перегляду</ua>
+      <ua>Ваш профіль прихований для перегляду.</ua>
     </text>
     <text id="MsgEventProfileOpened">
       <en>The moderator {author} has opened your profile for viewing.</en>
       <de>Der Moderator {author} hat Ihr Profil zum Anschauen geöffnet.</de>
       <ru>Модератор {author} открыл ваш профиль для просмотра.</ru>
-      <ua>Модератор {author} відкрив ваш профіль для перегляду</ua>
+      <ua>Модератор {author} відкрив ваш профіль для перегляду.</ua>
     </text>
     <text id="MsgEventProfileOpenedAnonym">
       <en>Your profile has been opened for viewing.</en>
       <de>Ihr Profil wurde vom Anschauen geöffnet.</de>
       <ru>Ваш профиль открыт для просмотра.</ru>
-      <ua>Ваш профіль відкритий для перегляду</ua>
+      <ua>Ваш профіль відкритий для перегляду.</ua>
     </text>
     <text id="MsgEventRatingDisallowed">
       <en>The moderator {author} has disallowed you to rate messages.</en>
       <de>Der Moderator {author} hat Ihnen die Bewertung von Nachrichten verboten.</de>
-      <ru>Модератор {author} запретил вам оценивать сообещния.</ru>
-      <ua>Модератор {author} заборонив вам оцінювати сообещния</ua>
+      <ru>Модератор {author} запретил вам оценивать сообещения.</ru>
+      <ua>Модератор {author} заборонив вам оцінювати повідомленя.</ua>
     </text>
     <text id="MsgEventRatingDisallowedAnonym">
       <en>You have been disallowed to rate messages.</en>
       <de>Ihnen wurde die Bewertung von Nachrichten verboten.</de>
       <ru>Для вас установлен запрет на оценку сообщений.</ru>
-      <ua>Для вас встановлена заборона на оцінку повідомлень</ua>
+      <ua>Для вас встановлена заборона на оцінку повідомлень.</ua>
     </text>
     <text id="MsgEventRatingAllowed">
       <en>The moderator {author} has allowed you to rate messages.</en>
       <de>Der Moderator {author} hat Ihnen die Bewertung von Nachrichten erlaubt.</de>
-      <ru>Модератор {author} снял с вас запрет на оценку сообещний.</ru>
-      <ua>Модератор {author} зняв з вас заборону на оцінку сообещний</ua>
+      <ru>Модератор {author} снял с вас запрет на оценку сообещений.</ru>
+      <ua>Модератор {author} зняв з вас заборону на оцінку повідомлень.</ua>
     </text>
     <text id="MsgEventRatingAllowedAnonym">
       <en>You have been allowed to rate messages.</en>
       <de>Ihnen wurde die Bewertung von Nachrichten erlaubt.</de>
       <ru>С вас снят запрет на оценку сообщений.</ru>
-      <ua>З вас знята заборона на оцінку повідомлень</ua>
+      <ua>З вас знята заборона на оцінку повідомлень.</ua>
     </text>
     <text id="ErrAttachmentDoesNotExist">
       <en>Attachment with that ID (%s) does not exist!</en>
       <de>Anhang mit dieser ID (%s) existiert nicht!</de>
       <ru>Вложение с таким идентификатором (%s) не существует!</ru>
-      <ua>Вкладення з таким ідентифікатором ( не існує</ua>
+      <ua>Вкладення з таким ідентифікатором (%s) не існує!</ua>
     </text>
     <text id="NoPosts">
       <en>No messages to be dislayed. The messages are hidden because either thez have been deleted or the their authors are in your ignore list.</en>
       <de>Keine Nachrichten zum Anzeigen vorhanden. Die Nachrichten sind ausgeblendet, weil sie gelöscht wurden oder ihre Autoren in Ihrer Ignorier-Liste eingetragen sind.</de>
       <ru>Нет сообщений для показа. Сообщения скрыты, потому что они были либо удалены, либо их авторы помещены вами в игнор-лист.</ru>
-      <ua>Немає повідомлень для показу. Повідомлення приховані, тому що вони були або видалені, або їх автори поміщені вами в ігнорування-лист</ua>
+      <ua>Немає повідомлень для показу. Повідомлення приховані, тому що вони були або видалені, або їх автори поміщені вами в ігнор-лист.</ua>
     </text>
     <text id="TimeZone">
       <en>Time zone</en>
@@ -5321,13 +5321,13 @@
       <en>Guests have been allowed to write in the topic.</en>
       <de>Gäste wurden erlaubt, im Thema zu schreiben.</de>
       <ru>Гостям разрешено писать в теме.</ru>
-      <ua>Гостям дозволено писати в темі</ua>
+      <ua>Гостям дозволено писати в темі.</ua>
     </text>
     <text id="MsgGuestsDisallowed">
       <en>Guests have been disallowed to write in the topic.</en>
       <de>Gäste wurden verboten, im Thema zu schreiben.</de>
       <ru>Гостям запрещено писать в теме.</ru>
-      <ua>Гостям заборонено писати в темі</ua>
+      <ua>Гостям заборонено писати в темі.</ua>
     </text>
     <text id="TopicIsInFavourites">
       <en>The topic is in the favourites</en>
@@ -5351,13 +5351,13 @@
       <en>The topic has been moved from the forum '%s'.</en>
       <de>Das Thema wurde vom Forum '%s' verschoben.</de>
       <ru>Тема была перенесена из форума '%s'.</ru>
-      <ua>Тема була перенесена з форуму '</ua>
+      <ua>Тема була перенесена з форуму '%s'.</ua>
     </text>
     <text id="MsgUserNasNoRates">
       <en>The member has no more rates in the forums under your moderation!</en>
       <de>Der Teilnehmer hat keine Bewertungen mehr in den von Ihnen zu moderierenden Foren!</de>
       <ru>У участника больше нет оценок в модерируемых вами форумах!</ru>
-      <ua>У учасника більше немає оцінок в модерируемых вами форумах</ua>
+      <ua>У учасника більше немає оцінок в модерируемых вами форумах!</ua>
     </text>
     <text id="Statistics">
       <en>Statistics</en>
@@ -5393,7 +5393,7 @@
       <en>Topic read marker count</en>
       <de>Anzahl der Themen-Read-Marker</de>
       <ru>Количество ридмаркеров тем</ru>
-      <ua>Кількість ридмаркеров тим</ua>
+      <ua>Кількість ридмаркеров тем</ua>
     </text>
     <text id="ForumRMCount">
       <en>Forum read marker count</en>
@@ -5411,31 +5411,31 @@
       <en>Prev. 24 hours</en>
       <de>Vorher. 24 Stunden</de>
       <ru>Пред. 24 часа</ru>
-      <ua>Перед. 24 години</ua>
+      <ua>Попер. 24 години</ua>
     </text>
     <text id="Last10Minutes">
       <en>Last 10 minutes</en>
       <de>Letzte 10 Minuten</de>
       <ru>Посл. 10 минут</ru>
-      <ua>Посл. 10 хвилин</ua>
+      <ua>Остан. 10 хвилин</ua>
     </text>
     <text id="LastHour">
       <en>Last hour</en>
       <de>Letzte Stunde</de>
       <ru>Посл. час</ru>
-      <ua>Посл. година</ua>
+      <ua>Остан. година</ua>
     </text>
     <text id="Last24Hours">
       <en>Last 24 hours</en>
       <de>Letzte 24 Stunden</de>
       <ru>Посл. 24 часа</ru>
-      <ua>Посл. 24 години</ua>
+      <ua>Остан. 24 години</ua>
     </text>
     <text id="LastWeek">
       <en>Last week</en>
       <de>Letzte Woche</de>
-      <ru>Последняя Неделя</ru>
-      <ua>Останній Тиждень</ua>
+      <ru>Последняя неделя</ru>
+      <ua>Останній тиждень</ua>
     </text>
     <text id="LastMonth">
       <en>Last month</en>
@@ -5477,19 +5477,19 @@
       <en>The modedator of a forum can neither be blocked nor removed from that forum!</en>
       <de>Der Moderator eines Forums kann auf diesem Forum weder geblockt noch entfernt werden!</de>
       <ru>Модератор форума не может быть заблокирован или удален с данного форума!</ru>
-      <ua>Модератор форуму не може бути заблокований або видалений з цього форуму</ua>
+      <ua>Модератор форуму не може бути заблокований або видалений з цього форуму!</ua>
     </text>
     <text id="ErrStringContainsInvalidSymbols">
       <en>The string contains inacceptable symbols!</en>
       <de>Die Zeile enthält unzulässige Symbole!</de>
       <ru>Строка содержит недопустимые символы!</ru>
-      <ua>Рядок містить неприпустимі символи</ua>
+      <ua>Рядок містить неприпустимі символи!</ua>
     </text>
     <text id="ShowAllText">
       <en>Show all ...</en>
       <de>Granzer Text anzeigen ...</de>
       <ru>Показать всё ...</ru>
-      <ua>Показати все .</ua>
+      <ua>Показати все ...</ua>
     </text>
     <text id="Version">
       <en>Version</en>
@@ -5525,13 +5525,13 @@
       <en>Are you sure to delete the avatar of the author %s?</en>
       <de>Sind Sie sicher, dass Sie das Avatar des Autoren %s löschen möchten?</de>
       <ru>Вы уверены, что хотите удалить аватар автора %s?</ru>
-      <ua>Ви упевнені, що хочете видалити аватар автора</ua>
+      <ua>Ви упевнені, що хочете видалити аватар автора %s?</ua>
     </text>
     <text id="MsgAvatarDeleted">
       <en>Avatar has been successfully deleted.</en>
       <de>Das Avatar wurde erfolgreich gelöscht.</de>
       <ru>Аватар успешно удален.</ru>
-      <ua>Аватар успішно видалений</ua>
+      <ua>Аватар успішно видалений.</ua>
     </text>
     <text id="ModerateTheReadMarker">
       <en>Moderate the author's read marker</en>
@@ -5549,19 +5549,19 @@
       <en>The read marker is not specified!</en>
       <de>Der Read-Marker ist nicht angegeben!</de>
       <ru>Не задан ридмаркер!</ru>
-      <ua>Не заданий ридмаркер</ua>
+      <ua>Не заданий ридмаркер!</ua>
     </text>
     <text id="MsgConfirmReadMarkerDelete">
       <en>Are you sure to delete this read marker?</en>
       <de>Sind Sie sicher, dass Sie diesen Read-Marker löschen möchten?</de>
       <ru>Вы уверены, что хотите удалить данный ридмаркер?</ru>
-      <ua>Ви упевнені, що хочете видалити цей ридмаркер</ua>
+      <ua>Ви упевнені, що хочете видалити цей ридмаркер?</ua>
     </text>
     <text id="MsgReadMarkerDeleted">
       <en>Read marker has been successfully deleted.</en>
       <de>Der Read-Marker wurde erfolgreich gelöscht.</de>
       <ru>Ридмаркер успешно удален.</ru>
-      <ua>Ридмаркер успішно видалений</ua>
+      <ua>Ридмаркер успішно видалений.</ua>
     </text>
     <text id="NotifyOnCitation">
       <en>Notify on answer or citation</en>
@@ -5609,7 +5609,7 @@
       <en>The current message has not been yet submiited. Submit or cancel it before proceed!</en>
       <de>Die aktuelle Nachricht wurde noch nicht abgesenbdet. Bitte senden Sie die Nachricht oder brechen Sie ab, bevor Sie fonrtsetzen!</de>
       <ru>Актуальное сообщение еще не было отправлено. Отправьте его или отмените перед тем как продолжить!</ru>
-      <ua>Актуальне повідомлення ще не було відправлене. Відправте його або відмініть перш ніж продовжити</ua>
+      <ua>Актуальне повідомлення ще не було відправлене. Відправте його або відмініть перш ніж продовжити!</ua>
     </text>
     <text id="BulkDeletion">
       <en>Bulk deletion</en>
@@ -5621,25 +5621,25 @@
       <en>Start date is not specified!</en>
       <de>Startdatum ist nicht angegeben!</de>
       <ru>Не задана начальная дата!</ru>
-      <ua>Не задана початкова дата</ua>
+      <ua>Не задана початкова дата!</ua>
     </text>
     <text id="MsgOperationSuccessful">
       <en>The operation successfully completed.</en>
       <de>Die Operation wurde erfolgreich ausgeführt.</de>
       <ru>Операция выполнена успешно.</ru>
-      <ua>Операція виконана успішно</ua>
+      <ua>Операція виконана успішно.</ua>
     </text>
     <text id="MsgBulkDeleteConfirm">
       <en>Are you sure to perform this operation?</en>
       <de>Sind Sie sicher, dass Sie dies Operation ausführen möchten?</de>
       <ru>Вы уверены, что хотите выполнить данную операцию?</ru>
-      <ua>Ви упевнені, що хочете виконати цю операцію</ua>
+      <ua>Ви упевнені, що хочете виконати цю операцію?</ua>
     </text>
     <text id="UserAgreement">
       <en>User agreement</en>
       <de>Benutzervereinbarung</de>
       <ru>Пользовательское соглашение</ru>
-      <ua>Призначена для користувача угода</ua>
+      <ua>Угода з користувачем</ua>
     </text>
     <text id="Maintenance">
       <en>Maintenance</en>
@@ -5651,19 +5651,19 @@
       <en>The forum is currently under maintenance presumably until %s.</en>
       <de>Der Forum wird momentan gewartet, voraussichtlich bis %s.</de>
       <ru>Форум на обслуживании предположительно до %s.</ru>
-      <ua>Форум на обслуговуванні імовірно до </ua>
+      <ua>Форум на обслуговуванні імовірно до %s.</ua>
     </text>
     <text id="CreationLoading">
       <en>creation / loading</en>
       <de>Erstellen / Laden</de>
       <ru>созд. / загр.</ru>
-      <ua>созд. / загр</ua>
+      <ua>створ. / зав.</ua>
     </text>
     <text id="ErrMessageDoesNotExist">
       <en>Message with that ID (%s) does not exist!</en>
       <de>Nachricht mit dieser ID (%s) existiert nicht!</de>
       <ru>Сообщение с таким идентификатором (%s) не существует!</ru>
-      <ua>Сполучення з таким ідентифікатором ( не існує</ua>
+      <ua>Сполучення з таким ідентифікатором (%s) не існує!</ua>
     </text>
     <text id="EnterPassword">
       <en>Enter the password for login</en>
@@ -5687,7 +5687,7 @@
       <en>Are you sure to put the user '%s' to the ignore list?</en>
       <de>Sind Sie sicher, dass Sie den Benutzer '%s' in die Ignorier-Liste eintragen möchten?</de>
       <ru>Вы уверены, что хотите поместить пользователя '%s' в игнор-лист?</ru>
-      <ua>Ви упевнені, що хочете помістити користувача ' в ігнорування-лист</ua>
+      <ua>Ви упевнені, що хочете помістити користувача '%s' в ігнор-лист?</ua>
     </text>
     <text id="MsgPostsSelected">
       <en>Messages selected</en>
@@ -5699,7 +5699,7 @@
       <en>Topics selected</en>
       <de>Themen ausgewählt</de>
       <ru>Выбрано тем</ru>
-      <ua>Вибрано тим</ua>
+      <ua>Вибрано тем</ua>
     </text>
     <text id="Anonymous">
       <en>Anonymous</en>
@@ -5723,7 +5723,7 @@
       <en>No response from server or connection is broken!</en>
       <de>Keine antwort vom Server erhalten oder die Verbindung abgebrochen!</de>
       <ru>Нет ответа от сервера или прервано соединение!</ru>
-      <ua>Немає відповіді від сервера або перервано з'єднання</ua>
+      <ua>Немає відповіді від сервера або перервано з'єднання!</ua>
     </text>
     <text id="ErrRequestError">
       <en>An error occurred during request processing</en>
@@ -5735,13 +5735,13 @@
       <en>The forum or topic are closed for guests. The autorization is reuiqred!</en>
       <de>Der Forum oder Thema sind für die Gäste is geschlossen. Die Autorisierung is erforderlich!</de>
       <ru>Форум или тема закрыты для гостей. Необходима авторизация!</ru>
-      <ua>Форум або тема закриті для гостей. Потрібна авторизація</ua>
+      <ua>Форум або тема закриті для гостей. Потрібна авторизація!</ua>
     </text>
     <text id="OverYearInerval">
       <en>The interval between messages is over a year!</en>
       <de>Der Zeitraum zwichen der Nachrichten ist über ein Jahr!</de>
       <ru>Период между сообщениями больше года!</ru>
-      <ua>Період між повідомленнями більше року</ua>
+      <ua>Період між повідомленнями більше року!</ua>
     </text>
     <text id="SelectFile">
       <en>Select file</en>
@@ -5807,13 +5807,13 @@
       <en>Tags have been successfully deleted.</en>
       <de>Tags wurden erfolgreich gelöscht.</de>
       <ru>Тэги успешно удалены.</ru>
-      <ua>Теги успішно видалені</ua>
+      <ua>Теги успішно видалені.</ua>
     </text>
     <text id="MsgTagsMerged">
       <en>Tags have been successfully merged.</en>
       <de>Tags wurden erfolgreich verbunden.</de>
       <ru>Тэги успешно объединены.</ru>
-      <ua>Теги успішно об'єднані</ua>
+      <ua>Теги успішно об'єднані.</ua>
     </text>
     <text id="AddNewTag">
       <en>Add new tag</en>
@@ -5843,31 +5843,31 @@
       <en>A tag with that name already exists!</en>
       <de>Ein Tag mit diesem Namen existiert bereits!</de>
       <ru>Тэг с таким названием уже существует!</ru>
-      <ua>Тег з такою назвою вже існує</ua>
+      <ua>Тег з такою назвою вже існує!</ua>
     </text>
     <text id="MsgTagAdded">
       <en>The tag has been added.</en>
       <de>Der Tag wurde hinzugefügt.</de>
       <ru>Тэг добавлен.</ru>
-      <ua>Тег доданий</ua>
+      <ua>Тег доданий.</ua>
     </text>
     <text id="MsgTagChanged">
       <en>Tag name has been changed.</en>
       <de>Tagname wurde geändert.</de>
       <ru>Название тэга изменено.</ru>
-      <ua>Назва тега змінена</ua>
+      <ua>Назва тега змінена.</ua>
     </text>
     <text id="MsgConfirmTagsDelete">
       <en>Are you sure to delete the selected tags?</en>
       <de>Sind Sie sicher, dass Sie die ausgewählten Tags löschen möchten?</de>
       <ru>Вы уверены, что хотите удалить выбранные тэги?</ru>
-      <ua>Ви упевнені, що хочете видалити вибрані теги</ua>
+      <ua>Ви упевнені, що хочете видалити вибрані теги?</ua>
     </text>
     <text id="ErrMessageIgnoredOrDeleted">
       <en>Message with the ID (%s) is ignored or deleted!</en>
       <de>Nachricht mit der ID (%s) wird entweder ignoriert oder wurde gelöscht!</de>
       <ru>Сообщение с идентификатором (%s) либо игнорируется либо удалено!</ru>
-      <ua>Сполучення з ідентифікатором ( або ігнорується або видалене</ua>
+      <ua>Сполучення з ідентифікатором (%s) або ігнорується або видалене</ua>
     </text>
     <text id="Animation">
       <en>Animation</en>
@@ -5885,7 +5885,7 @@
       <en>The user is already the moderator or administrator of this forum and may moderate the topic!</en>
       <de>Der Benutzer ist bereits der Moderator oder der Administrator dieses Forums und kann das Thema moderieren!</de>
       <ru>Пользователь уже является модратором или администратором данного форума и может модерировать тему!</ru>
-      <ua>Користувач вже являється модратором або адміністратором цього форуму і може модерировать тему</ua>
+      <ua>Користувач вже являється модратором або адміністратором цього форуму і може модерировать тему!</ua>
     </text>
     <text id="File">
       <en>File</en>
@@ -5915,7 +5915,7 @@
       <en>Export file could not be created!</en>
       <de>Exportdatei kann nicht erstellt werden!</de>
       <ru>Ошибка при создании экспорт-файла!</ru>
-      <ua>Помилка при створенні экспорт-файла</ua>
+      <ua>Помилка при створенні экспорт-файла!</ua>
     </text>
     <text id="MsgSaveDataBeforeExport">
       <en>You have unsaved changes in the form. Save or reset it before export!</en>
@@ -5927,25 +5927,25 @@
       <en>Download file is not specified!</en>
       <de>Die herunterzuladende Datei ist nicht angegeben!</de>
       <ru>Не задан файл для скачивания!</ru>
-      <ua>Не заданий файл для скачування</ua>
+      <ua>Не заданий файл для скачування!</ua>
     </text>
     <text id="ErrDownloadFileDoesNotExists">
       <en>Download file does not exist!</en>
       <de>Die herunterzuladende Datei existiert nicht!</de>
       <ru>Файл для скачивания не существует!</ru>
-      <ua>Файл для скачування не існує</ua>
+      <ua>Файл для скачування не існує!</ua>
     </text>
     <text id="ErrUnknownDownloadRequest">
       <en>Unknown download request!</en>
       <de>Unbekannte Download-Anfrage!</de>
       <ru>Неизвестный запрос на скачивание файла!</ru>
-      <ua>Невідомий запит на скачування файлу</ua>
+      <ua>Невідомий запит на скачування файлу!</ua>
     </text>
     <text id="MsgProfileImportSuccess">
       <en>Profile has been successfully imported.</en>
       <de>Profil wurde erfolgreich importiert.</de>
-      <ru>Профиль успешно испортирован.</ru>
-      <ua>Профіль успішно испортирован</ua>
+      <ru>Профиль успешно импортирован.</ru>
+      <ua>Профіль успішно імпортовано.</ua>
     </text>
     <text id="ErrImportFileNotSpecified">
       <en>Import file is not specified!</en>
@@ -5957,13 +5957,13 @@
       <en>The specified file is invalid!</en>
       <de>Die angegebene Datei ist ungültig!</de>
       <ru>Заданный файл недействителен!</ru>
-      <ua>Заданий файл недійсний</ua>
+      <ua>Заданий файл недійсний!</ua>
     </text>
     <text id="MsgConfirmMarkRead">
       <en>Are you sure to mark the unread messages read?</en>
       <de>Sind Sie sicher, dass Sie die ungelesenen Nachrichten als gelesen markieren möchten?</de>
       <ru>Вы уверены, что хотите пометить непрочитанные сообщения прочитанными?</ru>
-      <ua>Ви упевнені, що хочете помітити непрочитані повідомлення прочитаними</ua>
+      <ua>Ви упевнені, що хочете помітити непрочитані повідомлення прочитаними?</ua>
     </text>
     <text id="SelectAll">
       <en>Select all</en>
@@ -6011,19 +6011,19 @@
       <en>The attachment id must be a valid number reference to a post with an attachment!</en>
       <de>Die Anhang-ID muss eine gültige numerische Referenz zu einer Nachricht mit einem Anhang sein!</de>
       <ru>Идентификатор вложения должен быть действительной числовой ссылкой на сообщение с вложением!</ru>
-      <ua>Ідентифікатор вкладення має бути дійсним числовим посиланням на сполучення з вкладенням</ua>
+      <ua>Ідентифікатор вкладення має бути дійсним числовим посиланням на сполучення з вкладенням!</ua>
     </text>
     <text id="ErrMessageAttachmentDoesNotExist">
       <en>Message with that ID (%s) does not exist or does not have the corresponding attachment!</en>
       <de>Nachricht mit dieser ID (%s) existiert nicht oder hat keinen entsprechenden Anhang!</de>
       <ru>Сообщение с таким идентификатором (%s) не существует, или у него отсутствует соответсвующее вложение!</ru>
-      <ua>Сполучення з таким ідентифікатором ( не існує, або у нього відсутнє соответсвующее вкладення</ua>
+      <ua>Сполучення з таким ідентифікатором (%s) не існує, або у нього відсутнє соответсвующее вкладення!</ua>
     </text>
     <text id="ErrMessageAttachmentNotProvided">
       <en>You do not have provided the corresponding attachment you try to referece!</en>
       <de>Sie haben den entsprechenden Anhang, den Sie referenzieren, nicht angegeben!</de>
       <ru>Вы не задали вложение, на которое пытаетесь ссылаться!</ru>
-      <ua>Ви не задали вкладення, на яке намагаєтеся посилатися</ua>
+      <ua>Ви не задали вкладення, на яке намагаєтеся посилатися!</ua>
     </text>
     <text id="of">
       <en>of</en>
