@@ -1415,13 +1415,13 @@
       <en><![CDATA[By performing the registration, I agree with the <a href='rules.php' target='_blank'>forum rules</a> and I accept the <a href='user_agreement.php' target='_blank'>user agreement</a>.]]></en>
       <de><![CDATA[Bei der Registrierung stimme ich den <a href='rules.php' target='_blank'>Forumregeln</a> der <a href='user_agreement.php' target='_blank'>Benutzervereinbarung</a> zu.]]></de>
       <ru><![CDATA[Регистрируясь на форуме, я выражаю свое согласие с <a href='rules.php' target='_blank'>правилами форума</a> и принимаю <a href='user_agreement.php' target='_blank'>пользовательское соглашение</a>.]]></ru>
-      <ua><![CDATA[Реєструючись на форумі, я виражаю свою згоду з <a href='rules.php' target='_ blank'>правилами форуму</a> і приймаю <a href='user _ agreement.php' target='_ blank'>призначена для користувача угода</a>]]></ua>
+      <ua><![CDATA[Реєструючись на форумі, я виражаю свою згоду з <a href='rules.php' target='_ blank'>правилами форуму</a> і приймаю <a href='user_agreement.php' target='_ blank'>призначена для користувача угода</a>]]></ua>
     </text>
     <text id="PostRulesAgreement">
       <en><![CDATA[By posting the message, I agree with the <a href='rules.php' target='_blank'>forum rules</a> and I accept the <a href='user_agreement.php' target='_blank'>user agreement</a>.]]></en>
       <de><![CDATA[Beim Absenden der Nachricht stimme ich den <a href='rules.php' target='_blank'>Forumregeln</a> und der <a href='user_agreement.php' target='_blank'>Benutzervereinbarung</a> zu.]]></de>
       <ru><![CDATA[Отправляя сообщение, я выражаю свое согласие с <a href='rules.php' target='_blank'>правилами форума</a> и принимаю <a href='user_agreement.php' target='_blank'>пользовательское соглашение</a>.]]></ru>
-      <ua><![CDATA[Відправляючи повідомлення, я виражаю свою згоду з <a href='rules.php' target='_ blank'>правилами форуму</a> і приймаю <a href='user _ agreement.php' target='_ blank'>призначена для користувача угода</a>]]></ua>
+      <ua><![CDATA[Відправляючи повідомлення, я виражаю свою згоду з <a href='rules.php' target='_ blank'>правилами форуму</a> і приймаю <a href='user_agreement.php' target='_ blank'>призначена для користувача угода</a>]]></ua>
     </text>
     <text id="ErrAgreementRequired">
       <en>You have to read and accept the rules of the forum and the user agreement!</en>
@@ -4451,7 +4451,7 @@
       <ru>Если вы хотите поменять информацию для соединения с базой данных, вам необходимо
       отредактировать конфигурационный файл 'include/config_inc.php'.</ru>
       <ua>Якщо ви хочете поміняти інформацію для з'єднання з базою даних, вам необхідно
- відредагувати конфігураційний файл 'include/config _ inc.php'</ua>
+ відредагувати конфігураційний файл 'include/config_inc.php'</ua>
     </text>
     <text id="InstallDeniedComment3">
       <en>To force the installation, set the administrator password to empty in the config file.</en>
@@ -4459,7 +4459,7 @@
       <ru>Чтобы повторно провести инсталяцию, вам необходимо удалить
       пароль администратора в конфигурационном файле.</ru>
       <ua>Щоб повторно провести инсталяцию, вам необхідно видалити
- пароль адміністратора в конфігураційному файлі</ua>
+ пароль адміністратора в конфігураційному файлі.</ua>
     </text>
     <text id="InstallMasterAdminComment">
       <en>The system has a built-in account for the Master Administrator 'admin'. This user has full rights in the application and can log in even if there is no valid database connection available. Regular users are stored in the database and can log in only if there is a valid database connection.</en>
@@ -4469,7 +4469,7 @@
       для них вход в систему возможен, только если есть соединение с базой данных.</ru>
       <ua>В системі заданий зумовлений майстер-адміністратор 'admin'. Цей користувач має усі права в додатку і може увійти до системи, навіть
  якщо відсутнє з'єднання з базою даних. Звичайні користувачі зберігаються у базі даних, тому
- для них вхід в систему можливий, тільки якщо є з'єднання з базою даних</ua>
+ для них вхід в систему можливий, тільки якщо є з'єднання з базою даних/</ua>
     </text>
     <text id="OnlyFound">
       <en>only found</en>
@@ -4481,61 +4481,61 @@
       <en>Prefix name is not valid. Only the following character are allowed: a-z, 0-9 and underscore '_'!</en>
       <de>Präfixname ist ungültig. Nur folgende Zeichen sind erlaubt: a-z, 0-9 und Unterstrich '_'!</de>
       <ru>Префикс недействителен. Допускаются только следующие символы: a-z, 0-9 и подчеркивание '_'!</ru>
-      <ua>Префікс недійсний. Допускаються тільки наступні символи: a - z, 0-9 і підкреслення '_'</ua>
+      <ua>Префікс недійсний. Допускаються тільки наступні символи: a-z, 0-9 і підкреслення '_'!</ua>
     </text>
     <text id="InstallSuccessComment">
       <en>The application has been successfully installed. Now, you can adjust further settings and create the forums.</en>
       <de>Die Anwendung wurde erfolgreich installiert. Nun könen Sie weitere Einstellungen vornehmen und die Foren amlegen.</de>
       <ru>Приложение успешно установлено. Теперь вы можете задать дополнительные настройки и создать форумы.</ru>
-      <ua>Додаток успішно встановлений. Тепер ви можете задати додаткові налаштування і створити форуми</ua>
+      <ua>Додаток успішно встановлений. Тепер ви можете задати додаткові налаштування і створити форуми/</ua>
     </text>
     <text id="ErrDbPrefixUsed">
       <en>The prefix '%s' seems to be already used. Choose another prefix for this installation!</en>
       <de>Die Präfix '%s' scheint bereits verwandt zu sein. Wählen Sie bitte eine andere Präfix für diese Installation!</de>
       <ru>Префикс '%s' уже используется. Выберите другой префикс для этой инсталляции!</ru>
-      <ua>Префікс ' вже використовується. Виберіть інший префікс для цієї інсталяції</ua>
+      <ua>Префікс '%s' вже використовується. Виберіть інший префікс для цієї інсталяції!</ua>
     </text>
     <text id="ErrReadingFile">
       <en>The application has no read access to the file '%s'. Check the privileges of the application and the WEB server on this file and on the target directory!</en>
       <de>Die Anwendung hat keinen Lesezugriff auf die Datei '%s'. Bitte überprüfen Sie die Rechte der Anwendung und des WEB-Servers auf die Datei und auf das Zielverzeichnis!</de>
       <ru>У приложения нет доступа на чтение к файлу '%s'. Проверьте права приложения и веб-сервера на данный файл и на целевой каталог!</ru>
-      <ua>У додатка немає доступу на читання до файлу '. Перевірте права додатка і веб-сервера на цей файл і на цільовий каталог</ua>
+      <ua>У додатка немає доступу на читання до файлу %s'. Перевірте права додатка і веб-сервера на цей файл і на цільовий каталог!</ua>
     </text>
     <text id="ErrWritingFile">
       <en>The application was unable to write the file '%s'. Check the privileges of the application and the WEB server on this file and on the target directory!</en>
       <de>Die Anwendung konnte die Datei '%s' nicht beschreiben. Bitte überprüfen Sie die Rechte der Anwendung und des WEB-Servers auf die Datei und auf das Zielverzeichnis!</de>
       <ru>Запись файла '%s' не удалась. Проверьте права приложения и веб-сервера на данный файл и на целевой каталог!</ru>
-      <ua>Запис файлу ' не вдався. Перевірте права додатка і веб-сервера на цей файл і на цільовий каталог</ua>
+      <ua>Запис файлу '%s' не вдався. Перевірте права додатка і веб-сервера на цей файл і на цільовий каталог</ua>
     </text>
     <text id="MsgSearchResultsExpires">
       <en>The search results are no more valid. Make the search again!</en>
       <de>Die Suchergebnisse sind nicht mehr gültig. Bitte tätigen die Suche erneut!</de>
       <ru>Результаты поиска больше недействительны, выполните поиск снова!</ru>
-      <ua>Результати пошуку більше недійсні, виконаєте пошук знову</ua>
+      <ua>Результати пошуку більше недійсні, виконайте пошук знову!</ua>
     </text>
     <text id="MsgMessagesNotFound">
       <en>No messages are found!</en>
       <de>Keine Nachrichten wurden gefunden!</de>
       <ru>Сообщений не найдено!</ru>
-      <ua>Повідомлень не знайдено</ua>
+      <ua>Повідомлень не знайдено!</ua>
     </text>
     <text id="MsgDemoMode">
       <en>The forum works in the demo mode. This operation was not actually performed!</en>
       <de>Das Forum funktioniert in Demomodus. Diese Aktion wurde nicht wirklich ausgeführt!</de>
       <ru>Форум работает в демонстрационном режиме. Данная операция не была выполнена!</ru>
-      <ua>Форум працює в демонстраційному режимі. Ця операція не була виконана</ua>
+      <ua>Форум працює в демонстраційному режимі. Ця операція не була виконана!</ua>
     </text>
     <text id="ErrMergetoItself">
       <en>The topic cannot be merged to itslef!</en>
       <de>Das Thema kann nicht mit sich selbst verbunden werden!</de>
       <ru>Тема не может быть объединена с самой собой!</ru>
-      <ua>Тема не може бути об'єднана з самою собою</ua>
+      <ua>Тема не може бути об'єднана з самою собою!</ua>
     </text>
     <text id="ErrMergeDeletedOrTransferred">
       <en>The target topic for merging is either deleted or has been already merged to other topic!</en>
       <de>Das Zielthema zum Verbinden wurde entweder gelöscht oder bereits mit einem anderen Thema verbunden!</de>
       <ru>Целевая тема для объединения была удалена или уже объединена с другой темой!</ru>
-      <ua>Цільова тема для об'єднання була видалена або вже об'єднана з іншою темою</ua>
+      <ua>Цільова тема для об'єднання була видалена або вже об'єднана з іншою темою!</ua>
     </text>
     <text id="NoHighlighting">
       <en>No highlighting</en>
@@ -4571,13 +4571,13 @@
       <en>Specify at least two poll options!</en>
       <de>Sie müssen mindestens ywei Optionen festlegen!</de>
       <ru>Необходимо задать минимум два варианта ответа!</ru>
-      <ua>Необхідно задати мінімум два варіанти відповіді</ua>
+      <ua>Необхідно задати мінімум два варіанти відповіді!</ua>
     </text>
     <text id="ErrTooManyPollOptions">
       <en>You can define no more than %s options!</en>
       <de>Sie können nicht mehr als %s Optionen festlegen!</de>
       <ru>Вы можете задать не более %s вариантов ответа!</ru>
-      <ua>Ви можете задати не більше за варіанти відповіді</ua>
+      <ua>Ви можете задати не більше %s за варіанти відповіді!</ua>
     </text>
     <text id="IgnoreList">
       <en>Ignore list</en>
@@ -4619,25 +4619,25 @@
       <en>Messages that the member %s has liked</en>
       <de>Die Nachrichten, die der Teilnehmer %s geliket hat</de>
       <ru>Сообщения, которым участник %s поставил лайк</ru>
-      <ua>Повідомлення, яким учасник поставив лайк</ua>
+      <ua>Повідомлення, яким учасник %s поставив лайк</ua>
     </text>
     <text id="MessagesMemberWasLiked">
       <en>Messages of the member %s that have been liked</en>
       <de>Die Nachrichten vom Teilnehmer %s, die geliket wurden</de>
       <ru>Сообщения участника %s, за которые поставили лайк</ru>
-      <ua>Повідомлення учасника за які поставили лайк</ua>
+      <ua>Повідомлення учасника %s, за які поставили лайк</ua>
     </text>
     <text id="MessagesMemberWasDisliked">
       <en>Messages of the member %s that have been disliked</en>
       <de>Die Nachrichten vom Teilnehmer %s, die disgeliket wurden</de>
       <ru>Сообщения участника %s, за которые поставили дизлайк</ru>
-      <ua>Повідомлення учасника за які поставили дизлайк</ua>
+      <ua>Повідомлення учасника %s, за які поставили дизлайк</ua>
     </text>
     <text id="MessagesMemberWasLikedBy">
       <en>Messages of the member %s that were liked by the member %s</en>
       <de>Die Nachrichten vom Teilnehmer %s, die vom Teilnehmer %s geliket wurden</de>
       <ru>Сообщения участника %s, за которые поставил лайк участник %s</ru>
-      <ua>Повідомлення учасника за які поставив лайк учасник</ua>
+      <ua>Повідомлення учасника %s, за які поставив лайк учасник %s</ua>
     </text>
     <text id="DislikeStatistics">
       <en>Dislike statistics</en>
@@ -4661,7 +4661,7 @@
       <en>Messages of the member %s that were disliked by the member %s</en>
       <de>Die Nachrichten vom Teilnehmer %s, die vom Teilnehmer %s disliket wurden</de>
       <ru>Сообщения участника %s, за которые поставил дизлайк участник %s</ru>
-      <ua>Повідомлення учасника за які поставив дизлайк учасник</ua>
+      <ua>Повідомлення учасника %s, за які поставив дизлайк учасник %s</ua>
     </text>
     <text id="Events">
       <en>Events</en>
@@ -4733,7 +4733,7 @@
       <en>The member {member} has written a reply {message} to your message {citated_message} in the topic {topic}.</en>
       <de>Der Teilnehmer {member} hat auf Ihre Nachricht eine Antwort {citated_message} im Thema {topic} geschrieben.</de>
       <ru>Участник {member} написал ответ {message} на ваше сообщение {citated_message} в теме {topic}.</ru>
-      <ua>Учасник {member} написав відповідь {message} на ваше повідомлення {citated _ message} у темі {topic}</ua>
+      <ua>Учасник {member} написав відповідь {message} на ваше повідомлення {citated_message} у темі {topic}</ua>
     </text>
     <text id="MsgEventPrivateInvitation">
       <en>The author {member} has invited you into the private topic {topic}.</en>
@@ -4835,13 +4835,13 @@
       <en>The moderator {author} has deleted your message {message} from {post_date} in the topic {topic} on the forum {forum}.</en>
       <de>Der Moderator {author} hat Ihre Nachricht {message} vom {post_date} im Thema {topic} auf dem Forum {forum} gelöscht.</de>
       <ru>Модератор {author} удалил ваше сообщение {message} от {post_date} в теме {topic} на форуме {forum}.</ru>
-      <ua>Модератор {author} видалив ваше повідомлення {message} від {post _ date} у темі {topic} на форумі {forum}</ua>
+      <ua>Модератор {author} видалив ваше повідомлення {message} від {post_date} у темі {topic} на форумі {forum}</ua>
     </text>
     <text id="MsgEventMessageDeletedAnonym">
       <en>Your message {message} from {post_date} has been deleted in the topic {topic} on the forum {forum}.</en>
       <de>Ihre Nachricht {message} vom {post_date} wurde im Thema {topic} auf dem Forum {forum} gelöscht.</de>
       <ru>Ваше сообщение {message} от {post_date} было удалено в теме {topic} на форуме {forum}.</ru>
-      <ua>Ваше повідомлення {message} від {post _ date} було видалено в темі {topic} на форумі {forum}</ua>
+      <ua>Ваше повідомлення {message} від {post_date} було видалено в темі {topic} на форумі {forum}</ua>
     </text>
     <text id="MsgEventTopicDeleted">
       <en>The moderator {author} has deleted your topic {topic} on the forum {forum}.</en>
@@ -4991,13 +4991,13 @@
       <en>The moderator {member} has deleted the last {cnt} rates of the member {liked_user_name} for your messages.</en>
       <de>Der Moderator {member} hat die letzten {cnt} Bewertungen des Teilnehmers {liked_user_name} für Ihre Nachrichten gelöscht.</de>
       <ru>Модератор {member} удалил последние {cnt} оценок пользователя {liked_user_name} на ваши сообщения.</ru>
-      <ua>Модератор {member} видалив останні {cnt} оцінок користувача {liked _ user _ name} на ваші повідомлення</ua>
+      <ua>Модератор {member} видалив останні {cnt} оцінок користувача {liked_user_name} на ваші повідомлення</ua>
     </text>
     <text id="MsgEventPostRatesDeletedAnonym">
       <en>The last {cnt} rates of the member {liked_user_name} for your messages have been deleted.</en>
       <de>Die letzten {cnt} Bewertungen des Teilnehmers {liked_user_name} für Ihre Nachrichten wurden gelöscht.</de>
       <ru>Удалены последние {cnt} оценок пользователя {liked_user_name} на ваши сообщения.</ru>
-      <ua>Видалені останні {cnt} оцінок користувача {liked _ user _ name} на ваші повідомлення</ua>
+      <ua>Видалені останні {cnt} оцінок користувача {liked_user_name} на ваші повідомлення</ua>
     </text>
     <text id="MsgEventTopicMoved">
       <en>The moderator {author} has moved your topic {topic} from the forum {source_forum} to the forum {target_forum}.</en>
@@ -5357,7 +5357,7 @@
       <en>The member has no more rates in the forums under your moderation!</en>
       <de>Der Teilnehmer hat keine Bewertungen mehr in den von Ihnen zu moderierenden Foren!</de>
       <ru>У участника больше нет оценок в модерируемых вами форумах!</ru>
-      <ua>У учасника більше немає оцінок в модерируемых вами форумах!</ua>
+      <ua>У учасника більше немає оцінок в модеруємих вами форумах!</ua>
     </text>
     <text id="Statistics">
       <en>Statistics</en>
@@ -5717,7 +5717,7 @@
       <en>The timeout period for server connection elapsed (%s seconds)!</en>
       <de>Wartezeit beim Verbindungsaufbau ist abgelaufen (%s Sekunden)!</de>
       <ru>Истекло время ожидания ответа от сервера (%s секунд)!</ru>
-      <ua>Витік час очікування відповіді від сервера (секунд) </ua>
+      <ua>Витік час очікування відповіді від сервера (%s секунд)!</ua>
     </text>
     <text id="ErrNoServerResponse">
       <en>No response from server or connection is broken!</en>
@@ -5867,7 +5867,7 @@
       <en>Message with the ID (%s) is ignored or deleted!</en>
       <de>Nachricht mit der ID (%s) wird entweder ignoriert oder wurde gelöscht!</de>
       <ru>Сообщение с идентификатором (%s) либо игнорируется либо удалено!</ru>
-      <ua>Сполучення з ідентифікатором (%s) або ігнорується або видалене</ua>
+      <ua>Сполучення з ідентифікатором (%s) або ігнорується або видалене!</ua>
     </text>
     <text id="Animation">
       <en>Animation</en>
@@ -5921,7 +5921,7 @@
       <en>You have unsaved changes in the form. Save or reset it before export!</en>
       <de>Sie haben ungespeicherte Änderungen im Formular. Speichern Sie oder verwerfen diese vor dem Export!</de>
       <ru>У вас есть несохраненные изменения в формуляре. Сохраните или отмените их перед экспортом!</ru>
-      <ua>У вас є незбережені зміни у формулярі. Збережіть або відмініть їх перед експортом</ua>
+      <ua>У вас є незбережені зміни у формулярі. Збережіть або відмініть їх перед експортом!</ua>
     </text>
     <text id="ErrDownloadFileNotSpecified">
       <en>Download file is not specified!</en>
@@ -5999,7 +5999,7 @@
       <en>You cannot leave the own moderated private topic!</en>
       <de>Sie können nicht das eigene moderierte private Thema verlassen!</de>
       <ru>Вы не можете покинуть собственную модерируемую приватную тему!</ru>
-      <ua>Ви не можете покинути власну модерируемую приватну тему</ua>
+      <ua>Ви не можете покинути власну модерируемую приватну тему!</ua>
     </text>
     <text id="ShowEmbeddedVideo">
       <en>Embedded Video, click to view</en>
@@ -6035,13 +6035,13 @@
       <en>Too many results. Only %s of %s found topics are shown!</en>
       <de>Zu viele Ergebnisse. Nur %s von %s gefundenen Themen sind angezeigt!</de>
       <ru>Слишком много результатов. Показаны только %s из %s тем!</ru>
-      <ua>Надто багато результатів. Показані тільки %s з %s тем</ua>
+      <ua>Надто багато результатів. Показані тільки %s з %s тем!</ua>
     </text>
     <text id="MsgNotAllFoundPostsShown">
       <en>Too many results. Only %s of %s found messages shown!</en>
       <de>Zu viele Ergebnisse. Nur %s von %s gefundenen Nachrichten sind angezeigt!</de>
       <ru>Слишком много результатов. Показаны только %s из %s сообщений!</ru>
-      <ua>Надто багато результатів. Показані тільки %s з %s повідомлень</ua>
+      <ua>Надто багато результатів. Показані тільки %s з %s повідомлень!</ua>
     </text>
   </texts>
 </document>
