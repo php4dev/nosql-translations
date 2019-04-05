@@ -110,7 +110,45 @@ public class Nosql {
             } catch (Exception ex) {
                 System.out.println(file.getPath() + " - " + ex.getMessage());
             }
-        }
+        } else if ("jsontoxml".equals(mode)) {
+            File file = new File(sourceFileOrPath);
+            File fileEn = new File(sourceFileOrPath.replaceFirst("\\.xml$", "-en.json"));
+            File fileDe = new File(sourceFileOrPath.replaceFirst("\\.xml$", "-de.json"));
+            File fileRu = new File(sourceFileOrPath.replaceFirst("\\.xml$", "-ru.json"));
+            File fileUa = new File(sourceFileOrPath.replaceFirst("\\.xml$", "-ua.json"));
+            try {
+                final byte[] bytes = Files.readAllBytes(Paths.get(file.getAbsolutePath(), new String[0]));
+                String text = new String(removeBom(bytes), StandardCharsets.UTF_8);
+                Map<String, Object> result = (Map<String, Object>) Xml.fromXml(text);
+                List<Map<String, Object>> texts = (List<Map<String, Object>>) U.get(result, "document.texts.text");
+
+                final byte[] bytesEn = Files.readAllBytes(Paths.get(fileEn.getAbsolutePath(), new String[0]));
+                String textEn = new String(bytesEn, StandardCharsets.UTF_8);
+                final byte[] bytesDe = Files.readAllBytes(Paths.get(fileDe.getAbsolutePath(), new String[0]));
+                String textDe = new String(bytesDe, StandardCharsets.UTF_8);
+                final byte[] bytesRu = Files.readAllBytes(Paths.get(fileRu.getAbsolutePath(), new String[0]));
+                String textRu = new String(bytesRu, StandardCharsets.UTF_8);
+                final byte[] bytesUa = Files.readAllBytes(Paths.get(fileUa.getAbsolutePath(), new String[0]));
+                String textUa = new String(bytesUa, StandardCharsets.UTF_8);
+                List<Map<String, Object>> resultEn = (List<Map<String, Object>>) Json.fromJson(textEn);
+                List<Map<String, Object>> resultDe = (List<Map<String, Object>>) Json.fromJson(textDe);
+                List<Map<String, Object>> resultRu = (List<Map<String, Object>>) Json.fromJson(textRu);
+                List<Map<String, Object>> resultUa = (List<Map<String, Object>>) Json.fromJson(textUa);
+                int index = 0;
+                for (Map<String, Object> textItem : texts) {
+                    textItem.put("-id", resultEn.get(index).get("-id"));
+                    textItem.put("en", resultEn.get(index).get("en"));
+                    textItem.put("de", resultDe.get(index).get("de"));
+                    textItem.put("ru", resultRu.get(index).get("ru"));
+                    textItem.put("ua", resultUa.get(index).get("ua"));
+                    index += 1;
+                }
+                final Path pathTarget = Paths.get("", new String[] { targetFileOrPath });
+                Files.write(pathTarget, Xml.toXml(result).getBytes(StandardCharsets.UTF_8));
+            } catch (Exception ex) {
+                System.out.println(file.getPath() + " - " + ex.getMessage());
+            }
+         }
     }
 
     private static byte[] removeBom(byte[] bytes) {
