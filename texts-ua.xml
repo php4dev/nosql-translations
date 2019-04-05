@@ -396,7 +396,7 @@
       <en>You are not allowed to perform this action!</en>
       <de>Sie sind nicht berechtigt, diese Aktion durchzuführen!</de>
       <ru>У вас нет прав на выполнение данной операции!</ru>
-      <ua>У вас немає правий на виконання цієї операції!</ua>
+      <ua>У вас немає прав на виконання цієї операції!</ua>
     </text>
     <text id="ErrWrongHashCode">
       <en>The protection hash code is invalid or the session has expired. Action is not permitted!</en>
