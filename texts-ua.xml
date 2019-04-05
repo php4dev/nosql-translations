@@ -1059,7 +1059,7 @@
       <en>You are not allowed to post or rate messages on the forum '%s' due to the following restrictions</en>
       <de>Sie dürfen keine Nachrichten auf dem Forum '%s' wegen folgenden Einschränkungen hinterlassen oder bewerten</de>
       <ru>Вам не разрешено оставлять или оценивать сообщения на форуме '%s' из-за следующих ограничений</ru>
-      <ua>Вам не дозволено залишати або оцінювати повідомлення на форумі ' із-за наступних обмежень</ua>
+      <ua>Вам не дозволено залишати або оцінювати повідомлення на форумі '%s' із-за наступних обмежень</ua>
     </text>
     <text id="MaxAttachmentSize">
       <en>Maximal attachment size</en>
@@ -1107,7 +1107,7 @@
       <en>Maximal number of complains per day</en>
       <de>Maximale Anzahl der Beschwerden pro Tag</de>
       <ru>Максимальное количество жалоб в сутки</ru>
-      <ua>Максимальна кількість скарг в добу</ua>
+      <ua>Максимальна кількість скарг за добу</ua>
     </text>
     <text id="MaxSymbolsUserName">
       <en>Maximal number of symbols in the user name</en>
@@ -1245,13 +1245,13 @@
       <en>The file '%s' does not exist!</en>
       <de>Die Datei '%s' existiert nicht!</de>
       <ru>Файл '%s' не существует!</ru>
-      <ua>Файл ' не існує</ua>
+      <ua>Файл '%s' не існує</ua>
     </text>
     <text id="ErrEmailTemplateInvalid">
       <en>The e-mail template '%s' is invalid!</en>
       <de>Das E-Mail-Template '%s' ist ungültig!</de>
       <ru>Шаблон электронного сообщения '%s' недействителен!</ru>
-      <ua>Шаблон електронного повідомлення ' недійсний</ua>
+      <ua>Шаблон електронного повідомлення '%s' недійсний</ua>
     </text>
     <text id="ErrMailFailed">
       <en>Sending of e-mail failed!</en>
@@ -1397,7 +1397,7 @@
       <en>This e-mail domain '%s' is not allowed for registration!</en>
       <de>Dieses E-Mail-Domain '%s' ist für die Registrierung nicht erlaubt!</de>
       <ru>Данный мейл-домен '%s' не разрешается для регистрации!</ru>
-      <ua>Цей мейл-домен ' не дозволяється для реєстрації</ua>
+      <ua>Цей мейл-домен '%s' не дозволяється для реєстрації</ua>
     </text>
     <text id="ErrUserEmailInUseShort">
       <en>This e-mail address is already used!</en>
@@ -1527,7 +1527,7 @@
       <en>The e-mail '%s' is not associated with any account!</en>
       <de>Die E-Mail-Adresse '%s' ist mit keinem Benutzerkonto verbunden!</de>
       <ru>Электронный адрес '%s' не связан ни с какой учетной записью!</ru>
-      <ua>Електронна адреса ' не пов'язана ні з яким обліковим записом</ua>
+      <ua>Електронна адреса '%s' не пов'язана ні з яким обліковим записом</ua>
     </text>
     <text id="MsgPasswordRestore">
       <en>The e-mail with the instructions how to reset your password has been sent to the specified address.</en>
@@ -1749,7 +1749,7 @@
       <en>The file '%s' is not an Internet suitable picture!</en>
       <de>Die Datei '%s' ist kein für Internet passendes Bild!</de>
       <ru>Файл '%s' не является картинкой? пригодной для Интернета!</ru>
-      <ua>Файл ' не є картинкою? придатною для Інтернету</ua>
+      <ua>Файл '%s' не є картинкою? придатною для Інтернету</ua>
     </text>
     <text id="EditUser">
       <en>Edit user</en>
@@ -1887,7 +1887,7 @@
       <en>Are you sure to block the user '%s' in this topic?</en>
       <de>Sind Sie sicher, dass Sie den Teilnehmner '%s' in diesem Thema blockieren möchten?</de>
       <ru>Вы уверены, что заблокировать пользователя '%s' в данной теме?</ru>
-      <ua>Ви упевнені, що заблокувати користувача ' в цій темі</ua>
+      <ua>Ви упевнені, що заблокувати користувача '%s' в цій темі</ua>
     </text>
     <text id="PhysicalDeletion">
       <en>Delete physically</en>
@@ -2685,13 +2685,13 @@
       <en>Are you sure to delete the messages of the author '%s' in this topic?</en>
       <de>Sind Sie sicher, dass Sie die Nachrichten des Autoren '%s' in diesem Thema löschen möchten?</de>
       <ru>Вы уверены, что хотите удалить сообщения автора '%s' в данной теме?</ru>
-      <ua>Ви упевнені, що хочете видалити повідомлення автора ' в цій темі</ua>
+      <ua>Ви упевнені, що хочете видалити повідомлення автора '%s' в цій темі</ua>
     </text>
     <text id="MsgConfirmPostsInForumDelete">
       <en>Are you sure to delete the messages of the author '%s' in this forum?</en>
       <de>Sind Sie sicher, dass Sie die Nachrichten des Autoren '%s' in diesem Forum löschen möchten?</de>
       <ru>Вы уверены, что хотите удалить сообщения автора '%s' в данном форуме?</ru>
-      <ua>Ви упевнені, що хочете видалити повідомлення автора ' в цьому форумі</ua>
+      <ua>Ви упевнені, що хочете видалити повідомлення автора '%s' в цьому форумі</ua>
     </text>
     <text id="MsgConfirmAllPostsDelete">
       <en>Are you sure to delete all messages of the author '%s'?</en>
@@ -2715,13 +2715,13 @@
       <en>Are you sure to make the member '%s' a topic moderator?</en>
       <de>Sind Sie sicher, dass Sie den Teilnehmer '%s' zum Themamoderatoren machen möchten?</de>
       <ru>Вы уверены, что хотите назначить участника '%s' модератором темы?</ru>
-      <ua>Ви упевнені, що хочете призначити учасника ' модератором теми</ua>
+      <ua>Ви упевнені, що хочете призначити учасника '%s' модератором теми</ua>
     </text>
     <text id="MsgConfirmRemoveFromTopicModerator">
       <en>Are you sure to revoke the topic modearator status from the member '%s'?</en>
       <de>Sind Sie sicher, dass Sie dem Teilnehmer '%s' den Status des Themamoderatoren wegnehmen möchten?</de>
       <ru>Вы уверены, что хотите забрать у участника '%s' статус модератора темы?</ru>
-      <ua>Ви упевнені, що хочете забрати у учасника ' статус модератора теми</ua>
+      <ua>Ви упевнені, що хочете забрати у учасника '%s' статус модератора теми</ua>
     </text>
     <text id="ErrNoUserSelected">
       <en>No user has been selected!</en>
@@ -3843,7 +3843,7 @@
       <en>The attachment '%s' is too large (%s)! The maximal attachment size is %s.</en>
       <de>Der Anhang '%s' ist zu groß (%s)! Die maximale Anhangsgröße ist %s.</de>
       <ru>Размер вложения '%s' слишком большой (%s)! Макcимальный размер вложений %s.</ru>
-      <ua>Розмір вкладення ' занадто великий (! Макcимальный розмір вкладень </ua>
+      <ua>Розмір вкладення '%s' занадто великий (! Макcимальный розмір вкладень </ua>
     </text>
     <text id="ErrFileProcessing">
       <en>Error by processing file '%s'!</en>
@@ -3897,19 +3897,19 @@
       <en>Your account has been blocked for writing on the forum '%s' until %s! You can view the reason in your profile.</en>
       <de>Ihr Benutzerkonto wurde auf dem Forum '%s' bis zum '%s' blockiert! Sie können den Grund in Ihrem Profil einsehen.</de>
       <ru>Ваша учетная запись заблокирована на запись на форуме '%s' до %s! Вы можете посмотреть причину блокировки в вашем профиле.</ru>
-      <ua>Ваш обліковий запис заблокований на запис на форумі ' до Ви можете подивитися причину блокування у вашому профілі</ua>
+      <ua>Ваш обліковий запис заблокований на запис на форумі '%s' до Ви можете подивитися причину блокування у вашому профілі</ua>
     </text>
     <text id="ErrIPIsBlocked">
       <en>Your IP address [%s] has been blocked! If you suppose it is a mistake, please contact the administration of the forum over the menu "Contact" or register an account.</en>
       <de>Ihre IP-Adresse [%s] wurde blockiert! Wenn Sie meinen, dass es sich um eine Fehlblockierung handlet, bitte setzten Sie sich mit der Forumadministration in Verbindung über den Menüpunkt "Kontakt" oder registrieren Sie sich.</de>
       <ru>Ваш IP-адрес [%s] заблокирован! Если вы считаете блокировку ошибочной, свяжитесь с администрацией форума через пункт меню "Контакт" или зарегистрируйтесь.</ru>
-      <ua>Ваш IP- адреса [ заблокований! Якщо ви вважаєте блокування помилковим, зв'яжіться з адміністрацією форуму через пункт меню "Контакт" чи зареєструйтеся</ua>
+      <ua>Ваш IP- адреса [%s] заблокований! Якщо ви вважаєте блокування помилковим, зв'яжіться з адміністрацією форуму через пункт меню "Контакт" чи зареєструйтеся</ua>
     </text>
     <text id="ErrIPIsBlockedUntil">
       <en>Your IP address [%s] has been blocked until %s! Time remaining: %s. If you suppose it is a mistake, please contact the administration of the forum over the menu "Contact" or register an account.</en>
       <de>Ihre IP-Adresse [%s] wurde bis zum %s blockiert! Zeit verblieben: %s. Wenn Sie meinen, dass es sich um eine Fehlblockierung handlet, bitte setzten Sie sich mit der Forumadministration in Verbindung über den Menüpunkt "Kontakt" oder registrieren Sie sich.</de>
       <ru>Ваш IP-адрес [%s] заблокирован до %s! Осталось времени: %s. Если вы считаете блокировку ошибочной, свяжитесь с администрацией форума через пункт меню "Контакт" или зарегистрируйтесь.</ru>
-      <ua>Ваш IP- адреса [ заблокований до Залишилося часу: Якщо ви вважаєте блокування помилковим, зв'яжіться з адміністрацією форуму через пункт меню "Контакт" чи зареєструйтеся</ua>
+      <ua>Ваш IP- адреса [%s] заблокований до Залишилося часу: Якщо ви вважаєте блокування помилковим, зв'яжіться з адміністрацією форуму через пункт меню "Контакт" чи зареєструйтеся</ua>
     </text>
     <text id="ErrUserMarkerIsBlocked">
       <en>You have been blocked! If you suppose it is a mistake, please contact the administration of the forum over the menu "Contact" or register an account.</en>
@@ -3945,7 +3945,7 @@
       <en>You have exceeded the limit (%s complains per day)! Try to complain a little later.</en>
       <de>Sie haben das Limit (%s Beschwerden pro Tag) überschritten! Bitte versuchen Sie es etwas später, zu beschwerden.</de>
       <ru>Вы превысили лимит (%s жалоб в сутки)! Попытайтесь отправить новую жалобу немного позже.</ru>
-      <ua>Ви перевищили ліміт (скарг в добу)! Спробуйте відправити нову скаргу трохи пізніше</ua>
+      <ua>Ви перевищили ліміт (%s скарг за добу)! Спробуйте відправити нову скаргу трохи пізніше.</ua>
     </text>
     <text id="ErrRateLimitExceeded">
       <en>You have exceeded the limit (%s rating actions for an user per hour)! Try it again a little later.</en>
@@ -3981,13 +3981,13 @@
       <en>You do not have the access to this private topic! The author has either not yet added you to this private discussion, or he has removed you from it.</en>
       <de>Sie haben keinen Zugang zu diesem privaten Thema! Der Autor hat entweder Sie noch nicht in die private Diskussion mitreingenommen, oder er hat Sie aus der Diskussion rausgenommen.</de>
       <ru>У вас нет доступа в данную приватную тему! Автор либо вас еще не добавил в приватную дискуссию, либо удалил из нее.</ru>
-      <ua>У вас немає доступу в цю приватну тему! Автор або вас ще не додав в приватну дискусію, або видалив з неї</ua>
+      <ua>У вас немає доступу в цю приватну тему! Автор або вас ще не додав в приватну дискусію, або видалив з неї.</ua>
     </text>
     <text id="ErrUserNoPrivateMessages">
       <en>The private message cannot be sent because the member %s has turned the private messages off!</en>
       <de>Die Private Nachricht kann nicht gesendet werden, weil der Teilnehmer %s die privaten Nachrichten abgeschaltet hat!</de>
       <ru>Личное сообщение не может быть отправлено, поскольку участник %s отключил личные сообщения!</ru>
-      <ua>Особисте повідомлення не може бути відправлене, оскільки учасник відключив особисті повідомлення</ua>
+      <ua>Особисте повідомлення не може бути відправлене, оскільки учасник відключив особисті повідомлення!</ua>
     </text>
     <text id="ErrUserIgnored">
       <en>The member %s has put you to the ignore list!</en>
@@ -4017,13 +4017,13 @@
       <en>Are you sure to leave the topic? After leaving, you will not be able to come back to the topic by yourself!</en>
       <de>Sind Sie sicher, dass Sie das Thema verlassen möchten? Nach dem Verlassen werden Sie keine Möglichkeit haben, selbst in das Thema zurückzukehren!</de>
       <ru>Вы уверены, что хотите покинуть тему? После покидания у вас не будет возможности самостоятельно в нее вернуться!</ru>
-      <ua>Ви упевнені, що хочете покинути тему? Після покидання у вас не буде можливості самостійно в неї повернутися</ua>
+      <ua>Ви упевнені, що хочете покинути тему? Після покидання у вас не буде можливості самостійно в неї повернутися!</ua>
     </text>
     <text id="MsgLeaveTopicSuccess">
       <en>You have successfully left the topic!</en>
       <de>Sie haben das Thema erfolgreich verlassen!</de>
       <ru>Вы успешно покинули тему!</ru>
-      <ua>Ви успішно покинули тему</ua>
+      <ua>Ви успішно покинули тему!</ua>
     </text>
     <text id="ManageMembers">
       <en>Manage members</en>
@@ -4041,13 +4041,13 @@
       <en>The list of participants has been successfully updated.</en>
       <de>Teilnehmerliste wurde erfolgreich aktualisiert.</de>
       <ru>Список участников успешно обновлен.</ru>
-      <ua>Список учасників успішно оновлений</ua>
+      <ua>Список учасників успішно оновлений.</ua>
     </text>
     <text id="MsgBlockedMembersRenewed">
       <en>The list of the blocked users has been successfully updated.</en>
       <de>Liste der geblockten Teilnehmner wurde erfolgreich aktualisiert.</de>
       <ru>Список заблокированных участников успешно обновлен.</ru>
-      <ua>Список заблокованих учасників успішно оновлений</ua>
+      <ua>Список заблокованих учасників успішно оновлений.</ua>
     </text>
     <text id="DailyActivity">
       <en>Daily activity</en>
@@ -4143,25 +4143,25 @@
       <en>This poll is open. Your choise will be visible for other participants!</en>
       <de>Diese Umfrage ist offen. Ihre Auswahl wird für andere Teilnehmer sichtbar sein!</de>
       <ru>Данный опрос открытый. Ваш выбор будет виден другим участникам!</ru>
-      <ua>Це опитування відкрите. Ваш вибір буде видний іншим учасникам</ua>
+      <ua>Це опитування відкрите. Ваш вибір буде видний іншим учасникам!</ua>
     </text>
     <text id="ErrNoPollOptions">
       <en>The poll answer options are not specified!</en>
       <de>Die Antwortoptionen für die Umfrage sind nicht angegeben!</de>
       <ru>Не заданы варианты ответов для опроса!</ru>
-      <ua>Не задані варіанти відповідей для опитування</ua>
+      <ua>Не задані варіанти відповідей для опитування!</ua>
     </text>
     <text id="ErrPollOptionTooLong">
       <en>The answer option cannot contain more than %s characters!</en>
       <de>Der Antwortoption kann höchstens %s Zeichen beinhalten!</de>
       <ru>Вариант ответа не должен превышать %s символов!</ru>
-      <ua>Варіант відповіді не повинен перевищувати символів</ua>
+      <ua>Варіант відповіді не повинен перевищувати %s символів!</ua>
     </text>
     <text id="ErrPollOptionExists">
       <en>The poll contains dublicate answer option '%s'!</en>
       <de>Die Antwortoption '%s' kommt in der Umfrage doppelt vor!</de>
       <ru>Вариант ответа '%s' встречается в опросе дважды!</ru>
-      <ua>Варіант відповіді ' зустрічається в опитуванні двічі</ua>
+      <ua>Варіант відповіді '%s' зустрічається в опитуванні двічі!</ua>
     </text>
     <text id="AccountConfirmationRequired">
       <en>Administrator confirmation required</en>
@@ -4293,25 +4293,25 @@
       <en>The forums have been successfully marked read!</en>
       <de>Die Foren wurden erfolgreich als gelesen markiert!</de>
       <ru>Форумы успешно помечены прочитанными!</ru>
-      <ua>Форуми успішно помічені прочитаними</ua>
+      <ua>Форуми успішно помічені прочитаними!</ua>
     </text>
     <text id="MsgForumMarkedRead">
       <en>The forum has been successfully marked read!</en>
       <de>Der Forum wurde erfolgreich als gelesen markiert!</de>
       <ru>Форум успешно помечен прочитанным!</ru>
-      <ua>Форум успішно помічений прочитаним</ua>
+      <ua>Форум успішно помічений прочитаним!</ua>
     </text>
     <text id="MsgTopicMarkedRead">
       <en>The topic has been successfully marked read!</en>
       <de>Das Thema wurde erfolgreich als gelesen markiert!</de>
       <ru>Тема успешно помечена прочитанной!</ru>
-      <ua>Тема успішно помічена прочитаною</ua>
+      <ua>Тема успішно помічена прочитаною!</ua>
     </text>
     <text id="MsgTopicsMarkedRead">
       <en>The topics have been successfully marked read!</en>
       <de>Die Themen wurden erfolgreich als gelesen markiert!</de>
       <ru>Темы успешно помечены прочитанными!</ru>
-      <ua>Теми успішно помічені прочитаними</ua>
+      <ua>Теми успішно помічені прочитаними!</ua>
     </text>
     <text id="Install">
       <en>Install</en>
@@ -4347,7 +4347,7 @@
       <en>Database type is not specified!</en>
       <de>Datenbanktyp ist nicht angegeben!</de>
       <ru>Не задан тип базы данных!</ru>
-      <ua>Не заданий тип бази даних</ua>
+      <ua>Не заданий тип бази даних!</ua>
     </text>
     <text id="DatabaseServer">
       <en>Server address</en>
@@ -4359,7 +4359,7 @@
       <en>Server address is not specified!</en>
       <de>Server-Adresse ist nicht angegeben!</de>
       <ru>Не задан адрес сервера!</ru>
-      <ua>Не задана адреса сервера</ua>
+      <ua>Не задана адреса сервера!</ua>
     </text>
     <text id="DatabaseName">
       <en>Database name</en>
@@ -4371,7 +4371,7 @@
       <en>Database name is not specified!</en>
       <de>Datenbankname ist nicht angegeben!</de>
       <ru>Не задано имя базы данных!</ru>
-      <ua>Не задано ім'я бази даних</ua>
+      <ua>Не задано ім'я бази даних!</ua>
     </text>
     <text id="DatabaseUser">
       <en>User name</en>
@@ -4383,7 +4383,7 @@
       <en>User name is not specified!</en>
       <de>Benutzername ist nicht angegeben!</de>
       <ru>Не задано имя пользователя базы данных!</ru>
-      <ua>Не задано ім'я користувача бази даних</ua>
+      <ua>Не задано ім'я користувача бази даних!</ua>
     </text>
     <text id="DatabasePassword">
       <en>Password</en>
@@ -4395,7 +4395,7 @@
       <en>The password of the database user is not specified!</en>
       <de>Das Kennwort des Datenbankbenutzers ist nicht angegeben!</de>
       <ru>Не задан пароль пользователя базы данных!</ru>
-      <ua>Не заданий пароль користувача бази даних</ua>
+      <ua>Не заданий пароль користувача бази даних!</ua>
     </text>
     <text id="DatabaseTablePrefix">
       <en>Prefix for tables</en>
@@ -4407,7 +4407,7 @@
       <en>Prefix for tables is not specified!</en>
       <de>Präfix für Tabellen ist nicht angegeben!</de>
       <ru>Не задан префикс для таблиц!</ru>
-      <ua>Не заданий префікс для таблиць</ua>
+      <ua>Не заданий префікс для таблиць!</ua>
     </text>
     <text id="DBCreationComment">
       <en>If the database with that name does not exist, it will be created.</en>
@@ -4424,7 +4424,7 @@
       <ru>Пользователь базы данных должен обладать правами, достаточными для создания
       базы данных и ее объектов.</ru>
       <ua>Користувач бази даних повинен мати права, достатні для створення
- бази даних і її об'єктів</ua>
+ бази даних і її об'єктів.</ua>
     </text>
     <text id="DBPrefixComment">
       <en>To avoid naming conflicts in the database, specify a
@@ -4435,13 +4435,13 @@
       <ru>Во избежание конфликта имен укажите префикс, который будет добавлен в начало имени
       каждого объекта базы данных, относящегося к приложению.</ru>
       <ua>Щоб уникнути конфлікту імен вкажіть префікс, який буде доданий в початок імені
- кожного об'єкту бази даних, що відноситься до додатка</ua>
+ кожного об'єкту бази даних, що відноситься до додатка.</ua>
     </text>
     <text id="InstallDeniedComment1">
       <en>The application seems to have been already installed.</en>
       <de>Die Anwendung scheint bereits installert zu sein.</de>
       <ru>Приложение уже было инсталлировано.</ru>
-      <ua>Додаток вже був інстальований</ua>
+      <ua>Додаток вже був інстальований.</ua>
     </text>
     <text id="InstallDeniedComment2">
       <en>If you want only to adjust the database connection settings,
@@ -4469,7 +4469,7 @@
       для них вход в систему возможен, только если есть соединение с базой данных.</ru>
       <ua>В системі заданий зумовлений майстер-адміністратор 'admin'. Цей користувач має усі права в додатку і може увійти до системи, навіть
  якщо відсутнє з'єднання з базою даних. Звичайні користувачі зберігаються у базі даних, тому
- для них вхід в систему можливий, тільки якщо є з'єднання з базою даних/</ua>
+ для них вхід в систему можливий, тільки якщо є з'єднання з базою даних.</ua>
     </text>
     <text id="OnlyFound">
       <en>only found</en>
