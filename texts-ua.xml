@@ -12,19 +12,19 @@
       <en>English</en>
       <de>Englisch</de>
       <ru>Английский</ru>
-      <ua>Англійський</ua>
+      <ua>Англійська</ua>
     </text>
     <text id="de">
       <en>German</en>
       <de>Deutsch</de>
       <ru>Немецкий</ru>
-      <ua>Німецький</ua>
+      <ua>Німецька</ua>
     </text>
     <text id="ru">
       <en>Russian</en>
       <de>Russisch</de>
       <ru>Русский</ru>
-      <ua>Російський</ua>
+      <ua>Російська</ua>
     </text>
     <text id="ua">
       <en>Ukrainian</en>
@@ -41,8 +41,8 @@
     <text id="ErrCreatingClassInstance">
       <en>The class '%s' could not be loaded. Some application files seem to be absent or contain programming errors, or the module does not support the current database type '%s'!</en>
       <de>Die Klasse '%s' kann nicht geladen werden. Einige Anwendungsdateien scheinen abwesend zu sein oder sie beinhalten Programmierfehler, oder aber das Modul unterstützt den aktuellen Datenbanktyp '%s' nicht!</de>
-      <ru>Класс '%s' не может быть загружен. Возмоможно отсутствуют некоторые файлы приложения или они содержат ошибки программирования, или же данный модуль не поддерживает используемый тип базы данных '%s'!</ru>
-      <ua>Клас '%s' не може бути завантажений. Возмоможно відсутні деякі файли додатка або вони містять помилки програмування, або ж цей модуль не підтримує використовуваний тип бази даних '%s'!</ua>
+      <ru>Класс '%s' не может быть загружен. Возможно отсутствуют некоторые файлы приложения или они содержат ошибки программирования, или же данный модуль не поддерживает используемый тип базы данных '%s'!</ru>
+      <ua>Клас '%s' не може бути завантажений. Можливо відсутні деякі файли додатка або вони містять помилки програмування, або ж цей модуль не підтримує використовуваний тип бази даних '%s'!</ua>
     </text>
     <text id="ErrNoDBConfig">
       <en>No database connection information available ot it is incomplete! Please login as Master Administrator and check the database connection settings!</en>
@@ -60,7 +60,7 @@
       <en>PHP extension '%s' is not installed or is too old. Work with the database '%s' is not possible!</en>
       <de>PHP-Extension '%s' ist nicht installiert oder ist zu alt. Arbeit mit der Datenbank '%s' ist nicht möglich!</de>
       <ru>PHP-расширение '%s' не установлено или слишком устаревшее. Работа с базой данных '%s' невозможна!</ru>
-      <ua>PHP-расширение '%s' не встановлене або занадто застаріле. Робота з базою даних '%s' неможлива!</ua>
+      <ua>PHP-додаток '%s' не встановлений або занадто застарів. Робота з базою даних '%s' неможлива!</ua>
     </text>
     <text id="ErrDbConnNoAccess">
       <en>The server '%s' is unreachable or the user login '%s' or password are invalid!</en>
@@ -71,8 +71,8 @@
     <text id="ErrDbConnNoDB">
       <en>The database '%s' does not exist or is not accessible for this database user!</en>
       <de>Die Datenbank '%s' existiert nicht bzw. ist nicht erreichbar für diesen Datenbankbenutzer!</de>
-      <ru>База даннных '%s' не существует или недоступна для данного пользователя!</ru>
-      <ua>База даннных '%s' не існує або недоступна для цього користувача!</ua>
+      <ru>База данных '%s' не существует или недоступна для данного пользователя!</ru>
+      <ua>База даних '%s' не існує або недоступна для цього користувача!</ua>
     </text>
     <text id="Guest">
       <en>Guest</en>
@@ -1767,19 +1767,19 @@
       <en>Moderate user</en>
       <de>Benutzer moderieren</de>
       <ru>Модерировать пользователя</ru>
-      <ua>Модерировать користувача</ua>
+      <ua>Модерувати користувача</ua>
     </text>
     <text id="ModerateIP">
       <en>Moderate IP address</en>
       <de>IP-Adresse moderieren</de>
       <ru>Модерировать IP адрес</ru>
-      <ua>Модерировать IP адреса</ua>
+      <ua>Модерувати IP адреса</ua>
     </text>
     <text id="ModerateUserMarker">
       <en>Moderate user marker</en>
       <de>User-Marker moderieren</de>
       <ru>Модерировать маркер пользователя</ru>
-      <ua>Модерировать маркер користувача</ua>
+      <ua>Модерувати маркер користувача</ua>
     </text>
     <text id="Activated">
       <en>Activated</en>
@@ -1851,7 +1851,7 @@
       <en>Moderate</en>
       <de>Moderieren</de>
       <ru>Модерировать</ru>
-      <ua>Модерировать</ua>
+      <ua>Модерувати</ua>
     </text>
     <text id="Block">
       <en>Block</en>
@@ -2613,7 +2613,7 @@
       <en>Modearate author</en>
       <de>Autoren moderieren</de>
       <ru>Модерировать автора</ru>
-      <ua>Модерировать автора</ua>
+      <ua>Модерувати автора</ua>
     </text>
     <text id="EditAuthor">
       <en>Edit author</en>
@@ -5543,7 +5543,7 @@
       <en>Moderate the author's read marker</en>
       <de>Den Author-Read-Marker moderieren</de>
       <ru>Модерировать ридмаркер автора</ru>
-      <ua>Модерировать ридмаркер автора</ua>
+      <ua>Модерувати ридмаркер автора</ua>
     </text>
     <text id="ActionReadMarkerDeleted">
       <en>The author's avatar has been deleted</en>
@@ -5891,7 +5891,7 @@
       <en>The user is already the moderator or administrator of this forum and may moderate the topic!</en>
       <de>Der Benutzer ist bereits der Moderator oder der Administrator dieses Forums und kann das Thema moderieren!</de>
       <ru>Пользователь уже является модратором или администратором данного форума и может модерировать тему!</ru>
-      <ua>Користувач вже являється модратором або адміністратором цього форуму і може модерировать тему!</ua>
+      <ua>Користувач вже являється модратором або адміністратором цього форуму і може модерувати тему!</ua>
     </text>
     <text id="File">
       <en>File</en>
