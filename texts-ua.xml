@@ -48,7 +48,7 @@
       <en>No database connection information available ot it is incomplete! Please login as Master Administrator and check the database connection settings!</en>
       <de>Keine Informationen zu der Datenbankverbindung vorhanden! Loggen Sie sich bitte als Master-Administrator ein und überprüfen Sie die Einstellungen für die Datenbankverbindung!</de>
       <ru>Отсутствует информация для соединения с базой данных. Пожалуйста, войдите в систему под мастер-администратором и проверьте установки соединения с базой данных!</ru>
-      <ua>Відсутня інформація для з'єднання з базою даних. Будь ласка, увійдіть до системи під мастер-администратором і перевірте установки з'єднання з базою даних!</ua>
+      <ua>Відсутня інформація для з'єднання з базою даних. Будь ласка, увійдіть до системи під майстер-адміністратором і перевірте установки з'єднання з базою даних!</ua>
     </text>
     <text id="ErrDbInaccessible">
       <en>The database cannot be conected! Please check the database connection settings!</en>
@@ -1521,7 +1521,7 @@
       <en>You are logged in as the master administrator. The master administrator has no profile, no favourites etc. and should be used for system purposes only!</en>
       <de>Sie sind als der Masteradministrator eingeloggt. Der Masteradministrator hat kein Profil, keine Favoriten usw., und soll nur für Systemzwecke verwendet werden!</de>
       <ru>Вы вошли на форум как мастер-администратор. У мастер-администратора нет профиля, израбнного и пр., его следует использовать только для системных целей!</ru>
-      <ua>Ви увійшли на форум як майстер-адміністратор. У мастер-администратора немає профілю, израбнного та ін., його слід використати тільки для системних цілей!</ua>
+      <ua>Ви увійшли на форум як майстер-адміністратор. У майстер-адміністратора немає профілю, израбнного та ін., його слід використати тільки для системних цілей!</ua>
     </text>
     <text id="PasswordRestoreComment">
       <en>Enter the e-mail address assigned to your account. We will send the e-mail with the instructions how to reset your password.</en>
@@ -4335,7 +4335,7 @@
       <en>Master administrator data</en>
       <de>Master-Administrator-Daten</de>
       <ru>Данные мастер-администратора</ru>
-      <ua>Дані мастер-администратора</ua>
+      <ua>Дані майстер-адміністратора</ua>
     </text>
     <text id="DatabaseConnection">
       <en>Database connection</en>
