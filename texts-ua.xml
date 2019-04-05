@@ -48,7 +48,7 @@
       <en>The database cannot be conected! Please check the database connection settings!</en>
       <de>Die Datenbankverbindung kann nicht hergestellt werden. Überprüfen Sie die Einstellungen für die Datenbankverbindung!</de>
       <ru>База данных недоступна. Проверьте установки соединения с базой данных!</ru>
-      <ua>База даних недоступна. Перевірте установки з'єднання з базою даних</ua>
+      <ua>База даних недоступна. Перевірте установки з'єднання з базою даних!</ua>
     </text>
     <text id="ErrDbExtenstionNotInstalled">
       <en>PHP extension '%s' is not installed or is too old. Work with the database '%s' is not possible!</en>
@@ -1131,7 +1131,7 @@
       <en>The message exceeds the maximal length %s KB!</en>
       <de>Die Nachricht überschreitet die maximale Größe %s KB!</de>
       <ru>Размер сообщения превышает максимальный %s КБ!</ru>
-      <ua>Розмір повідомлення перевищує максимальний КБ</ua>
+      <ua>Розмір повідомлення перевищує максимальний %s КБ!</ua>
     </text>
     <text id="MaxPollOptions">
       <en>Maximal number of options in the poll</en>
@@ -1179,7 +1179,7 @@
       <en>E-mail address of the default sender is not specified!</en>
       <de>E-Mail-Adresse des Default-Absenders ist nicht angegeben!</de>
       <ru>Не задан электронный адрес отправителя по умолчанию!</ru>
-      <ua>Не задана електронна адреса посилача за умовчанням</ua>
+      <ua>Не задана електронна адреса посилача за умовчанням!</ua>
     </text>
     <text id="ErrAddressOfTheContactReceiverEmpty">
       <en>E-mail address for the contact requests is not specified!</en>
@@ -1257,7 +1257,7 @@
       <en>Sending of e-mail failed!</en>
       <de>Senden von der E-Mail 'hat fehlgeschlagen!</de>
       <ru>Отправка электронного письма не удалась!</ru>
-      <ua>Відправка електронного листа не вдалася</ua>
+      <ua>Відправка електронного листа не вдалася!</ua>
     </text>
     <text id="MsgSpamProtect">
       <en>Please enter the code displayed on the picture. If it is not readable, click the picture to load another variant.</en>
@@ -1269,13 +1269,13 @@
       <en>The entered code of the spam protection was not correct. Please try again!</en>
       <de>Der eingegebene Spamschutz-Code war nicht korrekt. Bitte versuchen Sie es noch mal!</de>
       <ru>Введенный код защиты от спама неверен. Попробуйте еще раз!</ru>
-      <ua>Введений код захисту від спаму невірний. Спробуйте ще раз</ua>
+      <ua>Введений код захисту від спаму невірний. Спробуйте ще раз!</ua>
     </text>
     <text id="ErrTooManyFailedLogins">
       <en>You have %s failed login tries! Wait for %s seconds to continue!</en>
       <de>Sie haben %s fehlgeschlagene Loginversuche! Warten Sie %s Sekunden um fortzufahren!</de>
       <ru>Вы сделали %s неудачных попыток взода в систему! Подождите %s секунд прежде чем продолжить!</ru>
-      <ua>Ви зробили невдалих спроб взода в систему! Почекайте %s секунд перш ніж продовжити!</ua>
+      <ua>Ви зробили %s невдалих спроб взода в систему! Почекайте %s секунд перш ніж продовжити!</ua>
     </text>
     <text id="ErrForumNameTooLong">
       <en>The name of the forum cannot contain more than %s characters!</en>
@@ -1293,13 +1293,13 @@
       <en>The subject cannot contain more than %s characters!</en>
       <de>Der Betreff kann höchstens %s Zeichen beinhalten!</de>
       <ru>Тема сообщения не должна превышать %s символов!</ru>
-      <ua>Тема повідомлення не повинна перевищувати символів</ua>
+      <ua>Тема повідомлення не повинна перевищувати %s символів!</ua>
     </text>
     <text id="ErrTagNameTooLong">
       <en>The tag name cannot contain more than %s characters!</en>
       <de>Der Tagname kann höchstens %s Zeichen beinhalten!</de>
       <ru>Название тэга не должно превышать %s символов!</ru>
-      <ua>Назва тега не повинна перевищувати символів</ua>
+      <ua>Назва тега не повинна перевищувати %s символів!</ua>
     </text>
     <text id="WhoisServer">
       <en>URL of whois server</en>
@@ -1311,7 +1311,7 @@
       <en>Login is not specified!</en>
       <de>Login ist nicht angegeben!</de>
       <ru>Не задан логин!</ru>
-      <ua>Не заданий логін</ua>
+      <ua>Не заданий логін!</ua>
     </text>
     <text id="ErrUserNameEmpty">
       <en>User name is not specified!</en>
@@ -1335,7 +1335,7 @@
       <en>User name cannot contain more than %s characters!</en>
       <de>Benutzername kann höchstens %s Zeichen beinhalten!</de>
       <ru>Имя пользователя не должно превышать %s символов!</ru>
-      <ua>Ім'я користувача не повинне перевищувати символів</ua>
+      <ua>Ім'я користувача не повинне перевищувати %s символів!</ua>
     </text>
     <text id="ErrEmailTooLong">
       <en>Email cannot contain more than %s characters!</en>
@@ -1373,7 +1373,7 @@
       <en>This login is already used!</en>
       <de>Dieser Login wird bereits verwendet!</de>
       <ru>Данный логин уже используется!</ru>
-      <ua>Цей логін вже використовується</ua>
+      <ua>Цей логін вже використовується!</ua>
     </text>
     <text id="ErrUserNameInUse">
       <en>This user name is already used!</en>
@@ -1397,13 +1397,13 @@
       <en>This e-mail domain '%s' is not allowed for registration!</en>
       <de>Dieses E-Mail-Domain '%s' ist für die Registrierung nicht erlaubt!</de>
       <ru>Данный мейл-домен '%s' не разрешается для регистрации!</ru>
-      <ua>Цей мейл-домен '%s' не дозволяється для реєстрації</ua>
+      <ua>Цей мейл-домен '%s' не дозволяється для реєстрації!</ua>
     </text>
     <text id="ErrUserEmailInUseShort">
       <en>This e-mail address is already used!</en>
       <de>Diese E-Mail-Adresse wird bereits verwendet!</de>
       <ru>Данный электронный адрес уже используется!</ru>
-      <ua>Ця електронна адреса вже використовується</ua>
+      <ua>Ця електронна адреса вже використовується!</ua>
     </text>
     <text id="HideEmail">
       <en>Hide e-mail address</en>
@@ -1427,7 +1427,7 @@
       <en>You have to read and accept the rules of the forum and the user agreement!</en>
       <de>Sie müssen die Forumregel und die Benutzervereinbarung lesen und diesen zustimmen!</de>
       <ru>Вы должны прочесть и выразить согласие с правилами форума и с пользовательским соглашением!</ru>
-      <ua>Ви повинні прочитати і виразити згоду з правилами форуму і з призначеною для користувача угодою</ua>
+      <ua>Ви повинні прочитати і виразити згоду з правилами форуму і з призначеною для користувача угодою!</ua>
     </text>
     <text id="ErrActivationLinkExpired">
       <en>The activation link is invalid or is expired! But you can login anyway and request the activation e-mail again.</en>
@@ -1509,7 +1509,7 @@
       <en>Your account has been blocked until %s! Time remaining: %s. You can view the reason in your profile.</en>
       <de>Ihr Benutzerkonto wurde bis zum %s blockiert! Zeit verblieben: %s. Sie können den Grund in Ihrem Profil einsehen.</de>
       <ru>Ваша учетная запись заблокирована до %s! Осталось времени: %s. Вы можете посмотреть причину блокировки в вашем профиле.</ru>
-      <ua>Ваш обліковий запис заблокований до Залишилося часу: %s. Ви можете подивитися причину блокування у вашому профілі.</ua>
+      <ua>Ваш обліковий запис заблокований до %s! Залишилося часу: %s. Ви можете подивитися причину блокування у вашому профілі.</ua>
     </text>
     <text id="MsgMasterAdminWarning">
       <en>You are logged in as the master administrator. The master administrator has no profile, no favourites etc. and should be used for system purposes only!</en>
@@ -1705,7 +1705,7 @@
       <en>Information field cannot contain more than %s characters!</en>
       <de>Das Feld 'Information' kann höchstens %s Zeichen beinhalten!</de>
       <ru>Длина поля 'Информация' не должна превышать %s символов!</ru>
-      <ua>Довжина поля 'Інформація' не повинна перевищувати символів</ua>
+      <ua>Довжина поля 'Інформація' не повинна перевищувати %s символів</ua>
     </text>
     <text id="MsgNewActivationRequired">
       <en>The changes to the profile have been successfully saved.
@@ -1725,7 +1725,7 @@
       <en>You have to enter your current password if you want to change the e-mail address or the password!</en>
       <de>Sie müssen Ihr aktuelles Kennowrt eingeben, um die E-Mail-Adresse oder das Kennowrt ändern zu können!</de>
       <ru>Чтобы изменить электронный адрес или пароль, вам необходимо ввести ваш текущий пароль!</ru>
-      <ua>Щоб змінити електронну адресу або пароль, вам необхідно ввести ваш поточний пароль</ua>
+      <ua>Щоб змінити електронну адресу або пароль, вам необхідно ввести ваш поточний пароль!</ua>
     </text>
     <text id="RequestActivationLink">
       <en>Request the activation link</en>
@@ -3573,7 +3573,7 @@
       <en>You are disallowed to rate messages!</en>
       <de>Ihnen ist verboten, die Nachrichten zu beweren!</de>
       <ru>Вам запрещено оценивать сообщения!</ru>
-      <ua>Вам заборонено оцінювати повідомлення</ua>
+      <ua>Вам заборонено оцінювати повідомлення!</ua>
     </text>
     <text id="ActionRatingDisallowed">
       <en>The message rating has been disallowed</en>
@@ -3591,13 +3591,13 @@
       <en>A moderator or administrator cannot be blocked or hidden!</en>
       <de>Ein Moderator oder Administrator kann nicht geblockt oder versteckt werden!</de>
       <ru>Модераторы и администраторы не могут быть заблокированы или скрыты!</ru>
-      <ua>Модератори і адміністратори не можуть бути заблоковані або приховані</ua>
+      <ua>Модератори і адміністратори не можуть бути заблоковані або приховані!</ua>
     </text>
     <text id="ErrBlockReasonNotSpecified">
       <en>Specify the reason of the blocking!</en>
       <de>Geben Sie bitte den Grund der Blockierung an!</de>
       <ru>Укажите причину блокировки!</ru>
-      <ua>Вкажіть причину блокування</ua>
+      <ua>Вкажіть причину блокування!</ua>
     </text>
     <text id="MsgUserBlocked">
       <en>User has been successfully blocked.</en>
@@ -3681,13 +3681,13 @@
       <en>You do not have access to the forum '%s'!</en>
       <de>Sie haben keinen Zugriff auf den Forum '%s'!</de>
       <ru>У вас нет доступа в форум '%s'!</ru>
-      <ua>У вас немає доступу у форум '</ua>
+      <ua>У вас немає доступу у форум '%s'!</ua>
     </text>
     <text id="WarnTopicDeleted">
       <en>The requested topic has been deleted!</en>
       <de>Das angefragte Thema wurde gelöscht!</de>
       <ru>Запрашиваемая тема была удалена!</ru>
-      <ua>Прошена тема була видалена</ua>
+      <ua>Прошена тема була видалена!</ua>
     </text>
     <text id="ForumsWithRestrictedAccess">
       <en>Forums with restricted access</en>
@@ -3723,13 +3723,13 @@
       <en>IP address is not specified!</en>
       <de>IP-Adresse ist nicht angegeben!</de>
       <ru>Не задан IP адрес!</ru>
-      <ua>Не заданий IP адреса</ua>
+      <ua>Не задана IP адреса!</ua>
     </text>
     <text id="ErrUserMarkerEmpty">
       <en>User marker is not specified!</en>
       <de>User-Marker ist nicht angegeben!</de>
       <ru>Не задан маркер пользователя!</ru>
-      <ua>Не заданий маркер користувача</ua>
+      <ua>Не заданий маркер користувача!</ua>
     </text>
     <text id="NoData">
       <en>No data.</en>
@@ -3921,13 +3921,13 @@
       <en>You have been blocked until %s! Time remaining: %s. If you suppose it is a mistake, please contact the administration of the forum over the menu "Contact" or register an account.</en>
       <de>Sie wurden bis zum %s blockiert! Zeit verblieben: %s. Wenn Sie meinen, dass es sich um eine Fehlblockierung handlet, bitte setzten Sie sich mit der Forumadministration in Verbindung über den Menüpunkt "Kontakt" oder registrieren Sie sich.</de>
       <ru>Вы заблокированы до %s! Осталось времени: %s. Если вы считаете блокировку ошибочной, свяжитесь с администрацией форума через пункт меню "Контакт" или зарегистрируйтесь.</ru>
-      <ua>Ви заблоковані до Залишилося часу: Якщо ви вважаєте блокування помилковим, зв'яжіться з адміністрацією форуму через пункт меню "Контакт" чи зареєструйтеся.</ua>
+      <ua>Ви заблоковані до %s! Залишилося часу: %s. Якщо ви вважаєте блокування помилковим, зв'яжіться з адміністрацією форуму через пункт меню "Контакт" чи зареєструйтеся.</ua>
     </text>
     <text id="ErrMessageLimitExceeded">
       <en>You have exceeded the limit (%s messages per minite)! Try to send your message a little later.</en>
       <de>Sie haben das Limit (%s Nachrichten pro Minute) überschritten! Bitte versuchen Sie es etwas später, Ihre Nachricht abzusenden.</de>
       <ru>Вы превысили лимит (%s сообщений в минуту)! Попытайтесь отправить ваше сообщение немного позже.</ru>
-      <ua>Ви перевищили ліміт (повідомлень за хвилину)! Спробуйте відправити ваше повідомлення трохи пізніше.</ua>
+      <ua>Ви перевищили ліміт (%s повідомлень за хвилину)! Спробуйте відправити ваше повідомлення трохи пізніше.</ua>
     </text>
     <text id="ErrMessageGuestRestricted">
       <en>New guests cannot write messages immediately on this forum! Please register or wait for %s.</en>
@@ -3987,13 +3987,13 @@
       <en>The private message cannot be sent because the member %s has turned the private messages off!</en>
       <de>Die Private Nachricht kann nicht gesendet werden, weil der Teilnehmer %s die privaten Nachrichten abgeschaltet hat!</de>
       <ru>Личное сообщение не может быть отправлено, поскольку участник %s отключил личные сообщения!</ru>
-      <ua>Особисте повідомлення не може бути відправлене, оскільки учасник відключив особисті повідомлення!</ua>
+      <ua>Особисте повідомлення не може бути відправлене, оскільки учасник %s відключив особисті повідомлення!</ua>
     </text>
     <text id="ErrUserIgnored">
       <en>The member %s has put you to the ignore list!</en>
       <de>Der Teilnehmer %s hat Sie in die Ignorier-Liste eingetragen!</de>
       <ru>Участник %s поместил вас в игнор-лист!</ru>
-      <ua>Учасник помістив вас в ігнор-лист</ua>
+      <ua>Учасник %s помістив вас в ігнор-лист!</ua>
     </text>
     <text id="CreateNewTopic">
       <en>Create new topic</en>
@@ -4101,13 +4101,13 @@
       <en>The topic is not yet published!</en>
       <de>Das Thema ist noch nicht publiziert!</de>
       <ru>Тема еще не опубликована!</ru>
-      <ua>Тема ще не опублікована</ua>
+      <ua>Тема ще не опублікована!</ua>
     </text>
     <text id="MsgTopicPublished">
       <en>The topic has been successfully published!</en>
       <de>Das Thema wurde erfolgreich publiziert!</de>
       <ru>Тема успешно опубликована!</ru>
-      <ua>Тема успішно опублікована</ua>
+      <ua>Тема успішно опублікована!</ua>
     </text>
     <text id="Publish">
       <en>Publish</en>
@@ -4251,13 +4251,13 @@
       <en>You have already voted!</en>
       <de>Sie haben bereits Ihre Stimme abgegeben!</de>
       <ru>Вы уже проголосовали!</ru>
-      <ua>Ви вже проголосували</ua>
+      <ua>Ви вже проголосували!</ua>
     </text>
     <text id="ErrNoOptionChosen">
       <en>No answer has been chosen!</en>
       <de>Keine Antwort wurde ausgewählt!</de>
       <ru>Не выбран ответ!</ru>
-      <ua>Не вибрана відповідь</ua>
+      <ua>Не вибрана відповідь!</ua>
     </text>
     <text id="SendNotifications">
       <en>Send e-mail notifications</en>
@@ -4505,7 +4505,7 @@
       <en>The application was unable to write the file '%s'. Check the privileges of the application and the WEB server on this file and on the target directory!</en>
       <de>Die Anwendung konnte die Datei '%s' nicht beschreiben. Bitte überprüfen Sie die Rechte der Anwendung und des WEB-Servers auf die Datei und auf das Zielverzeichnis!</de>
       <ru>Запись файла '%s' не удалась. Проверьте права приложения и веб-сервера на данный файл и на целевой каталог!</ru>
-      <ua>Запис файлу '%s' не вдався. Перевірте права додатка і веб-сервера на цей файл і на цільовий каталог</ua>
+      <ua>Запис файлу '%s' не вдався. Перевірте права додатка і веб-сервера на цей файл і на цільовий каталог!</ua>
     </text>
     <text id="MsgSearchResultsExpires">
       <en>The search results are no more valid. Make the search again!</en>
