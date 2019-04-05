@@ -1,0 +1,3986 @@
+[
+  {
+    "-id": "en",
+    "en": "English"
+  },
+  {
+    "-id": "de",
+    "en": "German"
+  },
+  {
+    "-id": "ru",
+    "en": "Russian"
+  },
+  {
+    "-id": "neru",
+    "en": "Language of the tribes Neru (with seconds)"
+  },
+  {
+    "-id": "ErrCreatingClassInstance",
+    "en": "The class '%s' could not be loaded. Some application files seem to be absent or contain programming errors, or the module does not support the current database type '%s'!"
+  },
+  {
+    "-id": "ErrNoDBConfig",
+    "en": "No database connection information available ot it is incomplete! Please login as Master Administrator and check the database connection settings!"
+  },
+  {
+    "-id": "ErrDbInaccessible",
+    "en": "The database cannot be conected! Please check the database connection settings!"
+  },
+  {
+    "-id": "ErrDbExtenstionNotInstalled",
+    "en": "PHP extension '%s' is not installed or is too old. Work with the database '%s' is not possible!"
+  },
+  {
+    "-id": "ErrDbConnNoAccess",
+    "en": "The server '%s' is unreachable or the user login '%s' or password are invalid!"
+  },
+  {
+    "-id": "ErrDbConnNoDB",
+    "en": "The database '%s' does not exist or is not accessible for this database user!"
+  },
+  {
+    "-id": "Guest",
+    "en": "Guest"
+  },
+  {
+    "-id": "Guests",
+    "en": "Guests"
+  },
+  {
+    "-id": "PrivilegedMember",
+    "en": "Privileged member"
+  },
+  {
+    "-id": "GlobalBlockAllowed",
+    "en": "Allow to block globally"
+  },
+  {
+    "-id": "ShowIP",
+    "en": "May see IP addresses"
+  },
+  {
+    "-id": "Member",
+    "en": "Member"
+  },
+  {
+    "-id": "Members",
+    "en": "Members"
+  },
+  {
+    "-id": "Login",
+    "en": "Login"
+  },
+  {
+    "-id": "Logout",
+    "en": "Logout"
+  },
+  {
+    "-id": "Search",
+    "en": "Search"
+  },
+  {
+    "-id": "SearchComment",
+    "en": "A space or the symbol & as separator means means all words, the symbol | any of the words. You can also use the conjunction 'and' instead of & and the conjunction 'or' instead of |. To look for the exact phrase, take it in double quotes."
+  },
+  {
+    "-id": "WarnSearchCriteriaNotSpecified",
+    "en": "Search criteria are not specified!"
+  },
+  {
+    "-id": "WarnSearchWait",
+    "en": "You can do next search in %s seconds!"
+  },
+  {
+    "-id": "SearchCriteria",
+    "en": "Search criteria"
+  },
+  {
+    "-id": "SearchKeys",
+    "en": "Search keys"
+  },
+  {
+    "-id": "SearchWithMorphology",
+    "en": "Consider morphology"
+  },
+  {
+    "-id": "SearchTopicNameOnly",
+    "en": "Search only in topic names"
+  },
+  {
+    "-id": "SearchTopicFavourites",
+    "en": "Search favourite topics"
+  },
+  {
+    "-id": "SearchPostsOnly",
+    "en": "Search only in messages"
+  },
+  {
+    "-id": "SearchPollsOnly",
+    "en": "Search topics with polls"
+  },
+  {
+    "-id": "SearchAttachmentsOnly",
+    "en": "Search the messages with attachments"
+  },
+  {
+    "-id": "SearchPicturesOnly",
+    "en": "Search the messages with pictures"
+  },
+  {
+    "-id": "SearchVideosOnly",
+    "en": "Search the messages with videos"
+  },
+  {
+    "-id": "SearchAudioOnly",
+    "en": "Search the messages with audio files"
+  },
+  {
+    "-id": "SearchDeletedOnly",
+    "en": "Search only in deleted messages"
+  },
+  {
+    "-id": "DoSearch",
+    "en": "Search"
+  },
+  {
+    "-id": "AuthorIgnoringTopic",
+    "en": "Search topics ignored by the author"
+  },
+  {
+    "-id": "AuthorCreatedTopic",
+    "en": "Search topics created by the author / in the specified date range"
+  },
+  {
+    "-id": "AuthorParticipatedInTopic",
+    "en": "Search topics with participation of the author"
+  },
+  {
+    "-id": "AuthorWrotePost",
+    "en": "Search messages of the author / in the specified date range"
+  },
+  {
+    "-id": "SearchResultsAsPostList",
+    "en": "Show results as post list instead of topic list"
+  },
+  {
+    "-id": "NewSearch",
+    "en": "New search"
+  },
+  {
+    "-id": "Profile",
+    "en": "Profile"
+  },
+  {
+    "-id": "Favourites",
+    "en": "Favourites"
+  },
+  {
+    "-id": "NewMessages",
+    "en": "New messages"
+  },
+  {
+    "-id": "PreferredForums",
+    "en": "Preferred forums"
+  },
+  {
+    "-id": "Topics",
+    "en": "Topics"
+  },
+  {
+    "-id": "MyTopics",
+    "en": "My topics"
+  },
+  {
+    "-id": "ParticipatedTopics",
+    "en": "Participated"
+  },
+  {
+    "-id": "Password",
+    "en": "Password"
+  },
+  {
+    "-id": "Reset",
+    "en": "Reset"
+  },
+  {
+    "-id": "Save",
+    "en": "Save"
+  },
+  {
+    "-id": "Back",
+    "en": "Back"
+  },
+  {
+    "-id": "PasswordChange",
+    "en": "Password change"
+  },
+  {
+    "-id": "PasswordConfirmation",
+    "en": "Password (repeat)"
+  },
+  {
+    "-id": "EntranceWarning",
+    "en": "The forum '%s' is protected by password!"
+  },
+  {
+    "-id": "Enter",
+    "en": "Enter"
+  },
+  {
+    "-id": "Warning",
+    "en": "Warning"
+  },
+  {
+    "-id": "Information",
+    "en": "Information"
+  },
+  {
+    "-id": "Error",
+    "en": "Error"
+  },
+  {
+    "-id": "OK",
+    "en": "OK"
+  },
+  {
+    "-id": "Yes",
+    "en": "Yes"
+  },
+  {
+    "-id": "No",
+    "en": "No"
+  },
+  {
+    "-id": "ErrWrongPassword",
+    "en": "The password is wrong!"
+  },
+  {
+    "-id": "ErrActionNotAllowed",
+    "en": "You are not allowed to perform this action!"
+  },
+  {
+    "-id": "ErrWrongHashCode",
+    "en": "The protection hash code is invalid or the session has expired. Action is not permitted!"
+  },
+  {
+    "-id": "Forums",
+    "en": "Forums"
+  },
+  {
+    "-id": "Forum",
+    "en": "Forum"
+  },
+  {
+    "-id": "UserLogin",
+    "en": "Login"
+  },
+  {
+    "-id": "UserLoginComment",
+    "en": "Your internal login name for logging in into the forum. The login is not visible to other members. This makes harder the possible\n      try to break your account through password brute force. It is not recommended to set the login indentical to the user name."
+  },
+  {
+    "-id": "UserLoginComment2",
+    "en": "The internal login name for logging in into the forum. The login is not visible to other members."
+  },
+  {
+    "-id": "UserName",
+    "en": "User name"
+  },
+  {
+    "-id": "UserNameComment",
+    "en": "Your name that will be displayed on the forum. Please note, you will not be able to change the name."
+  },
+  {
+    "-id": "UserNameComment2",
+    "en": "User name that will be displayed on the forum."
+  },
+  {
+    "-id": "UserEmailComment",
+    "en": "Please, enter a valid e-mail address. The activation link will sent to that e-mail address. The link should\n      be clicked to complete the registration on the foum."
+  },
+  {
+    "-id": "UserEmailComment2",
+    "en": "If you change your e-mail address, you will have to enter your current password and re-activate your user account."
+  },
+  {
+    "-id": "Authorization",
+    "en": "Authorization"
+  },
+  {
+    "-id": "LoginAutomatically",
+    "en": "Remember login"
+  },
+  {
+    "-id": "Registration",
+    "en": "Registration"
+  },
+  {
+    "-id": "CreateForum",
+    "en": "Create forum"
+  },
+  {
+    "-id": "Name",
+    "en": "Name"
+  },
+  {
+    "-id": "Description",
+    "en": "Description"
+  },
+  {
+    "-id": "Access",
+    "en": "Access"
+  },
+  {
+    "-id": "PasswordProtected",
+    "en": "Access through password"
+  },
+  {
+    "-id": "AccessRestricted",
+    "en": "Access through permission"
+  },
+  {
+    "-id": "RegisteredsRestricted",
+    "en": "Access only for the registered members"
+  },
+  {
+    "-id": "NotWritableForGuests",
+    "en": "Not writable for guests"
+  },
+  {
+    "-id": "RestrictedGuestMode",
+    "en": "Limited guest mode"
+  },
+  {
+    "-id": "MessagesCount",
+    "en": "Message count"
+  },
+  {
+    "-id": "Messages",
+    "en": "Messages"
+  },
+  {
+    "-id": "Views",
+    "en": "Views"
+  },
+  {
+    "-id": "TopicsCount",
+    "en": "Topics count"
+  },
+  {
+    "-id": "Rating",
+    "en": "Rating"
+  },
+  {
+    "-id": "Moderators",
+    "en": "Moderators"
+  },
+  {
+    "-id": "FirstMessage",
+    "en": "First message"
+  },
+  {
+    "-id": "LastMessage",
+    "en": "Last message"
+  },
+  {
+    "-id": "DateTimeFormat",
+    "en": "Y-m-d, H:i"
+  },
+  {
+    "-id": "DateFormat",
+    "en": "Y-m-d"
+  },
+  {
+    "-id": "NoForums",
+    "en": "No forums."
+  },
+  {
+    "-id": "Yesterday",
+    "en": "Yesterday"
+  },
+  {
+    "-id": "Today",
+    "en": "Today"
+  },
+  {
+    "-id": "Tomorrow",
+    "en": "Tomorrow"
+  },
+  {
+    "-id": "closed",
+    "en": "closed"
+  },
+  {
+    "-id": "closed_for_guests",
+    "en": "closed for guests"
+  },
+  {
+    "-id": "Administrator",
+    "en": "Administrator"
+  },
+  {
+    "-id": "Add",
+    "en": "Add"
+  },
+  {
+    "-id": "Delete",
+    "en": "Delete"
+  },
+  {
+    "-id": "Restore",
+    "en": "Restore"
+  },
+  {
+    "-id": "Edit",
+    "en": "Edit"
+  },
+  {
+    "-id": "Close",
+    "en": "Close"
+  },
+  {
+    "-id": "Open",
+    "en": "Open"
+  },
+  {
+    "-id": "ErrQueryFailed",
+    "en": "SQL query error!"
+  },
+  {
+    "-id": "MsgForumOpened",
+    "en": "Forum has been successfully opened."
+  },
+  {
+    "-id": "MsgForumClosed",
+    "en": "Forum has been successfully closed."
+  },
+  {
+    "-id": "MsgForumDeleted",
+    "en": "Forum has been successfully deleted."
+  },
+  {
+    "-id": "MsgForumMarkedDeleted",
+    "en": "Forum has been marked as deleted and will be not visible to the visitors any more. To delete it physically, delete or move the topic to another forum."
+  },
+  {
+    "-id": "MsgForumRestored",
+    "en": "Forum has been successfully restored."
+  },
+  {
+    "-id": "MsgConfirmForumDelete",
+    "en": "Are you sure to delete the forum '%s'?"
+  },
+  {
+    "-id": "MsgConfirmForumClose",
+    "en": "Are you sure to close the forum '%s'?"
+  },
+  {
+    "-id": "Confirmation",
+    "en": "Confirmation"
+  },
+  {
+    "-id": "Question",
+    "en": "Question"
+  },
+  {
+    "-id": "DeletedTopics",
+    "en": "Deleted topics"
+  },
+  {
+    "-id": "DisplayDeleted",
+    "en": "Display deleted"
+  },
+  {
+    "-id": "HideDeleted",
+    "en": "Hide deleted"
+  },
+  {
+    "-id": "HideIgnored",
+    "en": "Hide ignored forums, topics and users in the lists"
+  },
+  {
+    "-id": "OnlineStatus",
+    "en": "Online status"
+  },
+  {
+    "-id": "HideOnlineStatus",
+    "en": "Hide"
+  },
+  {
+    "-id": "EditForum",
+    "en": "Edit forum"
+  },
+  {
+    "-id": "MsgCancelConfirm",
+    "en": "The changes have not been saved yet! Are you sure to proceed?"
+  },
+  {
+    "-id": "MsgResetConfirm",
+    "en": "Are you sure to reset all fields to their original values?"
+  },
+  {
+    "-id": "MsgDataSaved",
+    "en": "Data has been successfully saved."
+  },
+  {
+    "-id": "ErrForumNameEmpty",
+    "en": "Forum name is not specified!"
+  },
+  {
+    "-id": "ErrForumNameExists",
+    "en": "A forum with that name already exists!"
+  },
+  {
+    "-id": "ErrPasswordEmpty",
+    "en": "Password is not specified!"
+  },
+  {
+    "-id": "ErrPwdNotIdentical",
+    "en": "The password confirmation is not identical to the password!"
+  },
+  {
+    "-id": "SearchUser",
+    "en": "Search the member"
+  },
+  {
+    "-id": "FoundUsers",
+    "en": "Found members"
+  },
+  {
+    "-id": "UserNotFound",
+    "en": "No members are found"
+  },
+  {
+    "-id": "Help",
+    "en": "Help"
+  },
+  {
+    "-id": "Contact",
+    "en": "Contact"
+  },
+  {
+    "-id": "FAQ",
+    "en": "FAQ"
+  },
+  {
+    "-id": "Rules",
+    "en": "Rules"
+  },
+  {
+    "-id": "Settings",
+    "en": "Settings"
+  },
+  {
+    "-id": "Moderator",
+    "en": "Moderator"
+  },
+  {
+    "-id": "ModeratorOfForums",
+    "en": "Moderator of the forums"
+  },
+  {
+    "-id": "Status",
+    "en": "Status"
+  },
+  {
+    "-id": "RegisteredUser",
+    "en": "Registered user"
+  },
+  {
+    "-id": "ModeratorLog",
+    "en": "Moderator log"
+  },
+  {
+    "-id": "OnlineMembers",
+    "en": "Online members"
+  },
+  {
+    "-id": "ReadingForum",
+    "en": "Reading forum"
+  },
+  {
+    "-id": "ReadingTopic",
+    "en": "Reading topic"
+  },
+  {
+    "-id": "ReadTopics",
+    "en": "Read topics"
+  },
+  {
+    "-id": "IgnoredTopics",
+    "en": "Ignored topics"
+  },
+  {
+    "-id": "ModeratedTopics",
+    "en": "Moderated topics"
+  },
+  {
+    "-id": "Never",
+    "en": "Never"
+  },
+  {
+    "-id": "MarkRead",
+    "en": "Mark read"
+  },
+  {
+    "-id": "AddToFavourites",
+    "en": "Add to favourites"
+  },
+  {
+    "-id": "RemoveFromFavourites",
+    "en": "Remove from favourites"
+  },
+  {
+    "-id": "AddToIgnoredTopics",
+    "en": "Ignore topic"
+  },
+  {
+    "-id": "AddTopicsToIgnoredTopics",
+    "en": "Ignore topics"
+  },
+  {
+    "-id": "MsgConfirmTopicsIgnore",
+    "en": "Are you sure to ignore the selected topics?"
+  },
+  {
+    "-id": "RemoveFromIgnoredTopics",
+    "en": "Do not ignore topic"
+  },
+  {
+    "-id": "SubscribeToTopic",
+    "en": "Subscribe for notification"
+  },
+  {
+    "-id": "UnubscribeFromTopic",
+    "en": "Unsubscribe from notification"
+  },
+  {
+    "-id": "Notifications",
+    "en": "Notifications"
+  },
+  {
+    "-id": "AddressOfTheDefaultSender",
+    "en": "E-mail address of the default sender"
+  },
+  {
+    "-id": "AddressOfTheContactReceiver",
+    "en": "E-mail address for the contact requests"
+  },
+  {
+    "-id": "KB",
+    "en": "KB"
+  },
+  {
+    "-id": "MB",
+    "en": "MB"
+  },
+  {
+    "-id": "Attachment",
+    "en": "Attachment"
+  },
+  {
+    "-id": "Restrictions",
+    "en": "Restrictions"
+  },
+  {
+    "-id": "MinDurationComment",
+    "en": "Minimal number of days after the registration"
+  },
+  {
+    "-id": "MinMessageCountComment",
+    "en": "Minimal number of messages"
+  },
+  {
+    "-id": "ErrMessagePostNotAllowed",
+    "en": "You are not allowed to post or rate messages on the forum '%s' due to the following restrictions"
+  },
+  {
+    "-id": "MaxAttachmentSize",
+    "en": "Maximal attachment size"
+  },
+  {
+    "-id": "MaxAttachmentSizeAudioVideo",
+    "en": "Maximal attachment size for audio/video"
+  },
+  {
+    "-id": "MaxAttachmentSizeComment",
+    "en": "Maximal attachment size: %s, audio/video: %s. The larger pictures will be compressed if possible."
+  },
+  {
+    "-id": "MaxMessagesPerMinute",
+    "en": "Maximal number of messages per minute"
+  },
+  {
+    "-id": "MaxTopicsPerDay",
+    "en": "Maximal number of topics per day"
+  },
+  {
+    "-id": "MaxPinnedTopics",
+    "en": "Maximal number of pinned topics per forum"
+  },
+  {
+    "-id": "MaxMembersInPrivateTopic",
+    "en": "Maximal number of members in a private topic"
+  },
+  {
+    "-id": "MaxComplainsPerDay",
+    "en": "Maximal number of complains per day"
+  },
+  {
+    "-id": "MaxSymbolsUserName",
+    "en": "Maximal number of symbols in the user name"
+  },
+  {
+    "-id": "MaxSymbolsTopicName",
+    "en": "Maximal number of symbols in the topic name"
+  },
+  {
+    "-id": "MaxMessageLengh",
+    "en": "Maximal message length"
+  },
+  {
+    "-id": "ErrMessageTooLong",
+    "en": "The message exceeds the maximal length %s KB!"
+  },
+  {
+    "-id": "MaxPollOptions",
+    "en": "Maximal number of options in the poll"
+  },
+  {
+    "-id": "MaxRatesPerHour",
+    "en": "Maximal number of ratings for an user per hour"
+  },
+  {
+    "-id": "MinSearchInterval",
+    "en": "Minimal interval between searches in seconds"
+  },
+  {
+    "-id": "VisibleForModeratorsOnly",
+    "en": "visible only for modeators"
+  },
+  {
+    "-id": "VisibleForAdministratorsOnly",
+    "en": "visible for administrators"
+  },
+  {
+    "-id": "VisibleForAll",
+    "en": "visible for all"
+  },
+  {
+    "-id": "VisibleForAllNamesHidden",
+    "en": "visible for all (moderator names are hidden)"
+  },
+  {
+    "-id": "ErrAddressOfTheDefaultSenderEmpty",
+    "en": "E-mail address of the default sender is not specified!"
+  },
+  {
+    "-id": "ErrAddressOfTheContactReceiverEmpty",
+    "en": "E-mail address for the contact requests is not specified!"
+  },
+  {
+    "-id": "Email",
+    "en": "E-mail"
+  },
+  {
+    "-id": "Subject",
+    "en": "Subject"
+  },
+  {
+    "-id": "Message",
+    "en": "Message"
+  },
+  {
+    "-id": "ErrSubjectEmpty",
+    "en": "The subject is not specified!"
+  },
+  {
+    "-id": "ErrMessageEmpty",
+    "en": "The message is not specified!"
+  },
+  {
+    "-id": "ErrSenderEmailEmpty",
+    "en": "E-mail address of the sender is not specified!"
+  },
+  {
+    "-id": "Send",
+    "en": "Send"
+  },
+  {
+    "-id": "Register",
+    "en": "Register"
+  },
+  {
+    "-id": "MsgMessageSent",
+    "en": "The message has been successfully sent."
+  },
+  {
+    "-id": "ErrFileDoesNotExists",
+    "en": "The file '%s' does not exist!"
+  },
+  {
+    "-id": "ErrEmailTemplateInvalid",
+    "en": "The e-mail template '%s' is invalid!"
+  },
+  {
+    "-id": "ErrMailFailed",
+    "en": "Sending of e-mail failed!"
+  },
+  {
+    "-id": "MsgSpamProtect",
+    "en": "Please enter the code displayed on the picture. If it is not readable, click the picture to load another variant."
+  },
+  {
+    "-id": "ErrSpamProtectError",
+    "en": "The entered code of the spam protection was not correct. Please try again!"
+  },
+  {
+    "-id": "ErrTooManyFailedLogins",
+    "en": "You have %s failed login tries! Wait for %s seconds to continue!"
+  },
+  {
+    "-id": "ErrForumNameTooLong",
+    "en": "The name of the forum cannot contain more than %s characters!"
+  },
+  {
+    "-id": "ErrForumDescriptionTooLong",
+    "en": "The description of the forum cannot contain more than %s characters!"
+  },
+  {
+    "-id": "ErrSubjectTooLong",
+    "en": "The subject cannot contain more than %s characters!"
+  },
+  {
+    "-id": "ErrTagNameTooLong",
+    "en": "The tag name cannot contain more than %s characters!"
+  },
+  {
+    "-id": "WhoisServer",
+    "en": "URL of whois server"
+  },
+  {
+    "-id": "ErrUserLoginEmpty",
+    "en": "Login is not specified!"
+  },
+  {
+    "-id": "ErrUserNameEmpty",
+    "en": "User name is not specified!"
+  },
+  {
+    "-id": "ErrEmailEmpty",
+    "en": "E-mail is not specified!"
+  },
+  {
+    "-id": "ErrUserLoginTooLong",
+    "en": "Login cannot contain more than %s characters!"
+  },
+  {
+    "-id": "ErrUserNameTooLong",
+    "en": "User name cannot contain more than %s characters!"
+  },
+  {
+    "-id": "ErrEmailTooLong",
+    "en": "Email cannot contain more than %s characters!"
+  },
+  {
+    "-id": "MsgRegistrationSuccess",
+    "en": "Your account has been successfully created. For completion of the registration, please, click the activation link that has been sent to the e-mail address specified by the registration.\n\n      If the e-mail with the activation link does not come, you can login anyway and request the activation e-mail again or change the e-mail address. If the e-mail still does not come, please contact the administration of the forum over the menu \"Contact\"."
+  },
+  {
+    "-id": "MessageEditingAllowed",
+    "en": "Allow editing own messages"
+  },
+  {
+    "-id": "RegistrationComment",
+    "en": "After completion of the registration, you will be able to setup additional properties of your user profile like photo, avatar, location, signature etc."
+  },
+  {
+    "-id": "ErrUserLoginInUse",
+    "en": "This login is already used!"
+  },
+  {
+    "-id": "ErrUserNameInUse",
+    "en": "This user name is already used!"
+  },
+  {
+    "-id": "ErrUserNameReserved",
+    "en": "This user name is reserved and cannot be used!"
+  },
+  {
+    "-id": "ErrUserEmailInUse",
+    "en": "This e-mail address is already used! If it is your address, and you do not remember the login data, use the password reset function."
+  },
+  {
+    "-id": "ErrEmailDomainNotAllowed",
+    "en": "This e-mail domain '%s' is not allowed for registration!"
+  },
+  {
+    "-id": "ErrUserEmailInUseShort",
+    "en": "This e-mail address is already used!"
+  },
+  {
+    "-id": "HideEmail",
+    "en": "Hide e-mail address"
+  },
+  {
+    "-id": "RegistrationRulesAgreement",
+    "en": {
+      "#cdata-section": "By performing the registration, I agree with the <a href='rules.php' target='_blank'>forum rules</a> and I accept the <a href='user_agreement.php' target='_blank'>user agreement</a>."
+    }
+  },
+  {
+    "-id": "PostRulesAgreement",
+    "en": {
+      "#cdata-section": "By posting the message, I agree with the <a href='rules.php' target='_blank'>forum rules</a> and I accept the <a href='user_agreement.php' target='_blank'>user agreement</a>."
+    }
+  },
+  {
+    "-id": "ErrAgreementRequired",
+    "en": "You have to read and accept the rules of the forum and the user agreement!"
+  },
+  {
+    "-id": "ErrActivationLinkExpired",
+    "en": "The activation link is invalid or is expired! But you can login anyway and request the activation e-mail again."
+  },
+  {
+    "-id": "ErrActivationSuccess",
+    "en": "Your account has been successfully activated. Now, you can setup additional properties of your user profile like photo, avatar, location, signature etc."
+  },
+  {
+    "-id": "PasswordRestoration",
+    "en": "Password restoration"
+  },
+  {
+    "-id": "ErrCookiesNotEnabled",
+    "en": "The session could not be started. Either your browser disallows cookies for this site or generally, or the session cookie path is set wrong in relation to the application URL."
+  },
+  {
+    "-id": "ErrWrongLogin",
+    "en": "Wrong login name or password!"
+  },
+  {
+    "-id": "ErrAccountDeleted",
+    "en": "Your user account has been deleted!"
+  },
+  {
+    "-id": "ErrAccountNotActivated",
+    "en": "Your user account is not yet activated! You can request the activation e-mail again or change the e-mail address in your profile.\n\n      If the e-mail still does not come, please contact the administration of the forum over the menu \"Contact\"."
+  },
+  {
+    "-id": "ErrAccountNotApproved",
+    "en": "Your user account is not yet approved by the administrator! You have to wait until the administrator checks and approves your account.\n\n      If the approval takes too long, please contact the administration of the forum over the menu \"Contact\"."
+  },
+  {
+    "-id": "WarningAccountNotActivated",
+    "en": "Your user account is not yet activated! You can request the activation e-mail again."
+  },
+  {
+    "-id": "ErrAccountIsBlocked",
+    "en": "Your account has been blocked! You can view the reason in your profile in the moderator log."
+  },
+  {
+    "-id": "ErrAccountIsBlockedUntil",
+    "en": "Your account has been blocked until %s! Time remaining: %s. You can view the reason in your profile."
+  },
+  {
+    "-id": "MsgMasterAdminWarning",
+    "en": "You are logged in as the master administrator. The master administrator has no profile, no favourites etc. and should be used for system purposes only!"
+  },
+  {
+    "-id": "PasswordRestoreComment",
+    "en": "Enter the e-mail address assigned to your account. We will send the e-mail with the instructions how to reset your password."
+  },
+  {
+    "-id": "MsgErrEmailNotFound",
+    "en": "The e-mail '%s' is not associated with any account!"
+  },
+  {
+    "-id": "MsgPasswordRestore",
+    "en": "The e-mail with the instructions how to reset your password has been sent to the specified address."
+  },
+  {
+    "-id": "PasswordReset",
+    "en": "Password reset"
+  },
+  {
+    "-id": "PasswordResetComment",
+    "en": "Set the new password for your account."
+  },
+  {
+    "-id": "PasswordResetLinkInvalid",
+    "en": "The password reset link is invalid or is expired! Please request the new password reset link."
+  },
+  {
+    "-id": "MsgPasswordResetSuccess",
+    "en": "The password has been successfully changed. You can login with your new password."
+  },
+  {
+    "-id": "MsgPasswordChangeSuccess",
+    "en": "The password has been successfully changed."
+  },
+  {
+    "-id": "NewPassword",
+    "en": "New password"
+  },
+  {
+    "-id": "CurrentPassword",
+    "en": "Current password"
+  },
+  {
+    "-id": "AdditionalInformation",
+    "en": "Additional information"
+  },
+  {
+    "-id": "AdditionalSettings",
+    "en": "Additional settings"
+  },
+  {
+    "-id": "Location",
+    "en": "Location"
+  },
+  {
+    "-id": "Homepage",
+    "en": "Homepage"
+  },
+  {
+    "-id": "Signature",
+    "en": "Signature"
+  },
+  {
+    "-id": "MessageComment",
+    "en": "The message that will be displayed under the user name."
+  },
+  {
+    "-id": "SignatureComment",
+    "en": "The additional message that will be automaltically added to the messages at the end. Tags [url], [smile] and [img] are allowed."
+  },
+  {
+    "-id": "InformationComment",
+    "en": "Detailed information that will be displayed by viewing of the profile."
+  },
+  {
+    "-id": "Avatar",
+    "en": "Avatar"
+  },
+  {
+    "-id": "AvatarComment",
+    "en": "Provide a picture width maximal dimensions 130 x 130 px. If your picture is larger, it will be scaled to this size. It is recommended,\n      that you prepare the picture with exactly these dimensions in a graphic program like Photoshop."
+  },
+  {
+    "-id": "Photo",
+    "en": "Photo"
+  },
+  {
+    "-id": "Picture",
+    "en": "Picture"
+  },
+  {
+    "-id": "CustomSmile",
+    "en": "Insert custom smile"
+  },
+  {
+    "-id": "HidePictures",
+    "en": "Hide pictures"
+  },
+  {
+    "-id": "HideUserInfo",
+    "en": "Hide user infromation"
+  },
+  {
+    "-id": "DoNotExpandVideos",
+    "en": "Do not expand videos"
+  },
+  {
+    "-id": "ErrUserDoesNotExist",
+    "en": "User with that ID (%s) does not exist or has been deleted!"
+  },
+  {
+    "-id": "ErrHomepageTooLong",
+    "en": "Homepage cannot contain more than %s characters!"
+  },
+  {
+    "-id": "ErrLocationTooLong",
+    "en": "Location cannot contain more than %s characters!"
+  },
+  {
+    "-id": "ErrSignatureTooLong",
+    "en": "Signature cannot contain more than %s characters!"
+  },
+  {
+    "-id": "ErrInformationTooLong",
+    "en": "Information field cannot contain more than %s characters!"
+  },
+  {
+    "-id": "MsgNewActivationRequired",
+    "en": "The changes to the profile have been successfully saved.\n\n      Since you have changed the e-mail address, your profile has been deactivated and an e-mail with the activation link has been sent to the new e-mail address. Klick the activation link to confirm the change of the e-mail address."
+  },
+  {
+    "-id": "ErrCurrentPasswordRequired",
+    "en": "You have to enter your current password if you want to change the e-mail address or the password!"
+  },
+  {
+    "-id": "RequestActivationLink",
+    "en": "Request the activation link"
+  },
+  {
+    "-id": "MsgActivationLinkSent",
+    "en": "The e-mail with the activation link has been sent to the specified address."
+  },
+  {
+    "-id": "ErrFileUpload",
+    "en": "Upload of the file '%s' failed! The application seems not to have write access to some necessary directories or files!"
+  },
+  {
+    "-id": "ErrFileIsNotPicture",
+    "en": "The file '%s' is not an Internet suitable picture!"
+  },
+  {
+    "-id": "EditUser",
+    "en": "Edit user"
+  },
+  {
+    "-id": "ModerateUser",
+    "en": "Moderate user"
+  },
+  {
+    "-id": "ModerateIP",
+    "en": "Moderate IP address"
+  },
+  {
+    "-id": "ModerateUserMarker",
+    "en": "Moderate user marker"
+  },
+  {
+    "-id": "Activated",
+    "en": "Activated"
+  },
+  {
+    "-id": "UserProfile",
+    "en": "User profile"
+  },
+  {
+    "-id": "hidden",
+    "en": "hidden"
+  },
+  {
+    "-id": "hidden_by_me",
+    "en": "hidden by me"
+  },
+  {
+    "-id": "Hidden",
+    "en": "Hidden"
+  },
+  {
+    "-id": "HiddenByMe",
+    "en": "Hidden by me"
+  },
+  {
+    "-id": "Show",
+    "en": "Show"
+  },
+  {
+    "-id": "AllAuthorTopics",
+    "en": "All topics of the autor"
+  },
+  {
+    "-id": "AllTopicsWithAuthor",
+    "en": "All topics with the autor participation"
+  },
+  {
+    "-id": "SendPersonalMessage",
+    "en": "Send private message"
+  },
+  {
+    "-id": "PrivateMessages",
+    "en": "Private messages"
+  },
+  {
+    "-id": "Moderate",
+    "en": "Moderate"
+  },
+  {
+    "-id": "Block",
+    "en": "Block"
+  },
+  {
+    "-id": "Unblock",
+    "en": "Unblock"
+  },
+  {
+    "-id": "DeleteMessages",
+    "en": "Delete messages"
+  },
+  {
+    "-id": "BlockUsers",
+    "en": "Block users"
+  },
+  {
+    "-id": "BlockUserInTopic",
+    "en": "Block user in the topic"
+  },
+  {
+    "-id": "UnblockUserInTopic",
+    "en": "Unblock user in the topic"
+  },
+  {
+    "-id": "MsgConfirmBlockUserInTopic",
+    "en": "Are you sure to block the user '%s' in this topic?"
+  },
+  {
+    "-id": "PhysicalDeletion",
+    "en": "Delete physically"
+  },
+  {
+    "-id": "RegistrationDate",
+    "en": "Registration date"
+  },
+  {
+    "-id": "LastActivity",
+    "en": "Last activity"
+  },
+  {
+    "-id": "FirstActivity",
+    "en": "First activity"
+  },
+  {
+    "-id": "LastAuthor",
+    "en": "Last author"
+  },
+  {
+    "-id": "NotActivated",
+    "en": "Not activated"
+  },
+  {
+    "-id": "notActivated",
+    "en": "not activated"
+  },
+  {
+    "-id": "NotApproved",
+    "en": "Not approved"
+  },
+  {
+    "-id": "notApproved",
+    "en": "not approved"
+  },
+  {
+    "-id": "Blocked",
+    "en": "Blocked"
+  },
+  {
+    "-id": "BlockedUntil",
+    "en": "Blocked until %s"
+  },
+  {
+    "-id": "blocked",
+    "en": "blocked"
+  },
+  {
+    "-id": "blocked_until",
+    "en": "blocked: %s"
+  },
+  {
+    "-id": "ip_blocked",
+    "en": "IP blocked"
+  },
+  {
+    "-id": "ip_blocked_until",
+    "en": "IP blocked: %s"
+  },
+  {
+    "-id": "forum_blocked",
+    "en": "blocked on the forum"
+  },
+  {
+    "-id": "topic_blocked",
+    "en": "blocked in the topic"
+  },
+  {
+    "-id": "forum_blocked_until",
+    "en": "blocked on the forum: %s"
+  },
+  {
+    "-id": "UsersNotFound",
+    "en": "No members are found."
+  },
+  {
+    "-id": "MessagesPerDay",
+    "en": "Messages per day"
+  },
+  {
+    "-id": "HitsPerDay",
+    "en": "Hits per day"
+  },
+  {
+    "-id": "TimeOnlinePerDay",
+    "en": "Time online per day"
+  },
+  {
+    "-id": "TimeOnlineToday",
+    "en": "Time online today"
+  },
+  {
+    "-id": "TimeOnlineTotal",
+    "en": "Spent on forum"
+  },
+  {
+    "-id": "HitsPerMinute",
+    "en": "Hits per minute"
+  },
+  {
+    "-id": "QueryExecTime",
+    "en": "Execution time of the query (ms)"
+  },
+  {
+    "-id": "QueryExecCount",
+    "en": "Number of query executions per minute"
+  },
+  {
+    "-id": "HitsPostsPerDay",
+    "en": "Hits/messages per day"
+  },
+  {
+    "-id": "NewMembers",
+    "en": "New members"
+  },
+  {
+    "-id": "MaxMessagesCount",
+    "en": "Maximal message count"
+  },
+  {
+    "-id": "BestRating",
+    "en": "Best Rating"
+  },
+  {
+    "-id": "WorstRating",
+    "en": "Worst rating"
+  },
+  {
+    "-id": "ActiveWriters",
+    "en": "Active writers"
+  },
+  {
+    "-id": "ActiveReaders",
+    "en": "Active readers"
+  },
+  {
+    "-id": "Regulars",
+    "en": "Regulars"
+  },
+  {
+    "-id": "MostActiveLastWeek",
+    "en": "Most active over the last week"
+  },
+  {
+    "-id": "Sort",
+    "en": "Sort"
+  },
+  {
+    "-id": "OverLastWeek",
+    "en": "over the last week"
+  },
+  {
+    "-id": "ErrForumDoesNotExist",
+    "en": "Forum with that ID (%s) does not exist!"
+  },
+  {
+    "-id": "ErrTopicDoesNotExist",
+    "en": "Topic with that ID (%s) does not exist!"
+  },
+  {
+    "-id": "DeleteTopics",
+    "en": "Delete topics"
+  },
+  {
+    "-id": "RestoreTopics",
+    "en": "Restore topics"
+  },
+  {
+    "-id": "Move",
+    "en": "Move"
+  },
+  {
+    "-id": "MoveTopics",
+    "en": "Move topics"
+  },
+  {
+    "-id": "MergeTopics",
+    "en": "Merge topics"
+  },
+  {
+    "-id": "CloseTopics",
+    "en": "Close topics"
+  },
+  {
+    "-id": "OpenTopics",
+    "en": "Open topics"
+  },
+  {
+    "-id": "NoTopics",
+    "en": "No topics."
+  },
+  {
+    "-id": "NoTopicsFound",
+    "en": "No topics are found."
+  },
+  {
+    "-id": "Topic",
+    "en": "Topic"
+  },
+  {
+    "-id": "Author",
+    "en": "Author"
+  },
+  {
+    "-id": "Authors",
+    "en": "Author"
+  },
+  {
+    "-id": "Important",
+    "en": "Important"
+  },
+  {
+    "-id": "Pages",
+    "en": "Pages"
+  },
+  {
+    "-id": "GotoForum",
+    "en": "Go to forum ..."
+  },
+  {
+    "-id": "GotoTopic",
+    "en": "Go to topic"
+  },
+  {
+    "-id": "all",
+    "en": "all"
+  },
+  {
+    "-id": "NewTopic",
+    "en": "New topic"
+  },
+  {
+    "-id": "Moderation",
+    "en": "Moderation"
+  },
+  {
+    "-id": "ReadmarkerModeration",
+    "en": "Read marker moderation"
+  },
+  {
+    "-id": "ReadmarkersNotFound",
+    "en": "No read marker are found."
+  },
+  {
+    "-id": "DeleteTopic",
+    "en": "Delete topic"
+  },
+  {
+    "-id": "RestoreTopic",
+    "en": "Restore topic"
+  },
+  {
+    "-id": "MoveTopic",
+    "en": "Move topic"
+  },
+  {
+    "-id": "MergeTopic",
+    "en": "Merge topic"
+  },
+  {
+    "-id": "CloseTopic",
+    "en": "Close topic"
+  },
+  {
+    "-id": "OpenTopic",
+    "en": "Open topic"
+  },
+  {
+    "-id": "MovePosts",
+    "en": "Move messages"
+  },
+  {
+    "-id": "PinTopic",
+    "en": "Pin topic"
+  },
+  {
+    "-id": "UnpinTopic",
+    "en": "Unpin topic"
+  },
+  {
+    "-id": "ErrSystemForumEdit",
+    "en": "The system forum cannot be edited!"
+  },
+  {
+    "-id": "MsgTopicTooLarge",
+    "en": "The topic is too large for displaying all messages at once!"
+  },
+  {
+    "-id": "deleted",
+    "en": "deleted"
+  },
+  {
+    "-id": "TopicModerator",
+    "en": "Topic moderator"
+  },
+  {
+    "-id": "ForumModerator",
+    "en": "Forum moderator"
+  },
+  {
+    "-id": "MsgTopicOpened",
+    "en": "Topic has been successfully opened."
+  },
+  {
+    "-id": "MsgTopicClosed",
+    "en": "Topic has been successfully closed."
+  },
+  {
+    "-id": "MsgTopicDeleted",
+    "en": "Topic has been successfully deleted."
+  },
+  {
+    "-id": "MsgTopicRestored",
+    "en": "Topic has been successfully restored."
+  },
+  {
+    "-id": "MsgErrMaxPinnedTopics",
+    "en": "You can pin maximally %s topics!"
+  },
+  {
+    "-id": "MsgErrMaxPinnedTopicsPerForum",
+    "en": "A forum can have maximally %s topics!"
+  },
+  {
+    "-id": "MsgErrMaxMembersPerPrivateTopic",
+    "en": "The number of participants %s exceeds the maximal allowed number %!"
+  },
+  {
+    "-id": "MsgTopicPinned",
+    "en": "Topic has been successfully pinned."
+  },
+  {
+    "-id": "MsgTopicUnpinned",
+    "en": "Topic has been successfully unpinned."
+  },
+  {
+    "-id": "MsgConfirmTopicDelete",
+    "en": "Are you sure to delete the topic?"
+  },
+  {
+    "-id": "MsgConfirmTopicClose",
+    "en": "Are you sure to close the topic?"
+  },
+  {
+    "-id": "MsgTopicsOpened",
+    "en": "Topics has been successfully opened."
+  },
+  {
+    "-id": "MsgTopicsClosed",
+    "en": "Topics has been successfully closed."
+  },
+  {
+    "-id": "MsgTopicsDeleted",
+    "en": "Topics have been successfully deleted."
+  },
+  {
+    "-id": "MsgTopicsRestored",
+    "en": "Topics has been successfully restored."
+  },
+  {
+    "-id": "MsgConfirmTopicsDelete",
+    "en": "Are you sure to delete the selected topics?"
+  },
+  {
+    "-id": "MsgConfirmTopicsClose",
+    "en": "Are you sure to close the selected topics?"
+  },
+  {
+    "-id": "ErrNoTopicSelected",
+    "en": "No topic has been selected!"
+  },
+  {
+    "-id": "ErrNoForumSelected",
+    "en": "No forum has been selected!"
+  },
+  {
+    "-id": "MsgTopicAddedToFavourites",
+    "en": "Topic has been added to favourites."
+  },
+  {
+    "-id": "MsgTopicRemovedFromFavourites",
+    "en": "Topic has been removed from favourites."
+  },
+  {
+    "-id": "MsgTopicsRemovedFromFavourites",
+    "en": "Topics have been removed from favourites."
+  },
+  {
+    "-id": "MsgTopicAddedToIgnored",
+    "en": "The topic is now ignored and will not be listed in the list of the topics with new messages."
+  },
+  {
+    "-id": "MsgTopicsAddedToIgnored",
+    "en": "The topics are now ignored and will not be listed in the list of the topics with new messages."
+  },
+  {
+    "-id": "MsgTopicRemovedFromIgnored",
+    "en": "The topic is no more ignored."
+  },
+  {
+    "-id": "MsgTopicSubscribed",
+    "en": "You have been subscribed for the notification on new messages in this topic."
+  },
+  {
+    "-id": "MsgTopicUnsubscribed",
+    "en": "You have been usubscribed from the notification on new messages in this topic."
+  },
+  {
+    "-id": "MsgConfirmPostsDelete",
+    "en": "Are you sure to delete the selected messages?"
+  },
+  {
+    "-id": "ErrNoPostSelected",
+    "en": "No message has been selected!"
+  },
+  {
+    "-id": "ErrNoTagSelected",
+    "en": "No tag has been selected!"
+  },
+  {
+    "-id": "ErrTagNameEmpty",
+    "en": "Tag name is not specified!"
+  },
+  {
+    "-id": "MsgPostsDeleted",
+    "en": "Messages have been successfully deleted."
+  },
+  {
+    "-id": "MsgRatesDeleted",
+    "en": "Rates have been successfully deleted."
+  },
+  {
+    "-id": "Answer",
+    "en": "Answer"
+  },
+  {
+    "-id": "Citate",
+    "en": "Citate"
+  },
+  {
+    "-id": "Citation",
+    "en": "Citation"
+  },
+  {
+    "-id": "Spoiler",
+    "en": "Spoiler"
+  },
+  {
+    "-id": "Code",
+    "en": "Code"
+  },
+  {
+    "-id": "Complain",
+    "en": "Complain"
+  },
+  {
+    "-id": "More",
+    "en": "More ..."
+  },
+  {
+    "-id": "Link",
+    "en": "Link"
+  },
+  {
+    "-id": "LinkToMessage",
+    "en": "Link to the message"
+  },
+  {
+    "-id": "LinkWithTopicName",
+    "en": "Link with the topic name"
+  },
+  {
+    "-id": "MarkForCopy",
+    "en": "Mark for copy"
+  },
+  {
+    "-id": "ModerateAuthor",
+    "en": "Modearate author"
+  },
+  {
+    "-id": "EditAuthor",
+    "en": "Edit author"
+  },
+  {
+    "-id": "DeleteAuthorMessagesInTopic",
+    "en": "Delete the author's messages in this topic"
+  },
+  {
+    "-id": "DeleteAuthorMessagesInForum",
+    "en": "Delete the author's messages in this forum"
+  },
+  {
+    "-id": "DeleteAllAuthorMessages",
+    "en": "Delete all author's messages"
+  },
+  {
+    "-id": "DeleteLast10AuthorMessages",
+    "en": "Delete the last 10 author's messages"
+  },
+  {
+    "-id": "DeleteLast10AuthorRates",
+    "en": "Delete the last 10 author's rates"
+  },
+  {
+    "-id": "ShowMembersOfIP",
+    "en": "Show members with this IP address"
+  },
+  {
+    "-id": "ShowMembersOfUserMarker",
+    "en": "Show members with this user marker"
+  },
+  {
+    "-id": "ShowAuthorIPs",
+    "en": "Show author's IP addresses"
+  },
+  {
+    "-id": "ShowMembersOfAuthorIPs",
+    "en": "Show members with the IP addresses of the author"
+  },
+  {
+    "-id": "MakeAuthorTopicModerator",
+    "en": "Make the autor a topic moderator"
+  },
+  {
+    "-id": "RemoveAuthorFromTopicModerator",
+    "en": "Revoke the topic modearator status from the author"
+  },
+  {
+    "-id": "MsgConfirmPostsInTopicDelete",
+    "en": "Are you sure to delete the messages of the author '%s' in this topic?"
+  },
+  {
+    "-id": "MsgConfirmPostsInForumDelete",
+    "en": "Are you sure to delete the messages of the author '%s' in this forum?"
+  },
+  {
+    "-id": "MsgConfirmAllPostsDelete",
+    "en": "Are you sure to delete all messages of the author '%s'?"
+  },
+  {
+    "-id": "MsgConfirmLast10PostsDelete",
+    "en": "Are you sure to delete the last 10 messages of the author '%s'?"
+  },
+  {
+    "-id": "MsgConfirmLast10RatesDelete",
+    "en": "Are you sure to delete the last 10 rates of the author '%s'?"
+  },
+  {
+    "-id": "MsgConfirmMakeTopicModerator",
+    "en": "Are you sure to make the member '%s' a topic moderator?"
+  },
+  {
+    "-id": "MsgConfirmRemoveFromTopicModerator",
+    "en": "Are you sure to revoke the topic modearator status from the member '%s'?"
+  },
+  {
+    "-id": "ErrNoUserSelected",
+    "en": "No user has been selected!"
+  },
+  {
+    "-id": "MsgTopicModeratorMade",
+    "en": "The member %s has been made a topic moderator."
+  },
+  {
+    "-id": "MsgTopicModeratorRevoked",
+    "en": "Topic modearator status has been revoked from the member %s."
+  },
+  {
+    "-id": "PinMessage",
+    "en": "Pin message"
+  },
+  {
+    "-id": "UnpinMessage",
+    "en": "Unpin message"
+  },
+  {
+    "-id": "MsgMessagePinned",
+    "en": "Message has been successfully pinned."
+  },
+  {
+    "-id": "MsgMessageUnpinned",
+    "en": "Message has been successfully unpinned."
+  },
+  {
+    "-id": "ErrPinDeletedMessage",
+    "en": "Deleted message cannot be pinned!"
+  },
+  {
+    "-id": "ErrOnlyOnePostCanBePinned",
+    "en": "The topic already has a pinned message!"
+  },
+  {
+    "-id": "MsgConfirmRemoveFromFavourites",
+    "en": "Are you sure to remove the selected topics from favourites?"
+  },
+  {
+    "-id": "Warn",
+    "en": "Warn"
+  },
+  {
+    "-id": "WarnMessageAlreadyRated",
+    "en": "You have already rated this message!"
+  },
+  {
+    "-id": "UserProfileLink",
+    "en": "Link to user profile"
+  },
+  {
+    "-id": "NewMessage",
+    "en": "New message"
+  },
+  {
+    "-id": "MsgTopicsMoved",
+    "en": "Topics have been successfully moved."
+  },
+  {
+    "-id": "MsgTopicMoved",
+    "en": "Topic has been successfully moved."
+  },
+  {
+    "-id": "Cancel",
+    "en": "Cancel"
+  },
+  {
+    "-id": "TargetTopic",
+    "en": "Target topic"
+  },
+  {
+    "-id": "EnterTopicKeyword",
+    "en": "Enter keyword or topic ID"
+  },
+  {
+    "-id": "Apply",
+    "en": "Apply"
+  },
+  {
+    "-id": "MsgTopicsMerged",
+    "en": "Topics have been successfully merged to the target topic."
+  },
+  {
+    "-id": "MsgTopicMerged",
+    "en": "Topic has been successfully merged to the target topic."
+  },
+  {
+    "-id": "WarnTopicMerged",
+    "en": "The topic you tried to view has been merged to another topic. You have been redirected to the target topic!"
+  },
+  {
+    "-id": "MsgPostsMoved",
+    "en": "Messages have been successfully moved."
+  },
+  {
+    "-id": "HideProfile",
+    "en": "Hide profile"
+  },
+  {
+    "-id": "OpenProfile",
+    "en": "Open profile"
+  },
+  {
+    "-id": "AllowRating",
+    "en": "Allow message rating"
+  },
+  {
+    "-id": "DisallowRating",
+    "en": "Disallow message rating"
+  },
+  {
+    "-id": "PutToIgnoreList",
+    "en": "Put to ignore list"
+  },
+  {
+    "-id": "RemoveFromIgnoreList",
+    "en": "Remove from ignore list"
+  },
+  {
+    "-id": "ignored",
+    "en": "ignored"
+  },
+  {
+    "-id": "Ignored",
+    "en": "In the ignore list"
+  },
+  {
+    "-id": "ignoring_me",
+    "en": "ignoring me"
+  },
+  {
+    "-id": "ignoring_guests",
+    "en": "ignoring guests"
+  },
+  {
+    "-id": "IgnoringMe",
+    "en": "Ignoring me"
+  },
+  {
+    "-id": "IgnoringGuests",
+    "en": "Ignoring guests"
+  },
+  {
+    "-id": "MsgUserAddedToIngoreList",
+    "en": "Member has been added to the ignore list."
+  },
+  {
+    "-id": "MsgUserRemovedFromIngoreList",
+    "en": "Member has been removed from the ignore list."
+  },
+  {
+    "-id": "Comment",
+    "en": "Comment"
+  },
+  {
+    "-id": "Action",
+    "en": "Action"
+  },
+  {
+    "-id": "DateTime",
+    "en": "Date / Time"
+  },
+  {
+    "-id": "Date",
+    "en": "Date"
+  },
+  {
+    "-id": "DateRange",
+    "en": "Period"
+  },
+  {
+    "-id": "NoEvents",
+    "en": "No events."
+  },
+  {
+    "-id": "IPAddress",
+    "en": "IP address"
+  },
+  {
+    "-id": "IPAddressOrMarker",
+    "en": "IP address or marker"
+  },
+  {
+    "-id": "ActionPostRestored",
+    "en": "Message has been restored"
+  },
+  {
+    "-id": "ActionPostDeleted",
+    "en": "Message has been deleted"
+  },
+  {
+    "-id": "ActionAttachmentRestored",
+    "en": "Attachment has been restored"
+  },
+  {
+    "-id": "ActionAttachmentDeleted",
+    "en": "Attachment has been deleted"
+  },
+  {
+    "-id": "ActionPostWarned",
+    "en": "Author has been warned"
+  },
+  {
+    "-id": "IncludeRatingActions",
+    "en": "Include rating actions"
+  },
+  {
+    "-id": "ActionPostLiked",
+    "en": "The message has been liked"
+  },
+  {
+    "-id": "ActionPostDisliked",
+    "en": "The message has been disliked"
+  },
+  {
+    "-id": "ActionLikeRevoked",
+    "en": "The like for the message has been revoked"
+  },
+  {
+    "-id": "ActionDislikeRevoked",
+    "en": "The dislike for the message has been revoked"
+  },
+  {
+    "-id": "ActionTopicModeratorMade",
+    "en": "Member has been made a topic moderator"
+  },
+  {
+    "-id": "ActionTopicModeratorRevoked",
+    "en": "Topic modearator status has been revoked"
+  },
+  {
+    "-id": "ActionForumModeratorMade",
+    "en": "Member has been made a forum moderator"
+  },
+  {
+    "-id": "ActionForumModeratorRevoked",
+    "en": "Forum modearator status has been revoked"
+  },
+  {
+    "-id": "ActionForumOpened",
+    "en": "Forum has been opened"
+  },
+  {
+    "-id": "ActionForumClosed",
+    "en": "Forum has been closed"
+  },
+  {
+    "-id": "ActionForumDeleted",
+    "en": "Forum has been deleted"
+  },
+  {
+    "-id": "ActionForumRestored",
+    "en": "Forum has been restored"
+  },
+  {
+    "-id": "ActionTopicOpened",
+    "en": "Topic has been opened"
+  },
+  {
+    "-id": "ActionTopicClosed",
+    "en": "Topic has been closed"
+  },
+  {
+    "-id": "ActionTopicDeleted",
+    "en": "Topic has been deleted"
+  },
+  {
+    "-id": "ActionTopicRestored",
+    "en": "Topic has been restored"
+  },
+  {
+    "-id": "ActionTopicPinned",
+    "en": "Topic has been pinned"
+  },
+  {
+    "-id": "ActionTopicUnpinned",
+    "en": "Topic has been unpinned"
+  },
+  {
+    "-id": "ActionTopicGuestsAllowed",
+    "en": "Guests have been allowed to write in the topic"
+  },
+  {
+    "-id": "ActionTopicGuestsDisallowed",
+    "en": "Guests have been disallowed to write in the topic"
+  },
+  {
+    "-id": "ActionTopicMoved",
+    "en": "Topic has been moved"
+  },
+  {
+    "-id": "ActionTopicMerged",
+    "en": "Topic has been merged"
+  },
+  {
+    "-id": "ActionPostPinned",
+    "en": "Message has been pinned"
+  },
+  {
+    "-id": "ActionPostUnpinned",
+    "en": "Message has been unpinned"
+  },
+  {
+    "-id": "ActionPostMoved",
+    "en": "Message has been moved"
+  },
+  {
+    "-id": "ActionPostChanged",
+    "en": "Message has been changed"
+  },
+  {
+    "-id": "ActionTopicChanged",
+    "en": "Topic name has been changed"
+  },
+  {
+    "-id": "ActionPostsDeletedInTopic",
+    "en": "Messages of the author have been deleted in the topic"
+  },
+  {
+    "-id": "ActionPostsDeletedInForum",
+    "en": "Messages of the author have been deleted in the forum"
+  },
+  {
+    "-id": "ActionPostsDeleted",
+    "en": "All messages of the author have been deleted"
+  },
+  {
+    "-id": "Action10PostsDeleted",
+    "en": "The last 10 messages of the author have been deleted"
+  },
+  {
+    "-id": "Action10RatesDeleted",
+    "en": "The last 10 rates of the author have been deleted"
+  },
+  {
+    "-id": "MondayShort",
+    "en": "Mo"
+  },
+  {
+    "-id": "TuesdayShort",
+    "en": "Tu"
+  },
+  {
+    "-id": "WednesdayShort",
+    "en": "We"
+  },
+  {
+    "-id": "ThursdayShort",
+    "en": "Th"
+  },
+  {
+    "-id": "FridayShort",
+    "en": "Fr"
+  },
+  {
+    "-id": "SaturdayShort",
+    "en": "Sa"
+  },
+  {
+    "-id": "SundayShort",
+    "en": "Su"
+  },
+  {
+    "-id": "January",
+    "en": "January"
+  },
+  {
+    "-id": "February",
+    "en": "February"
+  },
+  {
+    "-id": "March",
+    "en": "March"
+  },
+  {
+    "-id": "April",
+    "en": "April"
+  },
+  {
+    "-id": "May",
+    "en": "May"
+  },
+  {
+    "-id": "June",
+    "en": "June"
+  },
+  {
+    "-id": "July",
+    "en": "July"
+  },
+  {
+    "-id": "August",
+    "en": "August"
+  },
+  {
+    "-id": "September",
+    "en": "September"
+  },
+  {
+    "-id": "October",
+    "en": "October"
+  },
+  {
+    "-id": "November",
+    "en": "November"
+  },
+  {
+    "-id": "December",
+    "en": "December"
+  },
+  {
+    "-id": "JanuaryShort",
+    "en": "Jan"
+  },
+  {
+    "-id": "FebruaryShort",
+    "en": "Feb"
+  },
+  {
+    "-id": "MarchShort",
+    "en": "Mar"
+  },
+  {
+    "-id": "AprilShort",
+    "en": "Apr"
+  },
+  {
+    "-id": "MayShort",
+    "en": "May"
+  },
+  {
+    "-id": "JuneShort",
+    "en": "Jun"
+  },
+  {
+    "-id": "JulyShort",
+    "en": "Jul"
+  },
+  {
+    "-id": "AugustShort",
+    "en": "Aug"
+  },
+  {
+    "-id": "SeptemberShort",
+    "en": "Sep"
+  },
+  {
+    "-id": "OctoberShort",
+    "en": "Octr"
+  },
+  {
+    "-id": "NovemberShort",
+    "en": "Nov"
+  },
+  {
+    "-id": "DecemberShort",
+    "en": "Dec"
+  },
+  {
+    "-id": "CalSeparator",
+    "en": "-"
+  },
+  {
+    "-id": "CalDateFormat",
+    "en": "y/m/d"
+  },
+  {
+    "-id": "Preview",
+    "en": "Preview"
+  },
+  {
+    "-id": "Period",
+    "en": "Period"
+  },
+  {
+    "-id": "Days",
+    "en": "Days"
+  },
+  {
+    "-id": "Hours",
+    "en": "Hours"
+  },
+  {
+    "-id": "Minutes",
+    "en": "Minutes"
+  },
+  {
+    "-id": "DaysShort",
+    "en": "d."
+  },
+  {
+    "-id": "HoursShort",
+    "en": "hr."
+  },
+  {
+    "-id": "MinutesShort",
+    "en": "min."
+  },
+  {
+    "-id": "Reason",
+    "en": "Reason"
+  },
+  {
+    "-id": "ForAllForums",
+    "en": "On all moderated forums"
+  },
+  {
+    "-id": "Roughness",
+    "en": "Roughness / Outrage"
+  },
+  {
+    "-id": "Flood",
+    "en": "Flood"
+  },
+  {
+    "-id": "Spam",
+    "en": "Spam"
+  },
+  {
+    "-id": "AuthorWish",
+    "en": "On the own wish"
+  },
+  {
+    "-id": "EthnicHatred",
+    "en": "Inciting ethnic hatred"
+  },
+  {
+    "-id": "IllegalContent",
+    "en": "Publishing of illegal content"
+  },
+  {
+    "-id": "UnlawfulStatement",
+    "en": "Unlawful Statement"
+  },
+  {
+    "-id": "OtherReason",
+    "en": "Other reason"
+  },
+  {
+    "-id": "MsgProfileHidden",
+    "en": "Profile has been successfully hidden."
+  },
+  {
+    "-id": "MsgProfileOpened",
+    "en": "Profile has been successfully opened."
+  },
+  {
+    "-id": "ActionProfileHidden",
+    "en": "Profile has been hidden"
+  },
+  {
+    "-id": "ActionProfileOpened",
+    "en": "Profile has been opened"
+  },
+  {
+    "-id": "MsgRatingDisallowed",
+    "en": "The message rating has been disallowed for this member."
+  },
+  {
+    "-id": "MsgRatingAllowed",
+    "en": "The message rating has been allowed for this member."
+  },
+  {
+    "-id": "ErrRatingBlocked",
+    "en": "You are disallowed to rate messages!"
+  },
+  {
+    "-id": "ActionRatingDisallowed",
+    "en": "The message rating has been disallowed"
+  },
+  {
+    "-id": "ActionRatingAllowed",
+    "en": "The message rating has been allowed"
+  },
+  {
+    "-id": "ErrModeratorBlockNotAllowed",
+    "en": "A moderator or administrator cannot be blocked or hidden!"
+  },
+  {
+    "-id": "ErrBlockReasonNotSpecified",
+    "en": "Specify the reason of the blocking!"
+  },
+  {
+    "-id": "MsgUserBlocked",
+    "en": "User has been successfully blocked."
+  },
+  {
+    "-id": "MsgUserUnblocked",
+    "en": "User has been successfully unblocked."
+  },
+  {
+    "-id": "ActionUserBlocked",
+    "en": "User has been blocked"
+  },
+  {
+    "-id": "ActionUserUnblocked",
+    "en": "User has been unblocked"
+  },
+  {
+    "-id": "ActionUserDeleted",
+    "en": "User has been deleted"
+  },
+  {
+    "-id": "ActionBulkDeleteMessages",
+    "en": "Messages has been deleted over bulk deletion"
+  },
+  {
+    "-id": "ActionUserBlockedUntil",
+    "en": "User has been blocked until {time}"
+  },
+  {
+    "-id": "ActionUserForumBlocked",
+    "en": "User has been blocked for writing on a forum"
+  },
+  {
+    "-id": "ActionUserForumUnblocked",
+    "en": "User has been unblocked for writing on a forum"
+  },
+  {
+    "-id": "ActionUserTopicBlocked",
+    "en": "User has been blocked for writing in a topic"
+  },
+  {
+    "-id": "ActionUserTopicUnblocked",
+    "en": "User has been unblocked for writing in a topic"
+  },
+  {
+    "-id": "ActionUserForumBlockedUntil",
+    "en": "User has been blocked for writing on a forum until {time}"
+  },
+  {
+    "-id": "UnblockOnForums",
+    "en": "Unblock on the forums"
+  },
+  {
+    "-id": "ErrForumNotAccessible",
+    "en": "You do not have access to the forum '%s'!"
+  },
+  {
+    "-id": "WarnTopicDeleted",
+    "en": "The requested topic has been deleted!"
+  },
+  {
+    "-id": "ForumsWithRestrictedAccess",
+    "en": "Forums with restricted access"
+  },
+  {
+    "-id": "MsgForumAccessSet",
+    "en": "Access rights to the restricted forums have been successfully updated."
+  },
+  {
+    "-id": "ActionGrantForumAccess",
+    "en": "Access to the restricted forum has been granted"
+  },
+  {
+    "-id": "ActionRevokeForumAccess",
+    "en": "Access to the restricted forum has been revoked"
+  },
+  {
+    "-id": "ResetMyRating",
+    "en": "Reset my rating"
+  },
+  {
+    "-id": "ErrIPAddressEmpty",
+    "en": "IP address is not specified!"
+  },
+  {
+    "-id": "ErrUserMarkerEmpty",
+    "en": "User marker is not specified!"
+  },
+  {
+    "-id": "NoData",
+    "en": "No data."
+  },
+  {
+    "-id": "IPAddresses",
+    "en": "IP addresses"
+  },
+  {
+    "-id": "OtherAuthors",
+    "en": "Other authors"
+  },
+  {
+    "-id": "MsgIPBlocked",
+    "en": "IP address has been successfully blocked."
+  },
+  {
+    "-id": "MsgIPUnblocked",
+    "en": "IP address has been successfully unblocked."
+  },
+  {
+    "-id": "ActionIPBlocked",
+    "en": "IP address has been blocked"
+  },
+  {
+    "-id": "ActionIPBlockedUntil",
+    "en": "IP address has been blocked until {time}"
+  },
+  {
+    "-id": "ActionIPUnblocked",
+    "en": "IP address has been unblocked"
+  },
+  {
+    "-id": "MsgUserMarkerBlocked",
+    "en": "User marker has been successfully blocked."
+  },
+  {
+    "-id": "MsgUserMarkerUnblocked",
+    "en": "User marker has been successfully unblocked."
+  },
+  {
+    "-id": "ActionUserMarkerBlocked",
+    "en": "User marker has been blocked"
+  },
+  {
+    "-id": "ActionUserMarkerBlockedUntil",
+    "en": "User marker has been blocked until {time}"
+  },
+  {
+    "-id": "ActionUserMarkerUnblocked",
+    "en": "User marker has been unblocked"
+  },
+  {
+    "-id": "MsgConfirmPostCancel",
+    "en": "The input data will be lost! Are you sure to cancel the message posting?"
+  },
+  {
+    "-id": "MsgConfirmPostOverwrite",
+    "en": "The input data will be lost! Are you sure to overwrite the message?"
+  },
+  {
+    "-id": "ErrAuthorNameEmpty",
+    "en": "Author name is not specified!"
+  },
+  {
+    "-id": "PasteIntoMessage",
+    "en": "Paste"
+  },
+  {
+    "-id": "AttachmentLink",
+    "en": "Link to the attachment"
+  },
+  {
+    "-id": "ErrAttachmentTooLarge",
+    "en": "The attachment '%s' is too large (%s)! The maximal attachment size is %s."
+  },
+  {
+    "-id": "ErrFileProcessing",
+    "en": "Error by processing file '%s'!"
+  },
+  {
+    "-id": "Modified",
+    "en": "Modified"
+  },
+  {
+    "-id": "ErrForumClosed",
+    "en": "The forum is closed!"
+  },
+  {
+    "-id": "ErrTopicClosed",
+    "en": "The topic is closed!"
+  },
+  {
+    "-id": "ErrForumGuestsNotAllowed",
+    "en": "The unregistered users are not allowed to post messages on this forum or in this topic!"
+  },
+  {
+    "-id": "MsgComplaintSent",
+    "en": "The complaint has been successfully sent."
+  },
+  {
+    "-id": "ErrAccountIsBlockedOnForum",
+    "en": "Your account has been blocked for writing on the forum '%s' forum! You can view the reason in your profile."
+  },
+  {
+    "-id": "ErrAccountIsBlockedInTopic",
+    "en": "Your account has been blocked for writing in this topic!"
+  },
+  {
+    "-id": "ErrAccountIsBlockedUntilOnForum",
+    "en": "Your account has been blocked for writing on the forum '%s' until %s! You can view the reason in your profile."
+  },
+  {
+    "-id": "ErrIPIsBlocked",
+    "en": "Your IP address [%s] has been blocked! If you suppose it is a mistake, please contact the administration of the forum over the menu \"Contact\" or register an account."
+  },
+  {
+    "-id": "ErrIPIsBlockedUntil",
+    "en": "Your IP address [%s] has been blocked until %s! Time remaining: %s. If you suppose it is a mistake, please contact the administration of the forum over the menu \"Contact\" or register an account."
+  },
+  {
+    "-id": "ErrUserMarkerIsBlocked",
+    "en": "You have been blocked! If you suppose it is a mistake, please contact the administration of the forum over the menu \"Contact\" or register an account."
+  },
+  {
+    "-id": "ErrUserMarkerIsBlockedUntil",
+    "en": "You have been blocked until %s! Time remaining: %s. If you suppose it is a mistake, please contact the administration of the forum over the menu \"Contact\" or register an account."
+  },
+  {
+    "-id": "ErrMessageLimitExceeded",
+    "en": "You have exceeded the limit (%s messages per minite)! Try to send your message a little later."
+  },
+  {
+    "-id": "ErrMessageGuestRestricted",
+    "en": "New guests cannot write messages immediately on this forum! Please register or wait for %s."
+  },
+  {
+    "-id": "ErrTopicLimitExceeded",
+    "en": "You have exceeded the limit (%s topics per day)! Creation of the new topic will be possible in: %s."
+  },
+  {
+    "-id": "ErrComplainLimitExceeded",
+    "en": "You have exceeded the limit (%s complains per day)! Try to complain a little later."
+  },
+  {
+    "-id": "ErrRateLimitExceeded",
+    "en": "You have exceeded the limit (%s rating actions for an user per hour)! Try it again a little later."
+  },
+  {
+    "-id": "Receiver",
+    "en": "Receiver"
+  },
+  {
+    "-id": "NoPrivateMessages",
+    "en": "Disable private messages"
+  },
+  {
+    "-id": "IgnoreGuests",
+    "en": "Ignore guests"
+  },
+  {
+    "-id": "IgnoreGuestsExcept",
+    "en": "except"
+  },
+  {
+    "-id": "ErrNoAccessToPrivateTopic",
+    "en": "You do not have the access to this private topic! The author has either not yet added you to this private discussion, or he has removed you from it."
+  },
+  {
+    "-id": "ErrUserNoPrivateMessages",
+    "en": "The private message cannot be sent because the member %s has turned the private messages off!"
+  },
+  {
+    "-id": "ErrUserIgnored",
+    "en": "The member %s has put you to the ignore list!"
+  },
+  {
+    "-id": "CreateNewTopic",
+    "en": "Create new topic"
+  },
+  {
+    "-id": "EnterNewTopicName",
+    "en": "Enter new topic name"
+  },
+  {
+    "-id": "LeaveTopic",
+    "en": "Leave the topic"
+  },
+  {
+    "-id": "MsgConfirmLeaveTopic",
+    "en": "Are you sure to leave the topic? After leaving, you will not be able to come back to the topic by yourself!"
+  },
+  {
+    "-id": "MsgLeaveTopicSuccess",
+    "en": "You have successfully left the topic!"
+  },
+  {
+    "-id": "ManageMembers",
+    "en": "Manage members"
+  },
+  {
+    "-id": "TopicMembers",
+    "en": "Topic members"
+  },
+  {
+    "-id": "MsgPrivateMembersRenewed",
+    "en": "The list of participants has been successfully updated."
+  },
+  {
+    "-id": "MsgBlockedMembersRenewed",
+    "en": "The list of the blocked users has been successfully updated."
+  },
+  {
+    "-id": "DailyActivity",
+    "en": "Daily activity"
+  },
+  {
+    "-id": "VisitingGeography",
+    "en": "Visiting geography"
+  },
+  {
+    "-id": "ForumActivity",
+    "en": "Activity on the forums"
+  },
+  {
+    "-id": "HiddenForums",
+    "en": "Hidden forums"
+  },
+  {
+    "-id": "Poll",
+    "en": "Poll"
+  },
+  {
+    "-id": "DelayPublishing",
+    "en": "Delay publishing"
+  },
+  {
+    "-id": "PublishingDelayed",
+    "en": "Publishing delayed"
+  },
+  {
+    "-id": "not_published",
+    "en": "not published"
+  },
+  {
+    "-id": "ErrTopicNotPublished",
+    "en": "The topic is not yet published!"
+  },
+  {
+    "-id": "MsgTopicPublished",
+    "en": "The topic has been successfully published!"
+  },
+  {
+    "-id": "Publish",
+    "en": "Publish"
+  },
+  {
+    "-id": "CreatePoll",
+    "en": "Create a poll"
+  },
+  {
+    "-id": "PollComment",
+    "en": "Enter the poll answer options, one per line. Tags [url], [smile] and [img] are allowed."
+  },
+  {
+    "-id": "PollMultiselect",
+    "en": "Enable multiselect"
+  },
+  {
+    "-id": "OpenPoll",
+    "en": "Open poll"
+  },
+  {
+    "-id": "OpenPollComment",
+    "en": "This poll is open. Your choise will be visible for other participants!"
+  },
+  {
+    "-id": "ErrNoPollOptions",
+    "en": "The poll answer options are not specified!"
+  },
+  {
+    "-id": "ErrPollOptionTooLong",
+    "en": "The answer option cannot contain more than %s characters!"
+  },
+  {
+    "-id": "ErrPollOptionExists",
+    "en": "The poll contains dublicate answer option '%s'!"
+  },
+  {
+    "-id": "AccountConfirmationRequired",
+    "en": "Administrator confirmation required"
+  },
+  {
+    "-id": "Approved",
+    "en": "Approved"
+  },
+  {
+    "-id": "MsgUserDeleteConfirm",
+    "en": "Are you sure to delete this user with all his messages?"
+  },
+  {
+    "-id": "MsgUserDeleted",
+    "en": "User has been successfully deleted."
+  },
+  {
+    "-id": "Likes",
+    "en": "Likes"
+  },
+  {
+    "-id": "ActivateLikes",
+    "en": "Activate likes"
+  },
+  {
+    "-id": "ActivateDislikes",
+    "en": "Activate dislikes"
+  },
+  {
+    "-id": "DislikesAnonymous",
+    "en": "Dislikes anonymous"
+  },
+  {
+    "-id": "Liked",
+    "en": "Liked"
+  },
+  {
+    "-id": "Disliked",
+    "en": "Disliked"
+  },
+  {
+    "-id": "MoreUsers",
+    "en": "more ..."
+  },
+  {
+    "-id": "Vote",
+    "en": "Vote"
+  },
+  {
+    "-id": "Voted",
+    "en": "Voted"
+  },
+  {
+    "-id": "MsgAlreadyVoted",
+    "en": "You have already voted."
+  },
+  {
+    "-id": "ErrAlreadyVoted",
+    "en": "You have already voted!"
+  },
+  {
+    "-id": "ErrNoOptionChosen",
+    "en": "No answer has been chosen!"
+  },
+  {
+    "-id": "SendNotifications",
+    "en": "Send e-mail notifications"
+  },
+  {
+    "-id": "NoNotificationsOnRates",
+    "en": "Do not notify on rates"
+  },
+  {
+    "-id": "TurnOffEvents",
+    "en": "Turn off events"
+  },
+  {
+    "-id": "Sorting",
+    "en": "Sorting"
+  },
+  {
+    "-id": "new",
+    "en": "new"
+  },
+  {
+    "-id": "MsgForumsMarkedRead",
+    "en": "The forums have been successfully marked read!"
+  },
+  {
+    "-id": "MsgForumMarkedRead",
+    "en": "The forum has been successfully marked read!"
+  },
+  {
+    "-id": "MsgTopicMarkedRead",
+    "en": "The topic has been successfully marked read!"
+  },
+  {
+    "-id": "MsgTopicsMarkedRead",
+    "en": "The topics have been successfully marked read!"
+  },
+  {
+    "-id": "Install",
+    "en": "Install"
+  },
+  {
+    "-id": "Installation",
+    "en": "Installation"
+  },
+  {
+    "-id": "AdminData",
+    "en": "Master administrator data"
+  },
+  {
+    "-id": "DatabaseConnection",
+    "en": "Database connection"
+  },
+  {
+    "-id": "DatabaseType",
+    "en": "Database type"
+  },
+  {
+    "-id": "ErrDatabaseTypeEmpty",
+    "en": "Database type is not specified!"
+  },
+  {
+    "-id": "DatabaseServer",
+    "en": "Server address"
+  },
+  {
+    "-id": "ErrDatabaseServerEmpty",
+    "en": "Server address is not specified!"
+  },
+  {
+    "-id": "DatabaseName",
+    "en": "Database name"
+  },
+  {
+    "-id": "ErrDatabaseNameEmpty",
+    "en": "Database name is not specified!"
+  },
+  {
+    "-id": "DatabaseUser",
+    "en": "User name"
+  },
+  {
+    "-id": "ErrDatabaseUserEmpty",
+    "en": "User name is not specified!"
+  },
+  {
+    "-id": "DatabasePassword",
+    "en": "Password"
+  },
+  {
+    "-id": "ErrInstallDatabasePasswordEmpty",
+    "en": "The password of the database user is not specified!"
+  },
+  {
+    "-id": "DatabaseTablePrefix",
+    "en": "Prefix for tables"
+  },
+  {
+    "-id": "ErrDatabaseTablePrefixEmpty",
+    "en": "Prefix for tables is not specified!"
+  },
+  {
+    "-id": "DBCreationComment",
+    "en": "If the database with that name does not exist, it will be created."
+  },
+  {
+    "-id": "DBUserComment",
+    "en": "The database user has to have\n         sufficient privileges for creation of the database and database objects.\n         "
+  },
+  {
+    "-id": "DBPrefixComment",
+    "en": "To avoid naming conflicts in the database, specify a\n         prefix that will be pre-pended to any database object of the application.\n         "
+  },
+  {
+    "-id": "InstallDeniedComment1",
+    "en": "The application seems to have been already installed."
+  },
+  {
+    "-id": "InstallDeniedComment2",
+    "en": "If you want only to adjust the database connection settings,\n      you have to edit the config file 'include/config_inc.php'."
+  },
+  {
+    "-id": "InstallDeniedComment3",
+    "en": "To force the installation, set the administrator password to empty in the config file."
+  },
+  {
+    "-id": "InstallMasterAdminComment",
+    "en": "The system has a built-in account for the Master Administrator 'admin'. This user has full rights in the application and can log in even if there is no valid database connection available. Regular users are stored in the database and can log in only if there is a valid database connection."
+  },
+  {
+    "-id": "OnlyFound",
+    "en": "only found"
+  },
+  {
+    "-id": "ErrDBPrefixInvalid",
+    "en": "Prefix name is not valid. Only the following character are allowed: a-z, 0-9 and underscore '_'!"
+  },
+  {
+    "-id": "InstallSuccessComment",
+    "en": "The application has been successfully installed. Now, you can adjust further settings and create the forums."
+  },
+  {
+    "-id": "ErrDbPrefixUsed",
+    "en": "The prefix '%s' seems to be already used. Choose another prefix for this installation!"
+  },
+  {
+    "-id": "ErrReadingFile",
+    "en": "The application has no read access to the file '%s'. Check the privileges of the application and the WEB server on this file and on the target directory!"
+  },
+  {
+    "-id": "ErrWritingFile",
+    "en": "The application was unable to write the file '%s'. Check the privileges of the application and the WEB server on this file and on the target directory!"
+  },
+  {
+    "-id": "MsgSearchResultsExpires",
+    "en": "The search results are no more valid. Make the search again!"
+  },
+  {
+    "-id": "MsgMessagesNotFound",
+    "en": "No messages are found!"
+  },
+  {
+    "-id": "MsgDemoMode",
+    "en": "The forum works in the demo mode. This operation was not actually performed!"
+  },
+  {
+    "-id": "ErrMergetoItself",
+    "en": "The topic cannot be merged to itslef!"
+  },
+  {
+    "-id": "ErrMergeDeletedOrTransferred",
+    "en": "The target topic for merging is either deleted or has been already merged to other topic!"
+  },
+  {
+    "-id": "NoHighlighting",
+    "en": "No highlighting"
+  },
+  {
+    "-id": "MobileVersion",
+    "en": "Mobile version"
+  },
+  {
+    "-id": "DesktopVersion",
+    "en": "Desktop version"
+  },
+  {
+    "-id": "Menu",
+    "en": "Menu"
+  },
+  {
+    "-id": "Actions",
+    "en": "Actions"
+  },
+  {
+    "-id": "ErrTooFewPollOptions",
+    "en": "Specify at least two poll options!"
+  },
+  {
+    "-id": "ErrTooManyPollOptions",
+    "en": "You can define no more than %s options!"
+  },
+  {
+    "-id": "IgnoreList",
+    "en": "Ignore list"
+  },
+  {
+    "-id": "MemberIgnores",
+    "en": "Member ignores"
+  },
+  {
+    "-id": "MemberIgnored",
+    "en": "Member is ignored"
+  },
+  {
+    "-id": "LikeStatistics",
+    "en": "Like statistics"
+  },
+  {
+    "-id": "MemberHasLiked",
+    "en": "Member has liked"
+  },
+  {
+    "-id": "MemberWasLiked",
+    "en": "Member was liked"
+  },
+  {
+    "-id": "MessagesMemberHasLiked",
+    "en": "Messages that the member %s has liked"
+  },
+  {
+    "-id": "MessagesMemberWasLiked",
+    "en": "Messages of the member %s that have been liked"
+  },
+  {
+    "-id": "MessagesMemberWasDisliked",
+    "en": "Messages of the member %s that have been disliked"
+  },
+  {
+    "-id": "MessagesMemberWasLikedBy",
+    "en": "Messages of the member %s that were liked by the member %s"
+  },
+  {
+    "-id": "DislikeStatistics",
+    "en": "Dislike statistics"
+  },
+  {
+    "-id": "MemberHasDisliked",
+    "en": "Member has disliked"
+  },
+  {
+    "-id": "MemberWasDisliked",
+    "en": "Member was disliked"
+  },
+  {
+    "-id": "MessagesMemberWasDislikedBy",
+    "en": "Messages of the member %s that were disliked by the member %s"
+  },
+  {
+    "-id": "Events",
+    "en": "Events"
+  },
+  {
+    "-id": "Event",
+    "en": "Event"
+  },
+  {
+    "-id": "Approve",
+    "en": "Approve"
+  },
+  {
+    "-id": "MsgEventUserRegistered",
+    "en": "A new member {member} has registered. Administrator approval is required. {approve}."
+  },
+  {
+    "-id": "MsgEventMessageLiked",
+    "en": "The member {member} has liked your message {message} in the topic {topic}."
+  },
+  {
+    "-id": "MsgEventMessageDisliked",
+    "en": "The member {member} has disliked your message {message} in the topic {topic}."
+  },
+  {
+    "-id": "MsgEventMessageDislikedAnonym",
+    "en": "Your message {message} in the topic {topic} has been disliked."
+  },
+  {
+    "-id": "MsgEventLikeRevoked",
+    "en": "The member {member} has revoked his like for your message {message} in the topic {topic}."
+  },
+  {
+    "-id": "MsgEventDislikeRevoked",
+    "en": "The member {member} has revoked his dislike for your message {message} in the topic {topic}."
+  },
+  {
+    "-id": "MsgEventDislikeRevokedAnonym",
+    "en": "The dislike for your message {message} in the topic {topic} has been revoked."
+  },
+  {
+    "-id": "MsgEventNewMessageInTopic",
+    "en": "The member {member} has written a message {message} in the subscribed topic {topic}."
+  },
+  {
+    "-id": "MsgEventCitatedMessageInTopic",
+    "en": "The member {member} has written a reply {message} to your message {citated_message} in the topic {topic}."
+  },
+  {
+    "-id": "MsgEventPrivateInvitation",
+    "en": "The author {member} has invited you into the private topic {topic}."
+  },
+  {
+    "-id": "MsgEventPrivateRemoval",
+    "en": "The author {member} has removed you from the private topic {topic}."
+  },
+  {
+    "-id": "MsgEventPrivateMembersInvitation",
+    "en": "The author {member} has invited the following members into the private topic {topic}: {members}."
+  },
+  {
+    "-id": "MsgEventPrivateMembersRemoval",
+    "en": "The author {member} has removed the following members from the private topic {topic}: {members}."
+  },
+  {
+    "-id": "MsgEventPrivateLeaving",
+    "en": "The member {member} has left the private topic {topic}."
+  },
+  {
+    "-id": "MsgEventGrantForumModerator",
+    "en": "The administrator {author} has given you the moderator rights on the forum {forum}."
+  },
+  {
+    "-id": "MsgEventGrantForumModeratorAnonym",
+    "en": "You have been given the moderator rights on the forum {forum}."
+  },
+  {
+    "-id": "MsgEventRevokeForumModerator",
+    "en": "The administrator {author} has revoked your moderator rights on the forum {forum}."
+  },
+  {
+    "-id": "MsgEventRevokeForumModeratorAnonym",
+    "en": "Your moderator rights on the forum {forum} have been revoked."
+  },
+  {
+    "-id": "MsgEventGrantTopicModerator",
+    "en": "The moderator {author} has given you the moderator rights on the topic {topic} on the forum {forum}."
+  },
+  {
+    "-id": "MsgEventGrantTopicModeratorAnonym",
+    "en": "You have been given the moderator rights on the topic {topic} on the forum {forum}."
+  },
+  {
+    "-id": "MsgEventRevokeTopicModerator",
+    "en": "The moderator {author} has revoked your moderator rights on the topic {topic} on the forum {forum}."
+  },
+  {
+    "-id": "MsgEventRevokeTopicModeratorAnonym",
+    "en": "Your moderator rights on the topic {topic} on the forum {forum} have been revoked."
+  },
+  {
+    "-id": "MsgEventMessageWarned",
+    "en": "The moderator {author} has given you a warning to your message {message} in the topic {topic}."
+  },
+  {
+    "-id": "MsgEventMessageWarnedAnonym",
+    "en": "You have been warned in your message {message} in the topic {topic}."
+  },
+  {
+    "-id": "MsgEventMessageComplained",
+    "en": "The member {author} has complained on the message {message} of the author {violator} in the topic {topic}."
+  },
+  {
+    "-id": "MsgEventMessageDeleted",
+    "en": "The moderator {author} has deleted your message {message} from {post_date} in the topic {topic} on the forum {forum}."
+  },
+  {
+    "-id": "MsgEventMessageDeletedAnonym",
+    "en": "Your message {message} from {post_date} has been deleted in the topic {topic} on the forum {forum}."
+  },
+  {
+    "-id": "MsgEventTopicDeleted",
+    "en": "The moderator {author} has deleted your topic {topic} on the forum {forum}."
+  },
+  {
+    "-id": "MsgEventTopicDeletedAnonym",
+    "en": "Your topic {topic} has been deleted on the forum {forum}."
+  },
+  {
+    "-id": "MsgEventTopicDeletedSubscribers",
+    "en": "The moderator {author} has deleted the topic {topic}, on which you are subscribed, on the forum {forum}."
+  },
+  {
+    "-id": "MsgEventTopicDeletedSubscribersAnonym",
+    "en": "Your topic {topic}, on which you are subscribed, has been deleted on the forum {forum}."
+  },
+  {
+    "-id": "MsgEventTopicDeletedModerators",
+    "en": "The moderator {author} has deleted the topic {topic}, where you are the moderator, on the forum {forum}."
+  },
+  {
+    "-id": "MsgEventTopicDeletedModeratorsAnonym",
+    "en": "The topic {topic}, where you are the moderator, has been deleted on the forum {forum}."
+  },
+  {
+    "-id": "MsgEventTopicDeletedParticipants",
+    "en": "The moderator {author} has deleted the private topic {topic}, where you are the participant."
+  },
+  {
+    "-id": "MsgEventTopicDeletedParticipantsAnonym",
+    "en": "The private topic {topic}, where you are the participant, has been deleted."
+  },
+  {
+    "-id": "MsgEventTopicClosed",
+    "en": "The moderator {author} has closed your topic {topic} on the forum {forum}."
+  },
+  {
+    "-id": "MsgEventTopicClosedAnonym",
+    "en": "Your topic {topic} has been closed on the forum {forum}."
+  },
+  {
+    "-id": "MsgEventTopicClosedModerators",
+    "en": "The moderator {author} has closed the topic {topic}, where you are the moderator, on the forum {forum}."
+  },
+  {
+    "-id": "MsgEventTopicClosedModeratorsAnonym",
+    "en": "Your topic {topic}, where you are the moderator, has been closed on the forum {forum}."
+  },
+  {
+    "-id": "MsgEventMessagesInTopicDeleted",
+    "en": "The moderator {author} has deleted all your messages in the topic {topic} on the forum {forum}."
+  },
+  {
+    "-id": "MsgEventMessagesInTopicDeletedAnonym",
+    "en": "All your messages in the topic {topic} on the forum {forum} have been deleted."
+  },
+  {
+    "-id": "MsgEventMessagesInForumDeleted",
+    "en": "The moderator {author} has deleted all your messages on the forum {forum}."
+  },
+  {
+    "-id": "MsgEventMessagesInForumDeletedAnonym",
+    "en": "All your messages on the forum {forum} have been deleted."
+  },
+  {
+    "-id": "MsgEventAllMessagesDeleted",
+    "en": "The moderator {author} has deleted all your messages."
+  },
+  {
+    "-id": "MsgEventAllMessagesDeletedAnonym",
+    "en": "All your messages have been deleted."
+  },
+  {
+    "-id": "MsgEventBulkMessagesDeleted",
+    "en": "The moderator {author} has deleted your messages over bulk deletion."
+  },
+  {
+    "-id": "MsgEventBulkMessagesDeletedAnonym",
+    "en": "Your messages have been deleted over bulk deletion."
+  },
+  {
+    "-id": "MsgEvent10MessagesDeleted",
+    "en": "The moderator {author} has deleted your last 10 messages."
+  },
+  {
+    "-id": "MsgEvent10MessagesDeletedAnonym",
+    "en": "Your last 10 messages have been deleted."
+  },
+  {
+    "-id": "MsgEvent10RatesDeleted",
+    "en": "The moderator {author} has deleted your last 10 rates."
+  },
+  {
+    "-id": "MsgEvent10RatesDeletedAnonym",
+    "en": "Your last 10 rates have been deleted."
+  },
+  {
+    "-id": "MsgEventPostRatesDeleted",
+    "en": "The moderator {member} has deleted the last {cnt} rates of the member {liked_user_name} for your messages."
+  },
+  {
+    "-id": "MsgEventPostRatesDeletedAnonym",
+    "en": "The last {cnt} rates of the member {liked_user_name} for your messages have been deleted."
+  },
+  {
+    "-id": "MsgEventTopicMoved",
+    "en": "The moderator {author} has moved your topic {topic} from the forum {source_forum} to the forum {target_forum}."
+  },
+  {
+    "-id": "MsgEventTopicMovedAnonym",
+    "en": "Your topic {topic} has been moved from the forum {source_forum} to the forum {target_forum}."
+  },
+  {
+    "-id": "MsgEventTopicMovedModerators",
+    "en": "The moderator {author} has moved the topic {topic}, where you are the moderator, from the forum {source_forum} to the forum {target_forum}."
+  },
+  {
+    "-id": "MsgEventTopicMovedModeratorsAnonym",
+    "en": "The topic {topic}, where you are the moderator, has been moved from the forum {source_forum} to the forum {target_forum}."
+  },
+  {
+    "-id": "MsgEventTopicMovedRevokeModerators",
+    "en": "The moderator {author} has moved the topic {topic}, where you are the moderator, from the forum {source_forum} to the forum {target_forum}. Ask the moderators of that forum to get the topic modearator status again."
+  },
+  {
+    "-id": "MsgEventTopicMovedRevokeModeratorsAnonym",
+    "en": "The topic {topic}, where you are the moderator, has been moved from the forum {source_forum} to the forum {target_forum}. Ask the moderators of that forum to get the topic modearator status again."
+  },
+  {
+    "-id": "MsgEventTopicMovedSubscribers",
+    "en": "The moderator {author} has moved the topic {topic} from the forum {source_forum} to the forum {target_forum}."
+  },
+  {
+    "-id": "MsgEventTopicMovedSubscribersAnonym",
+    "en": "The topic {topic} has been moved from the forum {source_forum} to the forum {target_forum}."
+  },
+  {
+    "-id": "MsgEventMessagesMoved",
+    "en": "The moderator {author} has moved your message {message} from the topic {source_topic} on the forum {source_forum} to the topic {target_topic} on the forum {target_forum}."
+  },
+  {
+    "-id": "MsgEventMessagesMovedAnonym",
+    "en": "Your message {message} has been moved from the topic {source_topic} on the forum {source_forum} to the topic {target_topic} on the forum {target_forum}."
+  },
+  {
+    "-id": "MsgEventMessagesMovedSubscribers",
+    "en": "The moderator {author} has moved the message {message} from the topic {source_topic} on the forum {source_forum} to the topic {target_topic} on the forum {target_forum}."
+  },
+  {
+    "-id": "MsgEventMessagesMovedSubscribersAnonym",
+    "en": "The message {message} has been moved from the topic {source_topic} on the forum {source_forum} to the topic {target_topic} on the forum {target_forum}."
+  },
+  {
+    "-id": "MsgEventTopicMerged",
+    "en": "The moderator {author} has merged your topic {source_topic} on the forum {source_forum} into the topic {target_topic} on the forum {target_forum}. The first message of the moved topic is {message}."
+  },
+  {
+    "-id": "MsgEventTopicMergedAnonym",
+    "en": "Your topic {source_topic} on the forum {source_forum} has been merged into the topic {target_topic} on the forum {target_forum}. The first message of the moved topic is {message}."
+  },
+  {
+    "-id": "MsgEventTopicMergedModerators",
+    "en": "The moderator {author} has merged the topic {source_topic}, where you are the moderator, on the forum {source_forum} into the topic {target_topic} on the forum {target_forum}. The first message of the moved topic is {message}."
+  },
+  {
+    "-id": "MsgEventTopicMergedModeratorsAnonym",
+    "en": "The topic {source_topic}, where you are the moderator, on the forum {source_forum} has been merged into the topic {target_topic} on the forum {target_forum}. The first message of the moved topic is {message}."
+  },
+  {
+    "-id": "MsgEventTopicMergedSubscribers",
+    "en": "The moderator {author} has merged the topic {source_topic} on the forum {source_forum} into the topic {target_topic} on the forum {target_forum}. The first message of the moved topic is {message}. To receive the notifications, subscribe to the topic {target_topic}."
+  },
+  {
+    "-id": "MsgEventTopicMergedSubscribersAnonym",
+    "en": "The topic {source_topic} on the forum {source_forum} has been merged into the topic {target_topic} on the forum {target_forum}. The first message of the moved topic is {message}. To receive the notifications, subscribe to the topic {target_topic}."
+  },
+  {
+    "-id": "MsgEventTopicMergedTargetSubscribers",
+    "en": "The moderator {author} has merged the topic {source_topic} on the forum {source_forum} into the topic {target_topic} on the forum {target_forum}. The first message of the moved topic is {message}."
+  },
+  {
+    "-id": "MsgEventTopicMergedTargetSubscribersAnonym",
+    "en": "The topic {source_topic} on the forum {source_forum} has been merged into the topic {target_topic} on the forum {target_forum}. The first message of the moved topic is {message}."
+  },
+  {
+    "-id": "MsgEventUserBlocked",
+    "en": "The moderator {author} has blocked you account."
+  },
+  {
+    "-id": "MsgEventUserBlockedAnonym",
+    "en": "You account has been blocked."
+  },
+  {
+    "-id": "MsgEventUserBlockedTime",
+    "en": "The moderator {author} has blocked you account until {block_expires}."
+  },
+  {
+    "-id": "MsgEventUserBlockedTimeAnonym",
+    "en": "You account has been blocked until {block_expires}."
+  },
+  {
+    "-id": "MsgEventUserForumBlocked",
+    "en": "The moderator {author} has blocked you account on the forum {forum}."
+  },
+  {
+    "-id": "MsgEventUserForumBlockedAnonym",
+    "en": "You account has been blocked on the forum {forum}."
+  },
+  {
+    "-id": "MsgEventUserForumBlockedTime",
+    "en": "The moderator {author} has blocked you account on the forum {forum} until {block_expires}."
+  },
+  {
+    "-id": "MsgEventUserForumBlockedTimeAnonym",
+    "en": "You account has been blocked on the forum {forum} until {block_expires}."
+  },
+  {
+    "-id": "MsgEventUserUnblocked",
+    "en": "The moderator {author} has unblocked you account."
+  },
+  {
+    "-id": "MsgEventUserUnblockedAnonym",
+    "en": "You account has been unblocked."
+  },
+  {
+    "-id": "MsgEventUserForumUnblocked",
+    "en": "The moderator {author} has unblocked you account on the forum {forum}."
+  },
+  {
+    "-id": "MsgEventUserForumUnblockedAnonym",
+    "en": "You account has been unblocked on the forum {forum}."
+  },
+  {
+    "-id": "MsgEventUserTopicBlocked",
+    "en": "The moderator {author} has blocked you account in the topic {topic} on the forum {forum}."
+  },
+  {
+    "-id": "MsgEventUserTopicBlockedAnonym",
+    "en": "You account has been blocked in the topic {topic} on the forum {forum}."
+  },
+  {
+    "-id": "MsgEventUserTopicUnblocked",
+    "en": "The moderator {author} has unblocked you account in the topic {topic} on the forum {forum}."
+  },
+  {
+    "-id": "MsgEventUserTopicUnblockedAnonym",
+    "en": "You account has been unblocked in the topic {topic} on the forum {forum}."
+  },
+  {
+    "-id": "MsgEventUserAccessGranted",
+    "en": "The moderator {author} has given you the access to the restricted forum {forum}."
+  },
+  {
+    "-id": "MsgEventUserAccessGrantedAnonym",
+    "en": "You have been granted the access to the restricted forum {forum}."
+  },
+  {
+    "-id": "MsgEventUserAccessRevoked",
+    "en": "The moderator {author} has revoked your access to the restricted forum {forum}."
+  },
+  {
+    "-id": "MsgEventUserAccessRevokedAnonym",
+    "en": "You access to the restricted forum {forum} has been revoked."
+  },
+  {
+    "-id": "MsgEventProfileHidden",
+    "en": "The moderator {author} has hidden your profile for viewing."
+  },
+  {
+    "-id": "MsgEventProfileHiddenAnonym",
+    "en": "Your profile has been hidden for viewing."
+  },
+  {
+    "-id": "MsgEventProfileOpened",
+    "en": "The moderator {author} has opened your profile for viewing."
+  },
+  {
+    "-id": "MsgEventProfileOpenedAnonym",
+    "en": "Your profile has been opened for viewing."
+  },
+  {
+    "-id": "MsgEventRatingDisallowed",
+    "en": "The moderator {author} has disallowed you to rate messages."
+  },
+  {
+    "-id": "MsgEventRatingDisallowedAnonym",
+    "en": "You have been disallowed to rate messages."
+  },
+  {
+    "-id": "MsgEventRatingAllowed",
+    "en": "The moderator {author} has allowed you to rate messages."
+  },
+  {
+    "-id": "MsgEventRatingAllowedAnonym",
+    "en": "You have been allowed to rate messages."
+  },
+  {
+    "-id": "ErrAttachmentDoesNotExist",
+    "en": "Attachment with that ID (%s) does not exist!"
+  },
+  {
+    "-id": "NoPosts",
+    "en": "No messages to be dislayed. The messages are hidden because either thez have been deleted or the their authors are in your ignore list."
+  },
+  {
+    "-id": "TimeZone",
+    "en": "Time zone"
+  },
+  {
+    "-id": "AllowGuests",
+    "en": "Allow guests"
+  },
+  {
+    "-id": "DisallowGuests",
+    "en": "Disallow guests"
+  },
+  {
+    "-id": "MsgGuestsAllowed",
+    "en": "Guests have been allowed to write in the topic."
+  },
+  {
+    "-id": "MsgGuestsDisallowed",
+    "en": "Guests have been disallowed to write in the topic."
+  },
+  {
+    "-id": "TopicIsInFavourites",
+    "en": "The topic is in the favourites"
+  },
+  {
+    "-id": "HotTopic",
+    "en": "Hot topic"
+  },
+  {
+    "-id": "ToTheLast",
+    "en": "Go to the last message"
+  },
+  {
+    "-id": "MsgTopicMovedFromForum",
+    "en": "The topic has been moved from the forum '%s'."
+  },
+  {
+    "-id": "MsgUserNasNoRates",
+    "en": "The member has no more rates in the forums under your moderation!"
+  },
+  {
+    "-id": "Statistics",
+    "en": "Statistics"
+  },
+  {
+    "-id": "LoadStatistics",
+    "en": "Load statistics"
+  },
+  {
+    "-id": "Index",
+    "en": "Index"
+  },
+  {
+    "-id": "Value",
+    "en": "Value"
+  },
+  {
+    "-id": "HitsCount",
+    "en": "Hits count"
+  },
+  {
+    "-id": "TopicRMCount",
+    "en": "Topic read marker count"
+  },
+  {
+    "-id": "ForumRMCount",
+    "en": "Forum read marker count"
+  },
+  {
+    "-id": "ActualStatistics",
+    "en": "Actual statistics"
+  },
+  {
+    "-id": "Previous24",
+    "en": "Prev. 24 hours"
+  },
+  {
+    "-id": "Last10Minutes",
+    "en": "Last 10 minutes"
+  },
+  {
+    "-id": "LastHour",
+    "en": "Last hour"
+  },
+  {
+    "-id": "Last24Hours",
+    "en": "Last 24 hours"
+  },
+  {
+    "-id": "LastWeek",
+    "en": "Last week"
+  },
+  {
+    "-id": "LastMonth",
+    "en": "Last month"
+  },
+  {
+    "-id": "LastHalfYear",
+    "en": "Last haft year"
+  },
+  {
+    "-id": "LastYear",
+    "en": "Last zear"
+  },
+  {
+    "-id": "WholePeriod",
+    "en": "Whole Period"
+  },
+  {
+    "-id": "PeriodStatistics",
+    "en": "Statistics for the period"
+  },
+  {
+    "-id": "AllForums",
+    "en": "All forums"
+  },
+  {
+    "-id": "ErrForumModeratorBlockNotAllowed",
+    "en": "The modedator of a forum can neither be blocked nor removed from that forum!"
+  },
+  {
+    "-id": "ErrStringContainsInvalidSymbols",
+    "en": "The string contains inacceptable symbols!"
+  },
+  {
+    "-id": "ShowAllText",
+    "en": "Show all ..."
+  },
+  {
+    "-id": "Version",
+    "en": "Version"
+  },
+  {
+    "-id": "Versions",
+    "en": "Versions"
+  },
+  {
+    "-id": "Skin",
+    "en": "Skin"
+  },
+  {
+    "-id": "DeleteTheAvatar",
+    "en": "Delete the author's avatar"
+  },
+  {
+    "-id": "ActionAvatarDeleted",
+    "en": "The author's avatar has been deleted"
+  },
+  {
+    "-id": "MsgConfirmAvatarDelete",
+    "en": "Are you sure to delete the avatar of the author %s?"
+  },
+  {
+    "-id": "MsgAvatarDeleted",
+    "en": "Avatar has been successfully deleted."
+  },
+  {
+    "-id": "ModerateTheReadMarker",
+    "en": "Moderate the author's read marker"
+  },
+  {
+    "-id": "ActionReadMarkerDeleted",
+    "en": "The author's avatar has been deleted"
+  },
+  {
+    "-id": "ErrReadMarkerEmpty",
+    "en": "The read marker is not specified!"
+  },
+  {
+    "-id": "MsgConfirmReadMarkerDelete",
+    "en": "Are you sure to delete this read marker?"
+  },
+  {
+    "-id": "MsgReadMarkerDeleted",
+    "en": "Read marker has been successfully deleted."
+  },
+  {
+    "-id": "NotifyOnCitation",
+    "en": "Notify on answer or citation"
+  },
+  {
+    "-id": "FavouriteMessages",
+    "en": "Favourite messages"
+  },
+  {
+    "-id": "InterfaceLanguage",
+    "en": "Interface language"
+  },
+  {
+    "-id": "HideFromSearchRobots",
+    "en": "Hide from search robots"
+  },
+  {
+    "-id": "ReadMarker",
+    "en": "Read marker"
+  },
+  {
+    "-id": "UserMarker",
+    "en": "User marker"
+  },
+  {
+    "-id": "LoadLastSavedVersion",
+    "en": "Load last saved version"
+  },
+  {
+    "-id": "MsgSubmitOrCancelCurrentMessage",
+    "en": "The current message has not been yet submiited. Submit or cancel it before proceed!"
+  },
+  {
+    "-id": "BulkDeletion",
+    "en": "Bulk deletion"
+  },
+  {
+    "-id": "ErrStartDateEmpty",
+    "en": "Start date is not specified!"
+  },
+  {
+    "-id": "MsgOperationSuccessful",
+    "en": "The operation successfully completed."
+  },
+  {
+    "-id": "MsgBulkDeleteConfirm",
+    "en": "Are you sure to perform this operation?"
+  },
+  {
+    "-id": "UserAgreement",
+    "en": "User agreement"
+  },
+  {
+    "-id": "Maintenance",
+    "en": "Maintenance"
+  },
+  {
+    "-id": "MaintenanceComment",
+    "en": "The forum is currently under maintenance presumably until %s."
+  },
+  {
+    "-id": "CreationLoading",
+    "en": "creation / loading"
+  },
+  {
+    "-id": "ErrMessageDoesNotExist",
+    "en": "Message with that ID (%s) does not exist!"
+  },
+  {
+    "-id": "EnterPassword",
+    "en": "Enter the password for login"
+  },
+  {
+    "-id": "CancelEnterPassword",
+    "en": "Cancel password enter"
+  },
+  {
+    "-id": "IgnoreGuestsComment",
+    "en": "Enter the guest names one per line. If you want to ignore all guests, let the field empty."
+  },
+  {
+    "-id": "MsgConfirmUserIgnore",
+    "en": "Are you sure to put the user '%s' to the ignore list?"
+  },
+  {
+    "-id": "MsgPostsSelected",
+    "en": "Messages selected"
+  },
+  {
+    "-id": "MsgTopicsSelected",
+    "en": "Topics selected"
+  },
+  {
+    "-id": "Anonymous",
+    "en": "Anonymous"
+  },
+  {
+    "-id": "GoToMessage",
+    "en": "Go to the message"
+  },
+  {
+    "-id": "ErrTimeout",
+    "en": "The timeout period for server connection elapsed (%s seconds)!"
+  },
+  {
+    "-id": "ErrNoServerResponse",
+    "en": "No response from server or connection is broken!"
+  },
+  {
+    "-id": "ErrRequestError",
+    "en": "An error occurred during request processing"
+  },
+  {
+    "-id": "WarnAuthorizationRequired",
+    "en": "The forum or topic are closed for guests. The autorization is reuiqred!"
+  },
+  {
+    "-id": "OverYearInerval",
+    "en": "The interval between messages is over a year!"
+  },
+  {
+    "-id": "SelectFile",
+    "en": "Select file"
+  },
+  {
+    "-id": "ReplaceCurrent",
+    "en": "Replace the current attachment"
+  },
+  {
+    "-id": "Tags",
+    "en": "Tags"
+  },
+  {
+    "-id": "NewTag",
+    "en": "New tag"
+  },
+  {
+    "-id": "tags",
+    "en": "tags"
+  },
+  {
+    "-id": "AssignTags",
+    "en": "Assign tags"
+  },
+  {
+    "-id": "ShowShareLinks",
+    "en": "Show share links"
+  },
+  {
+    "-id": "OpenInFullSize",
+    "en": "Open in full size in a new tab"
+  },
+  {
+    "-id": "ManageTags",
+    "en": "Manage tags"
+  },
+  {
+    "-id": "Merge",
+    "en": "Merge"
+  },
+  {
+    "-id": "MsgTagsDeleted",
+    "en": "Tags have been successfully deleted."
+  },
+  {
+    "-id": "MsgTagsMerged",
+    "en": "Tags have been successfully merged."
+  },
+  {
+    "-id": "AddNewTag",
+    "en": "Add new tag"
+  },
+  {
+    "-id": "EditTag",
+    "en": "Edit tag"
+  },
+  {
+    "-id": "MergeTags",
+    "en": "Merge tags"
+  },
+  {
+    "-id": "TagName",
+    "en": "Tag name"
+  },
+  {
+    "-id": "ErrTagNameExists",
+    "en": "A tag with that name already exists!"
+  },
+  {
+    "-id": "MsgTagAdded",
+    "en": "The tag has been added."
+  },
+  {
+    "-id": "MsgTagChanged",
+    "en": "Tag name has been changed."
+  },
+  {
+    "-id": "MsgConfirmTagsDelete",
+    "en": "Are you sure to delete the selected tags?"
+  },
+  {
+    "-id": "ErrMessageIgnoredOrDeleted",
+    "en": "Message with the ID (%s) is ignored or deleted!"
+  },
+  {
+    "-id": "Animation",
+    "en": "Animation"
+  },
+  {
+    "-id": "ShowSearchURL",
+    "en": "Show search URL"
+  },
+  {
+    "-id": "ErrUserAlreadyForumModerator",
+    "en": "The user is already the moderator or administrator of this forum and may moderate the topic!"
+  },
+  {
+    "-id": "File",
+    "en": "File"
+  },
+  {
+    "-id": "Export",
+    "en": "Export"
+  },
+  {
+    "-id": "Import",
+    "en": "Import"
+  },
+  {
+    "-id": "ExportImport",
+    "en": "Export / Import"
+  },
+  {
+    "-id": "ErrCreatingExportFile",
+    "en": "Export file could not be created!"
+  },
+  {
+    "-id": "MsgSaveDataBeforeExport",
+    "en": "You have unsaved changes in the form. Save or reset it before export!"
+  },
+  {
+    "-id": "ErrDownloadFileNotSpecified",
+    "en": "Download file is not specified!"
+  },
+  {
+    "-id": "ErrDownloadFileDoesNotExists",
+    "en": "Download file does not exist!"
+  },
+  {
+    "-id": "ErrUnknownDownloadRequest",
+    "en": "Unknown download request!"
+  },
+  {
+    "-id": "MsgProfileImportSuccess",
+    "en": "Profile has been successfully imported."
+  },
+  {
+    "-id": "ErrImportFileNotSpecified",
+    "en": "Import file is not specified!"
+  },
+  {
+    "-id": "ErrFileIsInvalid",
+    "en": "The specified file is invalid!"
+  },
+  {
+    "-id": "MsgConfirmMarkRead",
+    "en": "Are you sure to mark the unread messages read?"
+  },
+  {
+    "-id": "SelectAll",
+    "en": "Select all"
+  },
+  {
+    "-id": "ResetSelection",
+    "en": "Reset selection"
+  },
+  {
+    "-id": "UserAgent",
+    "en": "User-Agent"
+  },
+  {
+    "-id": "UserAgents",
+    "en": "User-Agents"
+  },
+  {
+    "-id": "CreatePrivateTopic",
+    "en": "Create moderated private topic"
+  },
+  {
+    "-id": "ErrCanNotLeaveOwnTopic",
+    "en": "You cannot leave the own moderated private topic!"
+  },
+  {
+    "-id": "ShowEmbeddedVideo",
+    "en": "Embedded Video, click to view"
+  },
+  {
+    "-id": "ErrAttachmentIdNotNumber",
+    "en": "The attachment id must be a valid number reference to a post with an attachment!"
+  },
+  {
+    "-id": "ErrMessageAttachmentDoesNotExist",
+    "en": "Message with that ID (%s) does not exist or does not have the corresponding attachment!"
+  },
+  {
+    "-id": "ErrMessageAttachmentNotProvided",
+    "en": "You do not have provided the corresponding attachment you try to referece!"
+  },
+  {
+    "-id": "of",
+    "en": "of"
+  },
+  {
+    "-id": "MsgNotAllFoundTopicsShown",
+    "en": "Too many results. Only %s of %s found topics are shown!"
+  },
+  {
+    "-id": "MsgNotAllFoundPostsShown",
+    "en": "Too many results. Only %s of %s found messages shown!"
+  }
+]

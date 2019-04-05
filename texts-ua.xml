@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <element id="en">
+        <ua>Англійський</ua>
+    </element>
+    <element id="de">
+        <ua>Німецький</ua>
+    </element>
+    <element id="ru">
+        <ua>Російський</ua>
+    </element>
+    <element id="neru">
+        <ua>Мова племен Неру (з секундами)</ua>
+    </element>
+    <element id="ErrCreatingClassInstance">
+        <ua>Клас ' не може бути завантажений. Возмоможно відсутні деякі файли додатка або вони містять помилки програмування, або ж цей модуль не підтримує використовуваний тип бази даних '</ua>
+    </element>
+    <element id="ErrNoDBConfig">
+        <ua>Відсутня інформація для з'єднання з базою даних. Будь ласка, увійдіть до системи під мастер-администратором і перевірте установки з'єднання з базою даних</ua>
+    </element>
+    <element id="ErrDbInaccessible">
+        <ua>База даних недоступна. Перевірте установки з'єднання з базою даних</ua>
+    </element>
+    <element id="ErrDbExtenstionNotInstalled">
+        <ua>PHP-расширение ' не встановлене або занадто застаріле. Робота з базою даних ' неможлива</ua>
+    </element>
+    <element id="ErrDbConnNoAccess">
+        <ua>Сервер ' недоступний або невірне ім'я користувача ' або пароль</ua>
+    </element>
+    <element id="ErrDbConnNoDB">
+        <ua>База даннных ' не існує або недоступна для цього користувача</ua>
+    </element>
+    <element id="Guest">
+        <ua>Гість</ua>
+    </element>
+    <element id="Guests">
+        <ua>Гості</ua>
+    </element>
+    <element id="PrivilegedMember">
+        <ua>Привілейований учасник</ua>
+    </element>
+    <element id="GlobalBlockAllowed">
+        <ua>Дозволити глобальне блокування</ua>
+    </element>
+    <element id="ShowIP">
+        <ua>Може бачити IP адреси</ua>
+    </element>
+    <element id="Member">
+        <ua>Учасник</ua>
+    </element>
+    <element id="Members">
+        <ua>Учасники</ua>
+    </element>
+    <element id="Login">
+        <ua>Увійти</ua>
+    </element>
+    <element id="Logout">
+        <ua>Вийти</ua>
+    </element>
+    <element id="Search">
+        <ua>Пошук</ua>
+    </element>
+    <element id="SearchComment">
+        <ua>Пропуск або символ &amp; в якості роздільника означає усі слова, символ | означає будь-яке із слів. Можна використати замість &amp; союз 'и', а замість | союз 'або'. Для пошуку точної фрази візьміть її в подвійні лапки</ua>
+    </element>
+    <element id="WarnSearchCriteriaNotSpecified">
+        <ua>Не задані критерії пошуку</ua>
+    </element>
+    <element id="WarnSearchWait">
+        <ua>Ви зможете знову скористатися пошуком через секунд (ы) </ua>
+    </element>
+    <element id="SearchCriteria">
+        <ua>Критерії пошуку</ua>
+    </element>
+    <element id="SearchKeys">
+        <ua>Ключові слова</ua>
+    </element>
+    <element id="SearchWithMorphology">
+        <ua>Враховувати морфологію</ua>
+    </element>
+    <element id="SearchTopicNameOnly">
+        <ua>Шукати тільки в назвах тим</ua>
+    </element>
+    <element id="SearchTopicFavourites">
+        <ua>Шукати обрані теми</ua>
+    </element>
+    <element id="SearchPostsOnly">
+        <ua>Шукати тільки в повідомленнях</ua>
+    </element>
+    <element id="SearchPollsOnly">
+        <ua>Шукати теми з опитуваннями</ua>
+    </element>
+    <element id="SearchAttachmentsOnly">
+        <ua>Шукати сполучення з вкладеннями</ua>
+    </element>
+    <element id="SearchPicturesOnly">
+        <ua>Шукати сполучення з картинками</ua>
+    </element>
+    <element id="SearchVideosOnly">
+        <ua>Шукати сполучення з відеокліпами</ua>
+    </element>
+    <element id="SearchAudioOnly">
+        <ua>Шукати сполучення з аудіокліпами</ua>
+    </element>
+    <element id="SearchDeletedOnly">
+        <ua>Шукати тільки у видалених повідомленнях</ua>
+    </element>
+    <element id="DoSearch">
+        <ua>Шукати</ua>
+    </element>
+    <element id="AuthorIgnoringTopic">
+        <ua>Шукати теми, що ігноруються автором</ua>
+    </element>
+    <element id="AuthorCreatedTopic">
+        <ua>Шукати теми, створені автором / в заданий період</ua>
+    </element>
+    <element id="AuthorParticipatedInTopic">
+        <ua>Шукати теми за участю автора</ua>
+    </element>
+    <element id="AuthorWrotePost">
+        <ua>Шукати повідомлення, створені автором / в заданий період</ua>
+    </element>
+    <element id="SearchResultsAsPostList">
+        <ua>Показувати результати пошуку у вигляді списку повідомлень замість списку тим</ua>
+    </element>
+    <element id="NewSearch">
+        <ua>Новий пошук</ua>
+    </element>
+    <element id="Profile">
+        <ua>Профіль</ua>
+    </element>
+    <element id="Favourites">
+        <ua>Обране</ua>
+    </element>
+    <element id="NewMessages">
+        <ua>Нові повідомлення</ua>
+    </element>
+    <element id="PreferredForums">
+        <ua>форуми, яким віддаються переваги</ua>
+    </element>
+    <element id="Topics">
+        <ua>Теми</ua>
+    </element>
+    <element id="MyTopics">
+        <ua>Мої теми</ua>
+    </element>
+    <element id="ParticipatedTopics">
+        <ua>З моєю участю</ua>
+    </element>
+    <element id="Password">
+        <ua>Пароль</ua>
+    </element>
+    <element id="Reset">
+        <ua>Очистити</ua>
+    </element>
+    <element id="Save">
+        <ua>Зберегти</ua>
+    </element>
+    <element id="Back">
+        <ua>Назад</ua>
+    </element>
+    <element id="PasswordChange">
+        <ua>Зміна пароля</ua>
+    </element>
+    <element id="PasswordConfirmation">
+        <ua>Пароль (повтор)</ua>
+    </element>
+    <element id="EntranceWarning">
+        <ua>Форум ' захищений паролем</ua>
+    </element>
+    <element id="Enter">
+        <ua>Увійти</ua>
+    </element>
+    <element id="Warning">
+        <ua>Попередження</ua>
+    </element>
+    <element id="Information">
+        <ua>Інформація</ua>
+    </element>
+    <element id="Error">
+        <ua>Помилка</ua>
+    </element>
+    <element id="OK">
+        <ua>OK</ua>
+    </element>
+    <element id="Yes">
+        <ua>Так</ua>
+    </element>
+    <element id="No">
+        <ua>Ні</ua>
+    </element>
+    <element id="ErrWrongPassword">
+        <ua>Пароль неправильний</ua>
+    </element>
+    <element id="ErrActionNotAllowed">
+        <ua>У вас немає правий на виконання цієї операції</ua>
+    </element>
+    <element id="ErrWrongHashCode">
+        <ua>Захисний хэш-код недійсний або витік сеанс сесії! Операція не дозволена</ua>
+    </element>
+    <element id="Forums">
+        <ua>Форуми</ua>
+    </element>
+    <element id="Forum">
+        <ua>Форум</ua>
+    </element>
+    <element id="UserLogin">
+        <ua>Логін</ua>
+    </element>
+    <element id="UserLoginComment">
+        <ua>Ваш внутрішній логін для входу на форум. Логін не видно іншим учасникам форуму, що ускладнює злом
+ вашого облікового запису шляхом підбору пароля. Не рекомендується, щоб він співпадав з ім'ям користувача</ua>
+    </element>
+    <element id="UserLoginComment2">
+        <ua>Внутрішній логін для входу на форум. Логін не видно іншим учасникам форуму</ua>
+    </element>
+    <element id="UserName">
+        <ua>Ім'я користувача</ua>
+    </element>
+    <element id="UserNameComment">
+        <ua>Ваше ім'я, яке відображатиметься на форумі. Візьміть до уваги, що ім'я не може бути змінене</ua>
+    </element>
+    <element id="UserNameComment2">
+        <ua>Ім'я користувача, яке відображатиметься на форумі</ua>
+    </element>
+    <element id="UserEmailComment">
+        <ua>Будь ласка, введіть дійсну електронну адресу. На цю адресу буде вислано посилання для активації вашого профілю.
+ Треба буде перейти по посиланню, щоб завершити реєстрацію на форумі</ua>
+    </element>
+    <element id="UserEmailComment2">
+        <ua>Якщо ви поміняєте електронну адресу, то вам доведеться ввести пароль і повторно активувати ваш обліковий запис</ua>
+    </element>
+    <element id="Authorization">
+        <ua>Авторизація</ua>
+    </element>
+    <element id="LoginAutomatically">
+        <ua>Автоматичний вхід</ua>
+    </element>
+    <element id="Registration">
+        <ua>Реєстрація</ua>
+    </element>
+    <element id="CreateForum">
+        <ua>Створити форум</ua>
+    </element>
+    <element id="Name">
+        <ua>Назва</ua>
+    </element>
+    <element id="Description">
+        <ua>Опис</ua>
+    </element>
+    <element id="Access">
+        <ua>Доступ</ua>
+    </element>
+    <element id="PasswordProtected">
+        <ua>Доступ по паролю</ua>
+    </element>
+    <element id="AccessRestricted">
+        <ua>Доступ по дозволу</ua>
+    </element>
+    <element id="RegisteredsRestricted">
+        <ua>Доступ тільки для зареєстрованих учасников</ua>
+    </element>
+    <element id="NotWritableForGuests">
+        <ua>Без права на запис для гостей</ua>
+    </element>
+    <element id="RestrictedGuestMode">
+        <ua>Обмежений режим для гостей</ua>
+    </element>
+    <element id="MessagesCount">
+        <ua>Кількість повідомлень</ua>
+    </element>
+    <element id="Messages">
+        <ua>Повідомлення</ua>
+    </element>
+    <element id="Views">
+        <ua>Перегляди</ua>
+    </element>
+    <element id="TopicsCount">
+        <ua>Кількість тим</ua>
+    </element>
+    <element id="Rating">
+        <ua>Рейтинг</ua>
+    </element>
+    <element id="Moderators">
+        <ua>Модератори</ua>
+    </element>
+    <element id="FirstMessage">
+        <ua>Перше повідомлення</ua>
+    </element>
+    <element id="LastMessage">
+        <ua>Посл. повідомлення</ua>
+    </element>
+    <element id="DateTimeFormat">
+        <ua>d.m.Y, H: i</ua>
+    </element>
+    <element id="DateFormat">
+        <ua>d.m.Y</ua>
+    </element>
+    <element id="NoForums">
+        <ua>Форумів не існує</ua>
+    </element>
+    <element id="Yesterday">
+        <ua>Учора</ua>
+    </element>
+    <element id="Today">
+        <ua>Сьогодні</ua>
+    </element>
+    <element id="Tomorrow">
+        <ua>Завтра</ua>
+    </element>
+    <element id="closed">
+        <ua>закритий</ua>
+    </element>
+    <element id="closed _ for _ guests">
+        <ua>закритий для гостей</ua>
+    </element>
+    <element id="Administrator">
+        <ua>Адміністратор</ua>
+    </element>
+    <element id="Add">
+        <ua>Додати</ua>
+    </element>
+    <element id="Delete">
+        <ua>Видалити</ua>
+    </element>
+    <element id="Restore">
+        <ua>Відновити</ua>
+    </element>
+    <element id="Edit">
+        <ua>Редагувати</ua>
+    </element>
+    <element id="Close">
+        <ua>Закрити</ua>
+    </element>
+    <element id="Open">
+        <ua>Відкрити</ua>
+    </element>
+    <element id="ErrQueryFailed">
+        <ua>Помилка в SQL запиті</ua>
+    </element>
+    <element id="MsgForumOpened">
+        <ua>Форум успішно відкритий</ua>
+    </element>
+    <element id="MsgForumClosed">
+        <ua>Форум успішно закритий</ua>
+    </element>
+    <element id="MsgForumDeleted">
+        <ua>Форум успішно видалений</ua>
+    </element>
+    <element id="MsgForumMarkedDeleted">
+        <ua>Форум помічений як видалений і більше недоступний для відвідувачів. Щоб видалити форум фізично, видаліть або перенесіть теми в інший форум</ua>
+    </element>
+    <element id="MsgForumRestored">
+        <ua>Форум успішно відновлений</ua>
+    </element>
+    <element id="MsgConfirmForumDelete">
+        <ua>Ви упевнені, що хочете видалити форум '</ua>
+    </element>
+    <element id="MsgConfirmForumClose">
+        <ua>Ви упевнені, що хочете закрити форум '</ua>
+    </element>
+    <element id="Confirmation">
+        <ua>Підтвердження</ua>
+    </element>
+    <element id="Question">
+        <ua>Питання</ua>
+    </element>
+    <element id="DeletedTopics">
+        <ua>Видалені теми</ua>
+    </element>
+    <element id="DisplayDeleted">
+        <ua>Показувати видалені</ua>
+    </element>
+    <element id="HideDeleted">
+        <ua>Не показувати видалені</ua>
+    </element>
+    <element id="HideIgnored">
+        <ua>Не показувати ігноровані форуми, теми і учасників в списках</ua>
+    </element>
+    <element id="OnlineStatus">
+        <ua>Онлайн статус</ua>
+    </element>
+    <element id="HideOnlineStatus">
+        <ua>Не показувати</ua>
+    </element>
+    <element id="EditForum">
+        <ua>Редагувати форум</ua>
+    </element>
+    <element id="MsgCancelConfirm">
+        <ua>Зміни даних ще не збережені! Ви упевнені, що хочете продовжити</ua>
+    </element>
+    <element id="MsgResetConfirm">
+        <ua>Ви упевнені, що хочете повернути усі поля до початкових значень</ua>
+    </element>
+    <element id="MsgDataSaved">
+        <ua>Дані успішно збережені</ua>
+    </element>
+    <element id="ErrForumNameEmpty">
+        <ua>Не задана назва форуму</ua>
+    </element>
+    <element id="ErrForumNameExists">
+        <ua>Форум з такою назвою вже існує</ua>
+    </element>
+    <element id="ErrPasswordEmpty">
+        <ua>Не заданий пароль</ua>
+    </element>
+    <element id="ErrPwdNotIdentical">
+        <ua>Підтвердження пароля не співпадає з паролем</ua>
+    </element>
+    <element id="SearchUser">
+        <ua>Знайти учасника</ua>
+    </element>
+    <element id="FoundUsers">
+        <ua>Найденые учасники</ua>
+    </element>
+    <element id="UserNotFound">
+        <ua>Учасники не знайдені</ua>
+    </element>
+    <element id="Help">
+        <ua>Допомога</ua>
+    </element>
+    <element id="Contact">
+        <ua>Контакт</ua>
+    </element>
+    <element id="FAQ">
+        <ua>FAQ</ua>
+    </element>
+    <element id="Rules">
+        <ua>Правила</ua>
+    </element>
+    <element id="Settings">
+        <ua>Налаштування</ua>
+    </element>
+    <element id="Moderator">
+        <ua>Модератор</ua>
+    </element>
+    <element id="ModeratorOfForums">
+        <ua>Модератор форумів</ua>
+    </element>
+    <element id="Status">
+        <ua>Статус</ua>
+    </element>
+    <element id="RegisteredUser">
+        <ua>Зареєстрований користувач</ua>
+    </element>
+    <element id="ModeratorLog">
+        <ua>Модераторский балка</ua>
+    </element>
+    <element id="OnlineMembers">
+        <ua>Учасники онлайн</ua>
+    </element>
+    <element id="ReadingForum">
+        <ua>Читають форум</ua>
+    </element>
+    <element id="ReadingTopic">
+        <ua>Читають тему</ua>
+    </element>
+    <element id="ReadTopics">
+        <ua>Прочитані теми</ua>
+    </element>
+    <element id="IgnoredTopics">
+        <ua>Ігноровані теми</ua>
+    </element>
+    <element id="ModeratedTopics">
+        <ua>Модерируемые теми</ua>
+    </element>
+    <element id="Never">
+        <ua>Ніколи</ua>
+    </element>
+    <element id="MarkRead">
+        <ua>Помітити прочитаним</ua>
+    </element>
+    <element id="AddToFavourites">
+        <ua>Додати в обране</ua>
+    </element>
+    <element id="RemoveFromFavourites">
+        <ua>Видалити з обраного</ua>
+    </element>
+    <element id="AddToIgnoredTopics">
+        <ua>Ігнорувати тему</ua>
+    </element>
+    <element id="AddTopicsToIgnoredTopics">
+        <ua>Ігнорувати теми</ua>
+    </element>
+    <element id="MsgConfirmTopicsIgnore">
+        <ua>Ви упевнені, що хочете ігнорувати вибрані теми</ua>
+    </element>
+    <element id="RemoveFromIgnoredTopics">
+        <ua>Не ігнорувати тему</ua>
+    </element>
+    <element id="SubscribeToTopic">
+        <ua>Підписатися на повідомлення</ua>
+    </element>
+    <element id="UnubscribeFromTopic">
+        <ua>Відписатися від повідомлень</ua>
+    </element>
+    <element id="Notifications">
+        <ua>Повідомлення</ua>
+    </element>
+    <element id="AddressOfTheDefaultSender">
+        <ua>Електронна адреса посилача за умовчанням</ua>
+    </element>
+    <element id="AddressOfTheContactReceiver">
+        <ua>Електронна адреса для контактних звернень</ua>
+    </element>
+    <element id="KB">
+        <ua>КБ</ua>
+    </element>
+    <element id="MB">
+        <ua>МБ</ua>
+    </element>
+    <element id="Attachment">
+        <ua>Вкладення</ua>
+    </element>
+    <element id="Restrictions">
+        <ua>Обмеження</ua>
+    </element>
+    <element id="MinDurationComment">
+        <ua>Мінімальна кількість днів після реєстрації</ua>
+    </element>
+    <element id="MinMessageCountComment">
+        <ua>Мінімальна кількість повідомлень</ua>
+    </element>
+    <element id="ErrMessagePostNotAllowed">
+        <ua>Вам не дозволено залишати або оцінювати повідомлення на форумі ' із-за наступних обмежень</ua>
+    </element>
+    <element id="MaxAttachmentSize">
+        <ua>Макcимальный розмір вкладень</ua>
+    </element>
+    <element id="MaxAttachmentSizeAudioVideo">
+        <ua>Макcимальный розмір вкладень для аудіо/відео</ua>
+    </element>
+    <element id="MaxAttachmentSizeComment">
+        <ua>Макcимальный розмір вкладень : аудіо/відео: Картинки більшого розміру стискуються, якщо можливо</ua>
+    </element>
+    <element id="MaxMessagesPerMinute">
+        <ua>Максимальна кількість повідомлень в хвилину</ua>
+    </element>
+    <element id="MaxTopicsPerDay">
+        <ua>Максимальна кількість тим в добу</ua>
+    </element>
+    <element id="MaxPinnedTopics">
+        <ua>Максимальна кількість прикріплених тем на форумі</ua>
+    </element>
+    <element id="MaxMembersInPrivateTopic">
+        <ua>Максимальна кількість учасників в приватній темі</ua>
+    </element>
+    <element id="MaxComplainsPerDay">
+        <ua>Максимальна кількість скарг в добу</ua>
+    </element>
+    <element id="MaxSymbolsUserName">
+        <ua>Максимальна кількість символів в імені користувача</ua>
+    </element>
+    <element id="MaxSymbolsTopicName">
+        <ua>Максимальна кількість символів в назві теми</ua>
+    </element>
+    <element id="MaxMessageLengh">
+        <ua>Максимальний розмір повідомлення</ua>
+    </element>
+    <element id="ErrMessageTooLong">
+        <ua>Розмір повідомлення перевищує максимальний КБ</ua>
+    </element>
+    <element id="MaxPollOptions">
+        <ua>Максимальна кількість варіантів відповіді в опитуванні</ua>
+    </element>
+    <element id="MaxRatesPerHour">
+        <ua>Максимальна кількість оцінок в годину на одного користувача</ua>
+    </element>
+    <element id="MinSearchInterval">
+        <ua>Мінімальний інтервал між пошуковими запитами в секундах</ua>
+    </element>
+    <element id="VisibleForModeratorsOnly">
+        <ua>видний тільки модераторам</ua>
+    </element>
+    <element id="VisibleForAdministratorsOnly">
+        <ua>видний тільки адміністраторам</ua>
+    </element>
+    <element id="VisibleForAll">
+        <ua>видний усім</ua>
+    </element>
+    <element id="VisibleForAllNamesHidden">
+        <ua>видний усім (імена модераторів приховані)</ua>
+    </element>
+    <element id="ErrAddressOfTheDefaultSenderEmpty">
+        <ua>Не задана електронна адреса посилача за умовчанням</ua>
+    </element>
+    <element id="ErrAddressOfTheContactReceiverEmpty">
+        <ua>Не задана електронна адреса для контактних звернень</ua>
+    </element>
+    <element id="Email">
+        <ua>Електронна адреса</ua>
+    </element>
+    <element id="Subject">
+        <ua>Тема</ua>
+    </element>
+    <element id="Message">
+        <ua>Повідомлення</ua>
+    </element>
+    <element id="ErrSubjectEmpty">
+        <ua>Не задана тема</ua>
+    </element>
+    <element id="ErrMessageEmpty">
+        <ua>Не задано повідомлення</ua>
+    </element>
+    <element id="ErrSenderEmailEmpty">
+        <ua>Не задана електронна адреса посилача</ua>
+    </element>
+    <element id="Send">
+        <ua>Відправити</ua>
+    </element>
+    <element id="Register">
+        <ua>Зареєструватися</ua>
+    </element>
+    <element id="MsgMessageSent">
+        <ua>Повідомлення успішно відправлене</ua>
+    </element>
+    <element id="ErrFileDoesNotExists">
+        <ua>Файл ' не існує</ua>
+    </element>
+    <element id="ErrEmailTemplateInvalid">
+        <ua>Шаблон електронного повідомлення ' недійсний</ua>
+    </element>
+    <element id="ErrMailFailed">
+        <ua>Відправка електронного листа не вдалася</ua>
+    </element>
+    <element id="MsgSpamProtect">
+        <ua>Введіть код, зображений на картинці. Якщо код нечитаний, кликніть картинку, щоб завантажити інший варіант</ua>
+    </element>
+    <element id="ErrSpamProtectError">
+        <ua>Введений код захисту від спаму невірний. Спробуйте ще раз</ua>
+    </element>
+    <element id="ErrTooManyFailedLogins">
+        <ua>Ви зробили невдалих спроб взода в систему! Почекайте секунд перш ніж продовжити</ua>
+    </element>
+    <element id="ErrForumNameTooLong">
+        <ua>Назва форуму не повинна перевищувати символів</ua>
+    </element>
+    <element id="ErrForumDescriptionTooLong">
+        <ua>Опис форуму не повинен перевищувати символів</ua>
+    </element>
+    <element id="ErrSubjectTooLong">
+        <ua>Тема повідомлення не повинна перевищувати символів</ua>
+    </element>
+    <element id="ErrTagNameTooLong">
+        <ua>Назва тега не повинна перевищувати символів</ua>
+    </element>
+    <element id="WhoisServer">
+        <ua>URL сервера whois</ua>
+    </element>
+    <element id="ErrUserLoginEmpty">
+        <ua>Не заданий логін</ua>
+    </element>
+    <element id="ErrUserNameEmpty">
+        <ua>Не задано ім'я користувача</ua>
+    </element>
+    <element id="ErrEmailEmpty">
+        <ua>Не задана електронна адреса</ua>
+    </element>
+    <element id="ErrUserLoginTooLong">
+        <ua>Логін не должн перевищувати символів</ua>
+    </element>
+    <element id="ErrUserNameTooLong">
+        <ua>Ім'я користувача не повинне перевищувати символів</ua>
+    </element>
+    <element id="ErrEmailTooLong">
+        <ua>Довжина електронної адреси не повинна перевищувати символів</ua>
+    </element>
+    <element id="MsgRegistrationSuccess">
+        <ua>Ваш обліковий запис успішно створений. Завершіть процес реєстрації переходом по посиланню активації, яка була вислана вам на вказану вами електронну адресу.
+
+ Якщо електронне сполучення з посиланням активації не приходить, ви можете авторизуватися на форумі і запросити повторну відправку електронного сполучення з посиланням активації або змінити електронну адресу. Якщо електронне повідомлення так і не приходить, зв'яжіться з адміністрацією форуму через пункт меню "Контакт"</ua>
+    </element>
+    <element id="MessageEditingAllowed">
+        <ua>Дозволити редагувати свої повідомлення</ua>
+    </element>
+    <element id="RegistrationComment">
+        <ua>Після реєстрації ви зможете задати додаткові властивості вашого профілю, такі як фотографія, аватар, підпис і ін.</ua>
+    </element>
+    <element id="ErrUserLoginInUse">
+        <ua>Цей логін вже використовується</ua>
+    </element>
+    <element id="ErrUserNameInUse">
+        <ua>Це ім'я користувача вже використовується</ua>
+    </element>
+    <element id="ErrUserNameReserved">
+        <ua>Це ім'я користувача зарезервовано і не може бути використано</ua>
+    </element>
+    <element id="ErrUserEmailInUse">
+        <ua>Ця електронна адреса вже використовується! Якщо це ваша адреса і ви не пам'ятаєте дані для входу, використайте функцію переустановлення пароля</ua>
+    </element>
+    <element id="ErrEmailDomainNotAllowed">
+        <ua>Цей мейл-домен ' не дозволяється для реєстрації</ua>
+    </element>
+    <element id="ErrUserEmailInUseShort">
+        <ua>Ця електронна адреса вже використовується</ua>
+    </element>
+    <element id="HideEmail">
+        <ua>Приховувати електронну адресу</ua>
+    </element>
+    <element id="RegistrationRulesAgreement">
+        <ua>
+            <__EM__cdata__EA__-__EA__section>Реєструючись на форумі, я виражаю свою згоду з &lt;a href='rules.php' target='_ blank'&gt;правилами форуму&lt;/a&gt; і приймаю &lt;a href='user _ agreement.php' target='_ blank'&gt;призначена для користувача угода&lt;/a&gt;</__EM__cdata__EA__-__EA__section>
+        </ua>
+    </element>
+    <element id="PostRulesAgreement">
+        <ua>
+            <__EM__cdata__EA__-__EA__section>Відправляючи повідомлення, я виражаю свою згоду з &lt;a href='rules.php' target='_ blank'&gt;правилами форуму&lt;/a&gt; і приймаю &lt;a href='user _ agreement.php' target='_ blank'&gt;призначена для користувача угода&lt;/a&gt;</__EM__cdata__EA__-__EA__section>
+        </ua>
+    </element>
+    <element id="ErrAgreementRequired">
+        <ua>Ви повинні прочитати і виразити згоду з правилами форуму і з призначеною для користувача угодою</ua>
+    </element>
+    <element id="ErrActivationLinkExpired">
+        <ua>Посилання активації недійсне або збіг термін її дії! Проте ви можете авторизуватися на форумі і запросити повторну відправку електронного сполучення з посиланням активації</ua>
+    </element>
+    <element id="ErrActivationSuccess">
+        <ua>Ваш обліковий запис успішно активований. Тепер ви можете задати додаткові властивості вашого профілю, такі як фотографія, аватар, підпис і ін.</ua>
+    </element>
+    <element id="PasswordRestoration">
+        <ua>Відновлення пароля</ua>
+    </element>
+    <element id="ErrCookiesNotEnabled">
+        <ua>Неможливо запустити сесію. Або ваш браузер забороняє використати cookies для цього сайту або усієї системи, або встановлений неправильний шлях для cookie сесії по відношенню до URL адресі додатка</ua>
+    </element>
+    <element id="ErrWrongLogin">
+        <ua>неправильне ім'я користувача або пароль</ua>
+    </element>
+    <element id="ErrAccountDeleted">
+        <ua>Ваш обліковий запис видалений</ua>
+    </element>
+    <element id="ErrAccountNotActivated">
+        <ua>Ваш обліковий запис не активований! Bы можете запросити повторну відправку електронного сполучення з посиланням активації у вашому профілі або змінити електронну адресу.
+
+ Якщо електронне повідомлення так і не приходить, зв'яжіться з адміністрацією форуму через пункт меню "Контакт"</ua>
+    </element>
+    <element id="ErrAccountNotApproved">
+        <ua>Ваш обліковий запис ще не підтверджений адміністратором! Ви повинні дочекатися, коли адміністратор підтвердить ваш обліковий запис.
+
+ Якщо підтвердження триває занадто довго, зв'яжіться з адміністрацією форуму через пункт меню "Контакт"</ua>
+    </element>
+    <element id="WarningAccountNotActivated">
+        <ua>Ваш обліковий запис не активований! Bы можете запросити повторну відправку електронного сполучення з посиланням активації</ua>
+    </element>
+    <element id="ErrAccountIsBlocked">
+        <ua>Ваш обліковий запис заблокований! Ви можете подивитися причину блокування у вашому профілі в модераторском балці</ua>
+    </element>
+    <element id="ErrAccountIsBlockedUntil">
+        <ua>Ваш обліковий запис заблокований до Залишилося часу: Ви можете подивитися причину блокування у вашому профілі</ua>
+    </element>
+    <element id="MsgMasterAdminWarning">
+        <ua>Ви увійшли на форум як майстер-адміністратор. У мастер-администратора немає профілю, израбнного і ін., його слід використати тільки для системних цілей</ua>
+    </element>
+    <element id="PasswordRestoreComment">
+        <ua>Введіть електронну адресу, яка була використана у вашому обліковому записі. На нього буде вислано електронне сполучення з інструкціями, як переустановити пароль</ua>
+    </element>
+    <element id="MsgErrEmailNotFound">
+        <ua>Електронна адреса ' не пов'язана ні з яким обліковим записом</ua>
+    </element>
+    <element id="MsgPasswordRestore">
+        <ua>На вказану електронну адресу вислано електронне сполучення з інструкціями, як переустановити пароль</ua>
+    </element>
+    <element id="PasswordReset">
+        <ua>Переустановлення пароля</ua>
+    </element>
+    <element id="PasswordResetComment">
+        <ua>Задайте новий пароль для вашого облікового запису</ua>
+    </element>
+    <element id="PasswordResetLinkInvalid">
+        <ua>Посилання для переустановлення пароля недійсне або збіг термін її дії! Запросіть нове посилання для переустановлення пароля</ua>
+    </element>
+    <element id="MsgPasswordResetSuccess">
+        <ua>Пароль успішно змінений. Ви можете увійти на форум, використовуючи ваш новий пароль</ua>
+    </element>
+    <element id="MsgPasswordChangeSuccess">
+        <ua>Пароль успішно змінений</ua>
+    </element>
+    <element id="NewPassword">
+        <ua>Новий пароль</ua>
+    </element>
+    <element id="CurrentPassword">
+        <ua>Поточний пароль</ua>
+    </element>
+    <element id="AdditionalInformation">
+        <ua>Додаткова інформація</ua>
+    </element>
+    <element id="AdditionalSettings">
+        <ua>Додаткові налаштування</ua>
+    </element>
+    <element id="Location">
+        <ua>Звідки</ua>
+    </element>
+    <element id="Homepage">
+        <ua>Домашня сторінка</ua>
+    </element>
+    <element id="Signature">
+        <ua>Автопідпис</ua>
+    </element>
+    <element id="MessageComment">
+        <ua>Повідомлення, яке показуватиметься під ім'ям користувача</ua>
+    </element>
+    <element id="SignatureComment">
+        <ua>Підпис, який автоматично додаватиметься у кінці повідомлень. Підтримуються теги [url], [smile] і [img]</ua>
+    </element>
+    <element id="InformationComment">
+        <ua>Детальна інформація, яка буде показана при перегляді профілю користувача</ua>
+    </element>
+    <element id="Avatar">
+        <ua>Аватар</ua>
+    </element>
+    <element id="AvatarComment">
+        <ua>Задайте картинку, розмір якої не перевищує 130 x 130 пікселів. Якщо картинка більша, вона буде зменшена до вказаного розміру.
+ Рекомендується заздалегідь підготувати картинку точно цього розміру в графічній програмі, як наприклад Фотошоп</ua>
+    </element>
+    <element id="Photo">
+        <ua>Фотографія</ua>
+    </element>
+    <element id="Picture">
+        <ua>Картинка</ua>
+    </element>
+    <element id="CustomSmile">
+        <ua>Вставити власний смайл</ua>
+    </element>
+    <element id="HidePictures">
+        <ua>Приховувати картинки</ua>
+    </element>
+    <element id="HideUserInfo">
+        <ua>Приховувати інформацію користувачів</ua>
+    </element>
+    <element id="DoNotExpandVideos">
+        <ua>Не розгортати відеокліпи</ua>
+    </element>
+    <element id="ErrUserDoesNotExist">
+        <ua>Користувач з таким ідентифікатором ( не існує або був видалений</ua>
+    </element>
+    <element id="ErrHomepageTooLong">
+        <ua>Довжина адреси домащней сторінки не повинна перевищувати символів</ua>
+    </element>
+    <element id="ErrLocationTooLong">
+        <ua>Довжина поля 'Звідки' не повинна перевищувати символів</ua>
+    </element>
+    <element id="ErrSignatureTooLong">
+        <ua>Автопідпис не повинен перевищувати символів</ua>
+    </element>
+    <element id="ErrInformationTooLong">
+        <ua>Довжина поля 'Інформація' не повинна перевищувати символів</ua>
+    </element>
+    <element id="MsgNewActivationRequired">
+        <ua>Зміни в обліковому записі успішно збережені.
+
+ Оскільки ви змінили електронну адресу, ваш профіль деактивував, і на нову адресу було відправлено сполучення з посиланням активації. Перейдіть по посиланню активації, щоб підтвердити зміну електронної адреси</ua>
+    </element>
+    <element id="ErrCurrentPasswordRequired">
+        <ua>Щоб змінити електронну адресу або пароль, вам необхідно ввести ваш поточний пароль</ua>
+    </element>
+    <element id="RequestActivationLink">
+        <ua>Запросити посилання активації</ua>
+    </element>
+    <element id="MsgActivationLinkSent">
+        <ua>На вказану електронну адресу вислано електронне сполучення з посиланням активації</ua>
+    </element>
+    <element id="ErrFileUpload">
+        <ua>Помилка при завантаженні файлу '! Можливо, у додатка відсутні права на запис на деякі необхідні каталоги або файли</ua>
+    </element>
+    <element id="ErrFileIsNotPicture">
+        <ua>Файл ' не є картинкою? придатною для Інтернету</ua>
+    </element>
+    <element id="EditUser">
+        <ua>Редагувати користувача</ua>
+    </element>
+    <element id="ModerateUser">
+        <ua>Модерировать користувача</ua>
+    </element>
+    <element id="ModerateIP">
+        <ua>Модерировать IP адреса</ua>
+    </element>
+    <element id="ModerateUserMarker">
+        <ua>Модерировать маркер користувача</ua>
+    </element>
+    <element id="Activated">
+        <ua>Активований</ua>
+    </element>
+    <element id="UserProfile">
+        <ua>Профіль користувача</ua>
+    </element>
+    <element id="hidden">
+        <ua>прихований</ua>
+    </element>
+    <element id="hidden _ by _ me">
+        <ua>прихований мною</ua>
+    </element>
+    <element id="Hidden">
+        <ua>Прихований</ua>
+    </element>
+    <element id="HiddenByMe">
+        <ua>Прихований мною</ua>
+    </element>
+    <element id="Show">
+        <ua>Показати</ua>
+    </element>
+    <element id="AllAuthorTopics">
+        <ua>Усі теми автора</ua>
+    </element>
+    <element id="AllTopicsWithAuthor">
+        <ua>Усі теми за участю автора</ua>
+    </element>
+    <element id="SendPersonalMessage">
+        <ua>Послати особисте повідомлення</ua>
+    </element>
+</root>
