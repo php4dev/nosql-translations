@@ -87,6 +87,7 @@ public class Nosql {
                 List<Map<String, Object>> textsEn = new ArrayList<>();
                 List<Map<String, Object>> textsDe = new ArrayList<>();
                 List<Map<String, Object>> textsRu = new ArrayList<>();
+                List<Map<String, Object>> textsUa = new ArrayList<>();
                 for (Map<String, Object> textItem : texts) {
                     Map<String, Object> textItemEn = new LinkedHashMap<>();
                     textItemEn.put("-id", textItem.get("-id"));
@@ -100,13 +101,19 @@ public class Nosql {
                     textItemRu.put("-id", textItem.get("-id"));
                     textItemRu.put("ru", textItem.get("ru"));
                     textsRu.add(textItemRu);
+                    Map<String, Object> textItemUa = new LinkedHashMap<>();
+                    textItemUa.put("-id", textItem.get("-id"));
+                    textItemUa.put("ua", textItem.get("ua"));
+                    textsUa.add(textItemUa);
                 }
                 final Path pathEn = Paths.get("", new String[] { file.getPath().replaceFirst("\\.xml$", "-en.json") });
                 final Path pathDe = Paths.get("", new String[] { file.getPath().replaceFirst("\\.xml$", "-de.json") });
                 final Path pathRu = Paths.get("", new String[] { file.getPath().replaceFirst("\\.xml$", "-ru.json") });
+                final Path pathUa = Paths.get("", new String[] { file.getPath().replaceFirst("\\.xml$", "-ua.json") });
                 Files.write(pathEn, Json.toJson(textsEn).getBytes(StandardCharsets.UTF_8));
                 Files.write(pathDe, Json.toJson(textsDe).getBytes(StandardCharsets.UTF_8));
                 Files.write(pathRu, Json.toJson(textsRu).getBytes(StandardCharsets.UTF_8));
+                Files.write(pathUa, Json.toJson(textsUa).getBytes(StandardCharsets.UTF_8));
             } catch (Exception ex) {
                 System.out.println(file.getPath() + " - " + ex.getMessage());
             }

@@ -3465,7 +3465,7 @@
   },
   {
     "-id": "MsgEventRatingDisallowed",
-    "ru": "Модератор {author} запретил вам оценивать сообещния."
+    "ru": "Модератор {author} запретил вам оценивать сообещения."
   },
   {
     "-id": "MsgEventRatingDisallowedAnonym",
@@ -3473,7 +3473,7 @@
   },
   {
     "-id": "MsgEventRatingAllowed",
-    "ru": "Модератор {author} снял с вас запрет на оценку сообещний."
+    "ru": "Модератор {author} снял с вас запрет на оценку сообещений."
   },
   {
     "-id": "MsgEventRatingAllowedAnonym",
@@ -3577,7 +3577,7 @@
   },
   {
     "-id": "LastWeek",
-    "ru": "Последняя Неделя"
+    "ru": "Последняя неделя"
   },
   {
     "-id": "LastMonth",
@@ -3917,7 +3917,7 @@
   },
   {
     "-id": "MsgProfileImportSuccess",
-    "ru": "Профиль успешно испортирован."
+    "ru": "Профиль успешно импортирован."
   },
   {
     "-id": "ErrImportFileNotSpecified",
