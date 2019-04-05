@@ -665,7 +665,7 @@
   },
   {
     "-id": "AddressOfTheDefaultSender",
-    "ua": "Електронна адреса посилача за умовчанням"
+    "ua": "Електронна адреса відправника за умовчанням"
   },
   {
     "-id": "AddressOfTheContactReceiver",
@@ -777,7 +777,7 @@
   },
   {
     "-id": "ErrAddressOfTheDefaultSenderEmpty",
-    "ua": "Не задана електронна адреса посилача за умовчанням!"
+    "ua": "Не задана електронна адреса відправника за умовчанням!"
   },
   {
     "-id": "ErrAddressOfTheContactReceiverEmpty",
@@ -805,7 +805,7 @@
   },
   {
     "-id": "ErrSenderEmailEmpty",
-    "ua": "Не задана електронна адреса посилача!"
+    "ua": "Не задана електронна адреса відправника!"
   },
   {
     "-id": "Send",

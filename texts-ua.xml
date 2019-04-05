@@ -1017,7 +1017,7 @@
       <en>E-mail address of the default sender</en>
       <de>E-Mail-Adresse des Default-Absenders</de>
       <ru>Электронный адрес отправителя по умолчанию</ru>
-      <ua>Електронна адреса посилача за умовчанням</ua>
+      <ua>Електронна адреса відправника за умовчанням</ua>
     </text>
     <text id="AddressOfTheContactReceiver">
       <en>E-mail address for the contact requests</en>
@@ -1185,7 +1185,7 @@
       <en>E-mail address of the default sender is not specified!</en>
       <de>E-Mail-Adresse des Default-Absenders ist nicht angegeben!</de>
       <ru>Не задан электронный адрес отправителя по умолчанию!</ru>
-      <ua>Не задана електронна адреса посилача за умовчанням!</ua>
+      <ua>Не задана електронна адреса відправника за умовчанням!</ua>
     </text>
     <text id="ErrAddressOfTheContactReceiverEmpty">
       <en>E-mail address for the contact requests is not specified!</en>
@@ -1227,7 +1227,7 @@
       <en>E-mail address of the sender is not specified!</en>
       <de>E-mail des Absenders wurde nicht angegeben!</de>
       <ru>Не задан электронный адрес отправителя!</ru>
-      <ua>Не задана електронна адреса посилача!</ua>
+      <ua>Не задана електронна адреса відправника!</ua>
     </text>
     <text id="Send">
       <en>Send</en>
