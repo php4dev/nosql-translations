@@ -1553,7 +1553,7 @@
   },
   {
     "-id": "MsgErrMaxPinnedTopicsPerForum",
-    "ua": "Можна прикріпити максимум тем на один форум!"
+    "ua": "Можна прикріпити максимум %s тем на один форум!"
   },
   {
     "-id": "MsgErrMaxMembersPerPrivateTopic",

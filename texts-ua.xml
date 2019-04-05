@@ -2379,7 +2379,7 @@
       <en>A forum can have maximally %s topics!</en>
       <de>Der Forum kann maximal %s  angehefteten Themen haben!</de>
       <ru>Можно прикрепить максимум %s тем на один форум!</ru>
-      <ua>Можна прикріпити максимум тем на один форум!</ua>
+      <ua>Можна прикріпити максимум %s тем на один форум!</ua>
     </text>
     <text id="MsgErrMaxMembersPerPrivateTopic">
       <en>The number of participants %s exceeds the maximal allowed number %!</en>
