@@ -945,7 +945,7 @@
       <en>Moderated topics</en>
       <de>Moderierte Themen</de>
       <ru>Модерируемые темы</ru>
-      <ua>Модерируемые теми</ua>
+      <ua>Модерируємі теми</ua>
     </text>
     <text id="Never">
       <en>Never</en>
@@ -1509,7 +1509,7 @@
       <en>Your account has been blocked! You can view the reason in your profile in the moderator log.</en>
       <de>Ihr Benutzerkonto wurde blockiert! Sie können den Grund in Ihrem Profil im Moderator-Protokoll einsehen.</de>
       <ru>Ваша учетная запись заблокирована! Вы можете посмотреть причину блокировки в вашем профиле в модераторском логе.</ru>
-      <ua>Ваш обліковий запис заблокований! Ви можете подивитися причину блокування у вашому профілі в модераторском лог файлі.</ua>
+      <ua>Ваш обліковий запис заблокований! Ви можете подивитися причину блокування у вашому профілі в модераторському лозі.</ua>
     </text>
     <text id="ErrAccountIsBlockedUntil">
       <en>Your account has been blocked until %s! Time remaining: %s. You can view the reason in your profile.</en>
@@ -2253,7 +2253,7 @@
       <en>Read marker moderation</en>
       <de>Read-Marker-Moderation</de>
       <ru>Модерация рид-маркеров</ru>
-      <ua>Модерація рид-маркеров</ua>
+      <ua>Модерація рід-маркерів</ua>
     </text>
     <text id="ReadmarkersNotFound">
       <en>No read marker are found.</en>
@@ -3489,7 +3489,7 @@
       <en>On all moderated forums</en>
       <de>Auf alle moderierten Foren</de>
       <ru>На всех модерируемых форумах</ru>
-      <ua>На усіх модерируемых форумах</ua>
+      <ua>На усіх модерируємих форумах</ua>
     </text>
     <text id="Roughness">
       <en>Roughness / Outrage</en>
@@ -5999,13 +5999,13 @@
       <en>Create moderated private topic</en>
       <de>Moderiertes privates Thema estellen</de>
       <ru>Создать модерируемую приватную тему</ru>
-      <ua>Створити модерируемую приватну тему</ua>
+      <ua>Створити модеровану приватну тему</ua>
     </text>
     <text id="ErrCanNotLeaveOwnTopic">
       <en>You cannot leave the own moderated private topic!</en>
       <de>Sie können nicht das eigene moderierte private Thema verlassen!</de>
       <ru>Вы не можете покинуть собственную модерируемую приватную тему!</ru>
-      <ua>Ви не можете покинути власну модерируемую приватну тему!</ua>
+      <ua>Ви не можете покинути власну модеровану приватну тему!</ua>
     </text>
     <text id="ShowEmbeddedVideo">
       <en>Embedded Video, click to view</en>
