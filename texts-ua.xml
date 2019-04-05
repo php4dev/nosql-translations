@@ -1083,7 +1083,7 @@
       <en>Maximal number of messages per minute</en>
       <de>Maximale Anzahl der Nachrichten pro Minute</de>
       <ru>Максимальное количество сообщений в минуту</ru>
-      <ua>Максимальна кількість повідомлень в хвилину</ua>
+      <ua>Максимальна кількість повідомлень за хвилину</ua>
     </text>
     <text id="MaxTopicsPerDay">
       <en>Maximal number of topics per day</en>
@@ -1185,7 +1185,7 @@
       <en>E-mail address for the contact requests is not specified!</en>
       <de>E-Mail-Adresse für die Kontaktanfragen ist nicht angegeben!</de>
       <ru>Не задан электронный адрес для контактных обращений!</ru>
-      <ua>Не задана електронна адреса для контактних звернень</ua>
+      <ua>Не задана електронна адреса для контактних звернень!</ua>
     </text>
     <text id="Email">
       <en>E-mail</en>
@@ -1209,19 +1209,19 @@
       <en>The subject is not specified!</en>
       <de>Der Betreff ist nicht angegeben!</de>
       <ru>Не задана тема!</ru>
-      <ua>Не задана тема</ua>
+      <ua>Не задана тема!</ua>
     </text>
     <text id="ErrMessageEmpty">
       <en>The message is not specified!</en>
       <de>Die Nachricht ist nicht angegeben!</de>
       <ru>Не задано сообщение!</ru>
-      <ua>Не задано повідомлення</ua>
+      <ua>Не задано повідомлення!</ua>
     </text>
     <text id="ErrSenderEmailEmpty">
       <en>E-mail address of the sender is not specified!</en>
       <de>E-mail des Absenders wurde nicht angegeben!</de>
       <ru>Не задан электронный адрес отправителя!</ru>
-      <ua>Не задана електронна адреса посилача</ua>
+      <ua>Не задана електронна адреса посилача!</ua>
     </text>
     <text id="Send">
       <en>Send</en>
@@ -1239,19 +1239,19 @@
       <en>The message has been successfully sent.</en>
       <de>Die Nachricht wurde erfolgreich abgesendet.</de>
       <ru>Сообщение успешно отправлено.</ru>
-      <ua>Повідомлення успішно відправлене</ua>
+      <ua>Повідомлення успішно відправлене.</ua>
     </text>
     <text id="ErrFileDoesNotExists">
       <en>The file '%s' does not exist!</en>
       <de>Die Datei '%s' existiert nicht!</de>
       <ru>Файл '%s' не существует!</ru>
-      <ua>Файл '%s' не існує</ua>
+      <ua>Файл '%s' не існує!</ua>
     </text>
     <text id="ErrEmailTemplateInvalid">
       <en>The e-mail template '%s' is invalid!</en>
       <de>Das E-Mail-Template '%s' ist ungültig!</de>
       <ru>Шаблон электронного сообщения '%s' недействителен!</ru>
-      <ua>Шаблон електронного повідомлення '%s' недійсний</ua>
+      <ua>Шаблон електронного повідомлення '%s' недійсний!</ua>
     </text>
     <text id="ErrMailFailed">
       <en>Sending of e-mail failed!</en>
@@ -1263,7 +1263,7 @@
       <en>Please enter the code displayed on the picture. If it is not readable, click the picture to load another variant.</en>
       <de>Bitte geben Sie den Code auf dem Bild ein. Wenn der Code nicht lesbar ist, klicken Sie auf dem Bild um eine andere Variante zu laden.</de>
       <ru>Введите код, изображенный на картинке. Если код нечитаемый, кликните картинку, чтобы загрузить другой вариант.</ru>
-      <ua>Введіть код, зображений на картинці. Якщо код нечитаний, кликніть картинку, щоб завантажити інший варіант</ua>
+      <ua>Введіть код, зображений на картинці. Якщо код нечитаний, кликніть картинку, щоб завантажити інший варіант.</ua>
     </text>
     <text id="ErrSpamProtectError">
       <en>The entered code of the spam protection was not correct. Please try again!</en>
@@ -1275,19 +1275,19 @@
       <en>You have %s failed login tries! Wait for %s seconds to continue!</en>
       <de>Sie haben %s fehlgeschlagene Loginversuche! Warten Sie %s Sekunden um fortzufahren!</de>
       <ru>Вы сделали %s неудачных попыток взода в систему! Подождите %s секунд прежде чем продолжить!</ru>
-      <ua>Ви зробили невдалих спроб взода в систему! Почекайте секунд перш ніж продовжити</ua>
+      <ua>Ви зробили невдалих спроб взода в систему! Почекайте %s секунд перш ніж продовжити!</ua>
     </text>
     <text id="ErrForumNameTooLong">
       <en>The name of the forum cannot contain more than %s characters!</en>
       <de>Der Forumname kann höchstens %s Zeichen beinhalten!</de>
       <ru>Название форума не должно превышать %s символов!</ru>
-      <ua>Назва форуму не повинна перевищувати символів</ua>
+      <ua>Назва форуму не повинна перевищувати %s символів!</ua>
     </text>
     <text id="ErrForumDescriptionTooLong">
       <en>The description of the forum cannot contain more than %s characters!</en>
       <de>Die Forumbeschreibung kann höchstens %s Zeichen beinhalten!</de>
       <ru>Описание форума не должно превышать %s символов!</ru>
-      <ua>Опис форуму не повинен перевищувати символів</ua>
+      <ua>Опис форуму не повинен перевищувати %s символів!</ua>
     </text>
     <text id="ErrSubjectTooLong">
       <en>The subject cannot contain more than %s characters!</en>
@@ -1317,19 +1317,19 @@
       <en>User name is not specified!</en>
       <de>Benutzername ist nicht angegeben!</de>
       <ru>Не задано имя пользователя!</ru>
-      <ua>Не задано ім'я користувача</ua>
+      <ua>Не задано ім'я користувача!</ua>
     </text>
     <text id="ErrEmailEmpty">
       <en>E-mail is not specified!</en>
       <de>E-Mail ist nicht angegeben!</de>
       <ru>Не задан электронный адрес!</ru>
-      <ua>Не задана електронна адреса</ua>
+      <ua>Не задана електронна адреса!</ua>
     </text>
     <text id="ErrUserLoginTooLong">
       <en>Login cannot contain more than %s characters!</en>
       <de>Login kann höchstens %s Zeichen beinhalten!</de>
       <ru>Логин не должн превышать %s символов!</ru>
-      <ua>Логін не должн перевищувати символів</ua>
+      <ua>Логін не должн перевищувати %s символів!</ua>
     </text>
     <text id="ErrUserNameTooLong">
       <en>User name cannot contain more than %s characters!</en>
@@ -1341,7 +1341,7 @@
       <en>Email cannot contain more than %s characters!</en>
       <de>E-Mail kann höchstens %s Zeichen beinhalten!</de>
       <ru>Длина электронного адреса не должна превышать %s символов!</ru>
-      <ua>Довжина електронної адреси не повинна перевищувати символів</ua>
+      <ua>Довжина електронної адреси не повинна перевищувати %s символів!</ua>
     </text>
     <text id="MsgRegistrationSuccess">
       <en>Your account has been successfully created. For completion of the registration, please, click the activation link that has been sent to the e-mail address specified by the registration.
@@ -1379,13 +1379,13 @@
       <en>This user name is already used!</en>
       <de>Dieser Benutzername wird bereits verwendet!</de>
       <ru>Данное имя пользователя уже используется!</ru>
-      <ua>Це ім'я користувача вже використовується</ua>
+      <ua>Це ім'я користувача вже використовується!</ua>
     </text>
     <text id="ErrUserNameReserved">
       <en>This user name is reserved and cannot be used!</en>
       <de>Dieser Benutzername ist reserviert und darf nicht verwendet werden!</de>
       <ru>Данное имя пользователя зарезервировано и не может быть использовано!</ru>
-      <ua>Це ім'я користувача зарезервовано і не може бути використано</ua>
+      <ua>Це ім'я користувача зарезервовано і не може бути використано!</ua>
     </text>
     <text id="ErrUserEmailInUse">
       <en>This e-mail address is already used! If it is your address, and you do not remember the login data, use the password reset function.</en>
@@ -1415,13 +1415,13 @@
       <en><![CDATA[By performing the registration, I agree with the <a href='rules.php' target='_blank'>forum rules</a> and I accept the <a href='user_agreement.php' target='_blank'>user agreement</a>.]]></en>
       <de><![CDATA[Bei der Registrierung stimme ich den <a href='rules.php' target='_blank'>Forumregeln</a> der <a href='user_agreement.php' target='_blank'>Benutzervereinbarung</a> zu.]]></de>
       <ru><![CDATA[Регистрируясь на форуме, я выражаю свое согласие с <a href='rules.php' target='_blank'>правилами форума</a> и принимаю <a href='user_agreement.php' target='_blank'>пользовательское соглашение</a>.]]></ru>
-      <ua><![CDATA[Реєструючись на форумі, я виражаю свою згоду з <a href='rules.php' target='_ blank'>правилами форуму</a> і приймаю <a href='user_agreement.php' target='_ blank'>призначена для користувача угода</a>]]></ua>
+      <ua><![CDATA[Реєструючись на форумі, я виражаю свою згоду з <a href='rules.php' target='_blank'>правилами форуму</a> і приймаю <a href='user_agreement.php' target='_blank'>призначена для користувача угода</a>]]></ua>
     </text>
     <text id="PostRulesAgreement">
       <en><![CDATA[By posting the message, I agree with the <a href='rules.php' target='_blank'>forum rules</a> and I accept the <a href='user_agreement.php' target='_blank'>user agreement</a>.]]></en>
       <de><![CDATA[Beim Absenden der Nachricht stimme ich den <a href='rules.php' target='_blank'>Forumregeln</a> und der <a href='user_agreement.php' target='_blank'>Benutzervereinbarung</a> zu.]]></de>
       <ru><![CDATA[Отправляя сообщение, я выражаю свое согласие с <a href='rules.php' target='_blank'>правилами форума</a> и принимаю <a href='user_agreement.php' target='_blank'>пользовательское соглашение</a>.]]></ru>
-      <ua><![CDATA[Відправляючи повідомлення, я виражаю свою згоду з <a href='rules.php' target='_ blank'>правилами форуму</a> і приймаю <a href='user_agreement.php' target='_ blank'>призначена для користувача угода</a>]]></ua>
+      <ua><![CDATA[Відправляючи повідомлення, я виражаю свою згоду з <a href='rules.php' target='_blank'>правилами форуму</a> і приймаю <a href='user_agreement.php' target='_blank'>призначена для користувача угода</a>]]></ua>
     </text>
     <text id="ErrAgreementRequired">
       <en>You have to read and accept the rules of the forum and the user agreement!</en>
@@ -1451,19 +1451,19 @@
       <en>The session could not be started. Either your browser disallows cookies for this site or generally, or the session cookie path is set wrong in relation to the application URL.</en>
       <de>Die Session kann nicht gestartet werden. Entweder Ihr Browser verbietet die Cookies für diese Seite oder grundsätzlich, oder die Einstellung des Session-Cookie-Pfades relativ zu der Anwendungs-URL ist falsch.</de>
       <ru>Невозможно запустить сессию. Либо ваш браузер запрещает использовать cookies для данного сайта или всей системы, либо установлен неправильный путь для cookie сессии по отношению к URL адресу приложения.</ru>
-      <ua>Неможливо запустити сесію. Або ваш браузер забороняє використати cookies для цього сайту або усієї системи, або встановлений неправильний шлях для cookie сесії по відношенню до URL адресі додатка</ua>
+      <ua>Неможливо запустити сесію. Або ваш браузер забороняє використати cookies для цього сайту або усієї системи, або встановлений неправильний шлях для cookie сесії по відношенню до URL адресі додатка.</ua>
     </text>
     <text id="ErrWrongLogin">
       <en>Wrong login name or password!</en>
       <de>Falscher Loginname oder Kennwort!</de>
       <ru>Неправильное имя пользователя или пароль!</ru>
-      <ua>неправильне ім'я користувача або пароль</ua>
+      <ua>неправильне ім'я користувача або пароль!</ua>
     </text>
     <text id="ErrAccountDeleted">
       <en>Your user account has been deleted!</en>
       <de>Ihr Benutzerkonto wurde gelöscht!</de>
       <ru>Ваша учетная запись удалена!</ru>
-      <ua>Ваш обліковий запис видалений</ua>
+      <ua>Ваш обліковий запис видалений!</ua>
     </text>
     <text id="ErrAccountNotActivated">
       <en>Your user account is not yet activated! You can request the activation e-mail again or change the e-mail address in your profile.
@@ -1503,37 +1503,37 @@
       <en>Your account has been blocked! You can view the reason in your profile in the moderator log.</en>
       <de>Ihr Benutzerkonto wurde blockiert! Sie können den Grund in Ihrem Profil im Moderator-Protokoll einsehen.</de>
       <ru>Ваша учетная запись заблокирована! Вы можете посмотреть причину блокировки в вашем профиле в модераторском логе.</ru>
-      <ua>Ваш обліковий запис заблокований! Ви можете подивитися причину блокування у вашому профілі в модераторском балці</ua>
+      <ua>Ваш обліковий запис заблокований! Ви можете подивитися причину блокування у вашому профілі в модераторском лог файлі.</ua>
     </text>
     <text id="ErrAccountIsBlockedUntil">
       <en>Your account has been blocked until %s! Time remaining: %s. You can view the reason in your profile.</en>
       <de>Ihr Benutzerkonto wurde bis zum %s blockiert! Zeit verblieben: %s. Sie können den Grund in Ihrem Profil einsehen.</de>
       <ru>Ваша учетная запись заблокирована до %s! Осталось времени: %s. Вы можете посмотреть причину блокировки в вашем профиле.</ru>
-      <ua>Ваш обліковий запис заблокований до Залишилося часу: Ви можете подивитися причину блокування у вашому профілі</ua>
+      <ua>Ваш обліковий запис заблокований до Залишилося часу: %s. Ви можете подивитися причину блокування у вашому профілі.</ua>
     </text>
     <text id="MsgMasterAdminWarning">
       <en>You are logged in as the master administrator. The master administrator has no profile, no favourites etc. and should be used for system purposes only!</en>
       <de>Sie sind als der Masteradministrator eingeloggt. Der Masteradministrator hat kein Profil, keine Favoriten usw., und soll nur für Systemzwecke verwendet werden!</de>
       <ru>Вы вошли на форум как мастер-администратор. У мастер-администратора нет профиля, израбнного и пр., его следует использовать только для системных целей!</ru>
-      <ua>Ви увійшли на форум як майстер-адміністратор. У мастер-администратора немає профілю, израбнного і ін., його слід використати тільки для системних цілей</ua>
+      <ua>Ви увійшли на форум як майстер-адміністратор. У мастер-администратора немає профілю, израбнного і ін., його слід використати тільки для системних цілей!</ua>
     </text>
     <text id="PasswordRestoreComment">
       <en>Enter the e-mail address assigned to your account. We will send the e-mail with the instructions how to reset your password.</en>
       <de>Bitte geben Sie die E-Mail-Adresse, die mit Ihrem Benutzerkonto verknüpft ist, ein. An diese Adresse wird die E-Mail mit den Anweisungen, wie Sie Ihr Kennwort zurücksetzten können, gesendet.</de>
       <ru>Введите электронный адрес, который был использован в вашей учетной записи. На него будет выслано электронное сообщение с инструкциями, как переустановить пароль.</ru>
-      <ua>Введіть електронну адресу, яка була використана у вашому обліковому записі. На нього буде вислано електронне сполучення з інструкціями, як переустановити пароль</ua>
+      <ua>Введіть електронну адресу, яка була використана у вашому обліковому записі. На нього буде вислано електронне сполучення з інструкціями, як переустановити пароль.</ua>
     </text>
     <text id="MsgErrEmailNotFound">
       <en>The e-mail '%s' is not associated with any account!</en>
       <de>Die E-Mail-Adresse '%s' ist mit keinem Benutzerkonto verbunden!</de>
       <ru>Электронный адрес '%s' не связан ни с какой учетной записью!</ru>
-      <ua>Електронна адреса '%s' не пов'язана ні з яким обліковим записом</ua>
+      <ua>Електронна адреса '%s' не пов'язана ні з яким обліковим записом!</ua>
     </text>
     <text id="MsgPasswordRestore">
       <en>The e-mail with the instructions how to reset your password has been sent to the specified address.</en>
       <de>An die angegebene E-Mail-Adresse wurde die E-Mail mit den Anweisungen, wie Sie Ihr Kennwort zurücksetzten können, gesendet.</de>
       <ru>На указанный электронный адрес выслано электронное сообщение с инструкциями, как переустановить пароль.</ru>
-      <ua>На вказану електронну адресу вислано електронне сполучення з інструкціями, як переустановити пароль</ua>
+      <ua>На вказану електронну адресу вислано електронне сполучення з інструкціями, як переустановити пароль.</ua>
     </text>
     <text id="PasswordReset">
       <en>Password reset</en>
@@ -1681,25 +1681,25 @@
       <en>User with that ID (%s) does not exist or has been deleted!</en>
       <de>Benutzer mit dieser ID (%s) existiert nicht oder wurde gelöscht!</de>
       <ru>Пользователь с таким идентификатором (%s) не существует или был удален!</ru>
-      <ua>Користувач з таким ідентифікатором ( не існує або був видалений</ua>
+      <ua>Користувач з таким ідентифікатором (%s) не існує або був видалений!</ua>
     </text>
     <text id="ErrHomepageTooLong">
       <en>Homepage cannot contain more than %s characters!</en>
       <de>Homepage kann höchstens %s Zeichen beinhalten!</de>
       <ru>Длина адреса домащней страницы не должна превышать %s символов!</ru>
-      <ua>Довжина адреси домащней сторінки не повинна перевищувати символів</ua>
+      <ua>Довжина адреси домащней сторінки не повинна перевищувати %s символів!</ua>
     </text>
     <text id="ErrLocationTooLong">
       <en>Location cannot contain more than %s characters!</en>
       <de>Ort kann höchstens %s Zeichen beinhalten!</de>
       <ru>Длина поля 'Откуда' не должна превышать %s символов!</ru>
-      <ua>Довжина поля 'Звідки' не повинна перевищувати символів</ua>
+      <ua>Довжина поля 'Звідки' не повинна перевищувати %s символів!</ua>
     </text>
     <text id="ErrSignatureTooLong">
       <en>Signature cannot contain more than %s characters!</en>
       <de>Singantur kann höchstens %s Zeichen beinhalten!</de>
       <ru>Автоподпись не должна превышать %s символов!</ru>
-      <ua>Автопідпис не повинен перевищувати символів</ua>
+      <ua>Автопідпис не повинен перевищувати %s символів!</ua>
     </text>
     <text id="ErrInformationTooLong">
       <en>Information field cannot contain more than %s characters!</en>
@@ -1743,13 +1743,13 @@
       <en>Upload of the file '%s' failed! The application seems not to have write access to some necessary directories or files!</en>
       <de>Hochladen der Datei '%s' ist fehlgeschlagen! Die Anwendung scheint keinen Schreibzugriff auf einige notwendige Verzeichnisse oder Dateien zu haben!</de>
       <ru>Ошибка при загрузке файла '%s'! Возможно, у приложения отсутствуют права на запись на некоторые необходимые каталоги или файлы!</ru>
-      <ua>Помилка при завантаженні файлу '! Можливо, у додатка відсутні права на запис на деякі необхідні каталоги або файли</ua>
+      <ua>Помилка при завантаженні файлу '%s'! Можливо, у додатка відсутні права на запис на деякі необхідні каталоги або файли!</ua>
     </text>
     <text id="ErrFileIsNotPicture">
       <en>The file '%s' is not an Internet suitable picture!</en>
       <de>Die Datei '%s' ist kein für Internet passendes Bild!</de>
       <ru>Файл '%s' не является картинкой? пригодной для Интернета!</ru>
-      <ua>Файл '%s' не є картинкою? придатною для Інтернету</ua>
+      <ua>Файл '%s' не є картинкою? придатною для Інтернету!</ua>
     </text>
     <text id="EditUser">
       <en>Edit user</en>
@@ -1887,7 +1887,7 @@
       <en>Are you sure to block the user '%s' in this topic?</en>
       <de>Sind Sie sicher, dass Sie den Teilnehmner '%s' in diesem Thema blockieren möchten?</de>
       <ru>Вы уверены, что заблокировать пользователя '%s' в данной теме?</ru>
-      <ua>Ви упевнені, що заблокувати користувача '%s' в цій темі</ua>
+      <ua>Ви упевнені, що заблокувати користувача '%s' в цій темі?</ua>
     </text>
     <text id="PhysicalDeletion">
       <en>Delete physically</en>
@@ -1953,7 +1953,7 @@
       <en>Blocked until %s</en>
       <de>Blockiert bis zum %s</de>
       <ru>Заблокирован до %s</ru>
-      <ua>Заблокований до</ua>
+      <ua>Заблокований до %s</ua>
     </text>
     <text id="blocked">
       <en>blocked</en>
@@ -1965,7 +1965,7 @@
       <en>blocked: %s</en>
       <de>blockiert: %s</de>
       <ru>заблокирован: %s</ru>
-      <ua>заблокований:</ua>
+      <ua>заблокований: %s</ua>
     </text>
     <text id="ip_blocked">
       <en>IP blocked</en>
@@ -1977,7 +1977,7 @@
       <en>IP blocked: %s</en>
       <de>IP blockiert: %s</de>
       <ru>заблокирован по IP: %s</ru>
-      <ua>заблокований по IP:</ua>
+      <ua>заблокований по IP: %s</ua>
     </text>
     <text id="forum_blocked">
       <en>blocked on the forum</en>
@@ -1995,13 +1995,13 @@
       <en>blocked on the forum: %s</en>
       <de>blockiert auf dem Forum: %s</de>
       <ru>заблокирован на форуме: %s</ru>
-      <ua>заблокований на форумі:</ua>
+      <ua>заблокований на форумі: %s</ua>
     </text>
     <text id="UsersNotFound">
       <en>No members are found.</en>
       <de>Keine Teilnehmer wurden gefunden.</de>
       <ru>Пользователи не найдены.</ru>
-      <ua>Користувачі не знайдені</ua>
+      <ua>Користувачі не знайдені.</ua>
     </text>
     <text id="MessagesPerDay">
       <en>Messages per day</en>
@@ -2037,7 +2037,7 @@
       <en>Hits per minute</en>
       <de>Hits pro Minute</de>
       <ru>Просмотров в минуту</ru>
-      <ua>Переглядів в хвилину</ua>
+      <ua>Переглядів за хвилину</ua>
     </text>
     <text id="QueryExecTime">
       <en>Execution time of the query (ms)</en>
@@ -2049,7 +2049,7 @@
       <en>Number of query executions per minute</en>
       <de>Anzahl der Abfrageausführungen pro Minute</de>
       <ru>Количество выполнений в минуту</ru>
-      <ua>Кількість виконань в хвилину</ua>
+      <ua>Кількість виконань за хвилину</ua>
     </text>
     <text id="HitsPostsPerDay">
       <en>Hits/messages per day</en>
@@ -2121,13 +2121,13 @@
       <en>Forum with that ID (%s) does not exist!</en>
       <de>Forum mit dieser ID (%s) existiert nicht!</de>
       <ru>Форум с таким идентификатором (%s) не существует!</ru>
-      <ua>Форум з таким ідентифікатором ( не існує</ua>
+      <ua>Форум з таким ідентифікатором (%s) не існує!</ua>
     </text>
     <text id="ErrTopicDoesNotExist">
       <en>Topic with that ID (%s) does not exist!</en>
       <de>Thema mit dieser ID (%s) existiert nicht!</de>
       <ru>Тема с таким идентификатором (%s) не существует!</ru>
-      <ua>Тема з таким ідентифікатором ( не існує</ua>
+      <ua>Тема з таким ідентифікатором (%s) не існує!</ua>
     </text>
     <text id="DeleteTopics">
       <en>Delete topics</en>
@@ -2217,7 +2217,7 @@
       <en>Go to forum ...</en>
       <de>Zum Forum wechseln ...</de>
       <ru>Перейти в форум ...</ru>
-      <ua>Перейти у форум .</ua>
+      <ua>Перейти у форум ...</ua>
     </text>
     <text id="GotoTopic">
       <en>Go to topic</en>
@@ -2313,13 +2313,13 @@
       <en>The system forum cannot be edited!</en>
       <de>Das Systemforum kann nicht bearbeitet werden!</de>
       <ru>Системный форум недоступен для редактирования!</ru>
-      <ua>Системний форум недоступний для редагування</ua>
+      <ua>Системний форум недоступний для редагування!</ua>
     </text>
     <text id="MsgTopicTooLarge">
       <en>The topic is too large for displaying all messages at once!</en>
       <de>Das Thema ist zu groß, um alle Nachrichten auf einmal anzuzeigen!</de>
       <ru>Тема слишком большая, чтобы показать все сообщения!</ru>
-      <ua>Тема занадто велика, щоб показати усі повідомлення</ua>
+      <ua>Тема занадто велика, щоб показати усі повідомлення!</ua>
     </text>
     <text id="deleted">
       <en>deleted</en>
@@ -2343,43 +2343,43 @@
       <en>Topic has been successfully opened.</en>
       <de>Thema wurde erfolgreich aufgemacht.</de>
       <ru>Тема успешно открыта.</ru>
-      <ua>Тема успішно відкрита</ua>
+      <ua>Тема успішно відкрита.</ua>
     </text>
     <text id="MsgTopicClosed">
       <en>Topic has been successfully closed.</en>
       <de>Thema wurde erfolgreich geschlossen.</de>
       <ru>Тема успешно закрыта.</ru>
-      <ua>Тема успішно закрита</ua>
+      <ua>Тема успішно закрита.</ua>
     </text>
     <text id="MsgTopicDeleted">
       <en>Topic has been successfully deleted.</en>
       <de>Thema wurde erfolgreich gelöscht.</de>
       <ru>Тема успешно удалена.</ru>
-      <ua>Тема успішно видалена</ua>
+      <ua>Тема успішно видалена.</ua>
     </text>
     <text id="MsgTopicRestored">
       <en>Topic has been successfully restored.</en>
       <de>Thema wurde erfolgreich wiederherstellt.</de>
       <ru>Тема успешно восстановлена.</ru>
-      <ua>Тема успішно відновлена</ua>
+      <ua>Тема успішно відновлена.</ua>
     </text>
     <text id="MsgErrMaxPinnedTopics">
       <en>You can pin maximally %s topics!</en>
       <de>Sie können maximal %s Themen anheften!</de>
       <ru>Вы можете прикрепить максимум %s тем!</ru>
-      <ua>Ви можете прикріпити максимум тем</ua>
+      <ua>Ви можете прикріпити максимум %s тем!</ua>
     </text>
     <text id="MsgErrMaxPinnedTopicsPerForum">
       <en>A forum can have maximally %s topics!</en>
       <de>Der Forum kann maximal %s  angehefteten Themen haben!</de>
       <ru>Можно прикрепить максимум %s тем на один форум!</ru>
-      <ua>Можна прикріпити максимум тем на один форум</ua>
+      <ua>Можна прикріпити максимум тем на один форум!</ua>
     </text>
     <text id="MsgErrMaxMembersPerPrivateTopic">
       <en>The number of participants %s exceeds the maximal allowed number %!</en>
       <de>Die Anzahl der Teilnehmer in einem privaten Thema %s überschreitet die maximal erlaubte Anzahl %s!</de>
       <ru>Количество участников %s превышает максимально допустимое %s!</ru>
-      <ua>Кількість учасників перевищує максимально допустиме </ua>
+      <ua>Кількість учасників %s перевищує максимально допустиме %s!</ua>
     </text>
     <text id="MsgTopicPinned">
       <en>Topic has been successfully pinned.</en>
@@ -2391,151 +2391,151 @@
       <en>Topic has been successfully unpinned.</en>
       <de>Thema wurde erfolgreich abgeheftet.</de>
       <ru>Тема успешно откреплена.</ru>
-      <ua>Тема успішно відкріплена</ua>
+      <ua>Тема успішно відкріплена.</ua>
     </text>
     <text id="MsgConfirmTopicDelete">
       <en>Are you sure to delete the topic?</en>
       <de>Sind Sie sicher, dass Sie das Thema löschen möchten?</de>
       <ru>Вы уверены, что хотите удалить тему?</ru>
-      <ua>Ви упевнені, що хочете видалити тему</ua>
+      <ua>Ви упевнені, що хочете видалити тему?</ua>
     </text>
     <text id="MsgConfirmTopicClose">
       <en>Are you sure to close the topic?</en>
       <de>Sind Sie sicher, dass Sie das Thema schließen möchten?</de>
       <ru>Вы уверены, что хотите закрыть тему?</ru>
-      <ua>Ви упевнені, що хочете закрити тему</ua>
+      <ua>Ви упевнені, що хочете закрити тему?</ua>
     </text>
     <text id="MsgTopicsOpened">
       <en>Topics has been successfully opened.</en>
       <de>Themen wurden erfolgreich aufgemacht.</de>
       <ru>Темы успешно открыты.</ru>
-      <ua>Теми успішно відкриті</ua>
+      <ua>Теми успішно відкриті.</ua>
     </text>
     <text id="MsgTopicsClosed">
       <en>Topics has been successfully closed.</en>
       <de>Themen wurden erfolgreich geschlossen.</de>
       <ru>Темы успешно закрыты.</ru>
-      <ua>Теми успішно закриті</ua>
+      <ua>Теми успішно закриті.</ua>
     </text>
     <text id="MsgTopicsDeleted">
       <en>Topics have been successfully deleted.</en>
       <de>Themen wurden erfolgreich gelöscht.</de>
       <ru>Темы успешно удалены.</ru>
-      <ua>Теми успішно видалені</ua>
+      <ua>Теми успішно видалені.</ua>
     </text>
     <text id="MsgTopicsRestored">
       <en>Topics has been successfully restored.</en>
       <de>Themen wurden erfolgreich wiederherstellt.</de>
       <ru>Темы успешно восстановлены.</ru>
-      <ua>Теми успішно відновлені</ua>
+      <ua>Теми успішно відновлені.</ua>
     </text>
     <text id="MsgConfirmTopicsDelete">
       <en>Are you sure to delete the selected topics?</en>
       <de>Sind Sie sicher, dass Sie die ausgewählten Themen löschen möchten?</de>
       <ru>Вы уверены, что хотите удалить выбранные темы?</ru>
-      <ua>Ви упевнені, що хочете видалити вибрані теми</ua>
+      <ua>Ви упевнені, що хочете видалити вибрані теми?</ua>
     </text>
     <text id="MsgConfirmTopicsClose">
       <en>Are you sure to close the selected topics?</en>
       <de>Sind Sie sicher, dass Sie die ausgewählten Themen schließen möchten?</de>
       <ru>Вы уверены, что хотите закрыть выбранные темы?</ru>
-      <ua>Ви упевнені, що хочете закрити вибрані теми</ua>
+      <ua>Ви упевнені, що хочете закрити вибрані теми?</ua>
     </text>
     <text id="ErrNoTopicSelected">
       <en>No topic has been selected!</en>
       <de>Kein Thema wurde ausgewählt!</de>
       <ru>Не выбрана тема!</ru>
-      <ua>Не вибрана тема</ua>
+      <ua>Не вибрана тема!</ua>
     </text>
     <text id="ErrNoForumSelected">
       <en>No forum has been selected!</en>
       <de>Kein Forum wurde ausgewählt!</de>
       <ru>Не выбран форум!</ru>
-      <ua>Не вибраний форум</ua>
+      <ua>Не вибраний форум!</ua>
     </text>
     <text id="MsgTopicAddedToFavourites">
       <en>Topic has been added to favourites.</en>
       <de>Thema wurde zu den Favoriten hinzugefügt.</de>
       <ru>Тема добавлена в избранное.</ru>
-      <ua>Тема додана в обране</ua>
+      <ua>Тема додана в обране.</ua>
     </text>
     <text id="MsgTopicRemovedFromFavourites">
       <en>Topic has been removed from favourites.</en>
       <de>Thema wurde aus den Favoriten entfernt.</de>
       <ru>Тема удалена из избранного.</ru>
-      <ua>Тема видалена з обраного</ua>
+      <ua>Тема видалена з обраного.</ua>
     </text>
     <text id="MsgTopicsRemovedFromFavourites">
       <en>Topics have been removed from favourites.</en>
       <de>Themen wurden aus den Favoriten entfernt.</de>
       <ru>Темы удалены из избранного.</ru>
-      <ua>Теми видалені з обраного</ua>
+      <ua>Теми видалені з обраного.</ua>
     </text>
     <text id="MsgTopicAddedToIgnored">
       <en>The topic is now ignored and will not be listed in the list of the topics with new messages.</en>
       <de>Das Thema wird ab jetzt ignoriert und wird nicht mehr in der Liste der Themen mit neuen Nachrichten gelistet.</de>
       <ru>Тема теперь игнорируется и не будет отображаться в списке тем с новыми сообщениями.</ru>
-      <ua>Тема тепер ігнорується і не відображатиметься в списку тем з новими повідомленнями</ua>
+      <ua>Тема тепер ігнорується і не відображатиметься в списку тем з новими повідомленнями.</ua>
     </text>
     <text id="MsgTopicsAddedToIgnored">
       <en>The topics are now ignored and will not be listed in the list of the topics with new messages.</en>
       <de>Das Themen werden ab jetzt ignoriert und wird nicht mehr in der Liste der Themen mit neuen Nachrichten gelistet.</de>
       <ru>Темы теперь игнорируются и не будут отображаться в списке тем с новыми сообщениями.</ru>
-      <ua>Теми тепер ігноруються і не відображатимуться в списку тем з новими повідомленнями</ua>
+      <ua>Теми тепер ігноруються і не відображатимуться в списку тем з новими повідомленнями.</ua>
     </text>
     <text id="MsgTopicRemovedFromIgnored">
       <en>The topic is no more ignored.</en>
       <de>Thema wird nicht mehr ignoriert.</de>
       <ru>Тема больше не игнорируется.</ru>
-      <ua>Тема більше не ігнорується</ua>
+      <ua>Тема більше не ігнорується.</ua>
     </text>
     <text id="MsgTopicSubscribed">
       <en>You have been subscribed for the notification on new messages in this topic.</en>
       <de>Sie wurden für die Benachrichtigung über neue Nachrichten in diesem Thema angemeldet.</de>
       <ru>Вы подписаны на уведноления о новых сообщениях в данной теме.</ru>
-      <ua>Ви підписані на уведноления про нові повідомлення в цій темі</ua>
+      <ua>Ви підписані на уведноления про нові повідомлення в цій темі.</ua>
     </text>
     <text id="MsgTopicUnsubscribed">
       <en>You have been usubscribed from the notification on new messages in this topic.</en>
       <de>Sie wurden von der Benachrichtigung über neue Nachrichten in diesem Thema abgemeldet.</de>
       <ru>Вы отписаны от уведнолений о новых сообщениях в данной теме.</ru>
-      <ua>Ви відписані від уведнолений про нові повідомлення в цій темі</ua>
+      <ua>Ви відписані від уведнолений про нові повідомлення в цій темі.</ua>
     </text>
     <text id="MsgConfirmPostsDelete">
       <en>Are you sure to delete the selected messages?</en>
       <de>Sind Sie sicher, dass Sie die ausgewählten Nachrichten löschen möchten?</de>
       <ru>Вы уверены, что хотите удалить выбранные сообщения?</ru>
-      <ua>Ви упевнені, що хочете видалити вибрані повідомлення</ua>
+      <ua>Ви упевнені, що хочете видалити вибрані повідомлення?</ua>
     </text>
     <text id="ErrNoPostSelected">
       <en>No message has been selected!</en>
       <de>Keine Nachricht wurde ausgewählt!</de>
       <ru>Не выбрано сообщение!</ru>
-      <ua>Не вибрано повідомлення</ua>
+      <ua>Не вибрано повідомлення!</ua>
     </text>
     <text id="ErrNoTagSelected">
       <en>No tag has been selected!</en>
       <de>Kein Tag wurde ausgewählt!</de>
       <ru>Не выбран тэг!</ru>
-      <ua>Не вибраний тег</ua>
+      <ua>Не вибраний тег!</ua>
     </text>
     <text id="ErrTagNameEmpty">
       <en>Tag name is not specified!</en>
       <de>Tagname ist nicht angegeben!</de>
       <ru>Не задано название тэга!</ru>
-      <ua>Не задана назва тега</ua>
+      <ua>Не задана назва тега!</ua>
     </text>
     <text id="MsgPostsDeleted">
       <en>Messages have been successfully deleted.</en>
       <de>Nachrichten wurden erfolgreich gelöscht.</de>
       <ru>Сообщения успешно удалены.</ru>
-      <ua>Повідомлення успішно видалені</ua>
+      <ua>Повідомлення успішно видалені.</ua>
     </text>
     <text id="MsgRatesDeleted">
       <en>Rates have been successfully deleted.</en>
       <de>Bewertungen wurden erfolgreich gelöscht.</de>
       <ru>Оценки успешно удалены.</ru>
-      <ua>Оцінки успішно видалені</ua>
+      <ua>Оцінки успішно видалені.</ua>
     </text>
     <text id="Answer">
       <en>Answer</en>
@@ -2685,61 +2685,61 @@
       <en>Are you sure to delete the messages of the author '%s' in this topic?</en>
       <de>Sind Sie sicher, dass Sie die Nachrichten des Autoren '%s' in diesem Thema löschen möchten?</de>
       <ru>Вы уверены, что хотите удалить сообщения автора '%s' в данной теме?</ru>
-      <ua>Ви упевнені, що хочете видалити повідомлення автора '%s' в цій темі</ua>
+      <ua>Ви упевнені, що хочете видалити повідомлення автора '%s' в цій темі?</ua>
     </text>
     <text id="MsgConfirmPostsInForumDelete">
       <en>Are you sure to delete the messages of the author '%s' in this forum?</en>
       <de>Sind Sie sicher, dass Sie die Nachrichten des Autoren '%s' in diesem Forum löschen möchten?</de>
       <ru>Вы уверены, что хотите удалить сообщения автора '%s' в данном форуме?</ru>
-      <ua>Ви упевнені, що хочете видалити повідомлення автора '%s' в цьому форумі</ua>
+      <ua>Ви упевнені, що хочете видалити повідомлення автора '%s' в цьому форумі?</ua>
     </text>
     <text id="MsgConfirmAllPostsDelete">
       <en>Are you sure to delete all messages of the author '%s'?</en>
       <de>Sind Sie sicher, dass Sie alle Nachrichten des Autoren '%s' löschen möchten?</de>
       <ru>Вы уверены, что хотите удалить все сообщения автора '%s'?</ru>
-      <ua>Ви упевнені, що хочете видалити усі повідомлення автора '</ua>
+      <ua>Ви упевнені, що хочете видалити усі повідомлення автора '%s'?</ua>
     </text>
     <text id="MsgConfirmLast10PostsDelete">
       <en>Are you sure to delete the last 10 messages of the author '%s'?</en>
       <de>Sind Sie sicher, dass Sie die letzten 10 Nachrichten des Autoren '%s' löschen möchten?</de>
       <ru>Вы уверены, что хотите удалить последние 10 сообщений автора '%s'?</ru>
-      <ua>Ви упевнені, що хочете видалити останні 10 повідомлень автора '</ua>
+      <ua>Ви упевнені, що хочете видалити останні 10 повідомлень автора '%s'?</ua>
     </text>
     <text id="MsgConfirmLast10RatesDelete">
       <en>Are you sure to delete the last 10 rates of the author '%s'?</en>
       <de>Sind Sie sicher, dass Sie die letzten 10 Bewertungen des Autoren '%s' löschen möchten?</de>
       <ru>Вы уверены, что хотите удалить последние 10 оценок автора '%s'?</ru>
-      <ua>Ви упевнені, що хочете видалити останні 10 оцінок автора '</ua>
+      <ua>Ви упевнені, що хочете видалити останні 10 оцінок автора '%s'?</ua>
     </text>
     <text id="MsgConfirmMakeTopicModerator">
       <en>Are you sure to make the member '%s' a topic moderator?</en>
       <de>Sind Sie sicher, dass Sie den Teilnehmer '%s' zum Themamoderatoren machen möchten?</de>
       <ru>Вы уверены, что хотите назначить участника '%s' модератором темы?</ru>
-      <ua>Ви упевнені, що хочете призначити учасника '%s' модератором теми</ua>
+      <ua>Ви упевнені, що хочете призначити учасника '%s' модератором теми?</ua>
     </text>
     <text id="MsgConfirmRemoveFromTopicModerator">
       <en>Are you sure to revoke the topic modearator status from the member '%s'?</en>
       <de>Sind Sie sicher, dass Sie dem Teilnehmer '%s' den Status des Themamoderatoren wegnehmen möchten?</de>
       <ru>Вы уверены, что хотите забрать у участника '%s' статус модератора темы?</ru>
-      <ua>Ви упевнені, що хочете забрати у учасника '%s' статус модератора теми</ua>
+      <ua>Ви упевнені, що хочете забрати у учасника '%s' статус модератора теми?</ua>
     </text>
     <text id="ErrNoUserSelected">
       <en>No user has been selected!</en>
       <de>Kein Benutzer wurde ausgewählt!</de>
       <ru>Не выбран пользователь!</ru>
-      <ua>Не вибраний користувач</ua>
+      <ua>Не вибраний користувач!</ua>
     </text>
     <text id="MsgTopicModeratorMade">
       <en>The member %s has been made a topic moderator.</en>
       <de>Der Teilnehmer %s wurde zum Themamoderatoren gemacht.</de>
       <ru>Участник %s назначен модератором темы.</ru>
-      <ua>Учасник призначений модератором теми</ua>
+      <ua>Учасник %s призначений модератором теми.</ua>
     </text>
     <text id="MsgTopicModeratorRevoked">
       <en>Topic modearator status has been revoked from the member %s.</en>
       <de>Dem Teilnehmer %s wurde der Status des Themamoderatoren weggenommen.</de>
       <ru>У участника %s удален статус модератора темы.</ru>
-      <ua>У учасника видалений статус модератора теми</ua>
+      <ua>У учасника %s видалений статус модератора теми.</ua>
     </text>
     <text id="PinMessage">
       <en>Pin message</en>
@@ -2757,31 +2757,31 @@
       <en>Message has been successfully pinned.</en>
       <de>Nachricht wurde erfolgreich angeheftet.</de>
       <ru>Сообщение успешно прикреплено.</ru>
-      <ua>Повідомлення успішно прикріплене</ua>
+      <ua>Повідомлення успішно прикріплене.</ua>
     </text>
     <text id="MsgMessageUnpinned">
       <en>Message has been successfully unpinned.</en>
       <de>Nachricht wurde erfolgreich abgeheftet.</de>
       <ru>Сообщение успешно откреплено.</ru>
-      <ua>Повідомлення успішно відкріплене</ua>
+      <ua>Повідомлення успішно відкріплене.</ua>
     </text>
     <text id="ErrPinDeletedMessage">
       <en>Deleted message cannot be pinned!</en>
       <de>Gelöschte Nachricht kann nicht angeheftet werden!</de>
       <ru>Удаленное сообщение не может быть прикреплено!</ru>
-      <ua>Видалене повідомлення не може бути прикріплене</ua>
+      <ua>Видалене повідомлення не може бути прикріплене!</ua>
     </text>
     <text id="ErrOnlyOnePostCanBePinned">
       <en>The topic already has a pinned message!</en>
       <de>Das Thema hat bereits eine angeheftete Nachricht!</de>
       <ru>В теме уже есть прикрепленное сообщение!</ru>
-      <ua>В темі вже є прикріплене повідомлення</ua>
+      <ua>В темі вже є прикріплене повідомлення!</ua>
     </text>
     <text id="MsgConfirmRemoveFromFavourites">
       <en>Are you sure to remove the selected topics from favourites?</en>
       <de>Sind Sie sicher, dass Sie die ausgewählten Themen aus den Favoriten entfernen möchten?</de>
       <ru>Вы уверены, что хотите удалить выбранные темы из избранного?</ru>
-      <ua>Ви упевнені, що хочете видалити вибрані теми з обраного</ua>
+      <ua>Ви упевнені, що хочете видалити вибрані теми з обраного?</ua>
     </text>
     <text id="Warn">
       <en>Warn</en>
@@ -2793,7 +2793,7 @@
       <en>You have already rated this message!</en>
       <de>Sie haben diese Nachricht bereits bewertet!</de>
       <ru>Вы уже оценили данное сообщение!</ru>
-      <ua>Ви вже оцінили це повідомлення</ua>
+      <ua>Ви вже оцінили це повідомлення!</ua>
     </text>
     <text id="UserProfileLink">
       <en>Link to user profile</en>
@@ -2847,19 +2847,19 @@
       <en>Topics have been successfully merged to the target topic.</en>
       <de>Themen wurden erfolgreich mit dem Zielthema verbunden.</de>
       <ru>Темы успешно объединены с целевой темой.</ru>
-      <ua>Теми успішно об'єднані з цільовою темою</ua>
+      <ua>Теми успішно об'єднані з цільовою темою.</ua>
     </text>
     <text id="MsgTopicMerged">
       <en>Topic has been successfully merged to the target topic.</en>
       <de>Thema wurde erfolgreich mit dem Zielthema verbunden.</de>
       <ru>Тема успешно объединена с целевой темой.</ru>
-      <ua>Тема успішно об'єднана з цільовою темою</ua>
+      <ua>Тема успішно об'єднана з цільовою темою.</ua>
     </text>
     <text id="WarnTopicMerged">
       <en>The topic you tried to view has been merged to another topic. You have been redirected to the target topic!</en>
       <de>Das Thema, was Sie versuchen anzuschauen, wurde mit einem andern Thema verbungen. Sie wurden in das Zielthema weitergeleitet!</de>
       <ru>Тема, которую вы пытаетесь посмотреть, была объединена с другой темой. Вы были автоматически перенаправлены в целевую тему!</ru>
-      <ua>Тема, яку ви намагаєтеся подивитися, була об'єднана з іншою темою. Ви були автоматично перенаправлені в цільову тему</ua>
+      <ua>Тема, яку ви намагаєтеся подивитися, була об'єднана з іншою темою. Ви були автоматично перенаправлені в цільову тему!</ua>
     </text>
     <text id="MsgPostsMoved">
       <en>Messages have been successfully moved.</en>
@@ -3231,7 +3231,7 @@
       <en>Mo</en>
       <de>Mo</de>
       <ru>Пн</ru>
-      <ua>понеділок</ua>
+      <ua>Пн</ua>
     </text>
     <text id="TuesdayShort">
       <en>Tu</en>
@@ -3267,7 +3267,7 @@
       <en>Su</en>
       <de>So</de>
       <ru>Вс</ru>
-      <ua>Вс</ua>
+      <ua>Нд</ua>
     </text>
     <text id="January">
       <en>January</en>
@@ -3345,25 +3345,25 @@
       <en>Jan</en>
       <de>Jan</de>
       <ru>Янв</ru>
-      <ua>Янв</ua>
+      <ua>Січ</ua>
     </text>
     <text id="FebruaryShort">
       <en>Feb</en>
       <de>Feb</de>
       <ru>Фев</ru>
-      <ua>Фев</ua>
+      <ua>Лют</ua>
     </text>
     <text id="MarchShort">
       <en>Mar</en>
       <de>Mär</de>
       <ru>Мар</ru>
-      <ua>Мари</ua>
+      <ua>Тра</ua>
     </text>
     <text id="AprilShort">
       <en>Apr</en>
       <de>Apr</de>
       <ru>Апр</ru>
-      <ua>Апр</ua>
+      <ua>Кві</ua>
     </text>
     <text id="MayShort">
       <en>May</en>
@@ -3375,43 +3375,43 @@
       <en>Jun</en>
       <de>Jun</de>
       <ru>Июн</ru>
-      <ua>Июн</ua>
+      <ua>Чер</ua>
     </text>
     <text id="JulyShort">
       <en>Jul</en>
       <de>Jul</de>
       <ru>Июл</ru>
-      <ua>Июл</ua>
+      <ua>Лип</ua>
     </text>
     <text id="AugustShort">
       <en>Aug</en>
       <de>Aug</de>
       <ru>Авг</ru>
-      <ua>Авг</ua>
+      <ua>Сер</ua>
     </text>
     <text id="SeptemberShort">
       <en>Sep</en>
       <de>Sep</de>
       <ru>Сен</ru>
-      <ua>Сен</ua>
+      <ua>Вер</ua>
     </text>
     <text id="OctoberShort">
       <en>Octr</en>
       <de>Okt</de>
       <ru>Окт</ru>
-      <ua>Окт</ua>
+      <ua>Дов</ua>
     </text>
     <text id="NovemberShort">
       <en>Nov</en>
       <de>Nov</de>
       <ru>Ноя</ru>
-      <ua>Ниючи</ua>
+      <ua>Лис</ua>
     </text>
     <text id="DecemberShort">
       <en>Dec</en>
       <de>Dez</de>
       <ru>Дек</ru>
-      <ua>Дек</ua>
+      <ua>Гру</ua>
     </text>
     <text id="CalSeparator">
       <en>-</en>
@@ -3753,7 +3753,7 @@
       <en>IP address has been successfully blocked.</en>
       <de>IP-Adresse wurde erfolgreich blockiert.</de>
       <ru>IP адрес успешно заблокирован.</ru>
-      <ua>IP адреса успішно заблокована</ua>
+      <ua>IP адреса успішно заблокована.</ua>
     </text>
     <text id="MsgIPUnblocked">
       <en>IP address has been successfully unblocked.</en>
@@ -3789,7 +3789,7 @@
       <en>User marker has been successfully unblocked.</en>
       <de>User-Marker wurde erfolgreich deblockiert.</de>
       <ru>Маркер пользователя успешно разблокирован.</ru>
-      <ua>Маркер користувача успішно розблокований</ua>
+      <ua>Маркер користувача успішно розблокований.</ua>
     </text>
     <text id="ActionUserMarkerBlocked">
       <en>User marker has been blocked</en>
@@ -3819,13 +3819,13 @@
       <en>The input data will be lost! Are you sure to overwrite the message?</en>
       <de>Die eingegebenen Daten gehen verloren! Sind Sie sicher, dass Sie die Nachricht überschreiben möchten?</de>
       <ru>Введеные данные будут утрачены! Вы уверены, что хотите перезаписать сообщение?</ru>
-      <ua>Введеные дані будуть втрачені! Ви упевнені, що хочете перезаписати повідомлення</ua>
+      <ua>Введеные дані будуть втрачені! Ви упевнені, що хочете перезаписати повідомлення?</ua>
     </text>
     <text id="ErrAuthorNameEmpty">
       <en>Author name is not specified!</en>
       <de>Autorname ist nicht angegeben!</de>
       <ru>Не задано имя автора!</ru>
-      <ua>Не задано ім'я автора</ua>
+      <ua>Не задано ім'я автора!</ua>
     </text>
     <text id="PasteIntoMessage">
       <en>Paste</en>
@@ -3843,13 +3843,13 @@
       <en>The attachment '%s' is too large (%s)! The maximal attachment size is %s.</en>
       <de>Der Anhang '%s' ist zu groß (%s)! Die maximale Anhangsgröße ist %s.</de>
       <ru>Размер вложения '%s' слишком большой (%s)! Макcимальный размер вложений %s.</ru>
-      <ua>Розмір вкладення '%s' занадто великий (! Макcимальный розмір вкладень </ua>
+      <ua>Розмір вкладення '%s' занадто великий (%s)! Макcимальный розмір вкладень %s.</ua>
     </text>
     <text id="ErrFileProcessing">
       <en>Error by processing file '%s'!</en>
       <de>Fehler beim Verarbeiten der Datei '%s'!</de>
       <ru>Ошибка при обработке файла '%s'!</ru>
-      <ua>Помилка при обробці файлу '</ua>
+      <ua>Помилка при обробці файлу '%s'!</ua>
     </text>
     <text id="Modified">
       <en>Modified</en>
@@ -3861,43 +3861,43 @@
       <en>The forum is closed!</en>
       <de>Das Forum ist geschlossen!</de>
       <ru>Форум закрыт!</ru>
-      <ua>Форум закритий</ua>
+      <ua>Форум закритий!</ua>
     </text>
     <text id="ErrTopicClosed">
       <en>The topic is closed!</en>
       <de>Das Thema ist geschlossen!</de>
       <ru>Тема закрыта!</ru>
-      <ua>Тема закрита</ua>
+      <ua>Тема закрита!</ua>
     </text>
     <text id="ErrForumGuestsNotAllowed">
       <en>The unregistered users are not allowed to post messages on this forum or in this topic!</en>
       <de>Die unregistrierten Benutzer dürfen keine Nachrichten auf diesem Forum oder in diesem Thema hinterlassen!</de>
       <ru>На данном форуме или в данной теме незарегистрированным пользователям не разрешено оставлять сообщения!</ru>
-      <ua>На цьому форумі або в цій темі незареєстрованим користувачам не дозволено залишати повідомлення</ua>
+      <ua>На цьому форумі або в цій темі незареєстрованим користувачам не дозволено залишати повідомлення!</ua>
     </text>
     <text id="MsgComplaintSent">
       <en>The complaint has been successfully sent.</en>
       <de>Die Beschwerde wurde erfolgreich abgesendet.</de>
       <ru>Жалоба успешно отправлена.</ru>
-      <ua>Скарга успішно відправлена</ua>
+      <ua>Скарга успішно відправлена.</ua>
     </text>
     <text id="ErrAccountIsBlockedOnForum">
       <en>Your account has been blocked for writing on the forum '%s' forum! You can view the reason in your profile.</en>
       <de>Ihr Benutzerkonto wurde für Schreiben auf dem Forum '%s' blockiert! Sie können den Grund in Ihrem Profil einsehen.</de>
       <ru>Ваша учетная запись заблокирована на запись на форуме '%s'! Вы можете посмотреть причину блокировки в вашем профиле.</ru>
-      <ua>Ваш обліковий запис заблокований на запис на форумі '! Ви можете подивитися причину блокування у вашому профілі</ua>
+      <ua>Ваш обліковий запис заблокований на запис на форумі '%s'! Ви можете подивитися причину блокування у вашому профілі.</ua>
     </text>
     <text id="ErrAccountIsBlockedInTopic">
       <en>Your account has been blocked for writing in this topic!</en>
       <de>Ihr Benutzerkonto wurde für Schreiben in diesem Thema blockiert!</de>
       <ru>Ваша учетная запись заблокирована на запись в данной теме!</ru>
-      <ua>Ваш обліковий запис заблокований на запис в цій темі</ua>
+      <ua>Ваш обліковий запис заблокований на запис в цій темі!</ua>
     </text>
     <text id="ErrAccountIsBlockedUntilOnForum">
       <en>Your account has been blocked for writing on the forum '%s' until %s! You can view the reason in your profile.</en>
       <de>Ihr Benutzerkonto wurde auf dem Forum '%s' bis zum '%s' blockiert! Sie können den Grund in Ihrem Profil einsehen.</de>
       <ru>Ваша учетная запись заблокирована на запись на форуме '%s' до %s! Вы можете посмотреть причину блокировки в вашем профиле.</ru>
-      <ua>Ваш обліковий запис заблокований на запис на форумі '%s' до Ви можете подивитися причину блокування у вашому профілі</ua>
+      <ua>Ваш обліковий запис заблокований на запис на форумі '%s' до %s! Ви можете подивитися причину блокування у вашому профілі.</ua>
     </text>
     <text id="ErrIPIsBlocked">
       <en>Your IP address [%s] has been blocked! If you suppose it is a mistake, please contact the administration of the forum over the menu "Contact" or register an account.</en>
@@ -3909,31 +3909,31 @@
       <en>Your IP address [%s] has been blocked until %s! Time remaining: %s. If you suppose it is a mistake, please contact the administration of the forum over the menu "Contact" or register an account.</en>
       <de>Ihre IP-Adresse [%s] wurde bis zum %s blockiert! Zeit verblieben: %s. Wenn Sie meinen, dass es sich um eine Fehlblockierung handlet, bitte setzten Sie sich mit der Forumadministration in Verbindung über den Menüpunkt "Kontakt" oder registrieren Sie sich.</de>
       <ru>Ваш IP-адрес [%s] заблокирован до %s! Осталось времени: %s. Если вы считаете блокировку ошибочной, свяжитесь с администрацией форума через пункт меню "Контакт" или зарегистрируйтесь.</ru>
-      <ua>Ваш IP- адреса [%s] заблокований до Залишилося часу: Якщо ви вважаєте блокування помилковим, зв'яжіться з адміністрацією форуму через пункт меню "Контакт" чи зареєструйтеся</ua>
+      <ua>Ваш IP- адреса [%s] заблокований до %s! Залишилося часу: %s. Якщо ви вважаєте блокування помилковим, зв'яжіться з адміністрацією форуму через пункт меню "Контакт" чи зареєструйтеся.</ua>
     </text>
     <text id="ErrUserMarkerIsBlocked">
       <en>You have been blocked! If you suppose it is a mistake, please contact the administration of the forum over the menu "Contact" or register an account.</en>
       <de>Sie wurden blockiert! Wenn Sie meinen, dass es sich um eine Fehlblockierung handlet, bitte setzten Sie sich mit der Forumadministration in Verbindung über den Menüpunkt "Kontakt" oder registrieren Sie sich.</de>
       <ru>Вы заблокированы! Если вы считаете блокировку ошибочной, свяжитесь с администрацией форума через пункт меню "Контакт" или зарегистрируйтесь.</ru>
-      <ua>Ви заблоковані! Якщо ви вважаєте блокування помилковим, зв'яжіться з адміністрацією форуму через пункт меню "Контакт" чи зареєструйтеся</ua>
+      <ua>Ви заблоковані! Якщо ви вважаєте блокування помилковим, зв'яжіться з адміністрацією форуму через пункт меню "Контакт" чи зареєструйтеся.</ua>
     </text>
     <text id="ErrUserMarkerIsBlockedUntil">
       <en>You have been blocked until %s! Time remaining: %s. If you suppose it is a mistake, please contact the administration of the forum over the menu "Contact" or register an account.</en>
       <de>Sie wurden bis zum %s blockiert! Zeit verblieben: %s. Wenn Sie meinen, dass es sich um eine Fehlblockierung handlet, bitte setzten Sie sich mit der Forumadministration in Verbindung über den Menüpunkt "Kontakt" oder registrieren Sie sich.</de>
       <ru>Вы заблокированы до %s! Осталось времени: %s. Если вы считаете блокировку ошибочной, свяжитесь с администрацией форума через пункт меню "Контакт" или зарегистрируйтесь.</ru>
-      <ua>Ви заблоковані до Залишилося часу: Якщо ви вважаєте блокування помилковим, зв'яжіться з адміністрацією форуму через пункт меню "Контакт" чи зареєструйтеся</ua>
+      <ua>Ви заблоковані до Залишилося часу: Якщо ви вважаєте блокування помилковим, зв'яжіться з адміністрацією форуму через пункт меню "Контакт" чи зареєструйтеся.</ua>
     </text>
     <text id="ErrMessageLimitExceeded">
       <en>You have exceeded the limit (%s messages per minite)! Try to send your message a little later.</en>
       <de>Sie haben das Limit (%s Nachrichten pro Minute) überschritten! Bitte versuchen Sie es etwas später, Ihre Nachricht abzusenden.</de>
       <ru>Вы превысили лимит (%s сообщений в минуту)! Попытайтесь отправить ваше сообщение немного позже.</ru>
-      <ua>Ви перевищили ліміт (повідомлень в хвилину)! Спробуйте відправити ваше повідомлення трохи пізніше</ua>
+      <ua>Ви перевищили ліміт (повідомлень за хвилину)! Спробуйте відправити ваше повідомлення трохи пізніше.</ua>
     </text>
     <text id="ErrMessageGuestRestricted">
       <en>New guests cannot write messages immediately on this forum! Please register or wait for %s.</en>
       <de>Neue Gäste dürfen nicht sofort die Nachrichten auf diesem Forum schreiben! Bitte registrieren Sie sich oder warten Sie %s.</de>
       <ru>Новые гости не могут сразу писать сообщения на данном форуме! Зарегистрируйтесь или подождите %s.</ru>
-      <ua>Нові гості не можуть відразу писати повідомлення на цьому форумі! Зареєструйтеся або почекайте </ua>
+      <ua>Нові гості не можуть відразу писати повідомлення на цьому форумі! Зареєструйтеся або почекайте %s.</ua>
     </text>
     <text id="ErrTopicLimitExceeded">
       <en>You have exceeded the limit (%s topics per day)! Creation of the new topic will be possible in: %s.</en>
