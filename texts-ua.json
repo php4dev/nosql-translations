@@ -3173,6 +3173,4797 @@
 
 ,"ua": "Теми успішно відновлені"
 
-}
+},
 
+{
+
+"-id": "MsgConfirmTopicsDelete"
+
+,"ua": "Ви упевнені, що хочете видалити вибрані теми"
+
+},
+
+{
+
+"-id": "MsgConfirmTopicsClose"
+
+,"ua": "Ви упевнені, що хочете закрити вибрані теми"
+
+},
+
+{
+
+"-id": "ErrNoTopicSelected"
+
+,"ua": "Не вибрана тема"
+
+},
+
+{
+
+"-id": "ErrNoForumSelected"
+
+,"ua": "Не вибраний форум"
+
+},
+
+{
+
+"-id": "MsgTopicAddedToFavourites"
+
+,"ua": "Тема додана в обране"
+
+},
+
+{
+
+"-id": "MsgTopicRemovedFromFavourites"
+
+,"ua": "Тема видалена з обраного"
+
+},
+
+{
+
+"-id": "MsgTopicsRemovedFromFavourites"
+
+,"ua": "Теми видалені з обраного"
+
+},
+
+{
+
+"-id": "MsgTopicAddedToIgnored"
+
+,"ua": "Тема тепер ігнорується і не відображатиметься в списку тем з новими повідомленнями"
+
+},
+
+{
+
+"-id": "MsgTopicsAddedToIgnored"
+
+,"ua": "Теми тепер ігноруються і не відображатимуться в списку тем з новими повідомленнями"
+
+},
+
+{
+
+"-id": "MsgTopicRemovedFromIgnored"
+
+,"ua": "Тема більше не ігнорується"
+
+},
+
+{
+
+"-id": "MsgTopicSubscribed"
+
+,"ua": "Ви підписані на уведноления про нові повідомлення в цій темі"
+
+},
+
+{
+
+"-id": "MsgTopicUnsubscribed"
+
+,"ua": "Ви відписані від уведнолений про нові повідомлення в цій темі"
+
+},
+
+{
+
+"-id": "MsgConfirmPostsDelete"
+
+,"ua": "Ви упевнені, що хочете видалити вибрані повідомлення"
+
+},
+
+{
+
+"-id": "ErrNoPostSelected"
+
+,"ua": "Не вибрано повідомлення"
+
+},
+
+{
+
+"-id": "ErrNoTagSelected"
+
+,"ua": "Не вибраний тег"
+
+},
+
+{
+
+"-id": "ErrTagNameEmpty"
+
+,"ua": "Не задана назва тега"
+
+},
+
+{
+
+"-id": "MsgPostsDeleted"
+
+,"ua": "Повідомлення успішно видалені"
+
+},
+
+{
+
+"-id": "MsgRatesDeleted"
+
+,"ua": "Оцінки успішно видалені"
+
+},
+
+{
+
+"-id": "Answer"
+
+,"ua": "Відповісти"
+
+},
+
+{
+
+"-id": "Citate"
+
+,"ua": "Цитувати"
+
+},
+
+{
+
+"-id": "Citation"
+
+,"ua": "Цитата"
+
+},
+
+{
+
+"-id": "Spoiler"
+
+,"ua": "Спойлер"
+
+},
+
+{
+
+"-id": "Code"
+
+,"ua": "Код"
+
+},
+
+{
+
+"-id": "Complain"
+
+,"ua": "Поскаржитися"
+
+},
+
+{
+
+"-id": "More"
+
+,"ua": "Ще ."
+
+},
+
+{
+
+"-id": "Link"
+
+,"ua": "Посилання"
+
+},
+
+{
+
+"-id": "LinkToMessage"
+
+,"ua": "Посилання на повідомлення"
+
+},
+
+{
+
+"-id": "LinkWithTopicName"
+
+,"ua": "Посилання з назвою теми"
+
+},
+
+{
+
+"-id": "MarkForCopy"
+
+,"ua": "Виділити для копіювання"
+
+},
+
+{
+
+"-id": "ModerateAuthor"
+
+,"ua": "Модерировать автора"
+
+},
+
+{
+
+"-id": "EditAuthor"
+
+,"ua": "Редагувати автора"
+
+},
+
+{
+
+"-id": "DeleteAuthorMessagesInTopic"
+
+,"ua": "Видалити повідомлення автора в цій темі"
+
+},
+
+{
+
+"-id": "DeleteAuthorMessagesInForum"
+
+,"ua": "Видалити повідомлення автора в цьому форумі"
+
+},
+
+{
+
+"-id": "DeleteAllAuthorMessages"
+
+,"ua": "Видалити усі повідомлення автора"
+
+},
+
+{
+
+"-id": "DeleteLast10AuthorMessages"
+
+,"ua": "Видалити останні 10 повідомлень автора"
+
+},
+
+{
+
+"-id": "DeleteLast10AuthorRates"
+
+,"ua": "Видалити останні 10 оцінок автора"
+
+},
+
+{
+
+"-id": "ShowMembersOfIP"
+
+,"ua": "Показати учасників з цією IP адресою"
+
+},
+
+{
+
+"-id": "ShowMembersOfUserMarker"
+
+,"ua": "Показати учасників з цим маркером користувача"
+
+},
+
+{
+
+"-id": "ShowAuthorIPs"
+
+,"ua": "Показати IP адреси автора"
+
+},
+
+{
+
+"-id": "ShowMembersOfAuthorIPs"
+
+,"ua": "Показати учасників з IP адресами як у автора"
+
+},
+
+{
+
+"-id": "MakeAuthorTopicModerator"
+
+,"ua": "Призначити автора модератором теми"
+
+},
+
+{
+
+"-id": "RemoveAuthorFromTopicModerator"
+
+,"ua": "Забрати у автора права модератора теми"
+
+},
+
+{
+
+"-id": "MsgConfirmPostsInTopicDelete"
+
+,"ua": "Ви упевнені, що хочете видалити повідомлення автора ' в цій темі"
+
+},
+
+{
+
+"-id": "MsgConfirmPostsInForumDelete"
+
+,"ua": "Ви упевнені, що хочете видалити повідомлення автора ' в цьому форумі"
+
+},
+
+{
+
+"-id": "MsgConfirmAllPostsDelete"
+
+,"ua": "Ви упевнені, що хочете видалити усі повідомлення автора '"
+
+},
+
+{
+
+"-id": "MsgConfirmLast10PostsDelete"
+
+,"ua": "Ви упевнені, що хочете видалити останні 10 повідомлень автора '"
+
+},
+
+{
+
+"-id": "MsgConfirmLast10RatesDelete"
+
+,"ua": "Ви упевнені, що хочете видалити останні 10 оцінок автора '"
+
+},
+
+{
+
+"-id": "MsgConfirmMakeTopicModerator"
+
+,"ua": "Ви упевнені, що хочете призначити учасника ' модератором теми"
+
+},
+
+{
+
+"-id": "MsgConfirmRemoveFromTopicModerator"
+
+,"ua": "Ви упевнені, що хочете забрати у учасника ' статус модератора теми"
+
+},
+
+{
+
+"-id": "ErrNoUserSelected"
+
+,"ua": "Не вибраний користувач"
+
+},
+
+{
+
+"-id": "MsgTopicModeratorMade"
+
+,"ua": "Учасник призначений модератором теми"
+
+},
+
+{
+
+"-id": "MsgTopicModeratorRevoked"
+
+,"ua": "У учасника видалений статус модератора теми"
+
+},
+
+{
+
+"-id": "PinMessage"
+
+,"ua": "Прикріпити повідомлення"
+
+},
+
+{
+
+"-id": "UnpinMessage"
+
+,"ua": "Відкріпити повідомлення"
+
+},
+
+{
+
+"-id": "MsgMessagePinned"
+
+,"ua": "Повідомлення успішно прикріплене"
+
+},
+
+{
+
+"-id": "MsgMessageUnpinned"
+
+,"ua": "Повідомлення успішно відкріплене"
+
+},
+
+{
+
+"-id": "ErrPinDeletedMessage"
+
+,"ua": "Видалене повідомлення не може бути прикріплене"
+
+},
+
+{
+
+"-id": "ErrOnlyOnePostCanBePinned"
+
+,"ua": "В темі вже є прикріплене повідомлення"
+
+},
+
+{
+
+"-id": "MsgConfirmRemoveFromFavourites"
+
+,"ua": "Ви упевнені, що хочете видалити вибрані теми з обраного"
+
+},
+
+{
+
+"-id": "Warn"
+
+,"ua": "Зробити зауваження"
+
+},
+
+{
+
+"-id": "WarnMessageAlreadyRated"
+
+,"ua": "Ви вже оцінили це повідомлення"
+
+},
+
+{
+
+"-id": "UserProfileLink"
+
+,"ua": "Посилання на профіль користувача"
+
+},
+
+{
+
+"-id": "NewMessage"
+
+,"ua": "Нове повідомлення"
+
+},
+
+{
+
+"-id": "MsgTopicsMoved"
+
+,"ua": "Теми успішно перенесені"
+
+},
+
+{
+
+"-id": "MsgTopicMoved"
+
+,"ua": "Тема успішно перенесена"
+
+},
+
+{
+
+"-id": "Cancel"
+
+,"ua": "Відмінити"
+
+},
+
+{
+
+"-id": "TargetTopic"
+
+,"ua": "Цільова тема"
+
+},
+
+{
+
+"-id": "EnterTopicKeyword"
+
+,"ua": "Введіть ключове слово або ID теми"
+
+},
+
+{
+
+"-id": "Apply"
+
+,"ua": "Застосувати"
+
+},
+
+{
+
+"-id": "MsgTopicsMerged"
+
+,"ua": "Теми успішно об'єднані з цільовою темою"
+
+},
+
+{
+
+"-id": "MsgTopicMerged"
+
+,"ua": "Тема успішно об'єднана з цільовою темою"
+
+},
+
+{
+
+"-id": "WarnTopicMerged"
+
+,"ua": "Тема, яку ви намагаєтеся подивитися, була об'єднана з іншою темою. Ви були автоматично перенаправлені в цільову тему"
+
+},
+
+{
+
+"-id": "MsgPostsMoved"
+
+,"ua": "Повідомлення успішно перенесені"
+
+},
+
+{
+
+"-id": "HideProfile"
+
+,"ua": "Приховати профіль"
+
+},
+
+{
+
+"-id": "OpenProfile"
+
+,"ua": "Відкрити профіль"
+
+},
+
+{
+
+"-id": "AllowRating"
+
+,"ua": "Дозволити виставляти оцінки"
+
+},
+
+{
+
+"-id": "DisallowRating"
+
+,"ua": "Заборонити виставляти оцінки"
+
+},
+
+{
+
+"-id": "PutToIgnoreList"
+
+,"ua": "Помістити в ігнорування-лист"
+
+},
+
+{
+
+"-id": "RemoveFromIgnoreList"
+
+,"ua": "Видалити з игнор-листа"
+
+},
+
+{
+
+"-id": "ignored"
+
+,"ua": "в игнор-листе"
+
+},
+
+{
+
+"-id": "Ignored"
+
+,"ua": "В игнор-листе"
+
+},
+
+{
+
+"-id": "ignoring _ me"
+
+,"ua": "ігнорує мене"
+
+},
+
+{
+
+"-id": "ignoring _ guests"
+
+,"ua": "ігнорує гостей"
+
+},
+
+{
+
+"-id": "IgnoringMe"
+
+,"ua": "Ігнорує мене"
+
+},
+
+{
+
+"-id": "IgnoringGuests"
+
+,"ua": "Ігнорує гостей"
+
+},
+
+{
+
+"-id": "MsgUserAddedToIngoreList"
+
+,"ua": "Учасник доданий в ігнорування-лист"
+
+},
+
+{
+
+"-id": "MsgUserRemovedFromIngoreList"
+
+,"ua": "Учасник видалений з игнор-листа"
+
+},
+
+{
+
+"-id": "Comment"
+
+,"ua": "Коментар"
+
+},
+
+{
+
+"-id": "Action"
+
+,"ua": "Дія"
+
+},
+
+{
+
+"-id": "DateTime"
+
+,"ua": "Дата / Час"
+
+},
+
+{
+
+"-id": "Date"
+
+,"ua": "Дата"
+
+},
+
+{
+
+"-id": "DateRange"
+
+,"ua": "Період"
+
+},
+
+{
+
+"-id": "NoEvents"
+
+,"ua": "Немає подій"
+
+},
+
+{
+
+"-id": "IPAddress"
+
+,"ua": "IP адреса"
+
+},
+
+{
+
+"-id": "IPAddressOrMarker"
+
+,"ua": "IP адреса або маркер"
+
+},
+
+{
+
+"-id": "ActionPostRestored"
+
+,"ua": "Повідомлення відновлене"
+
+},
+
+{
+
+"-id": "ActionPostDeleted"
+
+,"ua": "Повідомлення видалене"
+
+},
+
+{
+
+"-id": "ActionAttachmentRestored"
+
+,"ua": "Вкладення відновлене"
+
+},
+
+{
+
+"-id": "ActionAttachmentDeleted"
+
+,"ua": "Вкладення видалене"
+
+},
+
+{
+
+"-id": "ActionPostWarned"
+
+,"ua": "Авторові видано попередження"
+
+},
+
+{
+
+"-id": "IncludeRatingActions"
+
+,"ua": "Включаючи оцінні дії"
+
+},
+
+{
+
+"-id": "ActionPostLiked"
+
+,"ua": "Повідомленню поставлений лайк"
+
+},
+
+{
+
+"-id": "ActionPostDisliked"
+
+,"ua": "Повідомленню поставлений дизлайк"
+
+},
+
+{
+
+"-id": "ActionLikeRevoked"
+
+,"ua": "Лайк на повідомлення скасований"
+
+},
+
+{
+
+"-id": "ActionDislikeRevoked"
+
+,"ua": "Дизлайк на повідомлення скасований"
+
+},
+
+{
+
+"-id": "ActionTopicModeratorMade"
+
+,"ua": "Учасник призначений модератором теми"
+
+},
+
+{
+
+"-id": "ActionTopicModeratorRevoked"
+
+,"ua": "Видалений статус модератора теми"
+
+},
+
+{
+
+"-id": "ActionForumModeratorMade"
+
+,"ua": "Учасник призначений модератором форуму"
+
+},
+
+{
+
+"-id": "ActionForumModeratorRevoked"
+
+,"ua": "Видалений статус модератора форуму"
+
+},
+
+{
+
+"-id": "ActionForumOpened"
+
+,"ua": "Форум відкритий"
+
+},
+
+{
+
+"-id": "ActionForumClosed"
+
+,"ua": "Форум закритий"
+
+},
+
+{
+
+"-id": "ActionForumDeleted"
+
+,"ua": "Форум видалений"
+
+},
+
+{
+
+"-id": "ActionForumRestored"
+
+,"ua": "Форум відновлений"
+
+},
+
+{
+
+"-id": "ActionTopicOpened"
+
+,"ua": "Тема відкрита"
+
+},
+
+{
+
+"-id": "ActionTopicClosed"
+
+,"ua": "Тема закрита"
+
+},
+
+{
+
+"-id": "ActionTopicDeleted"
+
+,"ua": "Тема видалена"
+
+},
+
+{
+
+"-id": "ActionTopicRestored"
+
+,"ua": "Тема відновлена"
+
+},
+
+{
+
+"-id": "ActionTopicPinned"
+
+,"ua": "Тема прикріплена"
+
+},
+
+{
+
+"-id": "ActionTopicUnpinned"
+
+,"ua": "Тема відкріплена"
+
+},
+
+{
+
+"-id": "ActionTopicGuestsAllowed"
+
+,"ua": "Гостям дозволено писати в темі"
+
+},
+
+{
+
+"-id": "ActionTopicGuestsDisallowed"
+
+,"ua": "Гостям заборонено писати в темі"
+
+},
+
+{
+
+"-id": "ActionTopicMoved"
+
+,"ua": "Тема перенесена"
+
+},
+
+{
+
+"-id": "ActionTopicMerged"
+
+,"ua": "Тема об'єднана"
+
+},
+
+{
+
+"-id": "ActionPostPinned"
+
+,"ua": "Повідомлення прикріплене"
+
+},
+
+{
+
+"-id": "ActionPostUnpinned"
+
+,"ua": "Повідомлення відкріплене"
+
+},
+
+{
+
+"-id": "ActionPostMoved"
+
+,"ua": "Повідомлення перенесене"
+
+},
+
+{
+
+"-id": "ActionPostChanged"
+
+,"ua": "Повідомлення змінене"
+
+},
+
+{
+
+"-id": "ActionTopicChanged"
+
+,"ua": "Назва теми змінена"
+
+},
+
+{
+
+"-id": "ActionPostsDeletedInTopic"
+
+,"ua": "Видалені повідомлення автора в темі"
+
+},
+
+{
+
+"-id": "ActionPostsDeletedInForum"
+
+,"ua": "Видалені повідомлення автора у форумі"
+
+},
+
+{
+
+"-id": "ActionPostsDeleted"
+
+,"ua": "Видалені усі повідомлення автора"
+
+},
+
+{
+
+"-id": "Action10PostsDeleted"
+
+,"ua": "Видалені останні 10 повідомлень автора"
+
+},
+
+{
+
+"-id": "Action10RatesDeleted"
+
+,"ua": "Видалені останні 10 оцінок автора"
+
+},
+
+{
+
+"-id": "MondayShort"
+
+,"ua": "понеділок"
+
+},
+
+{
+
+"-id": "TuesdayShort"
+
+,"ua": "Вт"
+
+},
+
+{
+
+"-id": "WednesdayShort"
+
+,"ua": "Ср"
+
+},
+
+{
+
+"-id": "ThursdayShort"
+
+,"ua": "Чт"
+
+},
+
+{
+
+"-id": "FridayShort"
+
+,"ua": "Пт"
+
+},
+
+{
+
+"-id": "SaturdayShort"
+
+,"ua": "Сб"
+
+},
+
+{
+
+"-id": "SundayShort"
+
+,"ua": "Вс"
+
+},
+
+{
+
+"-id": "January"
+
+,"ua": "Січень"
+
+},
+
+{
+
+"-id": "February"
+
+,"ua": "Лютий"
+
+},
+
+{
+
+"-id": "March"
+
+,"ua": "Березень"
+
+},
+
+{
+
+"-id": "April"
+
+,"ua": "Квітень"
+
+},
+
+{
+
+"-id": "May"
+
+,"ua": "Травень"
+
+},
+
+{
+
+"-id": "June"
+
+,"ua": "Червень"
+
+},
+
+{
+
+"-id": "July"
+
+,"ua": "Липень"
+
+},
+
+{
+
+"-id": "August"
+
+,"ua": "Серпень"
+
+},
+
+{
+
+"-id": "September"
+
+,"ua": "Вересень"
+
+},
+
+{
+
+"-id": "October"
+
+,"ua": "Жовтень"
+
+},
+
+{
+
+"-id": "November"
+
+,"ua": "Листопад"
+
+},
+
+{
+
+"-id": "December"
+
+,"ua": "Грудень"
+
+},
+
+{
+
+"-id": "JanuaryShort"
+
+,"ua": "Янв"
+
+},
+
+{
+
+"-id": "FebruaryShort"
+
+,"ua": "Фев"
+
+},
+
+{
+
+"-id": "MarchShort"
+
+,"ua": "Мари"
+
+},
+
+{
+
+"-id": "AprilShort"
+
+,"ua": "Апр"
+
+},
+
+{
+
+"-id": "MayShort"
+
+,"ua": "Травень"
+
+},
+
+{
+
+"-id": "JuneShort"
+
+,"ua": "Июн"
+
+},
+
+{
+
+"-id": "JulyShort"
+
+,"ua": "Июл"
+
+},
+
+{
+
+"-id": "AugustShort"
+
+,"ua": "Авг"
+
+},
+
+{
+
+"-id": "SeptemberShort"
+
+,"ua": "Сен"
+
+},
+
+{
+
+"-id": "OctoberShort"
+
+,"ua": "Окт"
+
+},
+
+{
+
+"-id": "NovemberShort"
+
+,"ua": "Ниючи"
+
+},
+
+{
+
+"-id": "DecemberShort"
+
+,"ua": "Дек"
+
+},
+
+{
+
+"-id": "CalSeparator"
+
+,"ua": ""
+
+},
+
+{
+
+"-id": "CalDateFormat"
+
+,"ua": "d/m/y"
+
+},
+
+{
+
+"-id": "Preview"
+
+,"ua": "Перегляд"
+
+},
+
+{
+
+"-id": "Period"
+
+,"ua": "Термін"
+
+},
+
+{
+
+"-id": "Days"
+
+,"ua": "Дні"
+
+},
+
+{
+
+"-id": "Hours"
+
+,"ua": "Годинник"
+
+},
+
+{
+
+"-id": "Minutes"
+
+,"ua": "Хвилини"
+
+},
+
+{
+
+"-id": "DaysShort"
+
+,"ua": "дн"
+
+},
+
+{
+
+"-id": "HoursShort"
+
+,"ua": "година"
+
+},
+
+{
+
+"-id": "MinutesShort"
+
+,"ua": "мін"
+
+},
+
+{
+
+"-id": "Reason"
+
+,"ua": "Причина"
+
+},
+
+{
+
+"-id": "ForAllForums"
+
+,"ua": "На усіх модерируемых форумах"
+
+},
+
+{
+
+"-id": "Roughness"
+
+,"ua": "Грубість / Зневага"
+
+},
+
+{
+
+"-id": "Flood"
+
+,"ua": "Флуд"
+
+},
+
+{
+
+"-id": "Spam"
+
+,"ua": "Спам"
+
+},
+
+{
+
+"-id": "AuthorWish"
+
+,"ua": "За власним бажанням"
+
+},
+
+{
+
+"-id": "EthnicHatred"
+
+,"ua": "Розпалювання національного розбрату"
+
+},
+
+{
+
+"-id": "IllegalContent"
+
+,"ua": "Публікація нелегальних матеріалів"
+
+},
+
+{
+
+"-id": "UnlawfulStatement"
+
+,"ua": "Протиправне висловлювання"
+
+},
+
+{
+
+"-id": "OtherReason"
+
+,"ua": "Інша причина"
+
+},
+
+{
+
+"-id": "MsgProfileHidden"
+
+,"ua": "Профіль успішно прихований"
+
+},
+
+{
+
+"-id": "MsgProfileOpened"
+
+,"ua": "Профіль успішно відкритий"
+
+},
+
+{
+
+"-id": "ActionProfileHidden"
+
+,"ua": "Профіль прихований"
+
+},
+
+{
+
+"-id": "ActionProfileOpened"
+
+,"ua": "Профіль відкритий"
+
+},
+
+{
+
+"-id": "MsgRatingDisallowed"
+
+,"ua": "Виставляння оцінок цим учасником заборонене"
+
+},
+
+{
+
+"-id": "MsgRatingAllowed"
+
+,"ua": "Виставляння оцінок цим учасником дозволене"
+
+},
+
+{
+
+"-id": "ErrRatingBlocked"
+
+,"ua": "Вам заборонено оцінювати повідомлення"
+
+},
+
+{
+
+"-id": "ActionRatingDisallowed"
+
+,"ua": "Виставляння оцінок заборонене"
+
+},
+
+{
+
+"-id": "ActionRatingAllowed"
+
+,"ua": "Виставляння оцінок дозволене"
+
+},
+
+{
+
+"-id": "ErrModeratorBlockNotAllowed"
+
+,"ua": "Модератори і адміністратори не можуть бути заблоковані або приховані"
+
+},
+
+{
+
+"-id": "ErrBlockReasonNotSpecified"
+
+,"ua": "Вкажіть причину блокування"
+
+},
+
+{
+
+"-id": "MsgUserBlocked"
+
+,"ua": "Користувач успішно заблокований"
+
+},
+
+{
+
+"-id": "MsgUserUnblocked"
+
+,"ua": "Користувач успішно розблокований"
+
+},
+
+{
+
+"-id": "ActionUserBlocked"
+
+,"ua": "Користувач заблокований"
+
+},
+
+{
+
+"-id": "ActionUserUnblocked"
+
+,"ua": "Користувач розблокований"
+
+},
+
+{
+
+"-id": "ActionUserDeleted"
+
+,"ua": "Користувач видалений"
+
+},
+
+{
+
+"-id": "ActionBulkDeleteMessages"
+
+,"ua": "Повідомлення видалені шляхом пакетного видалення"
+
+},
+
+{
+
+"-id": "ActionUserBlockedUntil"
+
+,"ua": "Користувач заблокований до {time}"
+
+},
+
+{
+
+"-id": "ActionUserForumBlocked"
+
+,"ua": "Користувач заблокований на запис у форум"
+
+},
+
+{
+
+"-id": "ActionUserForumUnblocked"
+
+,"ua": "Користувач розблокований на запис у форум"
+
+},
+
+{
+
+"-id": "ActionUserTopicBlocked"
+
+,"ua": "Користувач заблокований на запис в тему"
+
+},
+
+{
+
+"-id": "ActionUserTopicUnblocked"
+
+,"ua": "Користувач розблокований на запис в тему"
+
+},
+
+{
+
+"-id": "ActionUserForumBlockedUntil"
+
+,"ua": "Користувач заблокований на запис у форум до {time}"
+
+},
+
+{
+
+"-id": "UnblockOnForums"
+
+,"ua": "Розблоковувати на форумам"
+
+},
+
+{
+
+"-id": "ErrForumNotAccessible"
+
+,"ua": "У вас немає доступу у форум '"
+
+},
+
+{
+
+"-id": "WarnTopicDeleted"
+
+,"ua": "Прошена тема була видалена"
+
+},
+
+{
+
+"-id": "ForumsWithRestrictedAccess"
+
+,"ua": "Форуми з обмеженим доступом"
+
+},
+
+{
+
+"-id": "MsgForumAccessSet"
+
+,"ua": "Права доступу в захищені форуми успішно оновлені"
+
+},
+
+{
+
+"-id": "ActionGrantForumAccess"
+
+,"ua": "Даний доступ в захищений форум"
+
+},
+
+{
+
+"-id": "ActionRevokeForumAccess"
+
+,"ua": "Відняв доступ в захищений форум"
+
+},
+
+{
+
+"-id": "ResetMyRating"
+
+,"ua": "Відмінити мою оцінку"
+
+},
+
+{
+
+"-id": "ErrIPAddressEmpty"
+
+,"ua": "Не заданий IP адреса"
+
+},
+
+{
+
+"-id": "ErrUserMarkerEmpty"
+
+,"ua": "Не заданий маркер користувача"
+
+},
+
+{
+
+"-id": "NoData"
+
+,"ua": "Немає даних"
+
+},
+
+{
+
+"-id": "IPAddresses"
+
+,"ua": "IP адреси"
+
+},
+
+{
+
+"-id": "OtherAuthors"
+
+,"ua": "Інші автори"
+
+},
+
+{
+
+"-id": "MsgIPBlocked"
+
+,"ua": "IP адреса успішно заблокована"
+
+},
+
+{
+
+"-id": "MsgIPUnblocked"
+
+,"ua": "IP адреса успішно розблокована"
+
+},
+
+{
+
+"-id": "ActionIPBlocked"
+
+,"ua": "IP адреса заблокована"
+
+},
+
+{
+
+"-id": "ActionIPBlockedUntil"
+
+,"ua": "IP адреса заблокована до {time}"
+
+},
+
+{
+
+"-id": "ActionIPUnblocked"
+
+,"ua": "IP адреса розблокована"
+
+},
+
+{
+
+"-id": "MsgUserMarkerBlocked"
+
+,"ua": "Маркер користувача успішно заблокований"
+
+},
+
+{
+
+"-id": "MsgUserMarkerUnblocked"
+
+,"ua": "Маркер користувача успішно розблокований"
+
+},
+
+{
+
+"-id": "ActionUserMarkerBlocked"
+
+,"ua": "Маркер користувача заблокований"
+
+},
+
+{
+
+"-id": "ActionUserMarkerBlockedUntil"
+
+,"ua": "Маркер користувача заблокований до {time}"
+
+},
+
+{
+
+"-id": "ActionUserMarkerUnblocked"
+
+,"ua": "Маркер користувача розблокований"
+
+},
+
+{
+
+"-id": "MsgConfirmPostCancel"
+
+,"ua": "Введеные дані будуть втрачені! Ви упевнені, що хочете відмінити створення повідомлення"
+
+},
+
+{
+
+"-id": "MsgConfirmPostOverwrite"
+
+,"ua": "Введеные дані будуть втрачені! Ви упевнені, що хочете перезаписати повідомлення"
+
+},
+
+{
+
+"-id": "ErrAuthorNameEmpty"
+
+,"ua": "Не задано ім'я автора"
+
+},
+
+{
+
+"-id": "PasteIntoMessage"
+
+,"ua": "Вставити"
+
+},
+
+{
+
+"-id": "AttachmentLink"
+
+,"ua": "Посилання на вкладення"
+
+},
+
+{
+
+"-id": "ErrAttachmentTooLarge"
+
+,"ua": "Розмір вкладення ' занадто великий (! Макcимальный розмір вкладень "
+
+},
+
+{
+
+"-id": "ErrFileProcessing"
+
+,"ua": "Помилка при обробці файлу '"
+
+},
+
+{
+
+"-id": "Modified"
+
+,"ua": "Змінено"
+
+},
+
+{
+
+"-id": "ErrForumClosed"
+
+,"ua": "Форум закритий"
+
+},
+
+{
+
+"-id": "ErrTopicClosed"
+
+,"ua": "Тема закрита"
+
+},
+
+{
+
+"-id": "ErrForumGuestsNotAllowed"
+
+,"ua": "На цьому форумі або в цій темі незареєстрованим користувачам не дозволено залишати повідомлення"
+
+},
+
+{
+
+"-id": "MsgComplaintSent"
+
+,"ua": "Скарга успішно відправлена"
+
+},
+
+{
+
+"-id": "ErrAccountIsBlockedOnForum"
+
+,"ua": "Ваш обліковий запис заблокований на запис на форумі '! Ви можете подивитися причину блокування у вашому профілі"
+
+},
+
+{
+
+"-id": "ErrAccountIsBlockedInTopic"
+
+,"ua": "Ваш обліковий запис заблокований на запис в цій темі"
+
+},
+
+{
+
+"-id": "ErrAccountIsBlockedUntilOnForum"
+
+,"ua": "Ваш обліковий запис заблокований на запис на форумі ' до Ви можете подивитися причину блокування у вашому профілі"
+
+},
+
+{
+
+"-id": "ErrIPIsBlocked"
+
+,"ua": "Ваш IP- адреса [ заблокований! Якщо ви вважаєте блокування помилковим, зв'яжіться з адміністрацією форуму через пункт меню \"Контакт\" чи зареєструйтеся"
+
+},
+
+{
+
+"-id": "ErrIPIsBlockedUntil"
+
+,"ua": "Ваш IP- адреса [ заблокований до Залишилося часу: Якщо ви вважаєте блокування помилковим, зв'яжіться з адміністрацією форуму через пункт меню \"Контакт\" чи зареєструйтеся"
+
+},
+
+{
+
+"-id": "ErrUserMarkerIsBlocked"
+
+,"ua": "Ви заблоковані! Якщо ви вважаєте блокування помилковим, зв'яжіться з адміністрацією форуму через пункт меню \"Контакт\" чи зареєструйтеся"
+
+},
+
+{
+
+"-id": "ErrUserMarkerIsBlockedUntil"
+
+,"ua": "Ви заблоковані до Залишилося часу: Якщо ви вважаєте блокування помилковим, зв'яжіться з адміністрацією форуму через пункт меню \"Контакт\" чи зареєструйтеся"
+
+},
+
+{
+
+"-id": "ErrMessageLimitExceeded"
+
+,"ua": "Ви перевищили ліміт (повідомлень в хвилину)! Спробуйте відправити ваше повідомлення трохи пізніше"
+
+},
+
+{
+
+"-id": "ErrMessageGuestRestricted"
+
+,"ua": "Нові гості не можуть відразу писати повідомлення на цьому форумі! Зареєструйтеся або почекайте "
+
+},
+
+{
+
+"-id": "ErrTopicLimitExceeded"
+
+,"ua": "Ви перевищили ліміт (тим в добу)! Створення нової теми буде можливе через: "
+
+},
+
+{
+
+"-id": "ErrComplainLimitExceeded"
+
+,"ua": "Ви перевищили ліміт (скарг в добу)! Спробуйте відправити нову скаргу трохи пізніше"
+
+},
+
+{
+
+"-id": "ErrRateLimitExceeded"
+
+,"ua": "Ви перевищили ліміт (оцінних дій в годину на одного користувача)! Спробуйте повторити дію трохи пізніше"
+
+},
+
+{
+
+"-id": "Receiver"
+
+,"ua": "Одержувач"
+
+},
+
+{
+
+"-id": "NoPrivateMessages"
+
+,"ua": "Відключити особисті повідомлення"
+
+},
+
+{
+
+"-id": "IgnoreGuests"
+
+,"ua": "Ігнорувати гостей"
+
+},
+
+{
+
+"-id": "IgnoreGuestsExcept"
+
+,"ua": "окрім"
+
+},
+
+{
+
+"-id": "ErrNoAccessToPrivateTopic"
+
+,"ua": "У вас немає доступу в цю приватну тему! Автор або вас ще не додав в приватну дискусію, або видалив з неї"
+
+},
+
+{
+
+"-id": "ErrUserNoPrivateMessages"
+
+,"ua": "Особисте повідомлення не може бути відправлене, оскільки учасник відключив особисті повідомлення"
+
+},
+
+{
+
+"-id": "ErrUserIgnored"
+
+,"ua": "Учасник помістив вас в ігнорування-лист"
+
+},
+
+{
+
+"-id": "CreateNewTopic"
+
+,"ua": "Створити нову тему"
+
+},
+
+{
+
+"-id": "EnterNewTopicName"
+
+,"ua": "Введіть назву для нової теми"
+
+},
+
+{
+
+"-id": "LeaveTopic"
+
+,"ua": "Покинути тему"
+
+},
+
+{
+
+"-id": "MsgConfirmLeaveTopic"
+
+,"ua": "Ви упевнені, що хочете покинути тему? Після покидання у вас не буде можливості самостійно в неї повернутися"
+
+},
+
+{
+
+"-id": "MsgLeaveTopicSuccess"
+
+,"ua": "Ви успішно покинули тему"
+
+},
+
+{
+
+"-id": "ManageMembers"
+
+,"ua": "Управління учасниками"
+
+},
+
+{
+
+"-id": "TopicMembers"
+
+,"ua": "Учасники теми"
+
+},
+
+{
+
+"-id": "MsgPrivateMembersRenewed"
+
+,"ua": "Список учасників успішно оновлений"
+
+},
+
+{
+
+"-id": "MsgBlockedMembersRenewed"
+
+,"ua": "Список заблокованих учасників успішно оновлений"
+
+},
+
+{
+
+"-id": "DailyActivity"
+
+,"ua": "Активність по днях"
+
+},
+
+{
+
+"-id": "VisitingGeography"
+
+,"ua": "Географія відвідувань"
+
+},
+
+{
+
+"-id": "ForumActivity"
+
+,"ua": "Активність на форумах"
+
+},
+
+{
+
+"-id": "HiddenForums"
+
+,"ua": "Приховані форуми"
+
+},
+
+{
+
+"-id": "Poll"
+
+,"ua": "Опитування"
+
+},
+
+{
+
+"-id": "DelayPublishing"
+
+,"ua": "Відкласти публікацію"
+
+},
+
+{
+
+"-id": "PublishingDelayed"
+
+,"ua": "Публікація відкладена"
+
+},
+
+{
+
+"-id": "not _ published"
+
+,"ua": "неопубліковано"
+
+},
+
+{
+
+"-id": "ErrTopicNotPublished"
+
+,"ua": "Тема ще не опублікована"
+
+},
+
+{
+
+"-id": "MsgTopicPublished"
+
+,"ua": "Тема успішно опублікована"
+
+},
+
+{
+
+"-id": "Publish"
+
+,"ua": "Опублікувати"
+
+},
+
+{
+
+"-id": "CreatePoll"
+
+,"ua": "Створити опитування"
+
+},
+
+{
+
+"-id": "PollComment"
+
+,"ua": "Введіть варіанти відповідей для опитування, кожен варіант з нового рядка. Підтримуються теги [url], [smile] і [img]"
+
+},
+
+{
+
+"-id": "PollMultiselect"
+
+,"ua": "Множинний вибір"
+
+},
+
+{
+
+"-id": "OpenPoll"
+
+,"ua": "Відкрите опитування"
+
+},
+
+{
+
+"-id": "OpenPollComment"
+
+,"ua": "Це опитування відкрите. Ваш вибір буде видний іншим учасникам"
+
+},
+
+{
+
+"-id": "ErrNoPollOptions"
+
+,"ua": "Не задані варіанти відповідей для опитування"
+
+},
+
+{
+
+"-id": "ErrPollOptionTooLong"
+
+,"ua": "Варіант відповіді не повинен перевищувати символів"
+
+},
+
+{
+
+"-id": "ErrPollOptionExists"
+
+,"ua": "Варіант відповіді ' зустрічається в опитуванні двічі"
+
+},
+
+{
+
+"-id": "AccountConfirmationRequired"
+
+,"ua": "Потрібно підтвердження адміністратора"
+
+},
+
+{
+
+"-id": "Approved"
+
+,"ua": "Схвалений"
+
+},
+
+{
+
+"-id": "MsgUserDeleteConfirm"
+
+,"ua": "Ви упевнені, що хочете видалити користувача з усіма його повідомленнями"
+
+},
+
+{
+
+"-id": "MsgUserDeleted"
+
+,"ua": "Користувач успішно видалений"
+
+},
+
+{
+
+"-id": "Likes"
+
+,"ua": "Лайки"
+
+},
+
+{
+
+"-id": "ActivateLikes"
+
+,"ua": "Включити лайки"
+
+},
+
+{
+
+"-id": "ActivateDislikes"
+
+,"ua": "Включити дизлайки"
+
+},
+
+{
+
+"-id": "DislikesAnonymous"
+
+,"ua": "Анонімні дизлайки"
+
+},
+
+{
+
+"-id": "Liked"
+
+,"ua": "Подобається"
+
+},
+
+{
+
+"-id": "Disliked"
+
+,"ua": "Не подобається"
+
+},
+
+{
+
+"-id": "MoreUsers"
+
+,"ua": "ще ."
+
+},
+
+{
+
+"-id": "Vote"
+
+,"ua": "Проголосувати"
+
+},
+
+{
+
+"-id": "Voted"
+
+,"ua": "Проголосувало"
+
+},
+
+{
+
+"-id": "MsgAlreadyVoted"
+
+,"ua": "Ви вже проголосували"
+
+},
+
+{
+
+"-id": "ErrAlreadyVoted"
+
+,"ua": "Ви вже проголосували"
+
+},
+
+{
+
+"-id": "ErrNoOptionChosen"
+
+,"ua": "Не вибрана відповідь"
+
+},
+
+{
+
+"-id": "SendNotifications"
+
+,"ua": "Посилати повідомлення на эл. ушаную"
+
+},
+
+{
+
+"-id": "NoNotificationsOnRates"
+
+,"ua": "Не повідомляти про оцінки"
+
+},
+
+{
+
+"-id": "TurnOffEvents"
+
+,"ua": "Відключити події"
+
+},
+
+{
+
+"-id": "Sorting"
+
+,"ua": "Сортування"
+
+},
+
+{
+
+"-id": "new"
+
+,"ua": "нові"
+
+},
+
+{
+
+"-id": "MsgForumsMarkedRead"
+
+,"ua": "Форуми успішно помічені прочитаними"
+
+},
+
+{
+
+"-id": "MsgForumMarkedRead"
+
+,"ua": "Форум успішно помічений прочитаним"
+
+},
+
+{
+
+"-id": "MsgTopicMarkedRead"
+
+,"ua": "Тема успішно помічена прочитаною"
+
+},
+
+{
+
+"-id": "MsgTopicsMarkedRead"
+
+,"ua": "Теми успішно помічені прочитаними"
+
+},
+
+{
+
+"-id": "Install"
+
+,"ua": "Инсталировать"
+
+},
+
+{
+
+"-id": "Installation"
+
+,"ua": "Інсталяція"
+
+},
+
+{
+
+"-id": "AdminData"
+
+,"ua": "Дані мастер-администратора"
+
+},
+
+{
+
+"-id": "DatabaseConnection"
+
+,"ua": "З'єднання з базою даних"
+
+},
+
+{
+
+"-id": "DatabaseType"
+
+,"ua": "Тип бази даних"
+
+},
+
+{
+
+"-id": "ErrDatabaseTypeEmpty"
+
+,"ua": "Не заданий тип бази даних"
+
+},
+
+{
+
+"-id": "DatabaseServer"
+
+,"ua": "Адреса сервера"
+
+},
+
+{
+
+"-id": "ErrDatabaseServerEmpty"
+
+,"ua": "Не задана адреса сервера"
+
+},
+
+{
+
+"-id": "DatabaseName"
+
+,"ua": "Ім'я бази даних"
+
+},
+
+{
+
+"-id": "ErrDatabaseNameEmpty"
+
+,"ua": "Не задано ім'я бази даних"
+
+},
+
+{
+
+"-id": "DatabaseUser"
+
+,"ua": "Ім'я користувача"
+
+},
+
+{
+
+"-id": "ErrDatabaseUserEmpty"
+
+,"ua": "Не задано ім'я користувача бази даних"
+
+},
+
+{
+
+"-id": "DatabasePassword"
+
+,"ua": "Пароль"
+
+},
+
+{
+
+"-id": "ErrInstallDatabasePasswordEmpty"
+
+,"ua": "Не заданий пароль користувача бази даних"
+
+},
+
+{
+
+"-id": "DatabaseTablePrefix"
+
+,"ua": "Префікс для таблиць"
+
+},
+
+{
+
+"-id": "ErrDatabaseTablePrefixEmpty"
+
+,"ua": "Не заданий префікс для таблиць"
+
+},
+
+{
+
+"-id": "DBCreationComment"
+
+,"ua": "Якщо база даних з вказаним ім'ям не існує, вона буде створена"
+
+},
+
+{
+
+"-id": "DBUserComment"
+
+,"ua": "Користувач бази даних повинен мати права, достатні для створення\n бази даних і її об'єктів"
+
+},
+
+{
+
+"-id": "DBPrefixComment"
+
+,"ua": "Щоб уникнути конфлікту імен вкажіть префікс, який буде доданий в початок імені\n кожного об'єкту бази даних, що відноситься до додатка"
+
+},
+
+{
+
+"-id": "InstallDeniedComment1"
+
+,"ua": "Додаток вже був інстальований"
+
+},
+
+{
+
+"-id": "InstallDeniedComment2"
+
+,"ua": "Якщо ви хочете поміняти інформацію для з'єднання з базою даних, вам необхідно\n відредагувати конфігураційний файл 'include/config _ inc.php'"
+
+},
+
+{
+
+"-id": "InstallDeniedComment3"
+
+,"ua": "Щоб повторно провести инсталяцию, вам необхідно видалити\n пароль адміністратора в конфігураційному файлі"
+
+},
+
+{
+
+"-id": "InstallMasterAdminComment"
+
+,"ua": "В системі заданий зумовлений майстер-адміністратор 'admin'. Цей користувач має усі права в додатку і може увійти до системи, навіть\n якщо відсутнє з'єднання з базою даних. Звичайні користувачі зберігаються у базі даних, тому\n для них вхід в систему можливий, тільки якщо є з'єднання з базою даних"
+
+},
+
+{
+
+"-id": "OnlyFound"
+
+,"ua": "тільки знайдені"
+
+},
+
+{
+
+"-id": "ErrDBPrefixInvalid"
+
+,"ua": "Префікс недійсний. Допускаються тільки наступні символи: a - z, 0-9 і підкреслення '_'"
+
+},
+
+{
+
+"-id": "InstallSuccessComment"
+
+,"ua": "Додаток успішно встановлений. Тепер ви можете задати додаткові налаштування і створити форуми"
+
+},
+
+{
+
+"-id": "ErrDbPrefixUsed"
+
+,"ua": "Префікс ' вже використовується. Виберіть інший префікс для цієї інсталяції"
+
+},
+
+{
+
+"-id": "ErrReadingFile"
+
+,"ua": "У додатка немає доступу на читання до файлу '. Перевірте права додатка і веб-сервера на цей файл і на цільовий каталог"
+
+},
+
+{
+
+"-id": "ErrWritingFile"
+
+,"ua": "Запис файлу ' не вдався. Перевірте права додатка і веб-сервера на цей файл і на цільовий каталог"
+
+},
+
+{
+
+"-id": "MsgSearchResultsExpires"
+
+,"ua": "Результати пошуку більше недійсні, виконаєте пошук знову"
+
+},
+
+{
+
+"-id": "MsgMessagesNotFound"
+
+,"ua": "Повідомлень не знайдено"
+
+},
+
+{
+
+"-id": "MsgDemoMode"
+
+,"ua": "Форум працює в демонстраційному режимі. Ця операція не була виконана"
+
+},
+
+{
+
+"-id": "ErrMergetoItself"
+
+,"ua": "Тема не може бути об'єднана з самою собою"
+
+},
+
+{
+
+"-id": "ErrMergeDeletedOrTransferred"
+
+,"ua": "Цільова тема для об'єднання була видалена або вже об'єднана з іншою темою"
+
+},
+
+{
+
+"-id": "NoHighlighting"
+
+,"ua": "Без підсвічування"
+
+},
+
+{
+
+"-id": "MobileVersion"
+
+,"ua": "Мобільна версія"
+
+},
+
+{
+
+"-id": "DesktopVersion"
+
+,"ua": "Повна версія"
+
+},
+
+{
+
+"-id": "Menu"
+
+,"ua": "Меню"
+
+},
+
+{
+
+"-id": "Actions"
+
+,"ua": "Дії"
+
+},
+
+{
+
+"-id": "ErrTooFewPollOptions"
+
+,"ua": "Необхідно задати мінімум два варіанти відповіді"
+
+},
+
+{
+
+"-id": "ErrTooManyPollOptions"
+
+,"ua": "Ви можете задати не більше за варіанти відповіді"
+
+},
+
+{
+
+"-id": "IgnoreList"
+
+,"ua": "Ігнорування-лист"
+
+},
+
+{
+
+"-id": "MemberIgnores"
+
+,"ua": "Учасник ігнорує"
+
+},
+
+{
+
+"-id": "MemberIgnored"
+
+,"ua": "Учасника ігнорують"
+
+},
+
+{
+
+"-id": "LikeStatistics"
+
+,"ua": "Статистика лайков"
+
+},
+
+{
+
+"-id": "MemberHasLiked"
+
+,"ua": "Учасник лайкнул"
+
+},
+
+{
+
+"-id": "MemberWasLiked"
+
+,"ua": "Учасника лайкнули"
+
+},
+
+{
+
+"-id": "MessagesMemberHasLiked"
+
+,"ua": "Повідомлення, яким учасник поставив лайк"
+
+},
+
+{
+
+"-id": "MessagesMemberWasLiked"
+
+,"ua": "Повідомлення учасника за які поставили лайк"
+
+},
+
+{
+
+"-id": "MessagesMemberWasDisliked"
+
+,"ua": "Повідомлення учасника за які поставили дизлайк"
+
+},
+
+{
+
+"-id": "MessagesMemberWasLikedBy"
+
+,"ua": "Повідомлення учасника за які поставив лайк учасник"
+
+},
+
+{
+
+"-id": "DislikeStatistics"
+
+,"ua": "Статистика дизлайков"
+
+},
+
+{
+
+"-id": "MemberHasDisliked"
+
+,"ua": "Учасник дизлайкнул"
+
+},
+
+{
+
+"-id": "MemberWasDisliked"
+
+,"ua": "Учасника дизлайкнули"
+
+},
+
+{
+
+"-id": "MessagesMemberWasDislikedBy"
+
+,"ua": "Повідомлення учасника за які поставив дизлайк учасник"
+
+},
+
+{
+
+"-id": "Events"
+
+,"ua": "Події"
+
+},
+
+{
+
+"-id": "Event"
+
+,"ua": "Подія"
+
+},
+
+{
+
+"-id": "Approve"
+
+,"ua": "Підтвердити"
+
+},
+
+{
+
+"-id": "MsgEventUserRegistered"
+
+,"ua": "Зареєструвався новий учасник {member}. Потрібно підтвердження адміністратора. {approve}"
+
+},
+
+{
+
+"-id": "MsgEventMessageLiked"
+
+,"ua": "Учасник {member} поставив лайк на ваше повідомлення {message} у темі {topic}"
+
+},
+
+{
+
+"-id": "MsgEventMessageDisliked"
+
+,"ua": "Учасник {member} поставив дизлайк на ваше повідомлення {message} у темі {topic}"
+
+},
+
+{
+
+"-id": "MsgEventMessageDislikedAnonym"
+
+,"ua": "На ваше повідомлення {message} поставлений дизлайк в темі {topic}"
+
+},
+
+{
+
+"-id": "MsgEventLikeRevoked"
+
+,"ua": "Учасник {member} відмінив свій лайк на ваше повідомлення {message} у темі {topic}"
+
+},
+
+{
+
+"-id": "MsgEventDislikeRevoked"
+
+,"ua": "Учасник {member} відмінив свій дизлайк на ваше повідомлення {message} у темі {topic}"
+
+},
+
+{
+
+"-id": "MsgEventDislikeRevokedAnonym"
+
+,"ua": "Дизлайк на ваше повідомлення {message} у темі {topic} скасований"
+
+},
+
+{
+
+"-id": "MsgEventNewMessageInTopic"
+
+,"ua": "Учасник {member} написав нове повідомлення {message} у підписаній темі {topic}"
+
+},
+
+{
+
+"-id": "MsgEventCitatedMessageInTopic"
+
+,"ua": "Учасник {member} написав відповідь {message} на ваше повідомлення {citated _ message} у темі {topic}"
+
+},
+
+{
+
+"-id": "MsgEventPrivateInvitation"
+
+,"ua": "Автор {member} запросив вас в приватну тему {topic}"
+
+},
+
+{
+
+"-id": "MsgEventPrivateRemoval"
+
+,"ua": "Автор {member} видалив вас з приватної теми {topic}"
+
+},
+
+{
+
+"-id": "MsgEventPrivateMembersInvitation"
+
+,"ua": "Автор {member} запросив наступних учасників в приватну тему {topic}: {members}"
+
+},
+
+{
+
+"-id": "MsgEventPrivateMembersRemoval"
+
+,"ua": "Автор {member} видалив наступних учасників з приватної теми {topic}: {members}"
+
+},
+
+{
+
+"-id": "MsgEventPrivateLeaving"
+
+,"ua": "Учасник {member} покинув приватну тему {topic}"
+
+},
+
+{
+
+"-id": "MsgEventGrantForumModerator"
+
+,"ua": "Адміністратор {author} видав вам права модератора на форум {forum}"
+
+},
+
+{
+
+"-id": "MsgEventGrantForumModeratorAnonym"
+
+,"ua": "Вам видані права модератора на форум {forum}"
+
+},
+
+{
+
+"-id": "MsgEventRevokeForumModerator"
+
+,"ua": "Адміністратор {author} забрав у вас права модератора на форум {forum}"
+
+},
+
+{
+
+"-id": "MsgEventRevokeForumModeratorAnonym"
+
+,"ua": "У вас відібрані права модератора на форум {forum}"
+
+},
+
+{
+
+"-id": "MsgEventGrantTopicModerator"
+
+,"ua": "Модератор {author} видав вам права модератора на тему {topic} на форумі {forum}"
+
+},
+
+{
+
+"-id": "MsgEventGrantTopicModeratorAnonym"
+
+,"ua": "Вам видані права модератора на тему {topic} на форумі {forum}"
+
+},
+
+{
+
+"-id": "MsgEventRevokeTopicModerator"
+
+,"ua": "Модератор {author} забрав у вас права модератора на тему {topic} на форумі {forum}"
+
+},
+
+{
+
+"-id": "MsgEventRevokeTopicModeratorAnonym"
+
+,"ua": "У вас відібрані права модератора на тему {topic} на форумі {forum}"
+
+},
+
+{
+
+"-id": "MsgEventMessageWarned"
+
+,"ua": "Модератор {author} видав вам попередження на ваше повідомлення {message} у темі {topic}"
+
+},
+
+{
+
+"-id": "MsgEventMessageWarnedAnonym"
+
+,"ua": "Вам видано попередження на ваше повідомлення {message} у темі {topic}"
+
+},
+
+{
+
+"-id": "MsgEventMessageComplained"
+
+,"ua": "Учасник {author} поскаржився на повідомлення {message} автора {violator} у темі {topic}"
+
+},
+
+{
+
+"-id": "MsgEventMessageDeleted"
+
+,"ua": "Модератор {author} видалив ваше повідомлення {message} від {post _ date} у темі {topic} на форумі {forum}"
+
+},
+
+{
+
+"-id": "MsgEventMessageDeletedAnonym"
+
+,"ua": "Ваше повідомлення {message} від {post _ date} було видалено в темі {topic} на форумі {forum}"
+
+},
+
+{
+
+"-id": "MsgEventTopicDeleted"
+
+,"ua": "Модератор {author} видалив вашу тему {topic} на форумі {forum}"
+
+},
+
+{
+
+"-id": "MsgEventTopicDeletedAnonym"
+
+,"ua": "Ваша тема {topic} на форумі {forum} видалена"
+
+},
+
+{
+
+"-id": "MsgEventTopicDeletedSubscribers"
+
+,"ua": "Модератор {author} видалив тему {topic}, на яку ви підписані, на форумі {forum}"
+
+},
+
+{
+
+"-id": "MsgEventTopicDeletedSubscribersAnonym"
+
+,"ua": "Тема {topic}, на яку ви підписані, на форумі {forum} видалена"
+
+},
+
+{
+
+"-id": "MsgEventTopicDeletedModerators"
+
+,"ua": "Модератор {author} видалив тему {topic}, де ви є модератором, на форумі {forum}"
+
+},
+
+{
+
+"-id": "MsgEventTopicDeletedModeratorsAnonym"
+
+,"ua": "Тема {topic}, де ви є модератором, на форумі {forum} видалена"
+
+},
+
+{
+
+"-id": "MsgEventTopicDeletedParticipants"
+
+,"ua": "Модератор {author} видалив приватну тему {topic}, де ви є учасником"
+
+},
+
+{
+
+"-id": "MsgEventTopicDeletedParticipantsAnonym"
+
+,"ua": "Приватна тема {topic}, де ви є учасником, видалена"
+
+},
+
+{
+
+"-id": "MsgEventTopicClosed"
+
+,"ua": "Модератор {author} закрив вашу тему {topic} на форумі {forum}"
+
+},
+
+{
+
+"-id": "MsgEventTopicClosedAnonym"
+
+,"ua": "Ваша тема {topic} на форумі {forum} закрита"
+
+},
+
+{
+
+"-id": "MsgEventTopicClosedModerators"
+
+,"ua": "Модератор {author} закрив тему {topic}, де ви є модератором, на форумі {forum}"
+
+},
+
+{
+
+"-id": "MsgEventTopicClosedModeratorsAnonym"
+
+,"ua": "Тема {topic}, де ви є модератором, на форумі {forum} закрита"
+
+},
+
+{
+
+"-id": "MsgEventMessagesInTopicDeleted"
+
+,"ua": "Модератор {author} видалив усі ваші повідомлення в темі {topic} на форумі {forum}"
+
+},
+
+{
+
+"-id": "MsgEventMessagesInTopicDeletedAnonym"
+
+,"ua": "Усі ваші повідомлення в темі {topic} на форумі {forum} видалені"
+
+},
+
+{
+
+"-id": "MsgEventMessagesInForumDeleted"
+
+,"ua": "Модератор {author} видалив усі ваші повідомлення на форумі {forum}"
+
+},
+
+{
+
+"-id": "MsgEventMessagesInForumDeletedAnonym"
+
+,"ua": "Усі ваші повідомлення на форумі {forum} видалені"
+
+},
+
+{
+
+"-id": "MsgEventAllMessagesDeleted"
+
+,"ua": "Модератор {author} видалив усі ваші повідомлення"
+
+},
+
+{
+
+"-id": "MsgEventAllMessagesDeletedAnonym"
+
+,"ua": "Усі ваші повідомлення видалені"
+
+},
+
+{
+
+"-id": "MsgEventBulkMessagesDeleted"
+
+,"ua": "Модератор {author} видалив ваші повідомлення шляхом пакетного видалення"
+
+},
+
+{
+
+"-id": "MsgEventBulkMessagesDeletedAnonym"
+
+,"ua": "Ваші повідомлення видалені шляхом пакетного видалення"
+
+},
+
+{
+
+"-id": "MsgEvent10MessagesDeleted"
+
+,"ua": "Модератор {author} видалив останні 10 ваших повідомлень"
+
+},
+
+{
+
+"-id": "MsgEvent10MessagesDeletedAnonym"
+
+,"ua": "Останні 10 ваших повідомлень видалені"
+
+},
+
+{
+
+"-id": "MsgEvent10RatesDeleted"
+
+,"ua": "Модератор {author} видалив останні 10 ваших оцінок"
+
+},
+
+{
+
+"-id": "MsgEvent10RatesDeletedAnonym"
+
+,"ua": "Останні 10 ваших оцінок видалені"
+
+},
+
+{
+
+"-id": "MsgEventPostRatesDeleted"
+
+,"ua": "Модератор {member} видалив останні {cnt} оцінок користувача {liked _ user _ name} на ваші повідомлення"
+
+},
+
+{
+
+"-id": "MsgEventPostRatesDeletedAnonym"
+
+,"ua": "Видалені останні {cnt} оцінок користувача {liked _ user _ name} на ваші повідомлення"
+
+},
+
+{
+
+"-id": "MsgEventTopicMoved"
+
+,"ua": "Модератор {author} переніс вашу тему {topic} з форуму {source _ forum} на форум {target _ forum}"
+
+},
+
+{
+
+"-id": "MsgEventTopicMovedAnonym"
+
+,"ua": "Ваша тема {topic} перенесена з форуму {source _ forum} на форум {target _ forum}"
+
+},
+
+{
+
+"-id": "MsgEventTopicMovedModerators"
+
+,"ua": "Модератор {author} переніс тему {topic}, де ви є модератором, з форуму {source _ forum} на форум {target _ forum}"
+
+},
+
+{
+
+"-id": "MsgEventTopicMovedModeratorsAnonym"
+
+,"ua": "Тема {topic}, де ви є модератором, перенесена з форуму {source _ forum} на форум {target _ forum}"
+
+},
+
+{
+
+"-id": "MsgEventTopicMovedRevokeModerators"
+
+,"ua": "Модератор {author} переніс тему {topic}, де ви є модератором, з форуму {source _ forum} на форум {target _ forum}. Зверніться до модераторів цього форуму для отримання модераторских прав на тему"
+
+},
+
+{
+
+"-id": "MsgEventTopicMovedRevokeModeratorsAnonym"
+
+,"ua": "Тема {topic}, де ви є модератором, перенесена з форуму {source _ forum} на форум {target _ forum}. Зверніться до модераторів цього форуму для отримання модераторских прав на тему"
+
+},
+
+{
+
+"-id": "MsgEventTopicMovedSubscribers"
+
+,"ua": "Модератор {author} переніс тему {topic} з форуму {source _ forum} на форум {target _ forum}"
+
+},
+
+{
+
+"-id": "MsgEventTopicMovedSubscribersAnonym"
+
+,"ua": "Тема {topic} перенесена з форуму {source _ forum} на форум {target _ forum}"
+
+},
+
+{
+
+"-id": "MsgEventMessagesMoved"
+
+,"ua": "Модератор {author} переніс ваше повідомлення {message} з теми {source _ topic} на форумі {source _ forum} у тему {target _ topic} на форумі {target _ forum}"
+
+},
+
+{
+
+"-id": "MsgEventMessagesMovedAnonym"
+
+,"ua": "Ваше повідомлення {message} перенесено з теми {source _ topic} на форумі {source _ forum} у тему {target _ topic} на форумі {target _ forum}"
+
+},
+
+{
+
+"-id": "MsgEventMessagesMovedSubscribers"
+
+,"ua": "Модератор {author} переніс повідомлення {message} з теми {source _ topic} на форумі {source _ forum} у тему {target _ topic} на форумі {target _ forum}"
+
+},
+
+{
+
+"-id": "MsgEventMessagesMovedSubscribersAnonym"
+
+,"ua": "Cообщение {message} перенесено з теми {source _ topic} на форумі {source _ forum} у тему {target _ topic} на форумі {target _ forum}"
+
+},
+
+{
+
+"-id": "MsgEventTopicMerged"
+
+,"ua": "Модератор {author} об'єднав вашу тему {source _ topic} на форумі {source _ forum} з темою {target _ topic} на форумі {target _ forum}. Перше повідомлення перенесеної теми {message}"
+
+},
+
+{
+
+"-id": "MsgEventTopicMergedAnonym"
+
+,"ua": "Ваша тема {source _ topic} на форумі {source _ forum} об'єднана з темою {target _ topic} на форумі {target _ forum}. Перше повідомлення перенесеної теми {message}"
+
+},
+
+{
+
+"-id": "MsgEventTopicMergedModerators"
+
+,"ua": "Модератор {author} об'єднав тему {source _ topic}, де ви є модератором, на форумі {source _ forum} з темою {target _ topic} на форумі {target _ forum}. Перше повідомлення перенесеної теми {message}"
+
+},
+
+{
+
+"-id": "MsgEventTopicMergedModeratorsAnonym"
+
+,"ua": "Тема {source _ topic}, де ви є модератором, на форумі {source _ forum} об'єднана з темою {target _ topic} на форумі {target _ forum}. Перше повідомлення перенесеної теми {message}"
+
+},
+
+{
+
+"-id": "MsgEventTopicMergedSubscribers"
+
+,"ua": "Модератор {author} об'єднав тему {source _ topic} на форумі {source _ forum} з темою {target _ topic} на форумі {target _ forum}. Перше повідомлення перенесеної теми {message}. Для отримання повідомлень підпишіться на тему {target _ topic}"
+
+},
+
+{
+
+"-id": "MsgEventTopicMergedSubscribersAnonym"
+
+,"ua": "Тема {source _ topic} на форумі {source _ forum} об'єднана з темою {target _ topic} на форумі {target _ forum}. Перше повідомлення перенесеної теми {message}. Для отримання повідомлень підпишіться на тему {target _ topic}"
+
+},
+
+{
+
+"-id": "MsgEventTopicMergedTargetSubscribers"
+
+,"ua": "Модератор {author} об'єднав тему {source _ topic} на форумі {source _ forum} з темою {target _ topic} на форумі {target _ forum}. Перше повідомлення перенесеної теми {message}"
+
+},
+
+{
+
+"-id": "MsgEventTopicMergedTargetSubscribersAnonym"
+
+,"ua": "Тема {source _ topic} на форумі {source _ forum} об'єднана з темою {target _ topic} на форумі {target _ forum}. Перше повідомлення перенесеної теми {message}"
+
+},
+
+{
+
+"-id": "MsgEventUserBlocked"
+
+,"ua": "Модератор {author} заблокував ваш обліковий запис"
+
+},
+
+{
+
+"-id": "MsgEventUserBlockedAnonym"
+
+,"ua": "Ваш обліковий запис заблокований"
+
+},
+
+{
+
+"-id": "MsgEventUserBlockedTime"
+
+,"ua": "Модератор {author} заблокував ваш обліковий запис до {block _ expires}"
+
+},
+
+{
+
+"-id": "MsgEventUserBlockedTimeAnonym"
+
+,"ua": "Ваш обліковий запис заблокований до {block _ expires}"
+
+},
+
+{
+
+"-id": "MsgEventUserForumBlocked"
+
+,"ua": "Модератор {author} заблокував ваш обліковий запис на форумі {forum}"
+
+},
+
+{
+
+"-id": "MsgEventUserForumBlockedAnonym"
+
+,"ua": "Ваш обліковий запис заблокований на форумі {forum}"
+
+},
+
+{
+
+"-id": "MsgEventUserForumBlockedTime"
+
+,"ua": "Модератор {author} заблокував ваш обліковий запис на форумі {forum} до {block _ expires}"
+
+},
+
+{
+
+"-id": "MsgEventUserForumBlockedTimeAnonym"
+
+,"ua": "Ваш обліковий запис заблокований на форумі {forum} до {block _ expires}"
+
+},
+
+{
+
+"-id": "MsgEventUserUnblocked"
+
+,"ua": "Модератор {author} розблоковував ваш обліковий запис"
+
+},
+
+{
+
+"-id": "MsgEventUserUnblockedAnonym"
+
+,"ua": "Ваш обліковий запис розблокований"
+
+},
+
+{
+
+"-id": "MsgEventUserForumUnblocked"
+
+,"ua": "Модератор {author} розблоковував ваш обліковий запис на форумі {forum}"
+
+},
+
+{
+
+"-id": "MsgEventUserForumUnblockedAnonym"
+
+,"ua": "Ваш обліковий запис розблокований на форумі {forum}"
+
+},
+
+{
+
+"-id": "MsgEventUserTopicBlocked"
+
+,"ua": "Модератор {author} заблокував ваш обліковий запис в темі {topic} на форумі {forum}"
+
+},
+
+{
+
+"-id": "MsgEventUserTopicBlockedAnonym"
+
+,"ua": "Ваш обліковий запис заблокований в темі {topic} на форумі {forum}"
+
+},
+
+{
+
+"-id": "MsgEventUserTopicUnblocked"
+
+,"ua": "Модератор {author} розблоковував ваш обліковий запис в темі {topic} на форумі {forum}"
+
+},
+
+{
+
+"-id": "MsgEventUserTopicUnblockedAnonym"
+
+,"ua": "Ваш обліковий запис розблокований в темі {topic} на форумі {forum}"
+
+},
+
+{
+
+"-id": "MsgEventUserAccessGranted"
+
+,"ua": "Модератор {author} дав вам доступ в захищений форум {forum}"
+
+},
+
+{
+
+"-id": "MsgEventUserAccessGrantedAnonym"
+
+,"ua": "Вам даний доступ в захищений форум {forum}"
+
+},
+
+{
+
+"-id": "MsgEventUserAccessRevoked"
+
+,"ua": "Модератор {author} забрав у вас доступ в захищений форум {forum}"
+
+},
+
+{
+
+"-id": "MsgEventUserAccessRevokedAnonym"
+
+,"ua": "У вас відібраний доступ в захищений форум {forum}"
+
+},
+
+{
+
+"-id": "MsgEventProfileHidden"
+
+,"ua": "Модератор {author} приховав ваш профіль для перегляду"
+
+},
+
+{
+
+"-id": "MsgEventProfileHiddenAnonym"
+
+,"ua": "Ваш профіль прихований для перегляду"
+
+},
+
+{
+
+"-id": "MsgEventProfileOpened"
+
+,"ua": "Модератор {author} відкрив ваш профіль для перегляду"
+
+},
+
+{
+
+"-id": "MsgEventProfileOpenedAnonym"
+
+,"ua": "Ваш профіль відкритий для перегляду"
+
+},
+
+{
+
+"-id": "MsgEventRatingDisallowed"
+
+,"ua": "Модератор {author} заборонив вам оцінювати сообещния"
+
+},
+
+{
+
+"-id": "MsgEventRatingDisallowedAnonym"
+
+,"ua": "Для вас встановлена заборона на оцінку повідомлень"
+
+},
+
+{
+
+"-id": "MsgEventRatingAllowed"
+
+,"ua": "Модератор {author} зняв з вас заборону на оцінку сообещний"
+
+},
+
+{
+
+"-id": "MsgEventRatingAllowedAnonym"
+
+,"ua": "З вас знята заборона на оцінку повідомлень"
+
+},
+
+{
+
+"-id": "ErrAttachmentDoesNotExist"
+
+,"ua": "Вкладення з таким ідентифікатором ( не існує"
+
+},
+
+{
+
+"-id": "NoPosts"
+
+,"ua": "Немає повідомлень для показу. Повідомлення приховані, тому що вони були або видалені, або їх автори поміщені вами в ігнорування-лист"
+
+},
+
+{
+
+"-id": "TimeZone"
+
+,"ua": "Часова зона"
+
+},
+
+{
+
+"-id": "AllowGuests"
+
+,"ua": "Дозволити гостей"
+
+},
+
+{
+
+"-id": "DisallowGuests"
+
+,"ua": "Заборонити гостей"
+
+},
+
+{
+
+"-id": "MsgGuestsAllowed"
+
+,"ua": "Гостям дозволено писати в темі"
+
+},
+
+{
+
+"-id": "MsgGuestsDisallowed"
+
+,"ua": "Гостям заборонено писати в темі"
+
+},
+
+{
+
+"-id": "TopicIsInFavourites"
+
+,"ua": "Тема з обраного"
+
+},
+
+{
+
+"-id": "HotTopic"
+
+,"ua": "Гаряча тема"
+
+},
+
+{
+
+"-id": "ToTheLast"
+
+,"ua": "Перейти до останнього повідомлення"
+
+},
+
+{
+
+"-id": "MsgTopicMovedFromForum"
+
+,"ua": "Тема була перенесена з форуму '"
+
+},
+
+{
+
+"-id": "MsgUserNasNoRates"
+
+,"ua": "У учасника більше немає оцінок в модерируемых вами форумах"
+
+},
+
+{
+
+"-id": "Statistics"
+
+,"ua": "Статистика"
+
+},
+
+{
+
+"-id": "LoadStatistics"
+
+,"ua": "Статистика навантаження"
+
+},
+
+{
+
+"-id": "Index"
+
+,"ua": "Показник"
+
+},
+
+{
+
+"-id": "Value"
+
+,"ua": "Значення"
+
+},
+
+{
+
+"-id": "HitsCount"
+
+,"ua": "Кількість переглядів"
+
+},
+
+{
+
+"-id": "TopicRMCount"
+
+,"ua": "Кількість ридмаркеров тим"
+
+},
+
+{
+
+"-id": "ForumRMCount"
+
+,"ua": "Кількість ридмаркеров форумів"
+
+},
+
+{
+
+"-id": "ActualStatistics"
+
+,"ua": "Актуальна статистика"
+
+},
+
+{
+
+"-id": "Previous24"
+
+,"ua": "Перед. 24 години"
+
+},
+
+{
+
+"-id": "Last10Minutes"
+
+,"ua": "Посл. 10 хвилин"
+
+},
+
+{
+
+"-id": "LastHour"
+
+,"ua": "Посл. година"
+
+},
+
+{
+
+"-id": "Last24Hours"
+
+,"ua": "Посл. 24 години"
+
+},
+
+{
+
+"-id": "LastWeek"
+
+,"ua": "Останній Тиждень"
+
+},
+
+{
+
+"-id": "LastMonth"
+
+,"ua": "Останній місяць"
+
+},
+
+{
+
+"-id": "LastHalfYear"
+
+,"ua": "Останні півроку"
+
+},
+
+{
+
+"-id": "LastYear"
+
+,"ua": "Останній рік"
+
+},
+
+{
+
+"-id": "WholePeriod"
+
+,"ua": "За увесь період"
+
+},
+
+{
+
+"-id": "PeriodStatistics"
+
+,"ua": "Статистика за період"
+
+},
+
+{
+
+"-id": "AllForums"
+
+,"ua": "Усі форуми"
+
+},
+
+{
+
+"-id": "ErrForumModeratorBlockNotAllowed"
+
+,"ua": "Модератор форуму не може бути заблокований або видалений з цього форуму"
+
+},
+
+{
+
+"-id": "ErrStringContainsInvalidSymbols"
+
+,"ua": "Рядок містить неприпустимі символи"
+
+},
+
+{
+
+"-id": "ShowAllText"
+
+,"ua": "Показати все ."
+
+},
+
+{
+
+"-id": "Version"
+
+,"ua": "Версія"
+
+},
+
+{
+
+"-id": "Versions"
+
+,"ua": "Версії"
+
+},
+
+{
+
+"-id": "Skin"
+
+,"ua": "Скин"
+
+},
+
+{
+
+"-id": "DeleteTheAvatar"
+
+,"ua": "Видалити аватар автора"
+
+},
+
+{
+
+"-id": "ActionAvatarDeleted"
+
+,"ua": "Видалений аватар автора"
+
+},
+
+{
+
+"-id": "MsgConfirmAvatarDelete"
+
+,"ua": "Ви упевнені, що хочете видалити аватар автора"
+
+},
+
+{
+
+"-id": "MsgAvatarDeleted"
+
+,"ua": "Аватар успішно видалений"
+
+},
+
+{
+
+"-id": "ModerateTheReadMarker"
+
+,"ua": "Модерировать ридмаркер автора"
+
+},
+
+{
+
+"-id": "ActionReadMarkerDeleted"
+
+,"ua": "Видалений ридмаркер автора"
+
+},
+
+{
+
+"-id": "ErrReadMarkerEmpty"
+
+,"ua": "Не заданий ридмаркер"
+
+},
+
+{
+
+"-id": "MsgConfirmReadMarkerDelete"
+
+,"ua": "Ви упевнені, що хочете видалити цей ридмаркер"
+
+},
+
+{
+
+"-id": "MsgReadMarkerDeleted"
+
+,"ua": "Ридмаркер успішно видалений"
+
+},
+
+{
+
+"-id": "NotifyOnCitation"
+
+,"ua": "Повідомляти про відповідь або цитированиии"
+
+},
+
+{
+
+"-id": "FavouriteMessages"
+
+,"ua": "Обрані повідомлення"
+
+},
+
+{
+
+"-id": "InterfaceLanguage"
+
+,"ua": "Мова інтерфейсу"
+
+},
+
+{
+
+"-id": "HideFromSearchRobots"
+
+,"ua": "Приховати від пошукових роботів"
+
+},
+
+{
+
+"-id": "ReadMarker"
+
+,"ua": "Рид-маркер"
+
+},
+
+{
+
+"-id": "UserMarker"
+
+,"ua": "Маркер користувача"
+
+},
+
+{
+
+"-id": "LoadLastSavedVersion"
+
+,"ua": "Завантажити останню збережену версію"
+
+},
+
+{
+
+"-id": "MsgSubmitOrCancelCurrentMessage"
+
+,"ua": "Актуальне повідомлення ще не було відправлене. Відправте його або відмініть перш ніж продовжити"
+
+},
+
+{
+
+"-id": "BulkDeletion"
+
+,"ua": "Пакетне видалення"
+
+},
+
+{
+
+"-id": "ErrStartDateEmpty"
+
+,"ua": "Не задана початкова дата"
+
+},
+
+{
+
+"-id": "MsgOperationSuccessful"
+
+,"ua": "Операція виконана успішно"
+
+},
+
+{
+
+"-id": "MsgBulkDeleteConfirm"
+
+,"ua": "Ви упевнені, що хочете виконати цю операцію"
+
+},
+
+{
+
+"-id": "UserAgreement"
+
+,"ua": "Призначена для користувача угода"
+
+},
+
+{
+
+"-id": "Maintenance"
+
+,"ua": "Технічне обслуговування"
+
+},
+
+{
+
+"-id": "MaintenanceComment"
+
+,"ua": "Форум на обслуговуванні імовірно до "
+
+},
+
+{
+
+"-id": "CreationLoading"
+
+,"ua": "созд. / загр"
+
+},
+
+{
+
+"-id": "ErrMessageDoesNotExist"
+
+,"ua": "Сполучення з таким ідентифікатором ( не існує"
+
+},
+
+{
+
+"-id": "EnterPassword"
+
+,"ua": "Ввести пароль для входу"
+
+},
+
+{
+
+"-id": "CancelEnterPassword"
+
+,"ua": "Відмінити введення пароля"
+
+},
+
+{
+
+"-id": "IgnoreGuestsComment"
+
+,"ua": "Введіть імена гостей - кожне ім'я з нового рядка. Якщо ви хочете ігнорувати усіх гостей, залиште поле порожнім"
+
+},
+
+{
+
+"-id": "MsgConfirmUserIgnore"
+
+,"ua": "Ви упевнені, що хочете помістити користувача ' в ігнорування-лист"
+
+},
+
+{
+
+"-id": "MsgPostsSelected"
+
+,"ua": "Вибрано повідомлень"
+
+},
+
+{
+
+"-id": "MsgTopicsSelected"
+
+,"ua": "Вибрано тим"
+
+},
+
+{
+
+"-id": "Anonymous"
+
+,"ua": "Анонімні"
+
+},
+
+{
+
+"-id": "GoToMessage"
+
+,"ua": "Перейти до повідомлення"
+
+},
+
+{
+
+"-id": "ErrTimeout"
+
+,"ua": "Витік час очікування відповіді від сервера (секунд) "
+
+},
+
+{
+
+"-id": "ErrNoServerResponse"
+
+,"ua": "Немає відповіді від сервера або перервано з'єднання"
+
+},
+
+{
+
+"-id": "ErrRequestError"
+
+,"ua": "При виконанні запиту виникла помилка"
+
+},
+
+{
+
+"-id": "WarnAuthorizationRequired"
+
+,"ua": "Форум або тема закриті для гостей. Потрібна авторизація"
+
+},
+
+{
+
+"-id": "OverYearInerval"
+
+,"ua": "Період між повідомленнями більше року"
+
+},
+
+{
+
+"-id": "SelectFile"
+
+,"ua": "Вибрати файл"
+
+},
+
+{
+
+"-id": "ReplaceCurrent"
+
+,"ua": "Змінити поточне вкладення"
+
+},
+
+{
+
+"-id": "Tags"
+
+,"ua": "Теги"
+
+},
+
+{
+
+"-id": "NewTag"
+
+,"ua": "Новий тег"
+
+},
+
+{
+
+"-id": "tags"
+
+,"ua": "теги"
+
+},
+
+{
+
+"-id": "AssignTags"
+
+,"ua": "Виставити теги"
+
+},
+
+{
+
+"-id": "ShowShareLinks"
+
+,"ua": "Показати посилання щоб поділитися"
+
+},
+
+{
+
+"-id": "OpenInFullSize"
+
+,"ua": "Відкрити в повному розмірі в новій вкладці"
+
+},
+
+{
+
+"-id": "ManageTags"
+
+,"ua": "Управління тегами"
+
+},
+
+{
+
+"-id": "Merge"
+
+,"ua": "Об'єднати"
+
+},
+
+{
+
+"-id": "MsgTagsDeleted"
+
+,"ua": "Теги успішно видалені"
+
+},
+
+{
+
+"-id": "MsgTagsMerged"
+
+,"ua": "Теги успішно об'єднані"
+
+},
+
+{
+
+"-id": "AddNewTag"
+
+,"ua": "Додати новий тег"
+
+},
+
+{
+
+"-id": "EditTag"
+
+,"ua": "Редактирвоать тег"
+
+},
+
+{
+
+"-id": "MergeTags"
+
+,"ua": "Об'єднати теги"
+
+},
+
+{
+
+"-id": "TagName"
+
+,"ua": "Назва тега"
+
+},
+
+{
+
+"-id": "ErrTagNameExists"
+
+,"ua": "Тег з такою назвою вже існує"
+
+},
+
+{
+
+"-id": "MsgTagAdded"
+
+,"ua": "Тег доданий"
+
+},
+
+{
+
+"-id": "MsgTagChanged"
+
+,"ua": "Назва тега змінена"
+
+},
+
+{
+
+"-id": "MsgConfirmTagsDelete"
+
+,"ua": "Ви упевнені, що хочете видалити вибрані теги"
+
+},
+
+{
+
+"-id": "ErrMessageIgnoredOrDeleted"
+
+,"ua": "Сполучення з ідентифікатором ( або ігнорується або видалене"
+
+},
+
+{
+
+"-id": "Animation"
+
+,"ua": "Анімація"
+
+},
+
+{
+
+"-id": "ShowSearchURL"
+
+,"ua": "Показати УРЛ пошуку"
+
+},
+
+{
+
+"-id": "ErrUserAlreadyForumModerator"
+
+,"ua": "Користувач вже являється модратором або адміністратором цього форуму і може модерировать тему"
+
+},
+
+{
+
+"-id": "File"
+
+,"ua": "Файл"
+
+},
+
+{
+
+"-id": "Export"
+
+,"ua": "Експортувати"
+
+},
+
+{
+
+"-id": "Import"
+
+,"ua": "Імпортувати"
+
+},
+
+{
+
+"-id": "ExportImport"
+
+,"ua": "Експорт / Імпорт"
+
+},
+
+{
+
+"-id": "ErrCreatingExportFile"
+
+,"ua": "Помилка при створенні экспорт-файла"
+
+},
+
+{
+
+"-id": "MsgSaveDataBeforeExport"
+
+,"ua": "У вас є незбережені зміни у формулярі. Збережіть або відмініть їх перед експортом"
+
+},
+
+{
+
+"-id": "ErrDownloadFileNotSpecified"
+
+,"ua": "Не заданий файл для скачування"
+
+},
+
+{
+
+"-id": "ErrDownloadFileDoesNotExists"
+
+,"ua": "Файл для скачування не існує"
+
+},
+
+{
+
+"-id": "ErrUnknownDownloadRequest"
+
+,"ua": "Невідомий запит на скачування файлу"
+
+},
+
+{
+
+"-id": "MsgProfileImportSuccess"
+
+,"ua": "Профіль успішно испортирован"
+
+},
+
+{
+
+"-id": "ErrImportFileNotSpecified"
+
+,"ua": "Не заданий файл, що імпортується!"
+
+},
+
+{
+
+"-id": "ErrFileIsInvalid"
+
+,"ua": "Заданий файл недійсний"
+
+},
+
+{
+
+"-id": "MsgConfirmMarkRead"
+
+,"ua": "Ви упевнені, що хочете помітити непрочитані повідомлення прочитаними"
+
+},
+
+{
+
+"-id": "SelectAll"
+
+,"ua": "Вибрати все"
+
+},
+
+{
+
+"-id": "ResetSelection"
+
+,"ua": "Відмінити вибір"
+
+},
+
+{
+
+"-id": "UserAgent"
+
+,"ua": "Юзер агент"
+
+},
+
+{
+
+"-id": "UserAgents"
+
+,"ua": "Юзер агенти"
+
+},
+
+{
+
+"-id": "CreatePrivateTopic"
+
+,"ua": "Створити модерируемую приватну тему"
+
+},
+
+{
+
+"-id": "ErrCanNotLeaveOwnTopic"
+
+,"ua": "Ви не можете покинути власну модерируемую приватну тему"
+
+},
+
+{
+
+"-id": "ShowEmbeddedVideo"
+
+,"ua": "Вбудоване відео, кликніть для перегляду"
+
+},
+
+{
+
+"-id": "ErrAttachmentIdNotNumber"
+
+,"ua": "Ідентифікатор вкладення має бути дійсним числовим посиланням на сполучення з вкладенням"
+
+},
+
+{
+
+"-id": "ErrMessageAttachmentDoesNotExist"
+
+,"ua": "Сполучення з таким ідентифікатором ( не існує, або у нього відсутнє соответсвующее вкладення"
+
+},
+
+{
+
+"-id": "ErrMessageAttachmentNotProvided"
+
+,"ua": "Ви не задали вкладення, на яке намагаєтеся посилатися"
+
+},
+
+{
+
+"-id": "of"
+
+,"ua": "з"
+
+},
+
+{
+
+"-id": "MsgNotAllFoundTopicsShown"
+
+,"ua": "Надто багато результатів. Показані тільки з тем"
+
+},
+
+{
+
+"-id": "MsgNotAllFoundPostsShown"
+
+,"ua": "Надто багато результатів. Показані тільки з повідомлень"
+
+}
 ]

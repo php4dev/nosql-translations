@@ -1199,4 +1199,1807 @@
     <element id="MsgTopicsRestored">
         <ua>Теми успішно відновлені</ua>
     </element>
+    <element id="MsgConfirmTopicsDelete">
+        <ua>Ви упевнені, що хочете видалити вибрані теми</ua>
+    </element>
+    <element id="MsgConfirmTopicsClose">
+        <ua>Ви упевнені, що хочете закрити вибрані теми</ua>
+    </element>
+    <element id="ErrNoTopicSelected">
+        <ua>Не вибрана тема</ua>
+    </element>
+    <element id="ErrNoForumSelected">
+        <ua>Не вибраний форум</ua>
+    </element>
+    <element id="MsgTopicAddedToFavourites">
+        <ua>Тема додана в обране</ua>
+    </element>
+    <element id="MsgTopicRemovedFromFavourites">
+        <ua>Тема видалена з обраного</ua>
+    </element>
+    <element id="MsgTopicsRemovedFromFavourites">
+        <ua>Теми видалені з обраного</ua>
+    </element>
+    <element id="MsgTopicAddedToIgnored">
+        <ua>Тема тепер ігнорується і не відображатиметься в списку тем з новими повідомленнями</ua>
+    </element>
+    <element id="MsgTopicsAddedToIgnored">
+        <ua>Теми тепер ігноруються і не відображатимуться в списку тем з новими повідомленнями</ua>
+    </element>
+    <element id="MsgTopicRemovedFromIgnored">
+        <ua>Тема більше не ігнорується</ua>
+    </element>
+    <element id="MsgTopicSubscribed">
+        <ua>Ви підписані на уведноления про нові повідомлення в цій темі</ua>
+    </element>
+    <element id="MsgTopicUnsubscribed">
+        <ua>Ви відписані від уведнолений про нові повідомлення в цій темі</ua>
+    </element>
+    <element id="MsgConfirmPostsDelete">
+        <ua>Ви упевнені, що хочете видалити вибрані повідомлення</ua>
+    </element>
+    <element id="ErrNoPostSelected">
+        <ua>Не вибрано повідомлення</ua>
+    </element>
+    <element id="ErrNoTagSelected">
+        <ua>Не вибраний тег</ua>
+    </element>
+    <element id="ErrTagNameEmpty">
+        <ua>Не задана назва тега</ua>
+    </element>
+    <element id="MsgPostsDeleted">
+        <ua>Повідомлення успішно видалені</ua>
+    </element>
+    <element id="MsgRatesDeleted">
+        <ua>Оцінки успішно видалені</ua>
+    </element>
+    <element id="Answer">
+        <ua>Відповісти</ua>
+    </element>
+    <element id="Citate">
+        <ua>Цитувати</ua>
+    </element>
+    <element id="Citation">
+        <ua>Цитата</ua>
+    </element>
+    <element id="Spoiler">
+        <ua>Спойлер</ua>
+    </element>
+    <element id="Code">
+        <ua>Код</ua>
+    </element>
+    <element id="Complain">
+        <ua>Поскаржитися</ua>
+    </element>
+    <element id="More">
+        <ua>Ще .</ua>
+    </element>
+    <element id="Link">
+        <ua>Посилання</ua>
+    </element>
+    <element id="LinkToMessage">
+        <ua>Посилання на повідомлення</ua>
+    </element>
+    <element id="LinkWithTopicName">
+        <ua>Посилання з назвою теми</ua>
+    </element>
+    <element id="MarkForCopy">
+        <ua>Виділити для копіювання</ua>
+    </element>
+    <element id="ModerateAuthor">
+        <ua>Модерировать автора</ua>
+    </element>
+    <element id="EditAuthor">
+        <ua>Редагувати автора</ua>
+    </element>
+    <element id="DeleteAuthorMessagesInTopic">
+        <ua>Видалити повідомлення автора в цій темі</ua>
+    </element>
+    <element id="DeleteAuthorMessagesInForum">
+        <ua>Видалити повідомлення автора в цьому форумі</ua>
+    </element>
+    <element id="DeleteAllAuthorMessages">
+        <ua>Видалити усі повідомлення автора</ua>
+    </element>
+    <element id="DeleteLast10AuthorMessages">
+        <ua>Видалити останні 10 повідомлень автора</ua>
+    </element>
+    <element id="DeleteLast10AuthorRates">
+        <ua>Видалити останні 10 оцінок автора</ua>
+    </element>
+    <element id="ShowMembersOfIP">
+        <ua>Показати учасників з цією IP адресою</ua>
+    </element>
+    <element id="ShowMembersOfUserMarker">
+        <ua>Показати учасників з цим маркером користувача</ua>
+    </element>
+    <element id="ShowAuthorIPs">
+        <ua>Показати IP адреси автора</ua>
+    </element>
+    <element id="ShowMembersOfAuthorIPs">
+        <ua>Показати учасників з IP адресами як у автора</ua>
+    </element>
+    <element id="MakeAuthorTopicModerator">
+        <ua>Призначити автора модератором теми</ua>
+    </element>
+    <element id="RemoveAuthorFromTopicModerator">
+        <ua>Забрати у автора права модератора теми</ua>
+    </element>
+    <element id="MsgConfirmPostsInTopicDelete">
+        <ua>Ви упевнені, що хочете видалити повідомлення автора ' в цій темі</ua>
+    </element>
+    <element id="MsgConfirmPostsInForumDelete">
+        <ua>Ви упевнені, що хочете видалити повідомлення автора ' в цьому форумі</ua>
+    </element>
+    <element id="MsgConfirmAllPostsDelete">
+        <ua>Ви упевнені, що хочете видалити усі повідомлення автора '</ua>
+    </element>
+    <element id="MsgConfirmLast10PostsDelete">
+        <ua>Ви упевнені, що хочете видалити останні 10 повідомлень автора '</ua>
+    </element>
+    <element id="MsgConfirmLast10RatesDelete">
+        <ua>Ви упевнені, що хочете видалити останні 10 оцінок автора '</ua>
+    </element>
+    <element id="MsgConfirmMakeTopicModerator">
+        <ua>Ви упевнені, що хочете призначити учасника ' модератором теми</ua>
+    </element>
+    <element id="MsgConfirmRemoveFromTopicModerator">
+        <ua>Ви упевнені, що хочете забрати у учасника ' статус модератора теми</ua>
+    </element>
+    <element id="ErrNoUserSelected">
+        <ua>Не вибраний користувач</ua>
+    </element>
+    <element id="MsgTopicModeratorMade">
+        <ua>Учасник призначений модератором теми</ua>
+    </element>
+    <element id="MsgTopicModeratorRevoked">
+        <ua>У учасника видалений статус модератора теми</ua>
+    </element>
+    <element id="PinMessage">
+        <ua>Прикріпити повідомлення</ua>
+    </element>
+    <element id="UnpinMessage">
+        <ua>Відкріпити повідомлення</ua>
+    </element>
+    <element id="MsgMessagePinned">
+        <ua>Повідомлення успішно прикріплене</ua>
+    </element>
+    <element id="MsgMessageUnpinned">
+        <ua>Повідомлення успішно відкріплене</ua>
+    </element>
+    <element id="ErrPinDeletedMessage">
+        <ua>Видалене повідомлення не може бути прикріплене</ua>
+    </element>
+    <element id="ErrOnlyOnePostCanBePinned">
+        <ua>В темі вже є прикріплене повідомлення</ua>
+    </element>
+    <element id="MsgConfirmRemoveFromFavourites">
+        <ua>Ви упевнені, що хочете видалити вибрані теми з обраного</ua>
+    </element>
+    <element id="Warn">
+        <ua>Зробити зауваження</ua>
+    </element>
+    <element id="WarnMessageAlreadyRated">
+        <ua>Ви вже оцінили це повідомлення</ua>
+    </element>
+    <element id="UserProfileLink">
+        <ua>Посилання на профіль користувача</ua>
+    </element>
+    <element id="NewMessage">
+        <ua>Нове повідомлення</ua>
+    </element>
+    <element id="MsgTopicsMoved">
+        <ua>Теми успішно перенесені</ua>
+    </element>
+    <element id="MsgTopicMoved">
+        <ua>Тема успішно перенесена</ua>
+    </element>
+    <element id="Cancel">
+        <ua>Відмінити</ua>
+    </element>
+    <element id="TargetTopic">
+        <ua>Цільова тема</ua>
+    </element>
+    <element id="EnterTopicKeyword">
+        <ua>Введіть ключове слово або ID теми</ua>
+    </element>
+    <element id="Apply">
+        <ua>Застосувати</ua>
+    </element>
+    <element id="MsgTopicsMerged">
+        <ua>Теми успішно об'єднані з цільовою темою</ua>
+    </element>
+    <element id="MsgTopicMerged">
+        <ua>Тема успішно об'єднана з цільовою темою</ua>
+    </element>
+    <element id="WarnTopicMerged">
+        <ua>Тема, яку ви намагаєтеся подивитися, була об'єднана з іншою темою. Ви були автоматично перенаправлені в цільову тему</ua>
+    </element>
+    <element id="MsgPostsMoved">
+        <ua>Повідомлення успішно перенесені</ua>
+    </element>
+    <element id="HideProfile">
+        <ua>Приховати профіль</ua>
+    </element>
+    <element id="OpenProfile">
+        <ua>Відкрити профіль</ua>
+    </element>
+    <element id="AllowRating">
+        <ua>Дозволити виставляти оцінки</ua>
+    </element>
+    <element id="DisallowRating">
+        <ua>Заборонити виставляти оцінки</ua>
+    </element>
+    <element id="PutToIgnoreList">
+        <ua>Помістити в ігнорування-лист</ua>
+    </element>
+    <element id="RemoveFromIgnoreList">
+        <ua>Видалити з игнор-листа</ua>
+    </element>
+    <element id="ignored">
+        <ua>в игнор-листе</ua>
+    </element>
+    <element id="Ignored">
+        <ua>В игнор-листе</ua>
+    </element>
+    <element id="ignoring _ me">
+        <ua>ігнорує мене</ua>
+    </element>
+    <element id="ignoring _ guests">
+        <ua>ігнорує гостей</ua>
+    </element>
+    <element id="IgnoringMe">
+        <ua>Ігнорує мене</ua>
+    </element>
+    <element id="IgnoringGuests">
+        <ua>Ігнорує гостей</ua>
+    </element>
+    <element id="MsgUserAddedToIngoreList">
+        <ua>Учасник доданий в ігнорування-лист</ua>
+    </element>
+    <element id="MsgUserRemovedFromIngoreList">
+        <ua>Учасник видалений з игнор-листа</ua>
+    </element>
+    <element id="Comment">
+        <ua>Коментар</ua>
+    </element>
+    <element id="Action">
+        <ua>Дія</ua>
+    </element>
+    <element id="DateTime">
+        <ua>Дата / Час</ua>
+    </element>
+    <element id="Date">
+        <ua>Дата</ua>
+    </element>
+    <element id="DateRange">
+        <ua>Період</ua>
+    </element>
+    <element id="NoEvents">
+        <ua>Немає подій</ua>
+    </element>
+    <element id="IPAddress">
+        <ua>IP адреса</ua>
+    </element>
+    <element id="IPAddressOrMarker">
+        <ua>IP адреса або маркер</ua>
+    </element>
+    <element id="ActionPostRestored">
+        <ua>Повідомлення відновлене</ua>
+    </element>
+    <element id="ActionPostDeleted">
+        <ua>Повідомлення видалене</ua>
+    </element>
+    <element id="ActionAttachmentRestored">
+        <ua>Вкладення відновлене</ua>
+    </element>
+    <element id="ActionAttachmentDeleted">
+        <ua>Вкладення видалене</ua>
+    </element>
+    <element id="ActionPostWarned">
+        <ua>Авторові видано попередження</ua>
+    </element>
+    <element id="IncludeRatingActions">
+        <ua>Включаючи оцінні дії</ua>
+    </element>
+    <element id="ActionPostLiked">
+        <ua>Повідомленню поставлений лайк</ua>
+    </element>
+    <element id="ActionPostDisliked">
+        <ua>Повідомленню поставлений дизлайк</ua>
+    </element>
+    <element id="ActionLikeRevoked">
+        <ua>Лайк на повідомлення скасований</ua>
+    </element>
+    <element id="ActionDislikeRevoked">
+        <ua>Дизлайк на повідомлення скасований</ua>
+    </element>
+    <element id="ActionTopicModeratorMade">
+        <ua>Учасник призначений модератором теми</ua>
+    </element>
+    <element id="ActionTopicModeratorRevoked">
+        <ua>Видалений статус модератора теми</ua>
+    </element>
+    <element id="ActionForumModeratorMade">
+        <ua>Учасник призначений модератором форуму</ua>
+    </element>
+    <element id="ActionForumModeratorRevoked">
+        <ua>Видалений статус модератора форуму</ua>
+    </element>
+    <element id="ActionForumOpened">
+        <ua>Форум відкритий</ua>
+    </element>
+    <element id="ActionForumClosed">
+        <ua>Форум закритий</ua>
+    </element>
+    <element id="ActionForumDeleted">
+        <ua>Форум видалений</ua>
+    </element>
+    <element id="ActionForumRestored">
+        <ua>Форум відновлений</ua>
+    </element>
+    <element id="ActionTopicOpened">
+        <ua>Тема відкрита</ua>
+    </element>
+    <element id="ActionTopicClosed">
+        <ua>Тема закрита</ua>
+    </element>
+    <element id="ActionTopicDeleted">
+        <ua>Тема видалена</ua>
+    </element>
+    <element id="ActionTopicRestored">
+        <ua>Тема відновлена</ua>
+    </element>
+    <element id="ActionTopicPinned">
+        <ua>Тема прикріплена</ua>
+    </element>
+    <element id="ActionTopicUnpinned">
+        <ua>Тема відкріплена</ua>
+    </element>
+    <element id="ActionTopicGuestsAllowed">
+        <ua>Гостям дозволено писати в темі</ua>
+    </element>
+    <element id="ActionTopicGuestsDisallowed">
+        <ua>Гостям заборонено писати в темі</ua>
+    </element>
+    <element id="ActionTopicMoved">
+        <ua>Тема перенесена</ua>
+    </element>
+    <element id="ActionTopicMerged">
+        <ua>Тема об'єднана</ua>
+    </element>
+    <element id="ActionPostPinned">
+        <ua>Повідомлення прикріплене</ua>
+    </element>
+    <element id="ActionPostUnpinned">
+        <ua>Повідомлення відкріплене</ua>
+    </element>
+    <element id="ActionPostMoved">
+        <ua>Повідомлення перенесене</ua>
+    </element>
+    <element id="ActionPostChanged">
+        <ua>Повідомлення змінене</ua>
+    </element>
+    <element id="ActionTopicChanged">
+        <ua>Назва теми змінена</ua>
+    </element>
+    <element id="ActionPostsDeletedInTopic">
+        <ua>Видалені повідомлення автора в темі</ua>
+    </element>
+    <element id="ActionPostsDeletedInForum">
+        <ua>Видалені повідомлення автора у форумі</ua>
+    </element>
+    <element id="ActionPostsDeleted">
+        <ua>Видалені усі повідомлення автора</ua>
+    </element>
+    <element id="Action10PostsDeleted">
+        <ua>Видалені останні 10 повідомлень автора</ua>
+    </element>
+    <element id="Action10RatesDeleted">
+        <ua>Видалені останні 10 оцінок автора</ua>
+    </element>
+    <element id="MondayShort">
+        <ua>понеділок</ua>
+    </element>
+    <element id="TuesdayShort">
+        <ua>Вт</ua>
+    </element>
+    <element id="WednesdayShort">
+        <ua>Ср</ua>
+    </element>
+    <element id="ThursdayShort">
+        <ua>Чт</ua>
+    </element>
+    <element id="FridayShort">
+        <ua>Пт</ua>
+    </element>
+    <element id="SaturdayShort">
+        <ua>Сб</ua>
+    </element>
+    <element id="SundayShort">
+        <ua>Вс</ua>
+    </element>
+    <element id="January">
+        <ua>Січень</ua>
+    </element>
+    <element id="February">
+        <ua>Лютий</ua>
+    </element>
+    <element id="March">
+        <ua>Березень</ua>
+    </element>
+    <element id="April">
+        <ua>Квітень</ua>
+    </element>
+    <element id="May">
+        <ua>Травень</ua>
+    </element>
+    <element id="June">
+        <ua>Червень</ua>
+    </element>
+    <element id="July">
+        <ua>Липень</ua>
+    </element>
+    <element id="August">
+        <ua>Серпень</ua>
+    </element>
+    <element id="September">
+        <ua>Вересень</ua>
+    </element>
+    <element id="October">
+        <ua>Жовтень</ua>
+    </element>
+    <element id="November">
+        <ua>Листопад</ua>
+    </element>
+    <element id="December">
+        <ua>Грудень</ua>
+    </element>
+    <element id="JanuaryShort">
+        <ua>Янв</ua>
+    </element>
+    <element id="FebruaryShort">
+        <ua>Фев</ua>
+    </element>
+    <element id="MarchShort">
+        <ua>Мари</ua>
+    </element>
+    <element id="AprilShort">
+        <ua>Апр</ua>
+    </element>
+    <element id="MayShort">
+        <ua>Травень</ua>
+    </element>
+    <element id="JuneShort">
+        <ua>Июн</ua>
+    </element>
+    <element id="JulyShort">
+        <ua>Июл</ua>
+    </element>
+    <element id="AugustShort">
+        <ua>Авг</ua>
+    </element>
+    <element id="SeptemberShort">
+        <ua>Сен</ua>
+    </element>
+    <element id="OctoberShort">
+        <ua>Окт</ua>
+    </element>
+    <element id="NovemberShort">
+        <ua>Ниючи</ua>
+    </element>
+    <element id="DecemberShort">
+        <ua>Дек</ua>
+    </element>
+    <element id="CalSeparator">
+        <ua string="true"/>
+    </element>
+    <element id="CalDateFormat">
+        <ua>d/m/y</ua>
+    </element>
+    <element id="Preview">
+        <ua>Перегляд</ua>
+    </element>
+    <element id="Period">
+        <ua>Термін</ua>
+    </element>
+    <element id="Days">
+        <ua>Дні</ua>
+    </element>
+    <element id="Hours">
+        <ua>Годинник</ua>
+    </element>
+    <element id="Minutes">
+        <ua>Хвилини</ua>
+    </element>
+    <element id="DaysShort">
+        <ua>дн</ua>
+    </element>
+    <element id="HoursShort">
+        <ua>година</ua>
+    </element>
+    <element id="MinutesShort">
+        <ua>мін</ua>
+    </element>
+    <element id="Reason">
+        <ua>Причина</ua>
+    </element>
+    <element id="ForAllForums">
+        <ua>На усіх модерируемых форумах</ua>
+    </element>
+    <element id="Roughness">
+        <ua>Грубість / Зневага</ua>
+    </element>
+    <element id="Flood">
+        <ua>Флуд</ua>
+    </element>
+    <element id="Spam">
+        <ua>Спам</ua>
+    </element>
+    <element id="AuthorWish">
+        <ua>За власним бажанням</ua>
+    </element>
+    <element id="EthnicHatred">
+        <ua>Розпалювання національного розбрату</ua>
+    </element>
+    <element id="IllegalContent">
+        <ua>Публікація нелегальних матеріалів</ua>
+    </element>
+    <element id="UnlawfulStatement">
+        <ua>Протиправне висловлювання</ua>
+    </element>
+    <element id="OtherReason">
+        <ua>Інша причина</ua>
+    </element>
+    <element id="MsgProfileHidden">
+        <ua>Профіль успішно прихований</ua>
+    </element>
+    <element id="MsgProfileOpened">
+        <ua>Профіль успішно відкритий</ua>
+    </element>
+    <element id="ActionProfileHidden">
+        <ua>Профіль прихований</ua>
+    </element>
+    <element id="ActionProfileOpened">
+        <ua>Профіль відкритий</ua>
+    </element>
+    <element id="MsgRatingDisallowed">
+        <ua>Виставляння оцінок цим учасником заборонене</ua>
+    </element>
+    <element id="MsgRatingAllowed">
+        <ua>Виставляння оцінок цим учасником дозволене</ua>
+    </element>
+    <element id="ErrRatingBlocked">
+        <ua>Вам заборонено оцінювати повідомлення</ua>
+    </element>
+    <element id="ActionRatingDisallowed">
+        <ua>Виставляння оцінок заборонене</ua>
+    </element>
+    <element id="ActionRatingAllowed">
+        <ua>Виставляння оцінок дозволене</ua>
+    </element>
+    <element id="ErrModeratorBlockNotAllowed">
+        <ua>Модератори і адміністратори не можуть бути заблоковані або приховані</ua>
+    </element>
+    <element id="ErrBlockReasonNotSpecified">
+        <ua>Вкажіть причину блокування</ua>
+    </element>
+    <element id="MsgUserBlocked">
+        <ua>Користувач успішно заблокований</ua>
+    </element>
+    <element id="MsgUserUnblocked">
+        <ua>Користувач успішно розблокований</ua>
+    </element>
+    <element id="ActionUserBlocked">
+        <ua>Користувач заблокований</ua>
+    </element>
+    <element id="ActionUserUnblocked">
+        <ua>Користувач розблокований</ua>
+    </element>
+    <element id="ActionUserDeleted">
+        <ua>Користувач видалений</ua>
+    </element>
+    <element id="ActionBulkDeleteMessages">
+        <ua>Повідомлення видалені шляхом пакетного видалення</ua>
+    </element>
+    <element id="ActionUserBlockedUntil">
+        <ua>Користувач заблокований до {time}</ua>
+    </element>
+    <element id="ActionUserForumBlocked">
+        <ua>Користувач заблокований на запис у форум</ua>
+    </element>
+    <element id="ActionUserForumUnblocked">
+        <ua>Користувач розблокований на запис у форум</ua>
+    </element>
+    <element id="ActionUserTopicBlocked">
+        <ua>Користувач заблокований на запис в тему</ua>
+    </element>
+    <element id="ActionUserTopicUnblocked">
+        <ua>Користувач розблокований на запис в тему</ua>
+    </element>
+    <element id="ActionUserForumBlockedUntil">
+        <ua>Користувач заблокований на запис у форум до {time}</ua>
+    </element>
+    <element id="UnblockOnForums">
+        <ua>Розблоковувати на форумам</ua>
+    </element>
+    <element id="ErrForumNotAccessible">
+        <ua>У вас немає доступу у форум '</ua>
+    </element>
+    <element id="WarnTopicDeleted">
+        <ua>Прошена тема була видалена</ua>
+    </element>
+    <element id="ForumsWithRestrictedAccess">
+        <ua>Форуми з обмеженим доступом</ua>
+    </element>
+    <element id="MsgForumAccessSet">
+        <ua>Права доступу в захищені форуми успішно оновлені</ua>
+    </element>
+    <element id="ActionGrantForumAccess">
+        <ua>Даний доступ в захищений форум</ua>
+    </element>
+    <element id="ActionRevokeForumAccess">
+        <ua>Відняв доступ в захищений форум</ua>
+    </element>
+    <element id="ResetMyRating">
+        <ua>Відмінити мою оцінку</ua>
+    </element>
+    <element id="ErrIPAddressEmpty">
+        <ua>Не заданий IP адреса</ua>
+    </element>
+    <element id="ErrUserMarkerEmpty">
+        <ua>Не заданий маркер користувача</ua>
+    </element>
+    <element id="NoData">
+        <ua>Немає даних</ua>
+    </element>
+    <element id="IPAddresses">
+        <ua>IP адреси</ua>
+    </element>
+    <element id="OtherAuthors">
+        <ua>Інші автори</ua>
+    </element>
+    <element id="MsgIPBlocked">
+        <ua>IP адреса успішно заблокована</ua>
+    </element>
+    <element id="MsgIPUnblocked">
+        <ua>IP адреса успішно розблокована</ua>
+    </element>
+    <element id="ActionIPBlocked">
+        <ua>IP адреса заблокована</ua>
+    </element>
+    <element id="ActionIPBlockedUntil">
+        <ua>IP адреса заблокована до {time}</ua>
+    </element>
+    <element id="ActionIPUnblocked">
+        <ua>IP адреса розблокована</ua>
+    </element>
+    <element id="MsgUserMarkerBlocked">
+        <ua>Маркер користувача успішно заблокований</ua>
+    </element>
+    <element id="MsgUserMarkerUnblocked">
+        <ua>Маркер користувача успішно розблокований</ua>
+    </element>
+    <element id="ActionUserMarkerBlocked">
+        <ua>Маркер користувача заблокований</ua>
+    </element>
+    <element id="ActionUserMarkerBlockedUntil">
+        <ua>Маркер користувача заблокований до {time}</ua>
+    </element>
+    <element id="ActionUserMarkerUnblocked">
+        <ua>Маркер користувача розблокований</ua>
+    </element>
+    <element id="MsgConfirmPostCancel">
+        <ua>Введеные дані будуть втрачені! Ви упевнені, що хочете відмінити створення повідомлення</ua>
+    </element>
+    <element id="MsgConfirmPostOverwrite">
+        <ua>Введеные дані будуть втрачені! Ви упевнені, що хочете перезаписати повідомлення</ua>
+    </element>
+    <element id="ErrAuthorNameEmpty">
+        <ua>Не задано ім'я автора</ua>
+    </element>
+    <element id="PasteIntoMessage">
+        <ua>Вставити</ua>
+    </element>
+    <element id="AttachmentLink">
+        <ua>Посилання на вкладення</ua>
+    </element>
+    <element id="ErrAttachmentTooLarge">
+        <ua>Розмір вкладення ' занадто великий (! Макcимальный розмір вкладень </ua>
+    </element>
+    <element id="ErrFileProcessing">
+        <ua>Помилка при обробці файлу '</ua>
+    </element>
+    <element id="Modified">
+        <ua>Змінено</ua>
+    </element>
+    <element id="ErrForumClosed">
+        <ua>Форум закритий</ua>
+    </element>
+    <element id="ErrTopicClosed">
+        <ua>Тема закрита</ua>
+    </element>
+    <element id="ErrForumGuestsNotAllowed">
+        <ua>На цьому форумі або в цій темі незареєстрованим користувачам не дозволено залишати повідомлення</ua>
+    </element>
+    <element id="MsgComplaintSent">
+        <ua>Скарга успішно відправлена</ua>
+    </element>
+    <element id="ErrAccountIsBlockedOnForum">
+        <ua>Ваш обліковий запис заблокований на запис на форумі '! Ви можете подивитися причину блокування у вашому профілі</ua>
+    </element>
+    <element id="ErrAccountIsBlockedInTopic">
+        <ua>Ваш обліковий запис заблокований на запис в цій темі</ua>
+    </element>
+    <element id="ErrAccountIsBlockedUntilOnForum">
+        <ua>Ваш обліковий запис заблокований на запис на форумі ' до Ви можете подивитися причину блокування у вашому профілі</ua>
+    </element>
+    <element id="ErrIPIsBlocked">
+        <ua>Ваш IP- адреса [ заблокований! Якщо ви вважаєте блокування помилковим, зв'яжіться з адміністрацією форуму через пункт меню "Контакт" чи зареєструйтеся</ua>
+    </element>
+    <element id="ErrIPIsBlockedUntil">
+        <ua>Ваш IP- адреса [ заблокований до Залишилося часу: Якщо ви вважаєте блокування помилковим, зв'яжіться з адміністрацією форуму через пункт меню "Контакт" чи зареєструйтеся</ua>
+    </element>
+    <element id="ErrUserMarkerIsBlocked">
+        <ua>Ви заблоковані! Якщо ви вважаєте блокування помилковим, зв'яжіться з адміністрацією форуму через пункт меню "Контакт" чи зареєструйтеся</ua>
+    </element>
+    <element id="ErrUserMarkerIsBlockedUntil">
+        <ua>Ви заблоковані до Залишилося часу: Якщо ви вважаєте блокування помилковим, зв'яжіться з адміністрацією форуму через пункт меню "Контакт" чи зареєструйтеся</ua>
+    </element>
+    <element id="ErrMessageLimitExceeded">
+        <ua>Ви перевищили ліміт (повідомлень в хвилину)! Спробуйте відправити ваше повідомлення трохи пізніше</ua>
+    </element>
+    <element id="ErrMessageGuestRestricted">
+        <ua>Нові гості не можуть відразу писати повідомлення на цьому форумі! Зареєструйтеся або почекайте </ua>
+    </element>
+    <element id="ErrTopicLimitExceeded">
+        <ua>Ви перевищили ліміт (тим в добу)! Створення нової теми буде можливе через: </ua>
+    </element>
+    <element id="ErrComplainLimitExceeded">
+        <ua>Ви перевищили ліміт (скарг в добу)! Спробуйте відправити нову скаргу трохи пізніше</ua>
+    </element>
+    <element id="ErrRateLimitExceeded">
+        <ua>Ви перевищили ліміт (оцінних дій в годину на одного користувача)! Спробуйте повторити дію трохи пізніше</ua>
+    </element>
+    <element id="Receiver">
+        <ua>Одержувач</ua>
+    </element>
+    <element id="NoPrivateMessages">
+        <ua>Відключити особисті повідомлення</ua>
+    </element>
+    <element id="IgnoreGuests">
+        <ua>Ігнорувати гостей</ua>
+    </element>
+    <element id="IgnoreGuestsExcept">
+        <ua>окрім</ua>
+    </element>
+    <element id="ErrNoAccessToPrivateTopic">
+        <ua>У вас немає доступу в цю приватну тему! Автор або вас ще не додав в приватну дискусію, або видалив з неї</ua>
+    </element>
+    <element id="ErrUserNoPrivateMessages">
+        <ua>Особисте повідомлення не може бути відправлене, оскільки учасник відключив особисті повідомлення</ua>
+    </element>
+    <element id="ErrUserIgnored">
+        <ua>Учасник помістив вас в ігнорування-лист</ua>
+    </element>
+    <element id="CreateNewTopic">
+        <ua>Створити нову тему</ua>
+    </element>
+    <element id="EnterNewTopicName">
+        <ua>Введіть назву для нової теми</ua>
+    </element>
+    <element id="LeaveTopic">
+        <ua>Покинути тему</ua>
+    </element>
+    <element id="MsgConfirmLeaveTopic">
+        <ua>Ви упевнені, що хочете покинути тему? Після покидання у вас не буде можливості самостійно в неї повернутися</ua>
+    </element>
+    <element id="MsgLeaveTopicSuccess">
+        <ua>Ви успішно покинули тему</ua>
+    </element>
+    <element id="ManageMembers">
+        <ua>Управління учасниками</ua>
+    </element>
+    <element id="TopicMembers">
+        <ua>Учасники теми</ua>
+    </element>
+    <element id="MsgPrivateMembersRenewed">
+        <ua>Список учасників успішно оновлений</ua>
+    </element>
+    <element id="MsgBlockedMembersRenewed">
+        <ua>Список заблокованих учасників успішно оновлений</ua>
+    </element>
+    <element id="DailyActivity">
+        <ua>Активність по днях</ua>
+    </element>
+    <element id="VisitingGeography">
+        <ua>Географія відвідувань</ua>
+    </element>
+    <element id="ForumActivity">
+        <ua>Активність на форумах</ua>
+    </element>
+    <element id="HiddenForums">
+        <ua>Приховані форуми</ua>
+    </element>
+    <element id="Poll">
+        <ua>Опитування</ua>
+    </element>
+    <element id="DelayPublishing">
+        <ua>Відкласти публікацію</ua>
+    </element>
+    <element id="PublishingDelayed">
+        <ua>Публікація відкладена</ua>
+    </element>
+    <element id="not _ published">
+        <ua>неопубліковано</ua>
+    </element>
+    <element id="ErrTopicNotPublished">
+        <ua>Тема ще не опублікована</ua>
+    </element>
+    <element id="MsgTopicPublished">
+        <ua>Тема успішно опублікована</ua>
+    </element>
+    <element id="Publish">
+        <ua>Опублікувати</ua>
+    </element>
+    <element id="CreatePoll">
+        <ua>Створити опитування</ua>
+    </element>
+    <element id="PollComment">
+        <ua>Введіть варіанти відповідей для опитування, кожен варіант з нового рядка. Підтримуються теги [url], [smile] і [img]</ua>
+    </element>
+    <element id="PollMultiselect">
+        <ua>Множинний вибір</ua>
+    </element>
+    <element id="OpenPoll">
+        <ua>Відкрите опитування</ua>
+    </element>
+    <element id="OpenPollComment">
+        <ua>Це опитування відкрите. Ваш вибір буде видний іншим учасникам</ua>
+    </element>
+    <element id="ErrNoPollOptions">
+        <ua>Не задані варіанти відповідей для опитування</ua>
+    </element>
+    <element id="ErrPollOptionTooLong">
+        <ua>Варіант відповіді не повинен перевищувати символів</ua>
+    </element>
+    <element id="ErrPollOptionExists">
+        <ua>Варіант відповіді ' зустрічається в опитуванні двічі</ua>
+    </element>
+    <element id="AccountConfirmationRequired">
+        <ua>Потрібно підтвердження адміністратора</ua>
+    </element>
+    <element id="Approved">
+        <ua>Схвалений</ua>
+    </element>
+    <element id="MsgUserDeleteConfirm">
+        <ua>Ви упевнені, що хочете видалити користувача з усіма його повідомленнями</ua>
+    </element>
+    <element id="MsgUserDeleted">
+        <ua>Користувач успішно видалений</ua>
+    </element>
+    <element id="Likes">
+        <ua>Лайки</ua>
+    </element>
+    <element id="ActivateLikes">
+        <ua>Включити лайки</ua>
+    </element>
+    <element id="ActivateDislikes">
+        <ua>Включити дизлайки</ua>
+    </element>
+    <element id="DislikesAnonymous">
+        <ua>Анонімні дизлайки</ua>
+    </element>
+    <element id="Liked">
+        <ua>Подобається</ua>
+    </element>
+    <element id="Disliked">
+        <ua>Не подобається</ua>
+    </element>
+    <element id="MoreUsers">
+        <ua>ще .</ua>
+    </element>
+    <element id="Vote">
+        <ua>Проголосувати</ua>
+    </element>
+    <element id="Voted">
+        <ua>Проголосувало</ua>
+    </element>
+    <element id="MsgAlreadyVoted">
+        <ua>Ви вже проголосували</ua>
+    </element>
+    <element id="ErrAlreadyVoted">
+        <ua>Ви вже проголосували</ua>
+    </element>
+    <element id="ErrNoOptionChosen">
+        <ua>Не вибрана відповідь</ua>
+    </element>
+    <element id="SendNotifications">
+        <ua>Посилати повідомлення на эл. ушаную</ua>
+    </element>
+    <element id="NoNotificationsOnRates">
+        <ua>Не повідомляти про оцінки</ua>
+    </element>
+    <element id="TurnOffEvents">
+        <ua>Відключити події</ua>
+    </element>
+    <element id="Sorting">
+        <ua>Сортування</ua>
+    </element>
+    <element id="new">
+        <ua>нові</ua>
+    </element>
+    <element id="MsgForumsMarkedRead">
+        <ua>Форуми успішно помічені прочитаними</ua>
+    </element>
+    <element id="MsgForumMarkedRead">
+        <ua>Форум успішно помічений прочитаним</ua>
+    </element>
+    <element id="MsgTopicMarkedRead">
+        <ua>Тема успішно помічена прочитаною</ua>
+    </element>
+    <element id="MsgTopicsMarkedRead">
+        <ua>Теми успішно помічені прочитаними</ua>
+    </element>
+    <element id="Install">
+        <ua>Инсталировать</ua>
+    </element>
+    <element id="Installation">
+        <ua>Інсталяція</ua>
+    </element>
+    <element id="AdminData">
+        <ua>Дані мастер-администратора</ua>
+    </element>
+    <element id="DatabaseConnection">
+        <ua>З'єднання з базою даних</ua>
+    </element>
+    <element id="DatabaseType">
+        <ua>Тип бази даних</ua>
+    </element>
+    <element id="ErrDatabaseTypeEmpty">
+        <ua>Не заданий тип бази даних</ua>
+    </element>
+    <element id="DatabaseServer">
+        <ua>Адреса сервера</ua>
+    </element>
+    <element id="ErrDatabaseServerEmpty">
+        <ua>Не задана адреса сервера</ua>
+    </element>
+    <element id="DatabaseName">
+        <ua>Ім'я бази даних</ua>
+    </element>
+    <element id="ErrDatabaseNameEmpty">
+        <ua>Не задано ім'я бази даних</ua>
+    </element>
+    <element id="DatabaseUser">
+        <ua>Ім'я користувача</ua>
+    </element>
+    <element id="ErrDatabaseUserEmpty">
+        <ua>Не задано ім'я користувача бази даних</ua>
+    </element>
+    <element id="DatabasePassword">
+        <ua>Пароль</ua>
+    </element>
+    <element id="ErrInstallDatabasePasswordEmpty">
+        <ua>Не заданий пароль користувача бази даних</ua>
+    </element>
+    <element id="DatabaseTablePrefix">
+        <ua>Префікс для таблиць</ua>
+    </element>
+    <element id="ErrDatabaseTablePrefixEmpty">
+        <ua>Не заданий префікс для таблиць</ua>
+    </element>
+    <element id="DBCreationComment">
+        <ua>Якщо база даних з вказаним ім'ям не існує, вона буде створена</ua>
+    </element>
+    <element id="DBUserComment">
+        <ua>Користувач бази даних повинен мати права, достатні для створення
+ бази даних і її об'єктів</ua>
+    </element>
+    <element id="DBPrefixComment">
+        <ua>Щоб уникнути конфлікту імен вкажіть префікс, який буде доданий в початок імені
+ кожного об'єкту бази даних, що відноситься до додатка</ua>
+    </element>
+    <element id="InstallDeniedComment1">
+        <ua>Додаток вже був інстальований</ua>
+    </element>
+    <element id="InstallDeniedComment2">
+        <ua>Якщо ви хочете поміняти інформацію для з'єднання з базою даних, вам необхідно
+ відредагувати конфігураційний файл 'include/config _ inc.php'</ua>
+    </element>
+    <element id="InstallDeniedComment3">
+        <ua>Щоб повторно провести инсталяцию, вам необхідно видалити
+ пароль адміністратора в конфігураційному файлі</ua>
+    </element>
+    <element id="InstallMasterAdminComment">
+        <ua>В системі заданий зумовлений майстер-адміністратор 'admin'. Цей користувач має усі права в додатку і може увійти до системи, навіть
+ якщо відсутнє з'єднання з базою даних. Звичайні користувачі зберігаються у базі даних, тому
+ для них вхід в систему можливий, тільки якщо є з'єднання з базою даних</ua>
+    </element>
+    <element id="OnlyFound">
+        <ua>тільки знайдені</ua>
+    </element>
+    <element id="ErrDBPrefixInvalid">
+        <ua>Префікс недійсний. Допускаються тільки наступні символи: a - z, 0-9 і підкреслення '_'</ua>
+    </element>
+    <element id="InstallSuccessComment">
+        <ua>Додаток успішно встановлений. Тепер ви можете задати додаткові налаштування і створити форуми</ua>
+    </element>
+    <element id="ErrDbPrefixUsed">
+        <ua>Префікс ' вже використовується. Виберіть інший префікс для цієї інсталяції</ua>
+    </element>
+    <element id="ErrReadingFile">
+        <ua>У додатка немає доступу на читання до файлу '. Перевірте права додатка і веб-сервера на цей файл і на цільовий каталог</ua>
+    </element>
+    <element id="ErrWritingFile">
+        <ua>Запис файлу ' не вдався. Перевірте права додатка і веб-сервера на цей файл і на цільовий каталог</ua>
+    </element>
+    <element id="MsgSearchResultsExpires">
+        <ua>Результати пошуку більше недійсні, виконаєте пошук знову</ua>
+    </element>
+    <element id="MsgMessagesNotFound">
+        <ua>Повідомлень не знайдено</ua>
+    </element>
+    <element id="MsgDemoMode">
+        <ua>Форум працює в демонстраційному режимі. Ця операція не була виконана</ua>
+    </element>
+    <element id="ErrMergetoItself">
+        <ua>Тема не може бути об'єднана з самою собою</ua>
+    </element>
+    <element id="ErrMergeDeletedOrTransferred">
+        <ua>Цільова тема для об'єднання була видалена або вже об'єднана з іншою темою</ua>
+    </element>
+    <element id="NoHighlighting">
+        <ua>Без підсвічування</ua>
+    </element>
+    <element id="MobileVersion">
+        <ua>Мобільна версія</ua>
+    </element>
+    <element id="DesktopVersion">
+        <ua>Повна версія</ua>
+    </element>
+    <element id="Menu">
+        <ua>Меню</ua>
+    </element>
+    <element id="Actions">
+        <ua>Дії</ua>
+    </element>
+    <element id="ErrTooFewPollOptions">
+        <ua>Необхідно задати мінімум два варіанти відповіді</ua>
+    </element>
+    <element id="ErrTooManyPollOptions">
+        <ua>Ви можете задати не більше за варіанти відповіді</ua>
+    </element>
+    <element id="IgnoreList">
+        <ua>Ігнорування-лист</ua>
+    </element>
+    <element id="MemberIgnores">
+        <ua>Учасник ігнорує</ua>
+    </element>
+    <element id="MemberIgnored">
+        <ua>Учасника ігнорують</ua>
+    </element>
+    <element id="LikeStatistics">
+        <ua>Статистика лайков</ua>
+    </element>
+    <element id="MemberHasLiked">
+        <ua>Учасник лайкнул</ua>
+    </element>
+    <element id="MemberWasLiked">
+        <ua>Учасника лайкнули</ua>
+    </element>
+    <element id="MessagesMemberHasLiked">
+        <ua>Повідомлення, яким учасник поставив лайк</ua>
+    </element>
+    <element id="MessagesMemberWasLiked">
+        <ua>Повідомлення учасника за які поставили лайк</ua>
+    </element>
+    <element id="MessagesMemberWasDisliked">
+        <ua>Повідомлення учасника за які поставили дизлайк</ua>
+    </element>
+    <element id="MessagesMemberWasLikedBy">
+        <ua>Повідомлення учасника за які поставив лайк учасник</ua>
+    </element>
+    <element id="DislikeStatistics">
+        <ua>Статистика дизлайков</ua>
+    </element>
+    <element id="MemberHasDisliked">
+        <ua>Учасник дизлайкнул</ua>
+    </element>
+    <element id="MemberWasDisliked">
+        <ua>Учасника дизлайкнули</ua>
+    </element>
+    <element id="MessagesMemberWasDislikedBy">
+        <ua>Повідомлення учасника за які поставив дизлайк учасник</ua>
+    </element>
+    <element id="Events">
+        <ua>Події</ua>
+    </element>
+    <element id="Event">
+        <ua>Подія</ua>
+    </element>
+    <element id="Approve">
+        <ua>Підтвердити</ua>
+    </element>
+    <element id="MsgEventUserRegistered">
+        <ua>Зареєструвався новий учасник {member}. Потрібно підтвердження адміністратора. {approve}</ua>
+    </element>
+    <element id="MsgEventMessageLiked">
+        <ua>Учасник {member} поставив лайк на ваше повідомлення {message} у темі {topic}</ua>
+    </element>
+    <element id="MsgEventMessageDisliked">
+        <ua>Учасник {member} поставив дизлайк на ваше повідомлення {message} у темі {topic}</ua>
+    </element>
+    <element id="MsgEventMessageDislikedAnonym">
+        <ua>На ваше повідомлення {message} поставлений дизлайк в темі {topic}</ua>
+    </element>
+    <element id="MsgEventLikeRevoked">
+        <ua>Учасник {member} відмінив свій лайк на ваше повідомлення {message} у темі {topic}</ua>
+    </element>
+    <element id="MsgEventDislikeRevoked">
+        <ua>Учасник {member} відмінив свій дизлайк на ваше повідомлення {message} у темі {topic}</ua>
+    </element>
+    <element id="MsgEventDislikeRevokedAnonym">
+        <ua>Дизлайк на ваше повідомлення {message} у темі {topic} скасований</ua>
+    </element>
+    <element id="MsgEventNewMessageInTopic">
+        <ua>Учасник {member} написав нове повідомлення {message} у підписаній темі {topic}</ua>
+    </element>
+    <element id="MsgEventCitatedMessageInTopic">
+        <ua>Учасник {member} написав відповідь {message} на ваше повідомлення {citated _ message} у темі {topic}</ua>
+    </element>
+    <element id="MsgEventPrivateInvitation">
+        <ua>Автор {member} запросив вас в приватну тему {topic}</ua>
+    </element>
+    <element id="MsgEventPrivateRemoval">
+        <ua>Автор {member} видалив вас з приватної теми {topic}</ua>
+    </element>
+    <element id="MsgEventPrivateMembersInvitation">
+        <ua>Автор {member} запросив наступних учасників в приватну тему {topic}: {members}</ua>
+    </element>
+    <element id="MsgEventPrivateMembersRemoval">
+        <ua>Автор {member} видалив наступних учасників з приватної теми {topic}: {members}</ua>
+    </element>
+    <element id="MsgEventPrivateLeaving">
+        <ua>Учасник {member} покинув приватну тему {topic}</ua>
+    </element>
+    <element id="MsgEventGrantForumModerator">
+        <ua>Адміністратор {author} видав вам права модератора на форум {forum}</ua>
+    </element>
+    <element id="MsgEventGrantForumModeratorAnonym">
+        <ua>Вам видані права модератора на форум {forum}</ua>
+    </element>
+    <element id="MsgEventRevokeForumModerator">
+        <ua>Адміністратор {author} забрав у вас права модератора на форум {forum}</ua>
+    </element>
+    <element id="MsgEventRevokeForumModeratorAnonym">
+        <ua>У вас відібрані права модератора на форум {forum}</ua>
+    </element>
+    <element id="MsgEventGrantTopicModerator">
+        <ua>Модератор {author} видав вам права модератора на тему {topic} на форумі {forum}</ua>
+    </element>
+    <element id="MsgEventGrantTopicModeratorAnonym">
+        <ua>Вам видані права модератора на тему {topic} на форумі {forum}</ua>
+    </element>
+    <element id="MsgEventRevokeTopicModerator">
+        <ua>Модератор {author} забрав у вас права модератора на тему {topic} на форумі {forum}</ua>
+    </element>
+    <element id="MsgEventRevokeTopicModeratorAnonym">
+        <ua>У вас відібрані права модератора на тему {topic} на форумі {forum}</ua>
+    </element>
+    <element id="MsgEventMessageWarned">
+        <ua>Модератор {author} видав вам попередження на ваше повідомлення {message} у темі {topic}</ua>
+    </element>
+    <element id="MsgEventMessageWarnedAnonym">
+        <ua>Вам видано попередження на ваше повідомлення {message} у темі {topic}</ua>
+    </element>
+    <element id="MsgEventMessageComplained">
+        <ua>Учасник {author} поскаржився на повідомлення {message} автора {violator} у темі {topic}</ua>
+    </element>
+    <element id="MsgEventMessageDeleted">
+        <ua>Модератор {author} видалив ваше повідомлення {message} від {post _ date} у темі {topic} на форумі {forum}</ua>
+    </element>
+    <element id="MsgEventMessageDeletedAnonym">
+        <ua>Ваше повідомлення {message} від {post _ date} було видалено в темі {topic} на форумі {forum}</ua>
+    </element>
+    <element id="MsgEventTopicDeleted">
+        <ua>Модератор {author} видалив вашу тему {topic} на форумі {forum}</ua>
+    </element>
+    <element id="MsgEventTopicDeletedAnonym">
+        <ua>Ваша тема {topic} на форумі {forum} видалена</ua>
+    </element>
+    <element id="MsgEventTopicDeletedSubscribers">
+        <ua>Модератор {author} видалив тему {topic}, на яку ви підписані, на форумі {forum}</ua>
+    </element>
+    <element id="MsgEventTopicDeletedSubscribersAnonym">
+        <ua>Тема {topic}, на яку ви підписані, на форумі {forum} видалена</ua>
+    </element>
+    <element id="MsgEventTopicDeletedModerators">
+        <ua>Модератор {author} видалив тему {topic}, де ви є модератором, на форумі {forum}</ua>
+    </element>
+    <element id="MsgEventTopicDeletedModeratorsAnonym">
+        <ua>Тема {topic}, де ви є модератором, на форумі {forum} видалена</ua>
+    </element>
+    <element id="MsgEventTopicDeletedParticipants">
+        <ua>Модератор {author} видалив приватну тему {topic}, де ви є учасником</ua>
+    </element>
+    <element id="MsgEventTopicDeletedParticipantsAnonym">
+        <ua>Приватна тема {topic}, де ви є учасником, видалена</ua>
+    </element>
+    <element id="MsgEventTopicClosed">
+        <ua>Модератор {author} закрив вашу тему {topic} на форумі {forum}</ua>
+    </element>
+    <element id="MsgEventTopicClosedAnonym">
+        <ua>Ваша тема {topic} на форумі {forum} закрита</ua>
+    </element>
+    <element id="MsgEventTopicClosedModerators">
+        <ua>Модератор {author} закрив тему {topic}, де ви є модератором, на форумі {forum}</ua>
+    </element>
+    <element id="MsgEventTopicClosedModeratorsAnonym">
+        <ua>Тема {topic}, де ви є модератором, на форумі {forum} закрита</ua>
+    </element>
+    <element id="MsgEventMessagesInTopicDeleted">
+        <ua>Модератор {author} видалив усі ваші повідомлення в темі {topic} на форумі {forum}</ua>
+    </element>
+    <element id="MsgEventMessagesInTopicDeletedAnonym">
+        <ua>Усі ваші повідомлення в темі {topic} на форумі {forum} видалені</ua>
+    </element>
+    <element id="MsgEventMessagesInForumDeleted">
+        <ua>Модератор {author} видалив усі ваші повідомлення на форумі {forum}</ua>
+    </element>
+    <element id="MsgEventMessagesInForumDeletedAnonym">
+        <ua>Усі ваші повідомлення на форумі {forum} видалені</ua>
+    </element>
+    <element id="MsgEventAllMessagesDeleted">
+        <ua>Модератор {author} видалив усі ваші повідомлення</ua>
+    </element>
+    <element id="MsgEventAllMessagesDeletedAnonym">
+        <ua>Усі ваші повідомлення видалені</ua>
+    </element>
+    <element id="MsgEventBulkMessagesDeleted">
+        <ua>Модератор {author} видалив ваші повідомлення шляхом пакетного видалення</ua>
+    </element>
+    <element id="MsgEventBulkMessagesDeletedAnonym">
+        <ua>Ваші повідомлення видалені шляхом пакетного видалення</ua>
+    </element>
+    <element id="MsgEvent10MessagesDeleted">
+        <ua>Модератор {author} видалив останні 10 ваших повідомлень</ua>
+    </element>
+    <element id="MsgEvent10MessagesDeletedAnonym">
+        <ua>Останні 10 ваших повідомлень видалені</ua>
+    </element>
+    <element id="MsgEvent10RatesDeleted">
+        <ua>Модератор {author} видалив останні 10 ваших оцінок</ua>
+    </element>
+    <element id="MsgEvent10RatesDeletedAnonym">
+        <ua>Останні 10 ваших оцінок видалені</ua>
+    </element>
+    <element id="MsgEventPostRatesDeleted">
+        <ua>Модератор {member} видалив останні {cnt} оцінок користувача {liked _ user _ name} на ваші повідомлення</ua>
+    </element>
+    <element id="MsgEventPostRatesDeletedAnonym">
+        <ua>Видалені останні {cnt} оцінок користувача {liked _ user _ name} на ваші повідомлення</ua>
+    </element>
+    <element id="MsgEventTopicMoved">
+        <ua>Модератор {author} переніс вашу тему {topic} з форуму {source _ forum} на форум {target _ forum}</ua>
+    </element>
+    <element id="MsgEventTopicMovedAnonym">
+        <ua>Ваша тема {topic} перенесена з форуму {source _ forum} на форум {target _ forum}</ua>
+    </element>
+    <element id="MsgEventTopicMovedModerators">
+        <ua>Модератор {author} переніс тему {topic}, де ви є модератором, з форуму {source _ forum} на форум {target _ forum}</ua>
+    </element>
+    <element id="MsgEventTopicMovedModeratorsAnonym">
+        <ua>Тема {topic}, де ви є модератором, перенесена з форуму {source _ forum} на форум {target _ forum}</ua>
+    </element>
+    <element id="MsgEventTopicMovedRevokeModerators">
+        <ua>Модератор {author} переніс тему {topic}, де ви є модератором, з форуму {source _ forum} на форум {target _ forum}. Зверніться до модераторів цього форуму для отримання модераторских прав на тему</ua>
+    </element>
+    <element id="MsgEventTopicMovedRevokeModeratorsAnonym">
+        <ua>Тема {topic}, де ви є модератором, перенесена з форуму {source _ forum} на форум {target _ forum}. Зверніться до модераторів цього форуму для отримання модераторских прав на тему</ua>
+    </element>
+    <element id="MsgEventTopicMovedSubscribers">
+        <ua>Модератор {author} переніс тему {topic} з форуму {source _ forum} на форум {target _ forum}</ua>
+    </element>
+    <element id="MsgEventTopicMovedSubscribersAnonym">
+        <ua>Тема {topic} перенесена з форуму {source _ forum} на форум {target _ forum}</ua>
+    </element>
+    <element id="MsgEventMessagesMoved">
+        <ua>Модератор {author} переніс ваше повідомлення {message} з теми {source _ topic} на форумі {source _ forum} у тему {target _ topic} на форумі {target _ forum}</ua>
+    </element>
+    <element id="MsgEventMessagesMovedAnonym">
+        <ua>Ваше повідомлення {message} перенесено з теми {source _ topic} на форумі {source _ forum} у тему {target _ topic} на форумі {target _ forum}</ua>
+    </element>
+    <element id="MsgEventMessagesMovedSubscribers">
+        <ua>Модератор {author} переніс повідомлення {message} з теми {source _ topic} на форумі {source _ forum} у тему {target _ topic} на форумі {target _ forum}</ua>
+    </element>
+    <element id="MsgEventMessagesMovedSubscribersAnonym">
+        <ua>Cообщение {message} перенесено з теми {source _ topic} на форумі {source _ forum} у тему {target _ topic} на форумі {target _ forum}</ua>
+    </element>
+    <element id="MsgEventTopicMerged">
+        <ua>Модератор {author} об'єднав вашу тему {source _ topic} на форумі {source _ forum} з темою {target _ topic} на форумі {target _ forum}. Перше повідомлення перенесеної теми {message}</ua>
+    </element>
+    <element id="MsgEventTopicMergedAnonym">
+        <ua>Ваша тема {source _ topic} на форумі {source _ forum} об'єднана з темою {target _ topic} на форумі {target _ forum}. Перше повідомлення перенесеної теми {message}</ua>
+    </element>
+    <element id="MsgEventTopicMergedModerators">
+        <ua>Модератор {author} об'єднав тему {source _ topic}, де ви є модератором, на форумі {source _ forum} з темою {target _ topic} на форумі {target _ forum}. Перше повідомлення перенесеної теми {message}</ua>
+    </element>
+    <element id="MsgEventTopicMergedModeratorsAnonym">
+        <ua>Тема {source _ topic}, де ви є модератором, на форумі {source _ forum} об'єднана з темою {target _ topic} на форумі {target _ forum}. Перше повідомлення перенесеної теми {message}</ua>
+    </element>
+    <element id="MsgEventTopicMergedSubscribers">
+        <ua>Модератор {author} об'єднав тему {source _ topic} на форумі {source _ forum} з темою {target _ topic} на форумі {target _ forum}. Перше повідомлення перенесеної теми {message}. Для отримання повідомлень підпишіться на тему {target _ topic}</ua>
+    </element>
+    <element id="MsgEventTopicMergedSubscribersAnonym">
+        <ua>Тема {source _ topic} на форумі {source _ forum} об'єднана з темою {target _ topic} на форумі {target _ forum}. Перше повідомлення перенесеної теми {message}. Для отримання повідомлень підпишіться на тему {target _ topic}</ua>
+    </element>
+    <element id="MsgEventTopicMergedTargetSubscribers">
+        <ua>Модератор {author} об'єднав тему {source _ topic} на форумі {source _ forum} з темою {target _ topic} на форумі {target _ forum}. Перше повідомлення перенесеної теми {message}</ua>
+    </element>
+    <element id="MsgEventTopicMergedTargetSubscribersAnonym">
+        <ua>Тема {source _ topic} на форумі {source _ forum} об'єднана з темою {target _ topic} на форумі {target _ forum}. Перше повідомлення перенесеної теми {message}</ua>
+    </element>
+    <element id="MsgEventUserBlocked">
+        <ua>Модератор {author} заблокував ваш обліковий запис</ua>
+    </element>
+    <element id="MsgEventUserBlockedAnonym">
+        <ua>Ваш обліковий запис заблокований</ua>
+    </element>
+    <element id="MsgEventUserBlockedTime">
+        <ua>Модератор {author} заблокував ваш обліковий запис до {block _ expires}</ua>
+    </element>
+    <element id="MsgEventUserBlockedTimeAnonym">
+        <ua>Ваш обліковий запис заблокований до {block _ expires}</ua>
+    </element>
+    <element id="MsgEventUserForumBlocked">
+        <ua>Модератор {author} заблокував ваш обліковий запис на форумі {forum}</ua>
+    </element>
+    <element id="MsgEventUserForumBlockedAnonym">
+        <ua>Ваш обліковий запис заблокований на форумі {forum}</ua>
+    </element>
+    <element id="MsgEventUserForumBlockedTime">
+        <ua>Модератор {author} заблокував ваш обліковий запис на форумі {forum} до {block _ expires}</ua>
+    </element>
+    <element id="MsgEventUserForumBlockedTimeAnonym">
+        <ua>Ваш обліковий запис заблокований на форумі {forum} до {block _ expires}</ua>
+    </element>
+    <element id="MsgEventUserUnblocked">
+        <ua>Модератор {author} розблоковував ваш обліковий запис</ua>
+    </element>
+    <element id="MsgEventUserUnblockedAnonym">
+        <ua>Ваш обліковий запис розблокований</ua>
+    </element>
+    <element id="MsgEventUserForumUnblocked">
+        <ua>Модератор {author} розблоковував ваш обліковий запис на форумі {forum}</ua>
+    </element>
+    <element id="MsgEventUserForumUnblockedAnonym">
+        <ua>Ваш обліковий запис розблокований на форумі {forum}</ua>
+    </element>
+    <element id="MsgEventUserTopicBlocked">
+        <ua>Модератор {author} заблокував ваш обліковий запис в темі {topic} на форумі {forum}</ua>
+    </element>
+    <element id="MsgEventUserTopicBlockedAnonym">
+        <ua>Ваш обліковий запис заблокований в темі {topic} на форумі {forum}</ua>
+    </element>
+    <element id="MsgEventUserTopicUnblocked">
+        <ua>Модератор {author} розблоковував ваш обліковий запис в темі {topic} на форумі {forum}</ua>
+    </element>
+    <element id="MsgEventUserTopicUnblockedAnonym">
+        <ua>Ваш обліковий запис розблокований в темі {topic} на форумі {forum}</ua>
+    </element>
+    <element id="MsgEventUserAccessGranted">
+        <ua>Модератор {author} дав вам доступ в захищений форум {forum}</ua>
+    </element>
+    <element id="MsgEventUserAccessGrantedAnonym">
+        <ua>Вам даний доступ в захищений форум {forum}</ua>
+    </element>
+    <element id="MsgEventUserAccessRevoked">
+        <ua>Модератор {author} забрав у вас доступ в захищений форум {forum}</ua>
+    </element>
+    <element id="MsgEventUserAccessRevokedAnonym">
+        <ua>У вас відібраний доступ в захищений форум {forum}</ua>
+    </element>
+    <element id="MsgEventProfileHidden">
+        <ua>Модератор {author} приховав ваш профіль для перегляду</ua>
+    </element>
+    <element id="MsgEventProfileHiddenAnonym">
+        <ua>Ваш профіль прихований для перегляду</ua>
+    </element>
+    <element id="MsgEventProfileOpened">
+        <ua>Модератор {author} відкрив ваш профіль для перегляду</ua>
+    </element>
+    <element id="MsgEventProfileOpenedAnonym">
+        <ua>Ваш профіль відкритий для перегляду</ua>
+    </element>
+    <element id="MsgEventRatingDisallowed">
+        <ua>Модератор {author} заборонив вам оцінювати сообещния</ua>
+    </element>
+    <element id="MsgEventRatingDisallowedAnonym">
+        <ua>Для вас встановлена заборона на оцінку повідомлень</ua>
+    </element>
+    <element id="MsgEventRatingAllowed">
+        <ua>Модератор {author} зняв з вас заборону на оцінку сообещний</ua>
+    </element>
+    <element id="MsgEventRatingAllowedAnonym">
+        <ua>З вас знята заборона на оцінку повідомлень</ua>
+    </element>
+    <element id="ErrAttachmentDoesNotExist">
+        <ua>Вкладення з таким ідентифікатором ( не існує</ua>
+    </element>
+    <element id="NoPosts">
+        <ua>Немає повідомлень для показу. Повідомлення приховані, тому що вони були або видалені, або їх автори поміщені вами в ігнорування-лист</ua>
+    </element>
+    <element id="TimeZone">
+        <ua>Часова зона</ua>
+    </element>
+    <element id="AllowGuests">
+        <ua>Дозволити гостей</ua>
+    </element>
+    <element id="DisallowGuests">
+        <ua>Заборонити гостей</ua>
+    </element>
+    <element id="MsgGuestsAllowed">
+        <ua>Гостям дозволено писати в темі</ua>
+    </element>
+    <element id="MsgGuestsDisallowed">
+        <ua>Гостям заборонено писати в темі</ua>
+    </element>
+    <element id="TopicIsInFavourites">
+        <ua>Тема з обраного</ua>
+    </element>
+    <element id="HotTopic">
+        <ua>Гаряча тема</ua>
+    </element>
+    <element id="ToTheLast">
+        <ua>Перейти до останнього повідомлення</ua>
+    </element>
+    <element id="MsgTopicMovedFromForum">
+        <ua>Тема була перенесена з форуму '</ua>
+    </element>
+    <element id="MsgUserNasNoRates">
+        <ua>У учасника більше немає оцінок в модерируемых вами форумах</ua>
+    </element>
+    <element id="Statistics">
+        <ua>Статистика</ua>
+    </element>
+    <element id="LoadStatistics">
+        <ua>Статистика навантаження</ua>
+    </element>
+    <element id="Index">
+        <ua>Показник</ua>
+    </element>
+    <element id="Value">
+        <ua>Значення</ua>
+    </element>
+    <element id="HitsCount">
+        <ua>Кількість переглядів</ua>
+    </element>
+    <element id="TopicRMCount">
+        <ua>Кількість ридмаркеров тим</ua>
+    </element>
+    <element id="ForumRMCount">
+        <ua>Кількість ридмаркеров форумів</ua>
+    </element>
+    <element id="ActualStatistics">
+        <ua>Актуальна статистика</ua>
+    </element>
+    <element id="Previous24">
+        <ua>Перед. 24 години</ua>
+    </element>
+    <element id="Last10Minutes">
+        <ua>Посл. 10 хвилин</ua>
+    </element>
+    <element id="LastHour">
+        <ua>Посл. година</ua>
+    </element>
+    <element id="Last24Hours">
+        <ua>Посл. 24 години</ua>
+    </element>
+    <element id="LastWeek">
+        <ua>Останній Тиждень</ua>
+    </element>
+    <element id="LastMonth">
+        <ua>Останній місяць</ua>
+    </element>
+    <element id="LastHalfYear">
+        <ua>Останні півроку</ua>
+    </element>
+    <element id="LastYear">
+        <ua>Останній рік</ua>
+    </element>
+    <element id="WholePeriod">
+        <ua>За увесь період</ua>
+    </element>
+    <element id="PeriodStatistics">
+        <ua>Статистика за період</ua>
+    </element>
+    <element id="AllForums">
+        <ua>Усі форуми</ua>
+    </element>
+    <element id="ErrForumModeratorBlockNotAllowed">
+        <ua>Модератор форуму не може бути заблокований або видалений з цього форуму</ua>
+    </element>
+    <element id="ErrStringContainsInvalidSymbols">
+        <ua>Рядок містить неприпустимі символи</ua>
+    </element>
+    <element id="ShowAllText">
+        <ua>Показати все .</ua>
+    </element>
+    <element id="Version">
+        <ua>Версія</ua>
+    </element>
+    <element id="Versions">
+        <ua>Версії</ua>
+    </element>
+    <element id="Skin">
+        <ua>Скин</ua>
+    </element>
+    <element id="DeleteTheAvatar">
+        <ua>Видалити аватар автора</ua>
+    </element>
+    <element id="ActionAvatarDeleted">
+        <ua>Видалений аватар автора</ua>
+    </element>
+    <element id="MsgConfirmAvatarDelete">
+        <ua>Ви упевнені, що хочете видалити аватар автора</ua>
+    </element>
+    <element id="MsgAvatarDeleted">
+        <ua>Аватар успішно видалений</ua>
+    </element>
+    <element id="ModerateTheReadMarker">
+        <ua>Модерировать ридмаркер автора</ua>
+    </element>
+    <element id="ActionReadMarkerDeleted">
+        <ua>Видалений ридмаркер автора</ua>
+    </element>
+    <element id="ErrReadMarkerEmpty">
+        <ua>Не заданий ридмаркер</ua>
+    </element>
+    <element id="MsgConfirmReadMarkerDelete">
+        <ua>Ви упевнені, що хочете видалити цей ридмаркер</ua>
+    </element>
+    <element id="MsgReadMarkerDeleted">
+        <ua>Ридмаркер успішно видалений</ua>
+    </element>
+    <element id="NotifyOnCitation">
+        <ua>Повідомляти про відповідь або цитированиии</ua>
+    </element>
+    <element id="FavouriteMessages">
+        <ua>Обрані повідомлення</ua>
+    </element>
+    <element id="InterfaceLanguage">
+        <ua>Мова інтерфейсу</ua>
+    </element>
+    <element id="HideFromSearchRobots">
+        <ua>Приховати від пошукових роботів</ua>
+    </element>
+    <element id="ReadMarker">
+        <ua>Рид-маркер</ua>
+    </element>
+    <element id="UserMarker">
+        <ua>Маркер користувача</ua>
+    </element>
+    <element id="LoadLastSavedVersion">
+        <ua>Завантажити останню збережену версію</ua>
+    </element>
+    <element id="MsgSubmitOrCancelCurrentMessage">
+        <ua>Актуальне повідомлення ще не було відправлене. Відправте його або відмініть перш ніж продовжити</ua>
+    </element>
+    <element id="BulkDeletion">
+        <ua>Пакетне видалення</ua>
+    </element>
+    <element id="ErrStartDateEmpty">
+        <ua>Не задана початкова дата</ua>
+    </element>
+    <element id="MsgOperationSuccessful">
+        <ua>Операція виконана успішно</ua>
+    </element>
+    <element id="MsgBulkDeleteConfirm">
+        <ua>Ви упевнені, що хочете виконати цю операцію</ua>
+    </element>
+    <element id="UserAgreement">
+        <ua>Призначена для користувача угода</ua>
+    </element>
+    <element id="Maintenance">
+        <ua>Технічне обслуговування</ua>
+    </element>
+    <element id="MaintenanceComment">
+        <ua>Форум на обслуговуванні імовірно до </ua>
+    </element>
+    <element id="CreationLoading">
+        <ua>созд. / загр</ua>
+    </element>
+    <element id="ErrMessageDoesNotExist">
+        <ua>Сполучення з таким ідентифікатором ( не існує</ua>
+    </element>
+    <element id="EnterPassword">
+        <ua>Ввести пароль для входу</ua>
+    </element>
+    <element id="CancelEnterPassword">
+        <ua>Відмінити введення пароля</ua>
+    </element>
+    <element id="IgnoreGuestsComment">
+        <ua>Введіть імена гостей - кожне ім'я з нового рядка. Якщо ви хочете ігнорувати усіх гостей, залиште поле порожнім</ua>
+    </element>
+    <element id="MsgConfirmUserIgnore">
+        <ua>Ви упевнені, що хочете помістити користувача ' в ігнорування-лист</ua>
+    </element>
+    <element id="MsgPostsSelected">
+        <ua>Вибрано повідомлень</ua>
+    </element>
+    <element id="MsgTopicsSelected">
+        <ua>Вибрано тим</ua>
+    </element>
+    <element id="Anonymous">
+        <ua>Анонімні</ua>
+    </element>
+    <element id="GoToMessage">
+        <ua>Перейти до повідомлення</ua>
+    </element>
+    <element id="ErrTimeout">
+        <ua>Витік час очікування відповіді від сервера (секунд) </ua>
+    </element>
+    <element id="ErrNoServerResponse">
+        <ua>Немає відповіді від сервера або перервано з'єднання</ua>
+    </element>
+    <element id="ErrRequestError">
+        <ua>При виконанні запиту виникла помилка</ua>
+    </element>
+    <element id="WarnAuthorizationRequired">
+        <ua>Форум або тема закриті для гостей. Потрібна авторизація</ua>
+    </element>
+    <element id="OverYearInerval">
+        <ua>Період між повідомленнями більше року</ua>
+    </element>
+    <element id="SelectFile">
+        <ua>Вибрати файл</ua>
+    </element>
+    <element id="ReplaceCurrent">
+        <ua>Змінити поточне вкладення</ua>
+    </element>
+    <element id="Tags">
+        <ua>Теги</ua>
+    </element>
+    <element id="NewTag">
+        <ua>Новий тег</ua>
+    </element>
+    <element id="tags">
+        <ua>теги</ua>
+    </element>
+    <element id="AssignTags">
+        <ua>Виставити теги</ua>
+    </element>
+    <element id="ShowShareLinks">
+        <ua>Показати посилання щоб поділитися</ua>
+    </element>
+    <element id="OpenInFullSize">
+        <ua>Відкрити в повному розмірі в новій вкладці</ua>
+    </element>
+    <element id="ManageTags">
+        <ua>Управління тегами</ua>
+    </element>
+    <element id="Merge">
+        <ua>Об'єднати</ua>
+    </element>
+    <element id="MsgTagsDeleted">
+        <ua>Теги успішно видалені</ua>
+    </element>
+    <element id="MsgTagsMerged">
+        <ua>Теги успішно об'єднані</ua>
+    </element>
+    <element id="AddNewTag">
+        <ua>Додати новий тег</ua>
+    </element>
+    <element id="EditTag">
+        <ua>Редактирвоать тег</ua>
+    </element>
+    <element id="MergeTags">
+        <ua>Об'єднати теги</ua>
+    </element>
+    <element id="TagName">
+        <ua>Назва тега</ua>
+    </element>
+    <element id="ErrTagNameExists">
+        <ua>Тег з такою назвою вже існує</ua>
+    </element>
+    <element id="MsgTagAdded">
+        <ua>Тег доданий</ua>
+    </element>
+    <element id="MsgTagChanged">
+        <ua>Назва тега змінена</ua>
+    </element>
+    <element id="MsgConfirmTagsDelete">
+        <ua>Ви упевнені, що хочете видалити вибрані теги</ua>
+    </element>
+    <element id="ErrMessageIgnoredOrDeleted">
+        <ua>Сполучення з ідентифікатором ( або ігнорується або видалене</ua>
+    </element>
+    <element id="Animation">
+        <ua>Анімація</ua>
+    </element>
+    <element id="ShowSearchURL">
+        <ua>Показати УРЛ пошуку</ua>
+    </element>
+    <element id="ErrUserAlreadyForumModerator">
+        <ua>Користувач вже являється модратором або адміністратором цього форуму і може модерировать тему</ua>
+    </element>
+    <element id="File">
+        <ua>Файл</ua>
+    </element>
+    <element id="Export">
+        <ua>Експортувати</ua>
+    </element>
+    <element id="Import">
+        <ua>Імпортувати</ua>
+    </element>
+    <element id="ExportImport">
+        <ua>Експорт / Імпорт</ua>
+    </element>
+    <element id="ErrCreatingExportFile">
+        <ua>Помилка при створенні экспорт-файла</ua>
+    </element>
+    <element id="MsgSaveDataBeforeExport">
+        <ua>У вас є незбережені зміни у формулярі. Збережіть або відмініть їх перед експортом</ua>
+    </element>
+    <element id="ErrDownloadFileNotSpecified">
+        <ua>Не заданий файл для скачування</ua>
+    </element>
+    <element id="ErrDownloadFileDoesNotExists">
+        <ua>Файл для скачування не існує</ua>
+    </element>
+    <element id="ErrUnknownDownloadRequest">
+        <ua>Невідомий запит на скачування файлу</ua>
+    </element>
+    <element id="MsgProfileImportSuccess">
+        <ua>Профіль успішно испортирован</ua>
+    </element>
+    <element id="ErrImportFileNotSpecified">
+        <ua>Не заданий файл, що імпортується!</ua>
+    </element>
+    <element id="ErrFileIsInvalid">
+        <ua>Заданий файл недійсний</ua>
+    </element>
+    <element id="MsgConfirmMarkRead">
+        <ua>Ви упевнені, що хочете помітити непрочитані повідомлення прочитаними</ua>
+    </element>
+    <element id="SelectAll">
+        <ua>Вибрати все</ua>
+    </element>
+    <element id="ResetSelection">
+        <ua>Відмінити вибір</ua>
+    </element>
+    <element id="UserAgent">
+        <ua>Юзер агент</ua>
+    </element>
+    <element id="UserAgents">
+        <ua>Юзер агенти</ua>
+    </element>
+    <element id="CreatePrivateTopic">
+        <ua>Створити модерируемую приватну тему</ua>
+    </element>
+    <element id="ErrCanNotLeaveOwnTopic">
+        <ua>Ви не можете покинути власну модерируемую приватну тему</ua>
+    </element>
+    <element id="ShowEmbeddedVideo">
+        <ua>Вбудоване відео, кликніть для перегляду</ua>
+    </element>
+    <element id="ErrAttachmentIdNotNumber">
+        <ua>Ідентифікатор вкладення має бути дійсним числовим посиланням на сполучення з вкладенням</ua>
+    </element>
+    <element id="ErrMessageAttachmentDoesNotExist">
+        <ua>Сполучення з таким ідентифікатором ( не існує, або у нього відсутнє соответсвующее вкладення</ua>
+    </element>
+    <element id="ErrMessageAttachmentNotProvided">
+        <ua>Ви не задали вкладення, на яке намагаєтеся посилатися</ua>
+    </element>
+    <element id="of">
+        <ua>з</ua>
+    </element>
+    <element id="MsgNotAllFoundTopicsShown">
+        <ua>Надто багато результатів. Показані тільки з тем</ua>
+    </element>
+    <element id="MsgNotAllFoundPostsShown">
+        <ua>Надто багато результатів. Показані тільки з повідомлень</ua>
+    </element>
 </root>
