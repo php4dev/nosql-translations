@@ -26,6 +26,12 @@
       <ru>Русский</ru>
       <ua>Російський</ua>
     </text>
+    <text id="ua">
+      <en>Ukrainian</en>
+      <de>Ukrainische</de>
+      <ru>Украинский</ru>
+      <ua>Українська</ua>
+    </text>
     <text id="neru">
       <en>Language of the tribes Neru (with seconds)</en>
       <de>Sprache der Stämme Neru (mit Sekunden)</de>
