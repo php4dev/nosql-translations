@@ -909,7 +909,7 @@
       <en>Moderator log</en>
       <de>Moderator-Protokoll</de>
       <ru>Модераторский лог</ru>
-      <ua>Модераторский балка</ua>
+      <ua>Модераторський лог</ua>
     </text>
     <text id="OnlineMembers">
       <en>Online members</en>
@@ -1373,7 +1373,7 @@
       <en>After completion of the registration, you will be able to setup additional properties of your user profile like photo, avatar, location, signature etc.</en>
       <de>Nach der Registirierung können Sie weitere Eigenschaften Ihres Benutzerprofils wie Foto, Avatar, Ort usw. festlegen.</de>
       <ru>После регистрации вы сможете задать дополнительные свойства вашего профиля, такие как фотография, аватар, подпись и др.</ru>
-      <ua>Після реєстрації ви зможете задати додаткові властивості вашого профілю, такі як фотографія, аватар, підпис і ін.</ua>
+      <ua>Після реєстрації ви зможете задати додаткові властивості вашого профілю, такі як фотографія, аватар, підпис та ін.</ua>
     </text>
     <text id="ErrUserLoginInUse">
       <en>This login is already used!</en>
@@ -1421,13 +1421,13 @@
       <en><![CDATA[By performing the registration, I agree with the <a href='rules.php' target='_blank'>forum rules</a> and I accept the <a href='user_agreement.php' target='_blank'>user agreement</a>.]]></en>
       <de><![CDATA[Bei der Registrierung stimme ich den <a href='rules.php' target='_blank'>Forumregeln</a> der <a href='user_agreement.php' target='_blank'>Benutzervereinbarung</a> zu.]]></de>
       <ru><![CDATA[Регистрируясь на форуме, я выражаю свое согласие с <a href='rules.php' target='_blank'>правилами форума</a> и принимаю <a href='user_agreement.php' target='_blank'>пользовательское соглашение</a>.]]></ru>
-      <ua><![CDATA[Реєструючись на форумі, я виражаю свою згоду з <a href='rules.php' target='_blank'>правилами форуму</a> і приймаю <a href='user_agreement.php' target='_blank'>призначена для користувача угода</a>]]></ua>
+      <ua><![CDATA[Реєструючись на форумі, я висловлюю свою згоду з <a href='rules.php' target='_blank'>правилами форуму</a> і приймаю <a href='user_agreement.php' target='_blank'>угоду з користувачем</a>]]></ua>
     </text>
     <text id="PostRulesAgreement">
       <en><![CDATA[By posting the message, I agree with the <a href='rules.php' target='_blank'>forum rules</a> and I accept the <a href='user_agreement.php' target='_blank'>user agreement</a>.]]></en>
       <de><![CDATA[Beim Absenden der Nachricht stimme ich den <a href='rules.php' target='_blank'>Forumregeln</a> und der <a href='user_agreement.php' target='_blank'>Benutzervereinbarung</a> zu.]]></de>
       <ru><![CDATA[Отправляя сообщение, я выражаю свое согласие с <a href='rules.php' target='_blank'>правилами форума</a> и принимаю <a href='user_agreement.php' target='_blank'>пользовательское соглашение</a>.]]></ru>
-      <ua><![CDATA[Відправляючи повідомлення, я виражаю свою згоду з <a href='rules.php' target='_blank'>правилами форуму</a> і приймаю <a href='user_agreement.php' target='_blank'>призначена для користувача угода</a>]]></ua>
+      <ua><![CDATA[Відправляючи повідомлення, я висловлюю свою згоду з <a href='rules.php' target='_blank'>правилами форуму</a> і приймаю <a href='user_agreement.php' target='_blank'>угоду з користувачем</a>]]></ua>
     </text>
     <text id="ErrAgreementRequired">
       <en>You have to read and accept the rules of the forum and the user agreement!</en>
@@ -1445,7 +1445,7 @@
       <en>Your account has been successfully activated. Now, you can setup additional properties of your user profile like photo, avatar, location, signature etc.</en>
       <de>Ihr Benutzerkonto wurde erfolgreich aktiviert. Sie können nun weitere Eigenschaften Ihres Benutzerprofils wie Foto, Avatar, Ort usw. festlegen.</de>
       <ru>Ваша учетная запись успешно активирована. Теперь вы можете задать дополнительные свойства вашего профиля, такие как фотография, аватар, подпись и др.</ru>
-      <ua>Ваш обліковий запис успішно активований. Тепер ви можете задати додаткові властивості вашого профілю, такі як фотографія, аватар, підпис і ін.</ua>
+      <ua>Ваш обліковий запис успішно активований. Тепер ви можете задати додаткові властивості вашого профілю, такі як фотографія, аватар, підпис та ін.</ua>
     </text>
     <text id="PasswordRestoration">
       <en>Password restoration</en>
@@ -1521,7 +1521,7 @@
       <en>You are logged in as the master administrator. The master administrator has no profile, no favourites etc. and should be used for system purposes only!</en>
       <de>Sie sind als der Masteradministrator eingeloggt. Der Masteradministrator hat kein Profil, keine Favoriten usw., und soll nur für Systemzwecke verwendet werden!</de>
       <ru>Вы вошли на форум как мастер-администратор. У мастер-администратора нет профиля, израбнного и пр., его следует использовать только для системных целей!</ru>
-      <ua>Ви увійшли на форум як майстер-адміністратор. У мастер-администратора немає профілю, израбнного і ін., його слід використати тільки для системних цілей!</ua>
+      <ua>Ви увійшли на форум як майстер-адміністратор. У мастер-администратора немає профілю, израбнного та ін., його слід використати тільки для системних цілей!</ua>
     </text>
     <text id="PasswordRestoreComment">
       <en>Enter the e-mail address assigned to your account. We will send the e-mail with the instructions how to reset your password.</en>
