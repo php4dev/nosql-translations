@@ -885,7 +885,7 @@
     <element id="hidden">
         <ua>прихований</ua>
     </element>
-    <element id="hidden _ by _ me">
+    <element id="hidden_by_me">
         <ua>прихований мною</ua>
     </element>
     <element id="Hidden">
