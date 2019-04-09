@@ -3399,21 +3399,21 @@
             <en>Remove from ignore list</en>
             <de>Aus der Ignorier-Liste austragen</de>
             <ru>Удалить из игнор-листа</ru>
-            <ua>Видалити з игнор-листа</ua>
+            <ua>Видалити з ігнор-листа</ua>
         </text>
 
         <text id="ignored">
             <en>ignored</en>
             <de>ignoriert</de>
             <ru>в игнор-листе</ru>
-            <ua>в игнор-листе</ua>
+            <ua>в ігнор-листі</ua>
         </text>
 
         <text id="Ignored">
             <en>In the ignore list</en>
             <de>In der Ignorier-Liste</de>
             <ru>В игнор-листе</ru>
-            <ua>В игнор-листе</ua>
+            <ua>В ігнор-листі</ua>
         </text>
 
         <text id="ignoring_me">
@@ -3448,7 +3448,7 @@
             <en>Member has been added to the ignore list.</en>
             <de>Teilnehmer wurde zu der Ignorier-Liste hinzugefügt.</de>
             <ru>Участник добавлен в игнор-лист.</ru>
-            <ua>Учасник додано в ігнор-лист.</ua>
+            <ua>Учасника додано в ігнор-лист.</ua>
         </text>
 
         <text id="MsgUserRemovedFromIngoreList">

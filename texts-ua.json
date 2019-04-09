@@ -1901,15 +1901,15 @@
   },
   {
     "-id": "RemoveFromIgnoreList",
-    "ua": "Видалити з игнор-листа"
+    "ua": "Видалити з ігнор-листа"
   },
   {
     "-id": "ignored",
-    "ua": "в игнор-листе"
+    "ua": "в ігнор-листі"
   },
   {
     "-id": "Ignored",
-    "ua": "В игнор-листе"
+    "ua": "В ігнор-листі"
   },
   {
     "-id": "ignoring_me",
@@ -1929,7 +1929,7 @@
   },
   {
     "-id": "MsgUserAddedToIngoreList",
-    "ua": "Учасник додано в ігнор-лист."
+    "ua": "Учасника додано в ігнор-лист."
   },
   {
     "-id": "MsgUserRemovedFromIngoreList",
