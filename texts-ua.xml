@@ -1253,21 +1253,21 @@
             <en>Maximal attachment size</en>
             <de>Maximale Anhangsgröße</de>
             <ru>Макcимальный размер вложений</ru>
-            <ua>Макcимальный розмір вкладень</ua>
+            <ua>Максимальний розмір вкладень</ua>
         </text>
 
         <text id="MaxAttachmentSizeAudioVideo">
             <en>Maximal attachment size for audio/video</en>
             <de>Maximale Anhangsgröße für Audio/Video</de>
             <ru>Макcимальный размер вложений для аудио/видео</ru>
-            <ua>Макcимальный розмір вкладень для аудіо/відео</ua>
+            <ua>Максимальний розмір вкладень для аудіо/відео</ua>
         </text>
 
         <text id="MaxAttachmentSizeComment">
             <en>Maximal attachment size: %s, audio/video: %s. The larger pictures will be compressed if possible.</en>
             <de>Maximale Anhangsgröße: %s, Audio/Video: %s. Die größere Bilder werden falls möglich komprimiert.</de>
             <ru>Макcимальный размер вложений: %s, аудио/видео: %s. Картинки большего размера ужимаются, если возможно.</ru>
-            <ua>Макcимальный розмір вкладень: %s, аудіо/відео: %s. Картинки більшого розміру стискаються, якщо можливо.</ua>
+            <ua>Максимальний розмір вкладень: %s, аудіо/відео: %s. Картинки більшого розміру стискаються, якщо можливо.</ua>
         </text>
 
         <text id="MaxMessagesPerMinute">
@@ -4469,7 +4469,7 @@
             <en>The attachment '%s' is too large (%s)! The maximal attachment size is %s.</en>
             <de>Der Anhang '%s' ist zu groß (%s)! Die maximale Anhangsgröße ist %s.</de>
             <ru>Размер вложения '%s' слишком большой (%s)! Макcимальный размер вложений %s.</ru>
-            <ua>Розмір вкладення '%s' занадто великий (%s)! Макcимальный розмір вкладень %s.</ua>
+            <ua>Розмір вкладення '%s' занадто великий (%s)! Максимальний розмір вкладень %s.</ua>
         </text>
 
         <text id="ErrFileProcessing">
