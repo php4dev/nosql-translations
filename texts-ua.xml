@@ -4903,14 +4903,14 @@
             <en>Liked</en>
             <de>Gefällt</de>
             <ru>Нравится</ru>
-            <ua>Довподоби</ua>
+            <ua>До вподоби</ua>
         </text>
 
         <text id="Disliked">
             <en>Disliked</en>
             <de>Nicht gefällt</de>
             <ru>Не нравится</ru>
-            <ua>Не довподоби</ua>
+            <ua>Не до вподоби</ua>
         </text>
 
         <text id="MoreUsers">
